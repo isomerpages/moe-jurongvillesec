@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School Management Committee.md
       - Vision and Mission.md
       - Philosophy, Motto & Values.md
       - School Crest & Song.md
       - School History.md
       - Principal's Message.md
+      - School Management Committee.md
