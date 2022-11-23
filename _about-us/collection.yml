@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Teaching Staff.md
       - Vision and Mission.md
       - Philosophy, Motto & Values.md
       - School Crest & Song.md
