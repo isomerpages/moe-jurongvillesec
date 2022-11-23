@@ -3,9 +3,9 @@ links:
   - title: About Us
     collection: about-us
   - title: Our Experience
-    url: /permalink
+    url: /our-experience/el-lit-music/
     sublinks:
       - title: Curriculum
-        url: /permalink
+        url: /our-experience/el-lit-music/
   - title: Contact Us
     url: /contact-us/
