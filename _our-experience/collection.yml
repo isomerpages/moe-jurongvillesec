@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Learning for Life Programme.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature and Music.md
       - Curriculum/Mathematics and Computer Application.md
@@ -14,3 +13,4 @@ collections:
       - Curriculum/Information Communication & Technology and School Library.md
       - Character Development.md
       - Applied Learning Programme.md
+      - Learning for Life Programme.md
