@@ -22,3 +22,17 @@ Both schools were led by a string of outstanding principals. The founding princi
 | Mr Benny Lee Kah Chong (2014- 2015) | Mdm Sung Mee Har (2014 - 2018) |
 | Mdm Flora Ong Fei Min (2016 – 2018) |  |
 |  |  |
+
+Mr Chan Yew Wooi, previously Director / Professional Development, Academy of Singapore Teachers, was appointed principal of Jurongville Secondary School from 15 December 2018.
+
+To reflect the new beginning, with the coming together of the staff and students of both schools in 2019, the school uniform and PE attire of the school were refreshed with inputs from the students. Similarly, a new school crest incorporating key elements from both school crests was created. Featuring both the English and Chinese names of the school, the new crest signifies the school’s connection with the proud contributions of the students, staff and stakeholders of both constituent school communities.
+
+**The New School Crest**
+
+<img src="/images/JVSS-2019-logo-new.png" style="width:30%">
+
+Set against the globe, the two leaves represent the students and their growth in a nurturing school environment. The globe represents the school’s aspiration to help all students acquire the values, knowledge and skills necessary to thrive and live meaningfully in Singapore and beyond.
+
+**Looking Ahead to the next 25 Years**
+
+As the school embarks on the next quarter of a century, the school will remember the intent of the merger, which is to provide ever better holistic educational experiences for all the current and future students of the school. The school motto ‘Beyond Self’ is a reminder to all staff and students that we are in this educational enterprise for a larger purpose. When we take our mission and responsibilities to heart, we shape lives, improve our communities and mould the future of our nation.
