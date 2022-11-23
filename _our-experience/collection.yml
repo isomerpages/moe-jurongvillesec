@@ -2,8 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Student Leadership/Student Leadership.md
-      - Student Leadership/.keep
       - Curriculum/.keep
       - Curriculum/English Language & Literature and Music.md
       - Curriculum/Mathematics and Computer Application.md
@@ -17,3 +15,5 @@ collections:
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Overseas Learning Journey.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
