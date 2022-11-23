@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Curriculum/Mathematics and Computer Application.md
-      - Curriculum/English Language & Literature or Music.md
+      - Curriculum/English Language & Literature and Music.md
       - Curriculum/.keep
