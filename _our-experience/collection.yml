@@ -2,8 +2,8 @@ collections:
   our-experience:
     output: true
     order:
-      - Curriculum/Mother Tongue Languages.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature and Music.md
       - Curriculum/Mathematics and Computer Application.md
       - Curriculum/Science.md
+      - Curriculum/Mother Tongue Languages.md
