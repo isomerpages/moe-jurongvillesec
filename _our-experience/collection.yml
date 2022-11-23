@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Overseas Learning Journey.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature and Music.md
       - Curriculum/Mathematics and Computer Application.md
@@ -15,3 +14,4 @@ collections:
       - Character Development.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
+      - Overseas Learning Journey.md
