@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Character Development.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature and Music.md
       - Curriculum/Mathematics and Computer Application.md
@@ -12,3 +11,4 @@ collections:
       - Curriculum/Humanities.md
       - Curriculum/Physical Education.md
       - Curriculum/Information Communication & Technology and School Library.md
+      - Character Development.md
