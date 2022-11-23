@@ -33,9 +33,8 @@ description: ""
 | SH/Chemistry | Mrs Wong Yan Pure | [ang_yan_pure@schools.gov.sg](mailto:ang_yan_pure@schools.gov.sg) |
 | SH/Chinese Language | Mr Sha Bin | [sha_bin@schools.gov.sg](mailto:sha_bin@schools.gov.sg) |
 | SH/Design & Technology | Mr Desmond Chia | [chia_miang_heong@schools.gov.sg](mailto:chia_miang_heong@schools.gov.sg) |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| LH/Discipline | Ms Pauline Fong Liew Yueh | [pauline_fong_liew_yueh@schools.gov.sg](mailto:pauline_fong_liew_yueh@schools.gov.sg) |
+| SH/Malay Language | Mdm Siti Zarinah Muhammad | [siti_zarinah_muhammad@schools.gov.sg](mailto:siti_zarinah_muhammad@schools.gov.sg) |
+| SH/CCA | Mr Kenny Tiew | [tiew_choon_lien@schools.gov.sg](mailto:tiew_choon_lien@schools.gov.sg) |
+| SH/Physics | Mr Lim Ee-Peow | [lim_ee-peow@schools.gov.sg](mailto:lim_ee-peow@schools.gov.sg) |
 |  |  |  |
