@@ -45,16 +45,36 @@ description: ""
 | Humanities Department |
 |:---:|
 | [Mr Mohammad Nasser Bin Jaafar (HOD / Hum)](mailto:mohammad_nasser_jaafar@schools.gov.sg) |
+| [Mdm Hafiza Ahssan (SH / CCE)](mailto:hafiza_ahssan@schools.gov.sg) |
+| [Mrs Poh-Chin Ying Ying Yvonne (ST / GY)](mailto:chin_ying_ying@schools.gov.sg) |
+| [Mdm Aditi Das Deshmukh](mailto:aditi_das_deshmukh@schools.gov.sg) |
+| [Ms Gladys Siah Ying Ying](mailto:gladys_siah_ying_ying@schools.gov.sg) |
+| [Mr John Teo Wei Ren](mailto:john_teo_wei_ren@schools.gov.sg) |
+| [Mr Koh Yong Kai](mailto:koh_yong_kai@schools.gov.sg) |
+| [Mr Loh Jianxiong, Matthew](mailto:loh_jianxiong_matthew@schools.gov.sg) |
+| [Mr Mohd Zailani B Idrus](mailto:mohd_zailani_b_idrus@schools.gov.sg) |
+| [Mr Muhammad Arshad Bin Jumah](mailto:muhammad_arshad_jumah@schools.gov.sg) |
+| [Mdm Tan Swee Guek](mailto:tan_siew_guek@schools.gov.sg) |
+| [Mdm Usha Rani Subramaniam](mailto:usha_rani_subramaniam@schools.gov.sg) |
 |  |
+
+| Mathematics Department |
+|:---:|
+| [Mr Ang Ghim Chee (HOD / Maths)](mailto:ang_ghim_chee@schools.gov.sg) |
+| [Ms Karmila Binte Asari (LH / Maths)](mailto:karmila_asari@schools.gov.sg) |
+| [Mr Yeo Choon Huat Philip (HOD / CCE)](mailto:yeo_choon_huat@schools.gov.sg) |
+| [Ms Han Hui Chin (Assistant YH)](mailto:han_hui_chin@schools.gov.sg) |
+| [Mrs Tey Wen Dee, Wendy  (ST / Maths)](mailto:tan_wen_dee_wendy@schools.gov.sg) |
+| [Mr Chew Kah Hou Billy](mailto:chew_kah_hou@schools.gov.sg) |
+| [Mr Nar Han Keong Ken](mailto:nar_han_keong@schools.gov.sg) |
+| [Mdm Neo Lay Yen](mailto:neo_lay_yen@schools.gov.sg) |
+| [Mdm Shafiqah Bte Mezan](mailto:shafiqah_mezan@schools.gov.sg) |
+| [Mr Shahul Hameed S/O Sultan](mailto:shahul_hameed_sultan@schools.gov.sg) |
+| [Mdm Sri Masayu Binte Moktar](mailto:sri_masayu_moktar@schools.gov.sg) |
+| [Miss Toh Puay Boon](mailto:toh_puay_boon@schools.gov.sg) |
+| [Mr Wong Chun Kiat](mailto:wong_chun_kiat@schools.gov.sg) |
+| [Mdm Lim Meng Tse (FAJT)](mailto:lim_meng_tse@schools.gov.sg) |
+| [Mdm Marina Binte Abu Hassan (FAJT)](mailto:marina_abu_hassan@schools.gov.sg) |
+| [Mr Ngiow Teck Shyong Daniel (FAJT)](mailto:ngiow_teck_shyong@schools.gov.sg) |
 |  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+
