@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Curriculum/Information Communication & Technology and School Library.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature and Music.md
       - Curriculum/Mathematics and Computer Application.md
@@ -11,3 +10,4 @@ collections:
       - Curriculum/Craft & Technology and Principle of Accounts.md
       - Curriculum/Humanities.md
       - Curriculum/Physical Education.md
+      - Curriculum/Information Communication & Technology and School Library.md
