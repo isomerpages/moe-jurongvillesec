@@ -27,12 +27,12 @@ description: ""
 | HOD/Mathematics | Mr Ang Ghim Chee | [ang_ghim_chee@schools.gov.sg](mailto:ang_ghim_chee@schools.gov.sg) |
 | HOD/Science | Ms Jo-Ann Lee Hui | [lee_hui@schools.gov.sg](mailto:lee_hui@schools.gov.sg) |
 | HOD/PE | Dr Mohammad Shah Razak | [mohammad_shah_razak@schools.gov.sg](mailto:mohammad_shah_razak@schools.gov.sg) |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Assistant Year Head | Ms Han Hui Chin | [han_hui_chin@schools.gov.sg](mailto:han_hui_chin@schools.gov.sg) |
+| Assistant Year Head | Mdm Sharifah Farrahdillah | [sharifah_farrahdillah_s_a@schools.gov.sg](mailto:sharifah_farrahdillah_s_a@schools.gov.sg) |
+| SH/Character and Citizenship Education | Mdm Hafiza Ahssan | [hafiza_ahssan@schools.gov.sg](mailto:hafiza_ahssan@schools.gov.sg) |
+| SH/Chemistry | Mrs Wong Yan Pure | [ang_yan_pure@schools.gov.sg](mailto:ang_yan_pure@schools.gov.sg) |
+| SH/Chinese Language | Mr Sha Bin | [sha_bin@schools.gov.sg](mailto:sha_bin@schools.gov.sg) |
+| SH/Design & Technology | Mr Desmond Chia | [chia_miang_heong@schools.gov.sg](mailto:chia_miang_heong@schools.gov.sg) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
