@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Support Staff.md
       - Vision and Mission.md
       - Philosophy, Motto & Values.md
       - School Crest & Song.md
@@ -10,3 +9,4 @@ collections:
       - Principal's Message.md
       - School Management Committee.md
       - School Teaching Staff.md
+      - School Support Staff.md
