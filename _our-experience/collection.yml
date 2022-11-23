@@ -2,6 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Curriculum/Mathematics or Computer Application.md
+      - Curriculum/Mathematics and Computer Application.md
       - Curriculum/English Language & Literature or Music.md
       - Curriculum/.keep
