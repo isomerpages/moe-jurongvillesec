@@ -6,15 +6,7 @@ third_nav_title: Curriculum
 ---
 ## Humanities
 
-<img src="/images/humanities department 2.jpg" style="width:85%">
-
-  
-Humanities
-=============
-
-![humanities department 2.jpg](https://jurongvillesec.moe.edu.sg/qql/slot/u576/Dept%20photo/2022/humanities%20department%202.jpg)
-
-  
+<img style="width:85%" src="/images/humanities department 2.jpg">
 
 #### Department Goals
 
@@ -42,3 +34,4 @@ These learning journeys, like ‘Journeying into the Past’ with the Secondary 
 
 Selected students who are passionate about the different Humanities subjects are given opportunities to take part in the Model United Nations Conference, the Historical Scene Investigation Challenge and the NUS Geography Challenge. They can also represent the school in various competitions such as the GreenFest Challenge and the ‘Race to Sustainability’ competition.
 
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJZCksSmNXSCRV8DjNvT44edRasITO-CGMu_up8PmWrl87VFOkGTHYcMoEN8ZCcPVZwAzX2xKtWYNC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
