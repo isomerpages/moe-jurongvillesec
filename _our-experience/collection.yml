@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Curriculum/.keep
-      - English Language & Literature or Music.md
