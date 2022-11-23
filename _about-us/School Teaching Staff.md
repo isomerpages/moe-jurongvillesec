@@ -132,3 +132,10 @@ description: ""
 | [Mr Vasanthakumar S/O Vijayarethinam](mailto:vasanthakumar_vijayarethinam@schools.gov.sg) |
 |  |
 
+| Allied Educators & School Counsellors |
+|:---:|
+| [Mr Teng Chee Kong Jeffrey (Sch Counsellor)](mailto:teng_chee_kong@schools.gov.sg) |
+| [Ms Wong Rui Yee (Sch Counsellor)](mailto:wong_rui_yee@schools.gov.sg) |
+| [Mdm Tan Sici Susie (SWO)](mailto:tan_sici_susie@schools.gov.sg) |
+| [Mr Ong Eng Teck (AED / LBS)](mailto:ong_eng_teck@schools.gov.sg) |
+|  |
