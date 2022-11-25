@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Student Discipline.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature and Music.md
       - Curriculum/Mathematics and Computer Application.md
@@ -24,3 +23,4 @@ collections:
       - Student Leadership/Sports Leaders.md
       - Student Leadership/Ambassadors of Citizenship and Environment Education
         (ACEs).md
+      - Student Discipline.md
