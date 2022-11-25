@@ -18,3 +18,24 @@ This year, our students have continued to adapt to the ever-changing climate tha
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQq9wmPltSj25xcDRmgZXk7Zn_2L_iiUEWYpxYuueR14gOPEB8NVfJ656qeyusaxLGdVDwVNHVUyXGl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+**REQUIRE JACKSON'S INPUT VIDEO**
+
+#### Student Leaders
+
+#### Key Achievements
+
+#### Students' voices
+
+**Saw Joshua Hla (3DP) & Yee En Tong (2RS), Vice-Presidents 1 & 2 2021-2022** <br>
+_COVID-19 has resulted in our CCA having to follow strict rules and regulations to ensure the safety of all members. This challenged us as it left us with fewer options for our SYF performance. However, we still managed to secure the Accomplishment Award for our performance, thanks to the hard work of our members, coach and teachers. We are proud that the Club is able to work together as one. We certainly have high hopes for this CCA for the years to come._  
+  
+**Parthasarathy Vaideghi Pavithran (3IN), President 2021-2022** <br>
+_Even though COVID-19 has presented many challenges, it was fun trying to host CCA online last year, a new way of learning that none of us was used to. We made it work, but we’re back to the usual face-to-face sessions and it feels much better. With the very limited time we had together, we prepared and did well for SYF. We shall strive to reach greater heights as a CCA!_  
+  
+**Khin Su Yi Lynn Latt Amanda, (1DP), Member 2021-** <br>
+_Despite facing many different challenges due to COVID-19 measurements, EDC continued to strive to make the Club safe and enjoyable for all its members. EDC is just not about acting, it is a place for us to step out of our comfort zone by expressing our feelings and thoughts with no judgments. I do hope to make more fun and memorable moments with my EDC members in the years to come!_  
+
+#### Training Schedule
+
+Tuesdays    3.00 pm - 5.00 pm<br>
+Fridays        2.30 pm - 4.30 pm
