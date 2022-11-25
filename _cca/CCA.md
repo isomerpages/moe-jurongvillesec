@@ -36,12 +36,12 @@ description: ""
 
 | No | CCA | TUESDAY | FRIDAY | Venue | Teachers |
 |:---:|---|---|---|---|---|
-| 1 |  | 3.00pm - 5.00pm | 2.00pm - 4.00pm | Music Room | Ms Norita(IC)  <br>Mrs Neo Lay Yen (2IC)  <br>Ms Julinda Chan |
-| 2 |  | 3.00pm - 5.00pm | 2.00pm - 4.00pm | Chinese Orchestra Room | Mdm Loh Siew See (IC)  <br>Mr Heng Yuan Hao (2IC)  <br>Ms Toh Puay Boon  <br>Mrs Er Siao Fun |
-| 3 |  | 3.00pm - 5.00pm | 2.00pm - 4.00pm | Band Room | Ms Nur Khairin Aisyah (IC)  <br>Ms Ethel Chng (2IC)  <br>Mrs Samy |
-| 4 |  | 3.00pm - 5.00pm | 2.30pm - 4.30pm | MPR 1&2 | Mdm Usha (IC)  <br>Mdm Siti Raihana (2IC)  <br>Mdm Meenakshi |
-| 5 |  | 3.00pm - 5.00pm | 2.00pm - 4.00pm | Vista 1 & 2 Room | Ms Pasiah (IC) <br>Ms Kathleen Tan (2IC)  <br>Ms Siah Ying Ying Gladys |
-| 6 |  | 3.00pm - 5.00pm | 2.30pm - 4.30pm | Dance Room | Mdm Aditi (IC)  <br>Mr Ng Aik Song (2IC)  <br>Ms Clarissa Ng  <br>Ms Lien Wei Chi |
+| 1 | [Angklung & Kulintang Ensemble](/cca/Performing-and-Visual-Arts/ake/) | 3.00pm - 5.00pm | 2.00pm - 4.00pm | Music Room | Ms Norita(IC)  <br>Mrs Neo Lay Yen (2IC)  <br>Ms Julinda Chan |
+| 2 | [Chinese Orchestra](/cca/Performing-and-Visual-Arts/co/) | 3.00pm - 5.00pm | 2.00pm - 4.00pm | Chinese Orchestra Room | Mdm Loh Siew See (IC)  <br>Mr Heng Yuan Hao (2IC)  <br>Ms Toh Puay Boon  <br>Mrs Er Siao Fun |
+| 3 | [Concert Band](/cca/Performing-and-Visual-Arts/cb/) | 3.00pm - 5.00pm | 2.00pm - 4.00pm | Band Room | Ms Nur Khairin Aisyah (IC)  <br>Ms Ethel Chng (2IC)  <br>Mrs Samy |
+| 4 | [Drumatix Batucada](/cca/Performing-and-Visual-Arts/db/) | 3.00pm - 5.00pm | 2.30pm - 4.30pm | MPR 1&2 | Mdm Usha (IC)  <br>Mdm Siti Raihana (2IC)  <br>Mdm Meenakshi |
+| 5 | [English Drama Club](/cca/Performing-and-Visual-Arts/edc/) | 3.00pm - 5.00pm | 2.00pm - 4.00pm | Vista 1 & 2 Room | Ms Pasiah (IC) <br>Ms Kathleen Tan (2IC)  <br>Ms Siah Ying Ying Gladys |
+| 6 | [Modern Dance](/cca/Performing-and-Visual-Arts/md/) | 3.00pm - 5.00pm | 2.30pm - 4.30pm | Dance Room | Mdm Aditi (IC)  <br>Mr Ng Aik Song (2IC)  <br>Ms Clarissa Ng  <br>Ms Lien Wei Chi |
 |  |  |  |  |  |  |
 
 **CLUBS & SOCIETIES**
