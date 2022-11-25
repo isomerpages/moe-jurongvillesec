@@ -22,7 +22,22 @@ This year, our students have continued to adapt to the ever-changing climate tha
 
 #### Student Leaders
 
+| Name | Appointment | Class |
+|:---:|---|---|
+| Parthasarathy Vaideghi Pavithran | President | 3IN |
+| Saw Joshua Hla | Vice-President 1 | 3DP |
+| Yee En Tong | Vice-President 2 | 2RP |
+|  |  |  |
+
 #### Key Achievements
+
+|  |
+|:---:|
+| 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
+| 2019 Singapore Youth Festival Arts Presentation: Certificate of Commendation |
+| 2017 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
+| 2015 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
+|  |
 
 #### Students' voices
 
