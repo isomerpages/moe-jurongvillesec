@@ -2,5 +2,5 @@ collections:
   our-achievements:
     output: true
     order:
-      - CCA Achievements.md
       - Knowledge & Skills Achievements.md
+      - CCA Achievements.md
