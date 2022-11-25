@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Performing & Visual Arts/Chinese Orchestra.md
-      - Performing & Visual Arts/Angklung & Kulintang Ensemble.md
       - Performing & Visual Arts/.keep
+      - Performing & Visual Arts/Angklung & Kulintang Ensemble.md
+      - Performing & Visual Arts/Chinese Orchestra.md
       - CCA.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
