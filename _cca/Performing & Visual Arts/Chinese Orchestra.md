@@ -30,16 +30,23 @@ We can’t promise that it will be a better year ahead, but we assure you that w
 |:---:|---|---|
 | Neo Eng Jun | President | 4DP |
 | Wong Shi Min Tiana | Vice-President | 4EM |
-|  | Secretary | 4IN |
-|  | Welfare | 4EM |
-|  | Librarian | 4DP |
-|  | Section Leader (Huqin) | 4EM |
-|  | Section Leader (Plucking) | 4DP |
-|  | Section Leader (Woodwind) | 4EM |
-|  | Section Leader (Cello/Bass) | 4EM |
+| Cho Yin Men | Secretary | 4IN |
+| Yeow Shi En, Anna | Welfare | 4EM |
+| Tan Sze Yi | Librarian | 4DP |
+| Tan Wei Qian | Section Leader (Huqin) | 4EM |
+| Nuha Sumaitah | Section Leader (Plucking) | 4DP |
+| Mamidala Prem Prakash | Section Leader (Woodwind) | 4EM |
+| Tham Jun Cai | Section Leader (Cello/Bass) | 4EM |
 |  |  |  |
 
 #### Key Achievements and Activities
+
+|  |
+|:---:|
+| 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
+| 2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
+| 2017 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
+|  |
 
 #### Students’ voices
 
