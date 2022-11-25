@@ -35,10 +35,10 @@ Video 2: Watch this video to find out about our key programmes in the school
 
 <br clear="left">
 
-<p><a href="/our-experience//our-experience/Open-House-2022/passion/">
+<p><a href="/our-experience/Open-House-2022/passion/">
 <img style="width:49%" align=left src="/images/Our-Curriculum.png">
 </a></p>
 
-<p><a href="/our-experience/Open-House-2022/knowledgenskills/">
+<p><a href="/our-experience/Open-House-2022/leading/">
 <img style="width:49%" align=right src="/images/LeadingServingOthers.png">
 </a></p>
