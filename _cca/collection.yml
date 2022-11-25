@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Performing & Visual Arts/Drumatix Batucada.md
       - Performing & Visual Arts/.keep
       - Performing & Visual Arts/Angklung & Kulintang Ensemble.md
       - Performing & Visual Arts/Chinese Orchestra.md
       - Performing & Visual Arts/Concert Band.md
+      - Performing & Visual Arts/Drumatix Batucada.md
       - CCA.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
