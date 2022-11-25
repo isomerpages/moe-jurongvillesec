@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Infocomm Club.md
       - CCA.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
@@ -24,3 +23,4 @@ collections:
       - Performing & Visual Arts/Drumatix Batucada.md
       - Performing & Visual Arts/English Drama Club.md
       - Performing & Visual Arts/Modern Dance.md
+      - Infocomm Club.md
