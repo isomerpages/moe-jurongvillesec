@@ -25,7 +25,7 @@ Video 2: Watch this video to find out about our key programmes in the school
 
 #### Open House 2022
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/our-experience/Open-House-2022/prepfuture/">
 <img style="width:46.5%" align=left src="/images/Key-Programmes.png">
 </a></p>
 
