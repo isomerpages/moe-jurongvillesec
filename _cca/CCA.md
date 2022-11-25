@@ -12,11 +12,11 @@ description: ""
 
 | No | CCA | TUESDAY | FRIDAY | Venue | Teachers |
 |:---:|---|---|---|---|---|
-| 1 |  | 8.30am - 12.30pm  <br>(**Saturday**) | 2.30pm - 6.00pm | Parade Square | Mr Koh Yong Kai (IC)  <br>Mr Matthew Loh (2IC) |
-| 2 |  | N.A. | 2.00pm - 5.00pm | Amphitheatre | Ms Tan Li Lim (IC)  <br>Ms Tan Jia Hui (2IC) |
-| 3 |  | N.A. | 2.30pm - 5.30pm | Sky Garden | Mr Wong Chun Kiat (IC)  <br>Mr Wee Ming Han (2IC)  <br>Mr Muhd Arshad |
-| 4 |  | N.A. | 2.00pm - 5.00pm | Classroom Blocks | Mr Chew Kah Hou (IC)  <br>Mr Lam Seng Tat (2IC) |
-| 5 |  | 2.45pm - 6.00pm | N.A. | Classroom Blocks | Ms Wong Ruting (IC)  <br>Mr Kenneth Tay (2IC) |
+| 1 | [Boys' Brigade](/cca/Uniformed-Groups/bb/) | 8.30am - 12.30pm  <br>(**Saturday**) | 2.30pm - 6.00pm | Parade Square | Mr Koh Yong Kai (IC)  <br>Mr Matthew Loh (2IC) |
+| 2 | [Girl Guides](/cca/Uniformed-Groups/gg/) | N.A. | 2.00pm - 5.00pm | Amphitheatre | Ms Tan Li Lim (IC)  <br>Ms Tan Jia Hui (2IC) |
+| 3 | [NCC](/cca/Uniformed-Groups/ncc/) | N.A. | 2.30pm - 5.30pm | Sky Garden | Mr Wong Chun Kiat (IC)  <br>Mr Wee Ming Han (2IC)  <br>Mr Muhd Arshad |
+| 4 | [NPCC](/cca/Uniformed-Groups/npcc/) | N.A. | 2.00pm - 5.00pm | Classroom Blocks | Mr Chew Kah Hou (IC)  <br>Mr Lam Seng Tat (2IC) |
+| 5 | [Scouts](/cca/Uniformed-Groups/scouts/) | 2.45pm - 6.00pm | N.A. | Classroom Blocks | Ms Wong Ruting (IC)  <br>Mr Kenneth Tay (2IC) |
 |  |  |  |  |  |  |
 
 **PHYSICAL SPORTS**
