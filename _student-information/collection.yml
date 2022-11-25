@@ -2,5 +2,6 @@ collections:
   student-information:
     output: true
     order:
+      - Sec 3 Subject Combination.md
       - Class Mentors 2022.md
       - Counselling and Other Support.md
