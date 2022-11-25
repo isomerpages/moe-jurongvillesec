@@ -4,7 +4,7 @@ permalink: /cca/Performing-and-Visual-Arts/ake/
 description: ""
 third_nav_title: Performing & Visual Arts
 ---
-## Angklung &amp; Kulintang Ensemble
+## Angklung & Kulintang Ensemble
 
 #### About
 
