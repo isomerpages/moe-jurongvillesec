@@ -2,12 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Open House 2022/.keep
-      - Open House 2022/Open House 2022.md
-      - Open House 2022/PREPARING FOR THE FUTURE.md
-      - Open House 2022/DEEPENING KNOWLEDGE AND SKILLS.md
-      - Open House 2022/DISCOVERING OUR PASSIONS.md
-      - Open House 2022/LEADING AND SERVING OTHERS.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature and Music.md
       - Curriculum/Mathematics and Computer Application.md
@@ -29,3 +23,9 @@ collections:
       - Student Leadership/Ambassadors of Citizenship and Environment Education
         (ACEs).md
       - Student Discipline.md
+      - Open House 2022/.keep
+      - Open House 2022/Open House 2022.md
+      - Open House 2022/PREPARING FOR THE FUTURE.md
+      - Open House 2022/DEEPENING KNOWLEDGE AND SKILLS.md
+      - Open House 2022/DISCOVERING OUR PASSIONS.md
+      - Open House 2022/LEADING AND SERVING OTHERS.md
