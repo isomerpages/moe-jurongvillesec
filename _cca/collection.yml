@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing & Visual Arts/.keep
       - CCA.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
