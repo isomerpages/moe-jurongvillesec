@@ -1,4 +1,5 @@
 collections:
   our-achievements:
     output: true
-    order: []
+    order:
+      - Knowledge & Skills Achievements.md
