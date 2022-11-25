@@ -122,3 +122,8 @@ Students with unacceptable grooming may be sent home to rectify their grooming b
 #### MINOR AND SERIOUS OFFENCES
 
 <img src="/images/photo1669402025.jpeg" style="width:85%">
+
+#### Student Conduct Grades
+
+<img src="/images/photo1669402082.jpeg" style="width:85%">
+
