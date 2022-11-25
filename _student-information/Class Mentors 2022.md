@@ -64,19 +64,24 @@ description: ""
 | [Mr **Ken Nar** Han Keong](mailto:nar_han_keong@schools.gov.sg) | 3PE |
 |  |  |
 
-|  |  |
+| Secondary 4 and 5 | Class |
 |:---:|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| [Mr **Lam** Seng Tat](mailto:lam_seng_tat@schools.gov.sg) | 4EM |
+| [Ms **Gladys Siah** Ying Ying](mailto:gladys_siah_ying_ying@schools.gov.sg) | 4EM |
+| [Ms **Kathleen Tan** Chai-Lian](mailto:tan_chai-lian_kathleen@schools.gov.sg) | 4DP |
+| [Mr **Shahul** Hameed S/O Sultan](mailto:shahul_hameed_sultan@schools.gov.sg) | 4DP |
+| [Mr Muhammad **Arshad** Bin Jumah](mailto:muhammad_arshad_jumah@schools.gov.sg) | 4IN |
+| [Mrs **Er-Chew** Siao Fun](mailto:chew_siao_fun@schools.gov.sg) | 4IN |
+| Mr **Ow** Wee Qiang | 4IN |
+| [Mr **Edwin You** Fu Hui](mailto:you_fu_hui@schools.gov.sg) | 4RP |
+| [Ms **Tan** Jia Hui](mailto:tan_jia_hui_b@schools.gov.sg) | 4RP |
+| [Ms **Victoria Teo** Jiaen](mailto:teo_jiaen@schools.gov.sg) | 4RP |
+| [Mdm A **Sri Devi** A/P Arumugam](mailto:a_sri_devi_arumugam@schools.gov.sg) | 4PA |
+| [Mr **Raymond Tan** Boon Kian](mailto:raymond_tan_boon_kian@schools.gov.sg) | 4PA |
+| [Mr **Hafiz** Azhar](mailto:hafiz_azhar_mohamad_rosli@schools.gov.sg) | 4PA |
+| [Ms **Julinda Chan** Mei Jun](mailto:julinda_chan_mei_jun@schools.gov.sg) | 4RS |
+| [Mr **Ng** Aik Song](mailto:ng_aik_song@schools.gov.sg) | 4RS |
+| [Mdm **Nur Ain** Binte Borhan](mailto:nur_ain_borhan@schools.gov.sg) | 4PE |
+| [Mr Mohammad **Hafidz** Bin Azmin](mailto:mohammad_hafidz_azmin@schools.gov.sg) | 4PE |
+| [Mr **John Teo** Wei Ren](mailto:john_teo_wei_ren@schools.gov.sg) | 5PA |
 |  |  |
