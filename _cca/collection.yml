@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Angklung & Kulintang Ensemble.md
       - CCA.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
