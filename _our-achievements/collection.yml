@@ -2,8 +2,8 @@ collections:
   our-achievements:
     output: true
     order:
+      - Knowledge & Skills Achievements.md
+      - CCA Achievements.md
       - Alumni Achievements/.keep
       - Alumni Achievements/Alumni Achievements.md
       - Alumni Achievements/Our Alumni.md
-      - Knowledge & Skills Achievements.md
-      - CCA Achievements.md
