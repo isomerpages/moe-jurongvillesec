@@ -48,7 +48,7 @@ description: ""
 
 | No | CCA | TUESDAY | FRIDAY | Venue | Teachers |
 |:---:|---|---|---|---|---|
-| 1 |  | 2.30pm - 5.30pm | N.A. | Computer Lab 1 & Lab 2 | Ms Sri Masayu (IC)  <br>Mr Nar Han Keong (2IC)  <br>Mr Sha Bin  <br>Ms Norazila |
+| 1 | [Infocomm Club](/cca/permalink/info-club/) | 2.30pm - 5.30pm | N.A. | Computer Lab 1 & Lab 2 | Ms Sri Masayu (IC)  <br>Mr Nar Han Keong (2IC)  <br>Mr Sha Bin  <br>Ms Norazila |
 |  |  |  |  |  |  |
 
 #### A Holistic Education for Secondary School Students - LEAPS 2.0
