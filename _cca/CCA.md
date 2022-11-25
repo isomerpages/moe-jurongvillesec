@@ -45,3 +45,10 @@ description: ""
 | 5 |  | 3.00pm - 5.00pm | 2.00pm - 4.00pm | Vista 1 & 2 Room | Ms Pasiah (IC) <br>Ms Kathleen Tan (2IC)  <br>Ms Siah Ying Ying Gladys |
 | 6 |  | 3.00pm - 5.00pm | 2.30pm - 4.30pm | Dance Room | Mdm Aditi (IC)  <br>Mr Ng Aik Song (2IC)  <br>Ms Clarissa Ng  <br>Ms Lien Wei Chi |
 |  |  |  |  |  |  |
+
+**CLUBS & SOCIETIES**
+
+| No | CCA | TUESDAY | FRIDAY | Venue | Teachers |
+|:---:|---|---|---|---|---|
+| 1 |  | 2.30pm - 5.30pm | N.A. | Computer Lab 1 & Lab 2 | Ms Sri Masayu (IC)  <br>Mr Nar Han Keong (2IC)  <br>Mr Sha Bin  <br>Ms Norazila |
+|  |  |  |  |  |  |
