@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Scouts.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/NCC.md
       - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Scouts.md
       - CCA.md
