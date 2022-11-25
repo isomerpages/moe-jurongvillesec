@@ -2,13 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Performing & Visual Arts/.keep
-      - Performing & Visual Arts/Angklung & Kulintang Ensemble.md
-      - Performing & Visual Arts/Chinese Orchestra.md
-      - Performing & Visual Arts/Concert Band.md
-      - Performing & Visual Arts/Drumatix Batucada.md
-      - Performing & Visual Arts/English Drama Club.md
-      - Performing & Visual Arts/Modern Dance.md
       - CCA.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
@@ -23,3 +16,10 @@ collections:
       - Sports & Games/Netball.md
       - Sports & Games/Sepak Takraw.md
       - Sports & Games/Tchoukball.md
+      - Performing & Visual Arts/.keep
+      - Performing & Visual Arts/Angklung & Kulintang Ensemble.md
+      - Performing & Visual Arts/Chinese Orchestra.md
+      - Performing & Visual Arts/Concert Band.md
+      - Performing & Visual Arts/Drumatix Batucada.md
+      - Performing & Visual Arts/English Drama Club.md
+      - Performing & Visual Arts/Modern Dance.md
