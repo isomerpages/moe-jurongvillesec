@@ -46,4 +46,8 @@ Thank you for your interest to join the PSG. Kindly fill in the information thro
 
 ##### Breakfast with School Leaders for Sec 1 PSG members
 
-
+<figure>
+<figcaption>On 19 February 2021, our Sec 1 PSG parents were invited to a Breakfast session with our School Leaders. It was an enjoyable session where the teachers and school leaders got to know more about our parents and also for the parents to know more about our school.
+ </figcaption>
+<img src="/images/JVS-2021-PSG-P1.jpg" style="width:90%">
+</figure>
