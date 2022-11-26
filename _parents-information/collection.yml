@@ -2,6 +2,7 @@ collections:
   parents-information:
     output: true
     order:
+      - Financial Assistance Scheme/Financial Assistance Scheme.md
       - Financial Assistance Scheme/.keep
       - Term Letters/.keep
       - Term Letters/Term Letters.md
