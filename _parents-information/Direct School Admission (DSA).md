@@ -83,3 +83,5 @@ The mode of performance tasks and interview will follow the prevailing national 
 | 4 July – 5 Aug 2022 | Selection process with Jurongville Secondary School through a skills test and interview. |
 | By 12 September 2022 | Applicants will be informed of the selection outcome |
 |  |  |
+
+We thank you for your interest in joining Jurongville Secondary School through Direct School Admission.
