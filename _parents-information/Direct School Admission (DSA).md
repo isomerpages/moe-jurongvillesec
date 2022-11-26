@@ -73,3 +73,13 @@ The mode of performance tasks and interview will follow the prevailing national 
 4 \.  Applicants will go through a selection process via electronic means. More details will be provided at our school DSA website at a later date.
 
 5 \.  Letters will be issued to all applicants by **12 September 2022**, informing them of the outcome of their application **(Confirmed Offer/ Waiting List/ Rejected)**.
+
+#### Important Activities and Dates
+
+| Important Dates | Activities |
+|:---:|---|
+| 5 May – 1 June 2022, 3pm | Submission of online DSA Application Form |
+| By 1 July 2022 | Applicants will be informed about details of the selection process. |
+| 4 July – 5 Aug 2022 | Selection process with Jurongville Secondary School through a skills test and interview. |
+| By 12 September 2022 | Applicants will be informed of the selection outcome |
+|  |  |
