@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Jurongville Secondary School
+description: An Isomer site of the Singapore Government
+image: /images/photo1669487665.jpeg
 permalink: /
 notification: ""
 sections:
@@ -25,3 +25,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
