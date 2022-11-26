@@ -50,7 +50,7 @@ If you are interested to apply, the revised application forms may be downloaded 
 For non MOE-FAS and non SPED-FAS students, please use: <br>
 “PC\_Bundle\_Application\_Form\_v12.1”
 
-
+[pdf2](/files/PC_Bundle_Application_Form_v121.pdf)
 
 For MOE-FAS and SPED-FAS students, please use “Application Form for MOE-SPED FAS v5.1”
 
