@@ -9,7 +9,7 @@ third_nav_title: School Magazine
 JVS Graduation Magazine 2021 <br>
 (December 2021 Issue)
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news/School-Magazine/2021/">
 <img style="width:50%" align="left" src="/images/01.jpg">
 </a></p> <br clear=left>
 
