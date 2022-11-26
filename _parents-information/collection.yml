@@ -1,4 +1,5 @@
 collections:
   parents-information:
     output: true
-    order: []
+    order:
+      - Term Letters/.keep
