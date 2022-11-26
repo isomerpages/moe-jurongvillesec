@@ -2,7 +2,6 @@ collections:
   parents-information:
     output: true
     order:
-      - GCE O levels Result Release.md
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 1 Parents Engagement.md
@@ -18,3 +17,4 @@ collections:
       - NEU PC Plus Programme.md
       - Parents Support Group.md
       - Family Matters @ School.md
+      - GCE O levels Result Release.md
