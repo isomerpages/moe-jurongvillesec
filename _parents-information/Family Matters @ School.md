@@ -33,3 +33,7 @@ The Triple P Seminars will be held on Zoom in Term 2. The Programme is a strateg
 | Structure  <br>(Over Zoom) | 3 seminars, 1 hour each | 3 - 4 individual sessions of 45 minutes each | 5 small-group sessions (2 hours per session) and 3 phone consultations |
 | Topics | Seminar 1:  <br>**Raising** **Responsible Teenagers**<br><br>Seminar 2:  <br>**Raising Competent Teenagers**  <br><br>Seminar 3:  <br>**Getting Teenagers Connected** | **Customised to Needs of parents** | **Customised to Needs of parents** |
 |  |  |  |  |
+
+Kindly complete the online Needs Questionnaire at this link ([https://tinyurl.com/needs-questionnaire](https://tinyurl.com/needs-questionnaire)) **FORM DOES NOT EXIST**, so that you can receive the appropriate level of parenting support from us.  On top of parenting support, we can also channel you to other relevant community resources to support your family more holistically. 
+
+For enquiries, please contact Lakeside Family Services at [pss@lakeside.org.sg](mailto:pss@lakeside.org.sg)
