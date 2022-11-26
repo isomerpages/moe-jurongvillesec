@@ -19,7 +19,7 @@ third_nav_title: E Newsletter
 **Newsletter (July 2021 Issue)** <br clear=left>
 
 <p><a href="/news/E-Newsletter/2020/">
-<img style="width:40%" align="left" src="/images/01 Cover Page.jpg">
+<img style="width:40%" align="left" src="/images/JVS e-Newsletter July2020_Page_01.jpg">
 </a></p><br><br><br><br><br><br>
 
 **Newsletter (July 2020 Issue)** <br clear=left>
