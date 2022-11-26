@@ -24,7 +24,7 @@ third_nav_title: E Newsletter
 
 **Newsletter (July 2020 Issue)** <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/JVS%20Newsletter%202019%20Updated.pdf">
 <img style="width:40%" align=left src="/images/JVS Newletter May 2019 Cover.jpg">
 </a></p> <br><br><br><br><br><br>
 
@@ -54,4 +54,3 @@ PDF FILE EXCEEDS 5MB**<br clear=left>
 by JVS student reporters <br>
 PDF FILE EXCEEDS 5MB**<br clear=left>
 
-[pdf1](/files/JVS%20Newsletter%202019%20Updated.pdf)
