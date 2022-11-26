@@ -2,4 +2,5 @@ collections:
   parents-information:
     output: true
     order:
+      - Term Letters/Term Letters.md
       - Term Letters/.keep
