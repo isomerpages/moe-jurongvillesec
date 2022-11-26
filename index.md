@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: announcement 1
           description: New Update!
-          url: https://google.com
+          url: /parents-information/Term-Letters/tl/
         - title: announcement 2
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: Outstanding Youth Award 2023
+          url: https://form.gov.sg/632822e0410f8c0012492429
         - title: announcement 3
-          description: Page A is important too
-          url: /privacy/
+          description: President's Award for Teachers
+          url: https://form.gov.sg/6327d8dc5f152f001265ae55
   - infopic:
       title: Open House 2022
       description: Click button below for more information!
