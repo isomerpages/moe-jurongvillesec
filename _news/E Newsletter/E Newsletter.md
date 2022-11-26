@@ -31,14 +31,17 @@ third_nav_title: E Newsletter
 **Newsletter (May 2019 Issue)** <br clear=left>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:40%" align=left src="/images/flourish.png">
+<img style="width:43%" align=left src="/images/flourish.png">
 </a></p> <br><br><br>
 
-**Newsletter April 2017 Issue**<br>
-**by JVS student reporters** <br clear=left>
+**Newsletter April 2017 Issue<br>
+by JVS student reporters** <br clear=left>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:40%" align=left src="/images/JVS Newletter May 2019 Cover.jpg">
-</a></p> <br clear=left>
+<img style="width:44%" align=left src="/images/news.png">
+</a></p> <br><br><br>
+
+**Newsletter (Sept 2016 issue)<br>
+	by JVS student reporters** <br clear=left>
 
 [pdf1](/files/JVS%20Newsletter%202019%20Updated.pdf)
