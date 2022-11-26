@@ -78,3 +78,22 @@ ii.  Character and Citizenship Education (CCE)
 | 3  <br>(60 mins) | *   Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>*   Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort. <br>*   Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage. | Term 2 Week 5 |
 | 4  <br>(60 mins) | *   Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 6 |
 |  |  |  |
+
+**Secondary 5**<br>
+**Unit: Respectful Relationships & Safety**
+
+| LESSONS / DURATION | LESSON OBJECTIVES  <br>At the end of the lesson, students will be able to: | TIME PERIOD  <br>(e.g. Term 1 Week 2) |
+|:---:|---|---|
+| 1  <br>(60 mins) | *   Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>*   Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. <br>*   Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 2 Week 2 |
+|  |  |  |
+
+_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
+
+#### eTeens Programme:
+
+8 \. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+#### At Jurongville Secondary School, the _eTeens_ programme will be implemented as follows in 2022:
+
