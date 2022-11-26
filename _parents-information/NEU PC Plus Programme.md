@@ -47,3 +47,13 @@ If you are interested to apply, the revised application forms may be downloaded 
 
 For non MOE-FAS and non SPED-FAS students, please use: <br>
 “PC\_Bundle\_Application\_Form\_v12.1”
+
+
+
+For MOE-FAS and SPED-FAS students, please use “Application Form for MOE-SPED FAS v5.1”
+
+
+
+#### Enquiries
+
+For other enquiries, please call the School at 65638704 or IMDA at 6684 8858.
