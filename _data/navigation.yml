@@ -30,7 +30,9 @@ links:
   - title: Parents Information
     collection: parents-information
   - title: News
-    url: /permalink
+    url: /news/news/
     sublinks:
       - title: Gallery of Events
+        url: /news/gallery-events/
+      - title: School Magazine
         url: /permalink
