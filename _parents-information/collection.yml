@@ -2,7 +2,6 @@ collections:
   parents-information:
     output: true
     order:
-      - Parents Support Group.md
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 1 Parents Engagement.md
@@ -16,3 +15,4 @@ collections:
       - Financial Assistance Scheme/Financial Assistance Scheme.md
       - Financial Assistance Scheme/MOE FAS Application Form.md
       - NEU PC Plus Programme.md
+      - Parents Support Group.md
