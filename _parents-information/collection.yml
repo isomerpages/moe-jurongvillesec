@@ -2,9 +2,6 @@ collections:
   parents-information:
     output: true
     order:
-      - Financial Assistance Scheme/.keep
-      - Financial Assistance Scheme/Financial Assistance Scheme.md
-      - Financial Assistance Scheme/MOE FAS Application Form.md
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 1 Parents Engagement.md
@@ -14,3 +11,6 @@ collections:
       - School Services/School Services.md
       - School Services/Booklist.md
       - Direct School Admission (DSA).md
+      - Financial Assistance Scheme/.keep
+      - Financial Assistance Scheme/Financial Assistance Scheme.md
+      - Financial Assistance Scheme/MOE FAS Application Form.md
