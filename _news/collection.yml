@@ -2,8 +2,8 @@ collections:
   news:
     output: true
     order:
-      - School Magazine/JVS Grad Magazine 2021.md
-      - School Magazine/School Magazine.md
       - School Magazine/.keep
+      - School Magazine/School Magazine.md
+      - School Magazine/JVS Grad Magazine 2021.md
       - News.md
       - Gallery of Events.md
