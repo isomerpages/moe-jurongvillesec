@@ -29,5 +29,8 @@ links:
     collection: student-information
   - title: Parents Information
     collection: parents-information
-  - title: Contact Us
-    url: /contact-us/
+  - title: News
+    url: /permalink
+    sublinks:
+      - title: Gallery of Events
+        url: /permalink
