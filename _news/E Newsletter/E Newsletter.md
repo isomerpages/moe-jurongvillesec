@@ -18,7 +18,7 @@ third_nav_title: E Newsletter
 
 **Newsletter (July 2021 Issue)** <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news/E-Newsletter/2020/">
 <img style="width:40%" align="left" src="/images/01 Cover Page.jpg">
 </a></p><br><br><br><br><br><br>
 
