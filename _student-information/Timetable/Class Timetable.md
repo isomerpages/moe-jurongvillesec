@@ -27,6 +27,14 @@ third_nav_title: Timetable
 
 |  |  |  |  |
 |:---:|---|---|---|
+| [3 Discipline](/files/Term3%203DP.pdf) | [3 Empathy](/files/Term3%203EM.pdf) | [3 Integrity](/files/Term3%203IN.pdf) | [3 Passion](/files/Term3%203PA.pdf) |
+| [3 Perseverance](/files/Term3%203PE.pdf) | [3 Resilience](/files/Term3%203RS.pdf) | [3 Respect](/files/Term3%203RP.pdf) |  |
 |  |  |  |  |
+
+**Secondary 4**
+
 |  |  |  |  |
+|:---:|---|---|---|
+| [4 Discipline](/files/Term3%204DP.pdf) | [4 Empathy](/files/Term3%204EM.pdf) | [4 Integrity](/files/Term3%204IN.pdf) | [4 Passion](/files/Term3%204PA.pdf) |
+| [4 Perseverance](/files/Term3%204PE.pdf) | [4 Resilience](/files/Term3%204RS.pdf) | [4 Respect](/files/Term3%204RP.pdf) |  |
 |  |  |  |  |
