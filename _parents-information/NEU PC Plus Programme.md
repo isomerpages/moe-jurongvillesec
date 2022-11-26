@@ -47,17 +47,13 @@ If you are interested to apply, the revised application forms may be downloaded 
 For non MOE-FAS and non SPED-FAS students, please use: <br>
 “PC\_Bundle\_Application\_Form\_v12.1”
 
-[pdf2](/files/PC_Bundle_Application_Form_v121.pdf)
-
-<p><a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/Neu%20PC%20Plus%20-%20Faster%20access%20to%20digital%20technology%20for%20low-income%20families.pdf">  
+<p><a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/PC_Bundle_Application_Form_v121.pdf">  
 <img style="width:15%" align="left" src="/images/PC_Bundle_Application.png">  
 </a></p> <br clear=left>
 
 For MOE-FAS and SPED-FAS students, please use “Application Form for MOE-SPED FAS v5.1”
 
-[pdf3](/files/Application%20Form%20for%20MOE-SPED%20FAS%20v51.pdf)
-
-<p><a href="pdf open in new tab de link">  
+<p><a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/Application%20Form%20for%20MOE-SPED%20FAS%20v51.pdf">  
 <img style="width:15%" align="left" src="/images/Application Form.png">  
 </a></p> <br clear=left>
 
