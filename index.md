@@ -10,7 +10,7 @@ sections:
       background: /images/5da4c939b_283.jpg
       key_highlights:
         - title: announcement 1
-          description: Important highlight A is important
+          description: New Update!
           url: https://google.com
         - title: announcement 2
           description: Important highlight B is equally important
