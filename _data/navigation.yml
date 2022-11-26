@@ -28,6 +28,6 @@ links:
   - title: Student Information
     collection: student-information
   - title: Parents Information
-    collection: about-us
+    collection: parents-information
   - title: Contact Us
     url: /contact-us/
