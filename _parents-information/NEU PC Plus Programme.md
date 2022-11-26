@@ -54,7 +54,7 @@ For non MOE-FAS and non SPED-FAS students, please use: <br>
 
 For MOE-FAS and SPED-FAS students, please use “Application Form for MOE-SPED FAS v5.1”
 
-
+[pdf3](/files/Application%20Form%20for%20MOE-SPED%20FAS%20v51.pdf)
 
 #### Enquiries
 
