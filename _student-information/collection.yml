@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - NDLP/Student PLD Update Guides.md
       - NDLP/.keep
       - NDLP/NDLP.md
       - NDLP/Student Guides and support.md
