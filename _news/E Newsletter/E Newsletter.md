@@ -43,5 +43,12 @@ by JVS student reporters** <br clear=left>
 
 **Newsletter (Sept 2016 issue)<br>
 	by JVS student reporters** <br clear=left>
+	
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:43%" align=left src="/images/Jurongville 2015 Newsletter 2.png">
+</a></p> <br><br><br><br><br><br>
+
+**Newsletter(Oct 2015 issue)<br>
+by JVS student reporters** <br clear=left>
 
 [pdf1](/files/JVS%20Newsletter%202019%20Updated.pdf)
