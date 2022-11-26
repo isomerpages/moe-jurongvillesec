@@ -97,3 +97,20 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 #### At Jurongville Secondary School, the _eTeens_ programme will be implemented as follows in 2022:
 
+| Topics/Lessons | Programme Learning Objectives | Time Period  <br>(e.g. Term 3 Week 9) |
+|:---:|---|---|
+| Mass Talk by HPB appointed vendor | *   Awareness of the different STIs and HIV/AIDS<br>*   Modes of transmission<br>*   Modes of protection, specifically on how the condom is used<br>*   Consequences and impact of STIs/HIV | Term 3 Week 2 |
+| Classroom-based Lesson | *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 3 |
+|  |  |  |
+
+#### INFORMATION FOR PARENTS
+
+10 \. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](/files/JVS_SEd_2022_Annex%20A.pdf). The completed form is to be submitted by 04/03/2022.
+
+12 \. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable [here](/files/JVS_SEd_2022_Annex%20B.pdf). The completed form is to be submitted by 04/03/2022.
+
+13 \. Parents can contact the school at 6563 8704 or [jurongville@moe.edu.sg](mailto:jurongville@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+14 \. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
