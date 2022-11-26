@@ -22,3 +22,28 @@ description: ""
 2 \.  Mrs Quek-Chang Way Lie (LT/NFS)<br>
 3 \.  Mrs Chan Lay Yean <br>
 4 \.  Mdm Meenakshi
+
+#### Parent Representatives for Different Levels in 2021
+
+|  |  |
+|:---:|---|
+| Secondary 1 | Mdm Jasmine Tan |
+| Secondary 1 | Mdm Suriani Binte Tokiman |
+| Secondary 2 | Mdm Josephine Tan Hui Choo |
+| Secondary 3 | Mdm Samantha See |
+| Secondary 4 and 5 | Mrs Kee Hwee Sin |
+| Secondary 4 and 5 | Mdm Doris Lee |
+|  |  |
+
+#### PARENT SUPPORT GROUP (PSG) MEMBERSHIP
+
+Dear Parent,<br>
+Thank you for your interest to join the PSG. Kindly fill in the information through the link [https://qrgo.page.link/8ux8F](https://qrgo.page.link/8ux8F) **FORM NOT AVAILABLE** or scan the QR quote.
+
+<img src="/images/QR-Code.png" style="width:30%">
+
+#### Events
+
+##### Breakfast with School Leaders for Sec 1 PSG members
+
+
