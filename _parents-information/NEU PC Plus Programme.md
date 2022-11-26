@@ -51,9 +51,17 @@ For non MOE-FAS and non SPED-FAS students, please use: <br>
 
 [pdf2](/files/PC_Bundle_Application_Form_v121.pdf)
 
+<p><a href="pdf open in new tab de link">  
+<img style="width:15%" align="left" src="/images/PC_Bundle_Application.png">  
+</a></p> <br clear=left>
+
 For MOE-FAS and SPED-FAS students, please use “Application Form for MOE-SPED FAS v5.1”
 
 [pdf3](/files/Application%20Form%20for%20MOE-SPED%20FAS%20v51.pdf)
+
+<p><a href="pdf open in new tab de link">  
+<img style="width:15%" align="left" src="/images/Application Form.png">  
+</a></p> <br clear=left>
 
 #### Enquiries
 
