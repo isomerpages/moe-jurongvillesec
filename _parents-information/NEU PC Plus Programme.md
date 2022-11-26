@@ -13,10 +13,9 @@ Reference Document: “Neu PC Plus - Faster access to digital technology for low
 
 [pdf1](/files/Neu%20PC%20Plus%20-%20Faster%20access%20to%20digital%20technology%20for%20low-income%20families.pdf)
 
-<p><a href="Neu PC Plus - Faster access to digital technology for low-income families">
-<img style="width:15%" align="left" src="/images/NEU PC Plus.png">
-</a></p>
-<br clear=left>
+<p><a href="pdf open in new tab de link">  
+<img style="width:15%" align="left" src="/images/NEU PC Plus.png">  
+</a></p> <br clear=left>
 
 IMDA has recently enhanced the NEU PC Plus programme to further support home-based learning (HBL) during the Covid-19 period. These enhancements include:  
 *   upward revision to the income criteria for eligibility:
