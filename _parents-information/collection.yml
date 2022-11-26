@@ -2,7 +2,6 @@ collections:
   parents-information:
     output: true
     order:
-      - Financial Assistance Scheme.md
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 1 Parents Engagement.md
@@ -12,6 +11,7 @@ collections:
       - School Services/School Services.md
       - School Services/Booklist.md
       - Direct School Admission (DSA).md
+      - Financial Assistance Scheme.md
       - Financial Assistance Scheme/.keep
       - NEU PC Plus Programme.md
       - Parents Support Group.md
