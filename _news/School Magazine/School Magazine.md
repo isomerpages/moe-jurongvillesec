@@ -15,7 +15,7 @@ JVS Graduation Magazine 2021 <br>
 
 JVS Magazine 2020 (December 2020 Issue)
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news/School-Magazine/2020/">
 <img style="width:50%" align="left" src="/images/2020 JVS School Magazine_Page_001.jpg">
 </a></p> <br clear=left>
 
@@ -23,4 +23,4 @@ JVS Magazine 2019 (December 2019 Issue)
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
 <img style="width:50%" align="left" src="/images/2019 JVS Magazine P001.jpg">
-</a></p> 
+</a></p>
