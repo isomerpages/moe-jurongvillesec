@@ -11,9 +11,7 @@ The NEU PC Plus Programme offers Singapore Citizen or Permanent Resident full ti
 
 Reference Document: “Neu PC Plus - Faster access to digital technology for low-income families”
 
-[pdf1](/files/Neu%20PC%20Plus%20-%20Faster%20access%20to%20digital%20technology%20for%20low-income%20families.pdf)
-
-<p><a href="pdf open in new tab de link">  
+<p><a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/Neu%20PC%20Plus%20-%20Faster%20access%20to%20digital%20technology%20for%20low-income%20families.pdf">  
 <img style="width:15%" align="left" src="/images/NEU PC Plus.png">  
 </a></p> <br clear=left>
 
@@ -48,6 +46,8 @@ If you are interested to apply, the revised application forms may be downloaded 
 
 For non MOE-FAS and non SPED-FAS students, please use: <br>
 “PC\_Bundle\_Application\_Form\_v12.1”
+
+[pdf2](/files/PC_Bundle_Application_Form_v121.pdf)
 
 <p><a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/Neu%20PC%20Plus%20-%20Faster%20access%20to%20digital%20technology%20for%20low-income%20families.pdf">  
 <img style="width:15%" align="left" src="/images/PC_Bundle_Application.png">  
