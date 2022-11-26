@@ -9,20 +9,20 @@ sections:
   - hero:
       background: /images/5da4c939b_283.jpg
       key_highlights:
-        - title: Highlight A
+        - title: announcement 1
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: announcement 2
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: announcement 3
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Open House 2022
+      description: Click button below for more information!
+      button: click here
+      url: d
+      image: /images/Banner.jpg
+      alt: Image alt text
 ---
-
