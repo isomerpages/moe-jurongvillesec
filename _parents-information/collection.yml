@@ -2,8 +2,8 @@ collections:
   parents-information:
     output: true
     order:
-      - Term Letters/OBS Camp 2022.md
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 1 Parents Engagement.md
       - Term Letters/Sec 4 & 5 Parents Engagement.md
+      - Term Letters/OBS Camp 2022.md
