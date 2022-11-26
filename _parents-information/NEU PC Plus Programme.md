@@ -11,6 +11,8 @@ The NEU PC Plus Programme offers Singapore Citizen or Permanent Resident full ti
 
 Reference Document: “Neu PC Plus - Faster access to digital technology for low-income families”
 
+[pdf1](/files/Neu%20PC%20Plus%20-%20Faster%20access%20to%20digital%20technology%20for%20low-income%20families.pdf)
+
 <p><a href="Neu PC Plus - Faster access to digital technology for low-income families">
 <img style="width:15%" align="left" src="/images/NEU PC Plus.png">
 </a></p>
