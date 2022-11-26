@@ -22,7 +22,7 @@ sections:
       title: Open House 2022
       description: Click button below for more information!
       button: click here
-      url: d
+      url: /our-experience/Open-House-2022/2022/
       image: /images/Banner.jpg
       alt: Image alt text
 ---
