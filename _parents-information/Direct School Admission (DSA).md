@@ -48,3 +48,28 @@ Prior experience in related CCAs and / or participation in relevant competitions
 
 Meeting all the above criteria does not guarantee that the student will be shortlisted/ given an offer.
 
+#### Application Process
+
+Application for DSA-Sec is to be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **5 May 2022 to 1 Jun 2022, 3pm**. 
+
+Parents and students are encouraged to choose schools based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected from Years 1 – 4. 
+
+**For further enquiries on DSA-Sec**, you may call our General Office at 6563 8704 between 8 am to 5 pm. Alternatively, you may email us at [jurongville@moe.edu.sg](mailto:jurongville@moe.edu.sg) with the subject “DSA-Sec”.
+
+For more information on DSA-Sec, please refer to the MOE website: [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
+
+#### Selection Process
+
+1 \.  The selection process consists of: 
+*   Performance tasks and/or Interview<br>
+The mode of performance tasks and interview will follow the prevailing national guidelines and SMMs at that point of time. 
+
+2 \.  Applicants will be notified via email by **1 July 2022** with more details on the selection exercise.
+
+3 \.  The selection exercise will be conducted between **1 July 2022 – 30 July 2022**.
+
+4 \.  Applicants will go through a selection process via electronic means. More details will be provided at our school DSA website at a later date.
+
+5 \.  Letters will be issued to all applicants by **12 September 2022**, informing them of the outcome of their application **(Confirmed Offer/ Waiting List/ Rejected)**.
