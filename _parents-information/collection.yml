@@ -2,9 +2,9 @@ collections:
   parents-information:
     output: true
     order:
-      - School Services/Booklist.md
-      - School Services/School Services.md
       - School Services/.keep
+      - School Services/School Services.md
+      - School Services/Booklist.md
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 1 Parents Engagement.md
