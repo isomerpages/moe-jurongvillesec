@@ -2,10 +2,6 @@ collections:
   student-information:
     output: true
     order:
-      - NDLP/.keep
-      - NDLP/NDLP.md
-      - NDLP/Student Guides and support.md
-      - NDLP/Student PLD Update Guides.md
       - Class Mentors 2022.md
       - Counselling and Other Support.md
       - Sec 3 Subject Combination.md
@@ -14,3 +10,7 @@ collections:
       - Timetable/Class Timetable.md
       - Sexuality Education.md
       - National Exam Schedule.md
+      - NDLP/.keep
+      - NDLP/NDLP.md
+      - NDLP/Student Guides and support.md
+      - NDLP/Student PLD Update Guides.md
