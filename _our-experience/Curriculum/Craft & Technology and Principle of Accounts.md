@@ -6,8 +6,6 @@ third_nav_title: Curriculum
 ---
 ## Craft &amp; Technology / Principle of Accounts
 
-<img style="width:85%" src="/images/craft _ technology and principle of accounts department 2.jpg">
-
 #### Art
 
 Learning Art as a discipline will help students better relate themselves to the world around them. The Art programme aims to nurture artistic dispositions, critical thinkers and confident students who are able to appreciate and respond to works of art, as well as create and express themselves through the creative use of materials, techniques, and technology. Students will acquire a strong foundation in art and process skills through exposure, experimentation and learning experience beyond school. 
