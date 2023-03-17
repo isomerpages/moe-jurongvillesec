@@ -102,7 +102,6 @@ At the end of the graduating year, students’ co-curricular attainment will be 
 | Excellent (2 bonus points) | Student who attains a minimum Level 3 in all four domains with at least a Level 4 in one domain. |
 | Good (1 bonus point) | Student who attains a minimum Level 1 in all four domains with any one of the following:   <br>i.  At least Level 2 in three domains; <br>ii.  At least Level 2 in one domain and at least Level 3 in another domain; or <br>iii.  At least Level 4 in one domain. |
 | Fair | Student’s attainment in co-curricular will not translate into any bonus points |
-|  |  |
 
 Please refer to examples in [Annex B](/files/LEAPS%2020%20-%20Annex%20B.pdf).<br>
 For enquiries, please contact<br>
