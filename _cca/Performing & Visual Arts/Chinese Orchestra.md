@@ -20,7 +20,6 @@ Preparing for SYF is a long and arduous journey but we are steadily pushing thro
 CO will always be there for us, through and through. With new members joining us, we are confident of many more fun memories to come. So join us, pronto!
 
 #### CCA Photos
-
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5J7804nUSgwMNu10f3UJTBIftxd9KSpl0QKMjZRytowToRNDyMMxcwW1BkhPSYS80Ch8s87APRDUV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **REQUIRE JACKSON'S INPUT VIDEO**
