@@ -7,8 +7,6 @@ third_nav_title: Curriculum
 
 ## English Language &amp; Literature / Music
 
-<img style="width:85%" src="/images/english language and music department 2.jpg">
-
 #### English Language &amp; Literature
 
 As ardent advocates of engaging English language learners, the English Language & Literature Department aims to develop students who are confident and empathetic communicators, discerning readers with a love for reading and creative inquirers. 
