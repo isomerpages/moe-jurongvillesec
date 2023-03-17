@@ -6,16 +6,11 @@ third_nav_title: Student Leadership
 ---
 ## Student Leadership
 
-<img src="/images/student leadership committee teachers 2.jpg" style="width:85%">
-
 ### Overview
-
 In line with the school’s philosophy of “everyone can learn, everyone can achieve, everyone can contribute”, It is our belief that every student can be a leader at some point in life, be it in the family, in school, in one’s social circles, and one day, in the workplace. These may be formal positions with authority or informal roles. We believe that leadership begins with self and goes beyond self. Leadership in JVS is less about position but more on a mindset demonstrated through role modeling the school values.
 
 #### Student Leadership Framework
-
 <img src="/images/LAC.png" style="width:70%">
-
 The focus for leadership development is to cultivate, in our students, the ability to lead and inspire self and others. The JVS student leadership framework focuses on imbuing our students with the requisite skills for leadership development as they grow into caring leaders who are empowered and enlightened to lead and serve. Using the LEARN-ACHIEVE-CONTRIBUTE school-wide approach, JVS develops its students through a systematic way by using the 3 levels of leadership from Personal leadership, Team leadership to Organizational leadership through the three domains of Leadership Programme, CCA Programme and Beyond-Self Empowerment Programme. We aim to first develop the student from within and then reaching out to the people around and eventually rising up to the occasion and/or position where the student is able to impact the community and beyond.
 
 | Level of leadership | Objectives | Competencies | Programmes |
