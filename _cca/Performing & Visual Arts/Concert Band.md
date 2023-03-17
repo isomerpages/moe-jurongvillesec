@@ -25,7 +25,7 @@ A highlight event of the year 2021 was the band’s participation in Singapore Y
 | Seth Yoe Jun Bin | Band Major | 3EM |
 
 #### Key Achievements
-|  |
+| JVS |
 |:---:|
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
 | 2019 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
