@@ -21,9 +21,11 @@ Both schools were led by a string of outstanding principals. The founding princi
 | Mr. Shawal Bin Hussin (2007 – 2013) | Mrs Tan Wan Yu (2008 - 2013) |
 | Mr Benny Lee Kah Chong (2014- 2015) | Mdm Sung Mee Har (2014 - 2018) |
 | Mdm Flora Ong Fei Min (2016 – 2018) |  |
-|  |  |
+| Mr Chan Yew Wooi (2018 - 2022) |  |
 
 Mr Chan Yew Wooi, previously Director / Professional Development, Academy of Singapore Teachers, was appointed principal of Jurongville Secondary School from 15 December 2018.
+
+Mr Philibert Leow is the current Principal of Jurongville Secondary School. He has taken over the leadership of the school from Mr Chan with effect from 15 December 2022.
 
 To reflect the new beginning, with the coming together of the staff and students of both schools in 2019, the school uniform and PE attire of the school were refreshed with inputs from the students. Similarly, a new school crest incorporating key elements from both school crests was created. Featuring both the English and Chinese names of the school, the new crest signifies the school’s connection with the proud contributions of the students, staff and stakeholders of both constituent school communities.
 
