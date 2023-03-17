@@ -39,5 +39,5 @@ _So far, in my experience of 2 years in Concert Band here in Jurongville Seconda
 _Throughout my years in band, I have gone through many ups and downs, especially this year due to the pandemic. It has impacted all of us one way or another. For me, it has been challenging as there were fewer combined band sessions compared to previous years. However, I have learnt to persevere during this time. As band members, we stayed united and rode out the storm together. Our continuous efforts paid off with our SYF achievement. I hope that our juniors will learn to not give up easily and try our very best in doing everything. I would also like to thank my instructors and teachers for guiding the band. If we persevere, we will definitely succeed._  
 
 #### Training Schedule
-Tuesday 3:00 pm - 6:00 pm <br>
-Friday 2:30 pm - 5:30 pm
+Tuesday 3:00pm - 6:00pm <br>
+Friday 2:30pm - 5:30pm
