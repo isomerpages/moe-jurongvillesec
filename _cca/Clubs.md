@@ -54,5 +54,5 @@ _These 4 years have been a very long yet rewarding experience for me. It has bee
 
 #### Training Schedule
 
-Tuesday 3.30pm -5.30pm
+Tuesday 3.30pm -5.30pm<br>
 Friday 2.30pm - 4.30pm
