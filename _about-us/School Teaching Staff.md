@@ -74,7 +74,7 @@ description: ""
 | [Mdm Lim Meng Tse (FAJT)](mailto:lim_meng_tse@schools.gov.sg) |
 | [Mdm Marina Binte Abu Hassan (FAJT)](mailto:marina_abu_hassan@schools.gov.sg) |
 | [Mr Ngiow Teck Shyong Daniel (FAJT)](mailto:ngiow_teck_shyong@schools.gov.sg) |
-|  |
+|  |  |
 
 | Mother Tongue Languages Department |
 |:---:|
