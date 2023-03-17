@@ -21,7 +21,7 @@ description: ""
 | No | CCA | TUESDAY | FRIDAY | Venue | Teachers |
 |:---:|---|---|---|---|---|
 | 1 | [Badminton](/cca/Sports-and-Games/badminton/) | 3.30pm - 5.30pm<br>(**Tueday**) | 3.30pm - 5.30pm<br>(**Friday**) |School Hall | Mrs Chan Lay Yean (IC)<br>Mr Koh Kuan Chien (2IC)<br>Mr Chua Khuang Lim |  
-| 2 | [Basketball](/cca/Sports-and-Games/bball/) | 3.30pm - 5.30pm<br>(**Tueday**) | 3.00pm - 5.00pm<br>(**Friday**) |ISH/Outdoor/  <br>Parade Square |<br>Mr Wong Eik Kiat (IC)<br>Mr Noah Chang (2IC)<br>Mr John Teo | 
+| 2 | [Basketball](/cca/Sports-and-Games/bball/) | 3.30pm - 5.30pm<br>(**Tueday**) | 3.00pm - 5.00pm<br>(**Friday**) |ISH/Outdoor/<br>Parade Square | Mr Wong Eik Kiat (IC)<br>Mr Noah Chang (2IC)<br>Mr John Teo | 
 | 3 | [Football 'C'](/cca/Sports-and-Games/football/) | 2.45pm - 5.30pm(**Monday**)<br>2.45pm - 4.30pm(**Tueday**) | 2.45pm - 5.30pm(**Thursday**)<br>2.30pm - 6.00pm(**Friday**) |School Field | Mr Shahul Hameed (IC)<br>Mr Raymond Tan (2IC)<br>Mr Hafiz Azhar<br>Mr Donald Wan |  
 | 4 | [Football 'B'](/cca/Sports-and-Games/football/) | 2.45pm - 5.30pm(**Monday**)<br>4.00pm - 6.00pm(**Tueday**) | 2.45pm - 5.30pm(**Thursday**)<br>2.30pm - 6.00pm(**Friday**) |School Field | Mr Shahul Hameed (IC)<br>Mr Raymond Tan (2IC)<br>Mr Hafiz Azhar<br>Mr Donald Wann |  
 | 5 | [Netball](/cca/Sports-and-Games/netball/) | 3.30pm - 5.30pm<br>(**Tueday**) | 1.00pm - 3.00pm<br>(**Friday**) |ISH/Outdoor/<br>Parade Square |Mdm Siti Rohani (IC)<br>Ms Teo Jiaen Victoria (2IC)<br>Ms Ang Yan Pure | 
