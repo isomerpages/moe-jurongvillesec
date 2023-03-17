@@ -26,7 +26,7 @@ This year, our students have continued to adapt to the ever-changing climate tha
 | Yee En Tong | Vice-President 2 | 2RP |
 
 #### Key Achievements
-|  |
+| JVS |
 |:---:|
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
 | 2019 Singapore Youth Festival Arts Presentation: Certificate of Commendation |
