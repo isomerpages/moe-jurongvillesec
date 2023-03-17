@@ -9,7 +9,6 @@ description: ""
 
 | Executive & Administrative Staff |
 |:---:|
-| [Mr Alvin Chong Chee Keong (Vice-Principal / Administration)](mailto:alvin_chong@schools.gov.sg) |
 | [Ms Soo Shio Leng (Administration Manager)](mailto:soo_shio_leng@schools.gov.sg) |
 | [Mr Ganapate S/O Adakalam (Operation Manager)](mailto:ganapate_adakalam@schools.gov.sg) |
 | [Mr Tang Siew Hoong (Operation Manager)](mailto:tang_siew_hoong@schools.gov.sg) |
@@ -24,17 +23,14 @@ description: ""
 | [Mdm Lee Kwai Keng Karen (Corporate Support Officer)](mailto:lee_kwai_keng@schools.gov.sg) |
 | [Ms Joey Heng (Corporate Support Officer)](mailto:heng_guey_siang@schools.gov.sg) |
 | [Mdm Ong Lay Whatt (Operation Support Officer / Office Assistant)](mailto:ong_lay_whatt@schools.gov.sg) |
-| Mdm Ang Choon Bee (Operation Support Officer) |
 | Mr Jumari Bin Amat (Operation Support Officer) |
 | Mdm Ong Siap Moi (Operation Support Officer) |
-| Mdm Tan Chew Hia (Operation Support Officer) |
 | Mdm Toh Keng Howe (Operation Support Officer) |
 | Mdm Farina Binte Buyang (School Health Advisor) |
 | Mr Cheong Kum Seng Russell (ECG Counsellor) |
 | Mr Leong Kok Wah (Desktop Engineer) |
-| Ms Izzah Syazwani Bte Zainal Abidin (Desktop Engineer) |
+| Mr Muhammad Sufi Mustaqim Bin Sahri (Desktop Engineer) |
 | Mdm Siah Ai Poh (NFS Assistant) |
 | Mdm Jaheera D/O Sahul Hamid (Librarian) |
 | Mdm Goh Bee Wah (Printing Operator) |
 |  |
-
