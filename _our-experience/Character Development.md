@@ -5,9 +5,7 @@ description: ""
 ---
 ## Character Development
 
-<img style="width:85%" src="/images/character and citizenship education committee 2.jpg">
-
-The school believes that character is the first and foremost element that will prepare our students to be world ready. We are committed in providing each student with a holistic education and in nurturing citizens of character who are active contributors of our society.&nbsp;  
+The school believes that character is the first and foremost element that will prepare our students to be world ready. We are committed in providing each student with a holistic education and in nurturing citizens of character who are active contributors of our society.  
 
 Our Character and Citizenship Education (CCE) programme strives to impact every student through internalizing of values through authentic learning experiences.
 
@@ -22,10 +20,9 @@ The Character and Citizenship Education (CCE) programme in Jurongville encompass
 *   Sexuality Education (SEd)
 *   National Education (NE)
 
-#### Service Learning 2021
+#### Service Learning
 
 ##### Developing Empathy through VIA &amp; Service Learning Projects
-
 “We’ll always serve with steadfastness, and honour her ideal; To be committed and responsible, and give beyond ourselves with zeal.” These lyrics from our school song give a glimpse of the importance we place in empowering our students to serve others in the community.  
   
 Annually, during the lead-up to the Lunar New Year, the school collaborates with our community partners for a Values-in-Action (VIA) project called ‘Project Love’. Through this project, our students seek to make a difference to the lives of underprivileged families in Jurong East through the contribution of food hampers by all classes. Our students also design hand-made cards bearing their hopes and well-wishes to encourage the residents and to spread the festive cheer. This annual project deepens our students’ sense of empathy, and makes them more aware of the needs of the community around them.
@@ -40,5 +37,4 @@ Our upper secondary students are involved in the Service Learning Programme wher
 \-&nbsp;**Nisha (4IN)**
 
 #### Photos
-
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZSBm_YQyuDE5NP8u_8d1ImJJ_tTLAEYbSEJITUp7PtGc2wpaWsTTNHBzGu8Z4x15y1uJc826L3Z1_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
