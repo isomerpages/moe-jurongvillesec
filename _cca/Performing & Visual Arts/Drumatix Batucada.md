@@ -27,7 +27,7 @@ In spite of the challenges brought on by COVID, the energy and passion of Drumat
 | Nur Alya Insyirah Binte Rudyman | Vice-President | 3RP |
 
 #### Key Achievements
-|  |
+| JVS |
 |:---:|
 | 2021 Performance for Speech Day |
 | 2021 E-CCA performance for Teachers’ Day |
