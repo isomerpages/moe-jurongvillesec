@@ -27,7 +27,7 @@ The Modern Dance CCA remains determined to bring the joy and beauty of dance to 
 | Hazel Koh Jia Xin | Costumes IC | 3DP |
 
 #### Key Achievements
-|  |
+| JVS |
 |:---:|
 | 2021 Participation in Jurong Central National Day e-Celebration |
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
@@ -44,5 +44,5 @@ _
 _I only managed to join dance in secondary two and I am glad I make the choice to do it. At first, I was really scared to join dance as I only did not know many of the dancers and not alot about dancing. However, I eventually became comfortable interacting with my seniors, juniors, and peers. I am happy to be in dance as I have loved dancing since I was a young girl. I hope all my juniors will have fun in dance and enjoy yourselves!_  
 
 #### Training Schedule
-Tuesday 3.30 pm to 5.30 pm<br>
-Friday 2.30 pm to 4.30 pm
+Tuesday 3.30pm to 5.30pm<br>
+Friday 2.30pm to 4.30pm
