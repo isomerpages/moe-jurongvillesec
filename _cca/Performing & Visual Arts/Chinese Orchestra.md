@@ -39,7 +39,8 @@ CO will always be there for us, through and through. With new members joining us
 | R Harshini Shree Nair | Section Leader (Cello/Bass) | 4PE |
 
 #### Key Achievements and Activities
-||
+|  |
+|:---:|
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
 | 2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
 | 2017 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
