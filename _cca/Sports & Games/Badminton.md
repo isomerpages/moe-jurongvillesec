@@ -27,7 +27,7 @@ The school would like to commend the Captain, Lau Yue Hang (4DP) and Aw Jing Xua
 | Lim Yu En Aris | Vice Captain, B-Division Girls | 3EM |
 
 #### Key Achievements
-|  |
+| JVS |
 |:---:|
 | 2021 Participation in West Zone B Division boys and girls Badminton Competitions Jan 2021 |
 | 2020 Participation in West Zone B and C Division boys and C Division girls Badminton Competitions Jan 2020 |
