@@ -5,10 +5,7 @@ description: ""
 ---
 ## Learning for Life Programme
 
-<img src="/images/learning for life programme and physical education department 2 (1).jpg" style="width:85%">
-
 ##### “Sports for Life” ~ Character through Sports Exposure, Empowerment & Excellence
-
 _Our Sports for Life_ involves a whole-school approach to character building through sports.  The overall curriculum is demarcated into three main tiers, namely, sports exposure, sports empowerment and sports excellence. Values such as perseverance, respect, integrity discipline & empathy are reinforced through the learning experiences in each tier.
 
 **Sports Exposure** provides developmental opportunities to expose students to a wide range of sports where they will catch values, hone character, and develop positive attitudes as well as social skills. In this tier, students will be able to choose the sports that they would like to learn under the games electives in the PE curriculum. They will also be introduced to inclusive sports and given opportunities to acquire knowledge through the Advance Elective Modules (AEM) in sports sciences.
