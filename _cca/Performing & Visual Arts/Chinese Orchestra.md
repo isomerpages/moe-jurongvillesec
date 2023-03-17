@@ -26,9 +26,8 @@ CO will always be there for us, through and through. With new members joining us
 **REQUIRE JACKSON'S INPUT VIDEO**
 
 #### Student Leaders
-
-|:---:|---|---|
 | Name | Appointment | Class |
+|:---:|---|---|
 | Kwek Sin En | President | 4IN |
 | Carrie Tan Si Yan | Vice-President | 4EM |
 | Lim Hui Zhen | Secretary | 4IN |
@@ -40,6 +39,7 @@ CO will always be there for us, through and through. With new members joining us
 | R Harshini Shree Nair | Section Leader (Cello/Bass) | 4PE |
 
 #### Key Achievements and Activities
+||
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
 | 2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
 | 2017 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
