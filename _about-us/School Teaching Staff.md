@@ -5,8 +5,6 @@ description: ""
 ---
 ## School Teaching Staff
 
-<img src="/images/staff 2.jpg" style="width:85%">
-
 | Craft & Technology Department |
 |:---:|
 | [Ms You Kim Choo (HOD / C&T)](mailto:you_kim_choo@schools.gov.sg) |
