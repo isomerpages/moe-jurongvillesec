@@ -17,6 +17,6 @@ As we continue to forge ahead together with hope and confidence, we also look fo
 
 For our partners – Parents, Alumnus, and community partners, I invite you to follow us on our social media platforms to stay up to date with what’s happening in and around school.
 
-With my warmest regards
-Philibert Leow
+With my warmest regards<br><br>
+Philibert Leow<br>
 Principal
