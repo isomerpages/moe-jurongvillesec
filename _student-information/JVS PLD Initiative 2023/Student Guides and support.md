@@ -16,3 +16,4 @@ third_nav_title: JVS PLD Initiative 2023
 
 #### Student PLD Update Guides
 
+[PLD Update Guides](/files/Manual%20Update%20of%20Google%20Firmware%20R98%20Guide.pdf)
