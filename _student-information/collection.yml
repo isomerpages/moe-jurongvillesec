@@ -1,4 +1,5 @@
 collections:
   student-information:
     output: true
-    order: []
+    order:
+      - Class Mentors 2023.md
