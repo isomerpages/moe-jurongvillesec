@@ -4,5 +4,4 @@ collections:
     order:
       - Timetable/.keep
       - NDLP/.keep
-      - NDLP/NDLP.md
       - Class Mentors 2022.md
