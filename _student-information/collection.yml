@@ -2,7 +2,6 @@ collections:
   student-information:
     output: true
     order:
-      - Counselling and Other Support.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - Timetable/Exam Timetable.md
