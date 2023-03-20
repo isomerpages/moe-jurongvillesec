@@ -9,3 +9,7 @@ third_nav_title: Open House 2022
 <img src="/images/SL-Going the Distance.jpg" style="width:85%">
 
 <img src="/images/SL-Peer Support Leaders.jpg" style="width:85%">
+
+<p><a href="/our-experience/Open-House-2022/2022/">
+<img style="width:25%" align=center src="/images/back.jpg">
+</a></p>
