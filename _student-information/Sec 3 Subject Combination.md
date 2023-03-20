@@ -6,27 +6,25 @@ description: ""
 ## Sec 3 Subject Combination
 
 #### 2023 Express:
-
 [Information for Sec 3 Express](/files/Sec%203E%20Subject%20Combi.pdf)<br>
-1 \. [Science](https://drive.google.com/file/d/1HVow8zSlFP1SPquim4mKAC3OR7wwp8kS/view) **REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-2 \. [Additional Mathematics](https://drive.google.com/file/d/1LMryO53TbbPyXQmH73Hqj55YpqDkcu-3/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-3 \. [Humanities](https://drive.google.com/file/d/1cAeuHN8T7ewlPDCWNsrBP6ZwQ41SQdol/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-4 \. [Principles of Accounts](https://drive.google.com/file/d/18MFXJJHLIs7IlJs3SjyGdaUCIV-kvvct/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-5 \. [Electronics](https://drive.google.com/file/d/14bdPB1tog-MLmwfm7pQFWOf-rmXI1NfY/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-6 \. [Art](https://drive.google.com/file/d/1omrrk6sJXbKoVwxQkXJb0VmTfGWD2Puy/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-7 \. [Design & Technology](https://drive.google.com/file/d/1bhL9USLcJ27r5xM4v9gVcCmnMX_FRslT/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-8 \. [Literature](https://drive.google.com/file/d/1yvhZGT0PqCptlws_P75ji02_V2uKgt5W/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**
+1 \. [Science](https://drive.google.com/file/d/1V78x0mc4rtp9VeplsL_fauAPwvph4J4B/view?usp=sharing)<br>
+2 \. [Additional Mathematics](https://drive.google.com/file/d/1j_C-Jo-dFJt4pvijxzXqCa6SxjdNkGiL/view?usp=sharing)<br>
+3 \. [Humanities](https://drive.google.com/file/d/12bKKrAlJEyx4H3X4uDkzSP1Wkek-wC4w/view?usp=sharing)<br>
+4 \. [Principles of Accounts](https://drive.google.com/file/d/1Z-FknhOPaEeGodBeSeYbACNtVs0-4tBL/view?usp=sharing)<br>
+5 \. [Electronics](https://drive.google.com/file/d/1kvJ4qHPa9kYwBekJwCl5w0BaQSZpgpPS/view?usp=sharing)<br>
+6 \. [Art](https://drive.google.com/file/d/1XPwNoybw7wwqaoFJ91-WnFf-YPEV2tex/view?usp=sharing)<br>
+7 \. [Design & Technology](https://drive.google.com/file/d/1eiFuFD2WP1Fs-wS-BxRMGGPG1rTb-04D/view?usp=sharing)<br>
+8 \. [English Literature](https://drive.google.com/file/d/15ckG_Qzjoxmz8IsjFeCOrX2zLON58vsl/view?usp=sharing)
 
 #### 2023 Normal Academic:
-
 [Information for Sec 3 Normal Academic](/files/Sec%203NA%20Subject%20Combi.pdf)<br>
-1 \. [Science](https://drive.google.com/file/d/1m1TAZHZQCnCA0yu92fF-y59oHtrVRFSQ/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-2 \. [Humanities](https://drive.google.com/file/d/1qIILfAOe-DD9H4OzcpkymNur204eMqsd/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-3 \. [Principles of Accounts](https://drive.google.com/file/d/1sT_MGr9YNNAjYekMaqT_56ssmOHou_0E/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-4 \. [Craft Tech subjects: Design & Technology, Art, Nutrition & Food Science](https://drive.google.com/file/d/1wyqKI3Q89RlQaQgq-nevUsf4TbYIxCWI/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**
+1 \. [Science](https://drive.google.com/file/d/1OgCAj2LeVpCZ_aePuXSsUOzvOMryEzvE/view?usp=sharing)<br>
+2 \. [Humanities](https://drive.google.com/file/d/16c6QYiCgWg3nKNtrKhZ4kO_jossD_Hf1/view?usp=sharing)<br>
+3 \. [Principles of Accounts](https://drive.google.com/file/d/1ZV8tZVM3J-6_n3zX_AaQilDfU02JhIHZ/view?usp=sharing)<br>
+4 \. [Craft Tech subjects: Design & Technology, Art, Nutrition & Food Science](https://drive.google.com/file/d/1F3FI8g8OT2gXoiSZItX1j0PUZ3xqIcgp/view?usp=sharing)
 
 #### 2023 Normal Technical:
-
 [Information for Sec 3 Normal Technical](/files/Sec%203NT%20Subject%20Combi.pdf)<br>
-1 \. [Smart Electrical Technology (SET)](https://drive.google.com/file/d/1qDfcn3deQj68vKeI47EChdxr72pndMwW/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**<br>
-2 \. [Art](https://drive.google.com/file/d/1cF2jIQh0M2kdVjuJmJa8V3Wr_LxX-gAh/view)**REQUIRE JACKSON'S INPUT MP4 VIDEO**
+1 \. [Smart Electrical Technology (SET)](https://drive.google.com/file/d/1XipmGQR_N8BFAVKJmUqGbI_-tQTddLMv/view?usp=sharing)<br>
+2 \. [Art](https://drive.google.com/file/d/1mEQxK3KP19nk2X81SfxoSP1g2R7epWIU/view?usp=sharing)<br>
+3 \. [Nutrition & Food Science](https://drive.google.com/file/d/1dXQCjBvXDvoZmOn8DH_j4BbAh9SGlx4w/view?usp=sharing)
