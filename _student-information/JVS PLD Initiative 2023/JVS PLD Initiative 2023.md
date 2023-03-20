@@ -41,3 +41,12 @@ In the meantime, if there are any further updates, we will alert parents through
 4 \. Please refer to the links below for more information<br>
 [IP2 - Parent Handbook I on Learning with a PLD_2023.pdf](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf)<br>
 [IP3 - Parent Handbook II on Learning with a PLD_2023.pdf](/files/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf)<br>
+[Student's Experience](http://www.youtube.com/watch?v=atVkNBXMVnY)<br>
+[Parents Voices](https://go.gov.sg/parent-voxpop-1)
+
+##### Support
+
+PLD@Library  
+1 \. Student's can proceed to the PLD corner in the library for technical support at the following timings:  
+     - Monday to Friday (Except Public and School Holidays), 2:30pm to 3:30pm  
+     -Students can contact the school general office to make arrangements during school holidays.
