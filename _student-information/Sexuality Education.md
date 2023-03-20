@@ -469,7 +469,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-#### At Jurongville Secondary School, the _eTeens_ programme will be implemented as follows in 2022:
+#### At Jurongville Secondary School, the _eTeens_ programme will be implemented as follows in 2023:
 
 | Topics/Lessons | Programme Learning Objectives | Time Period  <br>(e.g. Term 3 Week 9) |
 |:---:|---|---|
@@ -481,10 +481,8 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 10 \. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](/files/JVS_SEd_2022_Annex%20A.pdf). The completed form is to be submitted by 04/03/2022.
+11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](/files/JVS_SEd_2022_Annex%20A.pdf). The completed form is to be submitted by 10/03/2023.
 
-12 \. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable [here](/files/JVS_SEd_2022_Annex%20B.pdf). The completed form is to be submitted by 04/03/2022.
+12 \. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable [here](/files/JVS_SEd_2022_Annex%20B.pdf). The completed form is to be submitted by 10/03/2023.
 
 13 \. Parents can contact the school at 6563 8704 or [jurongville@moe.edu.sg](mailto:jurongville@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-
-14 \. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
