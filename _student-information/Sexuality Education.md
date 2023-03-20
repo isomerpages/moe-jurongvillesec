@@ -38,7 +38,7 @@ ii.  Character and Citizenship Education (CCE)
 
 #### At Jurongville Secondary School, the following Sexuality lessons will be taught in 2023:
 
-<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<center><img src="/files/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b style="background-color: initial;">SECONDARY 1</b>
 </div>
 <table width="100%">
@@ -58,7 +58,7 @@ ii.  Character and Citizenship Education (CCE)
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety
 </td>
-<td><span style="font-family: Arial, sans-serif; font-size: 11pt; background-color: initial;">Steady or Not<br></span>Lesson 1<br>(60 mins)<br>
+<td style="text-align: left;">Steady or Not<br></span>Lesson 1<br>(60 mins)<br>
 </td>
 <td style="text-align: left;">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline. 
 </td>
@@ -111,10 +111,9 @@ ii.  Character and Citizenship Education (CCE)
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;"><b style="background-color: initial;"><br></b>
-</div>
-<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
-<div style="text-align: center;"><b style="background-color: initial;">SECONDARY 2</b>
+<br>
+<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<div style="text-align: center;"><b>SECONDARY 2</b>
 </div>
 <table width="100%">
 <tbody>
@@ -187,10 +186,9 @@ confidence.<br><br>Students will also learn about the definitions of biological 
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;"><b style="background-color: initial;"><br></b>
-</div>
-<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
-<div style="text-align: center;"><b style="background-color: initial;">SECONDARY 3</b>
+<br>
+<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<div style="text-align: center;"><b>SECONDARY 3</b>
 </div>
 <table width="100%">
 <tbody>
@@ -234,13 +232,13 @@ confidence.<br><br>Students will also learn about the definitions of biological 
 <td>
 <div style="text-align: left;">
 <ul>
-<li><span style="background-color: initial;">know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.</span>
+<li style="text-align: left;">know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.
 </li>
-<li><span style="background-color: initial;">know that a decision to end a relationship will have consequences on oneself and others.</span>
+<li style="text-align: left;">know that a decision to end a relationship will have consequences on oneself and others.
 </li>
-<li><span style="background-color: initial;">know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</span>
+<li style="text-align: left;">know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.
 </li>
-<li><span style="background-color: initial;">know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</span>
+<li style="text-align: left;">know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.
 </li>
 </ul>
 </div>
@@ -266,10 +264,9 @@ confidence.<br><br>Students will also learn about the definitions of biological 
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;"><b style="background-color: initial;"><br></b>
-</div>
-<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
-<div style="text-align: center;"><b style="background-color: initial;">SECONDARY 4</b>
+<br>
+<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<div style="text-align: center;"><b>SECONDARY 4</b>
 </div>
 <table width="100%">
 <tbody>
@@ -308,29 +305,19 @@ confidence.<br><br>Students will also learn about the definitions of biological 
 <tr>
 <td>When Love Hurts <br>Lesson 2<br>(60 mins)<br>
 </td>
-<td style="text-align: left; width: 60px;"><span lang="EN-GB" style="font-size:11.0pt;font-family:
-&quot;Arial&quot;,sans-serif;mso-fareast-font-family:SimSun;mso-ansi-language:EN-GB;
-mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA"></span>This lesson aims to help
-students recognise unhealthy relationships and build their help-seeking skills.
-Students will learn to identify potential signs of an unhealthy relationship
-and recognise the different forms of dating violence. They will get to
-understand why dating violence occurs, why victims often feel “trapped” in such
-unhealthy relationships, and how one can get out of such a relationship safely.
-Students will learn when, where and how to seek help from trusted adults (e.g.
-family, teachers, school counsellors) in the supportive environment that they
-have if they or their friends are involved in an unhealthy relationship.
+<td style="text-align: left; width: 60px;">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.
 </td>
 <td>
 <div style="text-align: left;">
 <ul>
-<li><span style="background-color: initial;">know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</span>
+<li style="text-align: left;">know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.
 </li>
-<li>recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.
+<li style="text-align: left;">recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.
 </li>
-<li>understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.
+<li style="text-align: left;">understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.
 </li>
-<li>understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.
-</li><span style="background-color: initial;"></span>
+<li style="text-align: left;">understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.
+</li>
 </ul>
 </div>
 </td>
@@ -371,10 +358,9 @@ have if they or their friends are involved in an unhealthy relationship.
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;"><b style="background-color: initial;"><br></b>
-</div>
-<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
-<div style="text-align: center;"><b style="background-color: initial;">SECONDARY 5</b>
+<br>
+<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<div style="text-align: center;"><b>SECONDARY 5</b>
 </div>
 <table width="100%">
 <tbody>
@@ -423,7 +409,7 @@ have if they or their friends are involved in an unhealthy relationship.
 </th>
 <th>Programme Learning Objectives<br>
 </th>
-<th>Time Period<br><span lang="EN-GB" style="></span>(e.g. Term 3 Week 9)<br>
+<th>Time Period<br>(e.g. Term 3 Week 9)<br>
 </th>
 </tr>
 <tr>
@@ -432,13 +418,13 @@ have if they or their friends are involved in an unhealthy relationship.
 <td>
 <div style="text-align: left;">
 <ul>
-<li><span style="background-color: initial;">Awareness of the different STIs and HIV/AIDS</span>
+<li style="text-align: left;">Awareness of the different STIs and HIV/AIDS
 </li>
-<li><span style="background-color: initial;">Modes of transmission</span>
+<li style="text-align: left;">Modes of transmission
 </li>
-<li><span style="background-color: initial;">Modes of protection, specifically on how the condom is used</span>
+<li style="text-align: left;">Modes of protection, specifically on how the condom is used
 </li>
-<li><span style="background-color: initial;">Consequences and impact of STIs/HIV</span>
+<li style="text-align: left;">Consequences and impact of STIs/HIV
 </li>
 </ul>
 </div>
@@ -463,7 +449,7 @@ have if they or their friends are involved in an unhealthy relationship.
 
 _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
 
-#### eTeens Programme:
+#### _eTeens_ Programme:
 
 8 \. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
@@ -477,7 +463,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 </th>
 <th>Programme Learning Objectives<br>
 </th>
-<th>Time Period<br><span lang="EN-GB" style=""></span>(e.g. Term 3 Week 9)<br>
+<th>Time Period<br>(e.g. Term 3 Week 9)<br>
 </th>
 </tr>
 <tr>
@@ -486,13 +472,13 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 <td>
 <div style="text-align: left;">
 <ul>
-<li><span style="background-color: initial;">Awareness of the different STIs and HIV/AIDS</span>
+<li>Awareness of the different STIs and HIV/AIDS
 </li>
-<li><span style="background-color: initial;">Modes of transmission</span>
+<li>Modes of transmission
 </li>
-<li><span style="background-color: initial;">Modes of protection, specifically on how the condom is used</span>
+<li>Modes of protection, specifically on how the condom is used
 </li>
-<li><span style="background-color: initial;">Consequences and impact of STIs/HIV</span>
+<li>Consequences and impact of STIs/HIV
 </li>
 </ul>
 </div>
@@ -505,7 +491,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 </td>
 <td style="text-align: left;">
 <ul>
-<li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making&nbsp;
+<li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making
 </li>
 </ul>
 </td>
