@@ -46,5 +46,5 @@ _During the first month of me being in charge of the CCA, I was nervous thinking
 _Being in-charge of things that I do not know how to do at first was hard and not easy for me. It helped me to overcome my sense of fear of talking to others and try to bring the team together. Now I know that teamwork, leadership and sportsmanship are needed in the role. Being a Vice-president helped me increase my knowledge of leading the team and myself forward, while working along with the teachers makes me realise that leading is not easy as it seems to be. Leading makes me realise that you need a lot of courage to be able to talk to the whole team. Tchoukball has made me realise that you need a team to achieve, win and have fun with others by working together to strive for the same thing. Seeing the team having fun together in training makes it a memorable experience for me._  
 
 #### Training Schedule
-Tuesday 3.30pm - 5.30pm<br>
-Friday 3.30pm - 5.30pm
+Every Tuesday:     1430 – 1630 hrs<br>
+Every Friday:         1430 – 1700 hrs
