@@ -47,7 +47,7 @@ links:
   - title: Parents Information
     collection: parents-information
   - title: News
-    url: /news/news/
+    url: /news/gallery-events/
     sublinks:
       - title: Gallery of Events
         url: /news/gallery-events/
