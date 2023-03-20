@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Timetable/Exam Timetable.md
       - Timetable/.keep
       - Class Timetable.md
       - Class Mentors 2023.md
