@@ -15,12 +15,14 @@ Due to the Covid-19 situation, we have scaled down our face-to-face sessions and
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzY5ACERJ8Ezv-7mKj4AD7BOrIY84SDsFawYK4HVmzG42bpgZyO6Jhc7L0mXcalv5HMFWOYxCBuDgY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Student Leaders
+
 | Name | Appointment | Class |
 |:---:|---|---|
 | Ye Yonghong | Company Sergeant Major (CSM) 2020-2021 | 4EM |
 | Cayden Lee | Company Sergeant Major (CSM) 2021-2022 | 3RP |
 
 #### Key Achievements
+
 | JVS |
 |:---:|
 | 2019 Boys' Brigade Blaze (Seniors Programme) : Bronze Honour Roll |
@@ -32,4 +34,4 @@ Due to the Covid-19 situation, we have scaled down our face-to-face sessions and
 _I would like to thank the officers, primers and squadmates for giving me the opportunity to serve the company, I am also very thankful for the support of my squadmates for the past 3 years in Boy’s Brigade and I will serve the company to the best of my ability._
 
 #### Training Schedule
-Saturday 8.30am – 12.30pm 
+Saturday 8.30am – 12.30pm
