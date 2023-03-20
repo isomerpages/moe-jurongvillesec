@@ -5,8 +5,7 @@ description: ""
 ---
 ## Character Development
 
-The school believes that character is the first and foremost element that will prepare our students to be world ready. We are committed in providing each student with a holistic education and in nurturing citizens of character who are active contributors of our society.  
-
+The school believes that character is the first and foremost element that will prepare our students to be world ready. We are committed in providing each student with a holistic education and in nurturing citizens of character who are active contributors of our society.   <br>
 Our Character and Citizenship Education (CCE) programme strives to impact every student through internalizing of values through authentic learning experiences.
 
 The Character and Citizenship Education (CCE) programme in Jurongville encompasses the following key areas:  
