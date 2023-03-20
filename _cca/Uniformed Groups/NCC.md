@@ -44,4 +44,4 @@ _I am hopeful for future where we can resume our NCC activities as per normal. T
 _Whenever I put on my NCC uniform, I feel proud as I am learning to serve my country. I also learnt one very important thing in NCC which is, ‘One for all, all for one.’ This was possible through the exemplary leadership shown by my seniors. The training sessions have improved my character and I found myself applying the NCC core values in other aspects of my life. I hope that my seniors will continue to patiently guide and teach me in NCC and that I may one day inspire others as well._
 
 #### Training Schedule
-Friday 3.30pm to 5.30pm
+Friday 2.30pm to 5.30pm
