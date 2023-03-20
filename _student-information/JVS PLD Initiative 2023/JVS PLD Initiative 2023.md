@@ -48,5 +48,13 @@ In the meantime, if there are any further updates, we will alert parents through
 
 PLD@Library  
 1 \. Student's can proceed to the PLD corner in the library for technical support at the following timings:  
-     - Monday to Friday (Except Public and School Holidays), 2:30pm to 3:30pm  
-     -Students can contact the school general office to make arrangements during school holidays.
+*  Monday to Friday (Except Public and School Holidays), 2:30pm to 3:30pm  
+* Students can contact the school general office to make arrangements during school holidays.
+		 
+Service Center<br>
+**Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions**<br>
+3 Irving Road, #01-17 Singapore 369522 (Beside Tai Seng MRT station, Exit A)<br>
+#03-19/20 Singapore 179097<br>
+Working Hours :Monday – Friday 11:00am – 7:00pm (closed on Sunday and Public Holidays)<br>
+Tel: 68714838     Email: [lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br>
+Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo)
