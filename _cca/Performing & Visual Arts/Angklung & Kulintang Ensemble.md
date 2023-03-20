@@ -19,6 +19,7 @@ Through these challenging times, the Ensemble is confident that the students’ 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTHevyZUc4KFSmLbYO-GSlyeGXpdjH3sPFhbey6reQj3U57k8BBODokYpeUZhxl92hihTsCYTXQw7D/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Student Leaders
+
 | Name | Appointment | Class |
 |:---:|---|---|
 | KANNAN SUBALAKSHMI | Chairperson | 3 Passion |
@@ -26,6 +27,13 @@ Through these challenging times, the Ensemble is confident that the students’ 
 | KOH ZHI YI CHLOE | Vice- Chairperson | 3 Passion |
 
 #### Key Achievements
+
+|   |
+|:-:|
+| 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment  |
+|  2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
+| 2017 Singapore Youth Festival Arts Presentation: Certificate of Distinction  |
+|   |
 
 #### Students' voices
 **SHIVANESWARY D/O SARAVANAN (3-Respect, 2021)** <br>
