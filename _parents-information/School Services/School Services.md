@@ -12,6 +12,8 @@ Name of Supplier: KH Uniform Pte Ltd<br>
 Tel Number: 6479 6811<br>
 Sales Enquiry: [sales@khuniform.com](mailto:sales@khuniform.com)
 
+The school uniforms are also available at the school bookshop during the school terms.
+
 #### School Textbooks & Stationery
 
 [Click here for 2021 Booklist](Booklist.md)<br>
