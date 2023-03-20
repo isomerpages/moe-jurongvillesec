@@ -3,7 +3,6 @@ title: Clubs
 permalink: /cca/permalink/info-club/
 description: ""
 ---
-
 ## Infocomm Club
 
 #### About
@@ -17,6 +16,7 @@ The club also aims to cultivate leadership capabilities and forge strong friends
 **REQUIRE JACKSON'S INPUT VIDEO**
 
 #### Student Leaders
+
 | Name | Appointment | Class |
 |:---:|---|---|
 | LEE ZHENGRUI RYAN | President | 3DP |
@@ -28,6 +28,7 @@ The club also aims to cultivate leadership capabilities and forge strong friends
 | SHASHREEK ARUN | EXCO member | 3DP |
 
 #### Key Achievements
+
 | JVS |
 |:---:|
 | Infocomm members collaborated with ALP students in&nbsp;**First Lego League 2021**. The team won&nbsp;**“Best Newcomer” award**. |
@@ -46,5 +47,4 @@ _It has been a meaningful 4 years. I too was able to find my talent in my cca wh
 _These 4 years have been a very long yet rewarding experience for me. It has been fun teaching my juniors how to handle events as such, it is something that I will cherish for the rest of my life._  
 
 #### Training Schedule
-Tuesday 3.30pm -5.30pm<br>
-Friday 2.30pm - 4.30pm
+Every Tuesday     3.00pm -6.00pm
