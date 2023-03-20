@@ -4,14 +4,14 @@ permalink: /about-us/sch-management-committee/
 description: ""
 ---
 ## School Management Committee
-<table style="width=100%; border=1;">
+<table width="100%" border="1">
 <tbody>
 <tr>
-<th width="36%" style="">Designation
+<th width="36%" style="border:1;">Designation
 </th>
-<th width="30%" style="">Name
+<th width="30%" style="border:1;">Name
 </th>
-<th width="33%" style="">Staff Contact
+<th width="33%" style="border:1;">Staff Contact
 </th>
 </tr>
 <tr><td style="width: 60px;">Principal</td>
