@@ -17,6 +17,8 @@ Upper Secondary students have the opportunity to specialise in programmes that s
 #### ALP in Action
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3jzPYcr3DVH3nHiGq1wwPsqvhUC9BbNWOBOPTFEoCftfmG4uqw5U36lId-qjwfG3d3aZCzQhw6Exn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+Students with keen interest in electronics also represent the school in national STEM-related competitions.
+
 #### ALP Competition &amp; Outreach
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2RSq3UalEXIsJ_ukNpMORjz8lxvsH_BfMQht5yP2ZuDCdhmVIbY0ZTCbe1b-Za-IuukR4EhPXTI-Y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
