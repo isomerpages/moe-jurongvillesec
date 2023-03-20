@@ -17,6 +17,7 @@ As of September 2021, the Jurongville Gryphon Scouts Troop has achieved the Fran
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRShgQKzu5EQgJCeVK-nzCbocCo7nM1S0HdRWEh1bdiVmgTSEYsOYDTYwSqpv6vxnjlmcEIFjbSNy22/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Student Leaders
+
 | Name | Appointment | Class |
 |:---:|---|---|
 | Siow Yi Xiang, Caden | Troop Leader | 3IN |
@@ -24,6 +25,7 @@ As of September 2021, the Jurongville Gryphon Scouts Troop has achieved the Fran
 | Ling Jia He | Patrol Leader | 3DP |
 
 #### Key Achievements
+
 | JVS |
 |:---:|
 | 2019 Frank Cooper Sands Gold Award |
