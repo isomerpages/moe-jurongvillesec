@@ -470,12 +470,50 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 #### At Jurongville Secondary School, the _eTeens_ programme will be implemented as follows in 2023:
-
-| Topics/Lessons | Programme Learning Objectives | Time Period  <br>(e.g. Term 3 Week 9) |
-|:---:|---|---|
-| Mass Talk by HPB appointed vendor | *   Awareness of the different STIs and HIV/AIDS<br>*   Modes of transmission<br>*   Modes of protection, specifically on how the condom is used<br>*   Consequences and impact of STIs/HIV | Term 3 Week 2 |
-| Classroom-based Lesson | *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 3 |
-|  |  |  |
+<table>
+<tbody>
+<tr>
+<th>Topics/Lessons
+</th>
+<th>Programme Learning Objectives<br>
+</th>
+<th>Time Period<br><span lang="EN-GB" style=""></span>(e.g. Term 3 Week 9)<br>
+</th>
+</tr>
+<tr>
+<td style="text-align: left;">Mass Talk by HPB appointed vendor<br>
+</td>
+<td>
+<div style="text-align: left;">
+<ul>
+<li><span style="background-color: initial;">Awareness of the different STIs and HIV/AIDS</span>
+</li>
+<li><span style="background-color: initial;">Modes of transmission</span>
+</li>
+<li><span style="background-color: initial;">Modes of protection, specifically on how the condom is used</span>
+</li>
+<li><span style="background-color: initial;">Consequences and impact of STIs/HIV</span>
+</li>
+</ul>
+</div>
+</td>
+<td>Term 3 Week 2
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">Classroom-based Lesson<br>
+</td>
+<td style="text-align: left;">
+<ul>
+<li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making&nbsp;
+</li>
+</ul>
+</td>
+<td>Term 3 Week 3<br>
+</td>
+</tr>
+</tbody>
+</table>
 
 #### INFORMATION FOR PARENTS
 
