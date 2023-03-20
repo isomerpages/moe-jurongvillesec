@@ -14,12 +14,12 @@ Both schools were led by a string of outstanding principals. The founding princi
 
 **Principals of Jurongville Secondary and Hong Kah Secondary from 1994 to 2018**
 
-<table style="width:100%; border=1;">
+<table width="100%" border="1">
 <tbody>
 <tr>
-<th style="width:50%; border=1;">Principals of JurongvilleSecondary School<br>
+<th width="50%" border="1">Principals of JurongvilleSecondary School<br>
 </th>
-<th style="width:50%; border=1;">Principals of Hong KahSecondary School<br>
+<th width="50%" border="1">Principals of Hong KahSecondary School<br>
 </th>
 </tr>
 <tr>
