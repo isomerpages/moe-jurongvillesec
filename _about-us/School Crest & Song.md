@@ -15,8 +15,9 @@ Featuring both the English and Chinese names of the school, the new crest signif
 Set against the globe, the two leaves represent the students and their growth in a nurturing school environment. The globe represents the school’s aspiration to help all students acquire the values, knowledge and skills necessary to thrive and live meaningfully in Singapore and beyond.
 
 #### School Song
-
-**REQUIRE JACKSON'S INPUT AUDIO**
+<audio src="/files/JVS%20School%20Song.mp3" controls="">
+<p>If you are reading this, it is because your browser does not support the audio element.</p>
+</audio><br>
 
 <p align="center">
 We are the students from Jurongville <br>
