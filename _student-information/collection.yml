@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Class Timetable.md
       - Class Mentors 2023.md
       - Counselling and Other Support.md
       - Sec 3 Subject Combination.md
