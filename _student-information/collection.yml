@@ -1,7 +1,0 @@
-collections:
-  student-information:
-    output: true
-    order:
-      - Timetable/.keep
-      - NDLP/.keep
-      - Class Mentors 2022.md
