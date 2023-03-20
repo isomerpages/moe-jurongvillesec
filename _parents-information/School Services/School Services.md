@@ -16,10 +16,10 @@ The school uniforms are also available at the school bookshop during the school 
 
 #### School Textbooks & Stationery
 
-[Click here for 2021 Booklist](Booklist.md)<br>
-Name of Supplier: Print-Pak & Marketing Pte Ltd
-Venue: School Bookshop @ Canteen
-Tel Number: 8756 2083
-Email: [www.printpak.com.sg/enquiry](www.printpak.com.sg/enquiry)
+[Click here for 2023 Booklist](/parents-information/School-Services/booklist/)<br>
+Venue: School Bookshop @ Canteen<br>
+Name of Supplier: Print-Pak & Marketing Pte Ltd<br>
+Tel Number: 8756 2083<br>
+Email: [www.printpak.com.sg/enquiry](http://www.printpak.com.sg/enquiry)
 
 Operating Hours: 9.00am – 12.00pm & 1.00pm – 3.00pm (last customer order at 2.30pm)
