@@ -2,7 +2,7 @@
 layout: homepage
 title: Jurongville Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/photo1669487665.jpeg
+image: /images/JVSS_Logo.png
 permalink: /
 notification: ""
 sections:
