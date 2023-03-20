@@ -25,6 +25,7 @@ CO will always be there for us, through and through. With new members joining us
 **REQUIRE JACKSON'S INPUT VIDEO**
 
 #### Student Leaders
+
 | Name | Appointment | Class |
 |:---:|---|---|
 | Kwek Sin En | President | 4IN |
@@ -38,6 +39,7 @@ CO will always be there for us, through and through. With new members joining us
 | R Harshini Shree Nair | Section Leader (Cello/Bass) | 4PE |
 
 #### Key Achievements and Activities
+
 | JVS |
 |:---:|
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
@@ -56,5 +58,5 @@ _“Chinese Orchestra is not merely about playing an instrument. Joining this CC
 
 #### Training Schedule
 
-Tuesday 3:30pm - 5:30pm<br>
-Friday 2:00pm - 4:00pm
+Every Tuesday     3:00pm - 5:00pm<br>
+Every Friday         1:00pm - 3:00pm
