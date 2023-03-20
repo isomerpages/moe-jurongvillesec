@@ -3,6 +3,11 @@ title: School History
 permalink: /about-us/sch-history/
 description: ""
 ---
+<style>
+  table, th, td {
+  border: 1px solid black;
+}
+</style>
 ## School History
 
 In 2019, Jurongville Secondary School merged with Hong Kah Secondary School. The merger decision and its intent was shared by the Ministry of Education with the two schools in April 2017. After the decision was shared with all students, staff, parents and stakeholders, both schools collaborated closely to ensure a smooth transition when school reopened in January 2019.
@@ -13,15 +18,50 @@ Both schools were led by a string of outstanding principals. The founding princi
 
 **Principals of Jurongville Secondary and Hong Kah Secondary from 1994 to 2018**
 
-| Principals of JurongvilleSecondary School | Principals of Hong KahSecondary School |
-|:---:|---|
-| Mdm Sun Huey Min (1994- 1995) | Mrs Yeo Chin Nam (1994 – 1997) |
-| Mr Mohd Khairunan (1996 – 2000) | Ms Tay Bee Hian Dorothy (1998 – 2000) |
-| Mr Ong Kock Hua (2001 – 2006) | Mrs Mary Bay Chua May Lin (2001 - 2007) |
-| Mr. Shawal Bin Hussin (2007 – 2013) | Mrs Tan Wan Yu (2008 - 2013) |
-| Mr Benny Lee Kah Chong (2014- 2015) | Mdm Sung Mee Har (2014 - 2018) |
-| Mdm Flora Ong Fei Min (2016 – 2018) |  |
-| Mr Chan Yew Wooi (2018 - 2022) |  |
+<table width="100%">
+<tbody>
+<tr>
+<th width="50%">Principals of JurongvilleSecondary School<br>
+</th>
+<th width="50%">Principals of Hong KahSecondary School<br>
+</th>
+</tr>
+<tr>
+<td>Mdm Sun Huey Min (1994- 1995)
+</td>
+<td>Mrs Yeo Chin Nam (1994 – 1997)
+</td>
+</tr>
+<tr>
+<td>Mr Mohd Khairunan (1996 – 2000)
+</td>
+<td>Ms Tay Bee Hian Dorothy (1998 – 2000)
+</td>
+</tr>
+<tr>
+<td>Mr Ong Kock Hua (2001 – 2006)
+</td>
+<td>Mrs Mary Bay Chua May Lin (2001 - 2007)
+</td>
+</tr>
+<tr>
+<td>Mr. Shawal Bin Hussin (2007 – 2013)
+</td>
+<td>Mrs Tan Wan Yu (2008 - 2013)
+</td>
+</tr>
+<tr>
+<td>Mr Benny Lee Kah Chong (2014- 2015)
+</td>
+<td>Mdm Sung Mee Har (2014 - 2018)
+</td>
+</tr>
+<tr>
+<td>Mdm Flora Ong Fei Min (2016 – 2018)
+</td>
+<td>
+</td>
+  </tr></tbody></table>
 
 Mr Chan Yew Wooi, previously Director / Professional Development, Academy of Singapore Teachers, was appointed principal of Jurongville Secondary School from 15 December 2018.
 
