@@ -58,3 +58,9 @@ Service Center<br>
 Working Hours :Monday – Friday 11:00am – 7:00pm (closed on Sunday and Public Holidays)<br>
 Tel: 68714838     Email: [lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br>
 Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo)
+
+**Acer Computer (Singapore) Pte Ltd**<br>
+29 International Business Park #01-07, Acer Building, Tower A, 609923<br>
+Service Centre Tel: 68956297<br>
+Contact Centre Tel: 1800 8956299<br>
+Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)
