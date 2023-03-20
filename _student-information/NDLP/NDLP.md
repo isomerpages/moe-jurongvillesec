@@ -2,47 +2,46 @@
 title: NDLP
 permalink: /student-information/NDLP/ndpl/
 description: ""
-third_nav_title: NDLP
+third_nav_title: JVS PLD Initiative 2023
 ---
-## NDLP
+## JVS PLD Initiative 2023
 
-#### National Digital Literacy Programme (NDLP)in Jurongville
+#### A Part of the National Digital Literacy Programme (NDLP)
 
 #### Our Vision for Learning
 
 Jurongville aims to be a vibrant and nurturing community of passionate and resilient learners. Through NDLP, we will leverage technology to help us get there.
 
-When our teachers skilfully design lessons that integrate technology meaningfully, we believe that our students will&nbsp;  
+When our teachers skillfully design lessons that integrate technology meaningfully, we believe that our students will 
+* Learn more actively
+* Think more Critically and Creatively
+* Experience more joy and success at learning. 
 
-*   Learn more actively
-*   Think more Critically and Creatively
-*   Experience more joy and success at learning.&nbsp;
-
-At the broader level, the wider and deeper use of technology in learning will better prepare our students for the post-COVID world. Our students will be expected to have good digital skills, and to use those skills confidently and competently at work and in life.  
+At the broader level, the wider and deeper use of technology in learning will better prepare our students for the post-COVID world. Our students will be expected to have good digital skills, and to use those skills confidently and competently at work and in life.
 
 At the same time, we would also need to equip our students with the ability to manage their usage of devices, so that they remain in control of the ‘machines’, rather than the other way round. Their personal well-being will be enhanced through greater emphasis on Cyberwellness next year.
 
 #### Parent Engagement
 
-We aim to explain more about our school’s plans for NDLP in January 2021. If the COVID-19 situation allows, we hope to invite parents to school for a conversation on this important change in the way students learn in school.  
+We will be inviting Sec 1 Parents in Jan 2023 to a parent engagement session where we will be sharing  on this important change in the way students learn in school.
 
-In the meantime, if there are any further updates, we will alert parents through Parents’ Gateway and publish them on the school’s website.  
-  
-(To be updated) <br>
-1 \.  Letter to Parents October 2020<br>
-2 \.  Letter to Parents January 2021<br>
-3 \.  Letter to Parents July 2021 (Latest)<br>
-4 \.  Letter to Parents for Device Management Application / Annex A
+In the meantime, if there are any further updates, we will alert parents through Parents’ Gateway and publish them on the school’s website.
 
-#### NDLP Parent Engagement Session
+#### JVS PLD Initiative Parent Engagement Session
 
-1 \. Presentation slides (To be updated)  
-  
-2 \. FAQs (To be updated)  
-  
-3 \. Specifications for Chrome Book (To be updated)  
-  
-4 \. Application for Subsidy for ELP (Singaporeans) (To be updated)  
+1. Presentation slides 
+JVS Parent Engagement for Web.pdf
+
+2. Specifications for Chrome Book for 2023 will be announced during the parent engagement session.
+
+3. Click the link below to proceed to register for the PLDs.
+Pdlpadmin
+
+4. Please refer to the links below for more information
+IP2 - Parent Handbook I on Learning with a PLD_2023.pdf
+IP3 - Parent Handbook II on Learning with a PLD_2023.pdf
+Student's Experience
+Parents Voices
   
 5 \. Click here&nbsp;to proceed to register for the PLDs. (To be updated)  
   
