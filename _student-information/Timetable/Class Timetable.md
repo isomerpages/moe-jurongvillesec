@@ -6,7 +6,7 @@ third_nav_title: Timetable
 ---
 ## Class Timetable
 
-#### 2022 SEM2 (Update on 25/07/2022)
+#### 2023 SEM1 (Update on 03/01/2023)
 **Secondary 1**
 
 |  |  |  |  |
