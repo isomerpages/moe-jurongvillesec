@@ -7,7 +7,6 @@ third_nav_title: Uniformed Groups
 ## Girl Guides
 
 #### About
-
 In line with Girl Guides Singapore’s mission to enable girls and young women to develop their fullest potential as responsible citizens of the world, the Jurongville Girl Guides (1st Company) programme strives to provide a structured and holistic learning experience for every student.
 
 In 2021, the Jurongville Girl Guides also took part in a series of activities as part of this year’s World Thinking Day celebrations aligned to the theme of ‘SDGs x Peacebuilding’. A central focus of Girl Guides Singapore, the United Nations Sustainable Development Goals (UN SDGs) are the responsibility of every global citizen. A group of Girl Guides spearheaded an environmental sustainability project to encourage their schoolmates to adopt environmentally-friendly habits by recycling one-use plastic bottles. Another group of Guides also collaborated with the Secondary 1 Peer Support Leaders to conduct a series of lessons on cyberwellness during CCE periods.&nbsp;&nbsp;
@@ -19,31 +18,25 @@ An international movement, Girl Guiding remains committed to honing every girl�
 _P.S. The Puan Noor Aishah Award was discontinued for one year in 2020 due to the disruptions created by the pandemic._
 
 #### CCA Photo
-
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReadJIHMB3lIeI5MnqzMsgIkf-aisHEf_KpxN5aJ8YpReEs6W_liSSwN1XBHuRp34raxL4-a-0sVmD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Student Leaders
-
 | Name | Appointment | Class |
 |:---:|---|---|
 | Violet Ng Shi En | Company Leader | 3EM |
 | Lau Xin Yu | Assistant Company Leader | 3IN |
 | Farah Nadia Binte Badrolizam | Assistant Company Leader | 3RP |
-|  |  |  |
 
 #### Key Achievements
-
-|  |
+| JVS |
 |:---:|
 | 2019 Puan Noor Aishah Award: Gold |
 | 2018 Puan Noor Aishah Award: Gold |
 | 2017 Puan Noor Aishah Award: Gold |
 | 2016 Puan Noor Aishah Award: Gold |
 | 2015 Puan Noor Aishah Award: Gold |
-|  |
 
 #### Students' voices
-
 **Ng Choi Yin (4E1), Company Leader (2019-2020):** <br>
 _As a Girl Guide, I've experienced many things I probably wouldn't have if I had joined another CCA. From annual campfires, new adventures, to learning new skills and developing those that I presently have, I will always cherish these memories created and the impressions we've left behind. I developed many important life skills including the ability to communicate with others effectively, how to be a better person and how to compromise with others in difficult situations.  
 To my juniors, I hope you'll continue on your path of self-discovery, be prepared in all that you do, and be empowered by the Guiding Light._  
@@ -53,5 +46,4 @@ _I’ve learnt so much throughout my Guiding journey and made a lot of new frien
 To my juniors, I hope all of you can strive to make JVGG a better place for all Guides. I believe all of you can do it. All the best, girls!_
 
 #### Training Schedule
-
-Every Friday, 2.00 pm - 5.00 pm
+Friday 2.00pm - 5.00pm
