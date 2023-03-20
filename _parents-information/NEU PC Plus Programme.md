@@ -9,8 +9,12 @@ The NEU PC Plus Programme offers Singapore Citizen or Permanent Resident full ti
 
 #### Enhancements for Covid-19 period
 
-IMDA has recently enhanced the NEU PC Plus programme to further support home-based learning (HBL) during the Covid-19 period. These enhancements include:<br>
-* upward revision to the income criteria for eligibility:
+Reference Document: “Neu PC Plus - Faster access to digital technology for low-income families”<br>
+[Neu PC Plus - Faster access to digital tecl](/files/Neu%20PC%20Plus%20-%20Faster%20access%20to%20digital%20technology%20for%20low-income%20families.pdf)
+
+IMDA has recently enhanced the NEU PC Plus programme to further support home-based learning (HBL) during the Covid-19 period. These enhancements include:
+
+*   upward revision to the income criteria for eligibility:
 
 | **PC-Bundle Scheme with % copayment** | **PC-Bundle Scheme with iNSPIRE Fund** |
 |:---:|---|
