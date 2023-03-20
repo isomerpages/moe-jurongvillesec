@@ -3,15 +3,8 @@ title: School Management Committee
 permalink: /about-us/sch-management-committee/
 description: ""
 ---
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
-</head>
 ## School Management Committee
-<table style="100%">
+<table style="width=100%; border=1;">
 <tbody>
 <tr>
 <th width="36%" style="">Designation
