@@ -18,36 +18,22 @@ description: ""
 5 \.  Plan and carry out interesting activities for PSG members
 
 **The teachers who will be working most closely with PSG members are:**<br>
-1 \.  Dr Mohammad Shah B Razak (HOD PE/CCA)<br>
-2 \.  Mrs Quek-Chang Way Lie (LT/NFS)<br>
-3 \.  Mrs Chan Lay Yean <br>
-4 \.  Mdm Meenakshi
+1 \.  Ms Karmila Binte Asari (LH / Mathematics)<br>
+2 \.  Ms Ethel Chng Shu Ping (ST / Chemistry)
 
 #### Parent Representatives for Different Levels in 2021
 
-|  |  |
+| Level | Representatives |
 |:---:|---|
-| Secondary 1 | Mdm Jasmine Tan |
-| Secondary 1 | Mdm Suriani Binte Tokiman |
-| Secondary 2 | Mdm Josephine Tan Hui Choo |
-| Secondary 3 | Mdm Samantha See |
-| Secondary 4 and 5 | Mrs Kee Hwee Sin |
-| Secondary 4 and 5 | Mdm Doris Lee |
-|  |  |
-
-#### PARENT SUPPORT GROUP (PSG) MEMBERSHIP
-
-Dear Parent,<br>
-Thank you for your interest to join the PSG. Kindly fill in the information through the link [https://qrgo.page.link/8ux8F](https://qrgo.page.link/8ux8F) **FORM NOT AVAILABLE** or scan the QR quote.
-
-<img src="/images/QR-Code.png" style="width:30%">
+| Secondary 1 | Mdm Karen Toh |
+| Secondary 1 | Mdm Mellissa Chong |
+| Secondary 2 | Mrs Kee Hwee Sin |
+| Secondary 3 | Mdm Jasmine Tan |
+| Secondary 4 | Mdm Josephine Chiun |
 
 #### Events
 
-##### Breakfast with School Leaders for Sec 1 PSG members
+##### Breakfast with School Leaders for PSG members
 
-<figure>
-<figcaption>On 19 February 2021, our Sec 1 PSG parents were invited to a Breakfast session with our School Leaders. It was an enjoyable session where the teachers and school leaders got to know more about our parents and also for the parents to know more about our school.
- </figcaption>
-<img src="/images/JVS-2021-PSG-P1.jpg" style="width:90%">
-</figure>
+On 3 February 2023, our PSG leaders were invited to a Breakfast session with our School Leaders. It was an enjoyable session where our parent representatives, teachers, and school leaders got to know each other, and discuss different matters to support our students.<br>
+<img src="/images/2023%20PSG%20Breakfast%20with%20Principal.jpg" style="width:90%">
