@@ -46,5 +46,5 @@ _‘Being in Angklung has developed me into a resilient person. The first year h
 _‘Ever since joining the Angklung &amp; Kulintang Ensemble, I really learnt so much from it. I literally had no whatsoever experience in playing instruments and so I was kind of nervous when I first joined it. However, now that I have spent 1 and a half years in it, I feel a sense of home and comfort with all of my friends getting together to learn how to read chords and how to play music pieces as one. Though I may have struggled at first, I wouldn't be here without my supportive friends and CCA teachers. Joining this CCA has really been a eye-opening experience and I cannot wait for what the future brings us!’_  
 
 #### Training Schedule
-Tuesday 3.30pm - 5.30pm<br>
-Friday 2.30pm - 3.30pm
+Every Tuesday:     1500hrs - 1700hrs<br>
+Every Friday:         1400hrs - 1600hrs
