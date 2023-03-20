@@ -3,11 +3,7 @@ title: School History
 permalink: /about-us/sch-history/
 description: ""
 ---
-<style>
-  table, th, td {
-  border: 1px solid black;
-}
-</style>
+
 ## School History
 
 In 2019, Jurongville Secondary School merged with Hong Kah Secondary School. The merger decision and its intent was shared by the Ministry of Education with the two schools in April 2017. After the decision was shared with all students, staff, parents and stakeholders, both schools collaborated closely to ensure a smooth transition when school reopened in January 2019.
@@ -18,7 +14,7 @@ Both schools were led by a string of outstanding principals. The founding princi
 
 **Principals of Jurongville Secondary and Hong Kah Secondary from 1994 to 2018**
 
-<table width="100%">
+<table width="100%" border="1">
 <tbody>
 <tr>
 <th width="50%">Principals of JurongvilleSecondary School<br>
