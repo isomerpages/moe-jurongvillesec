@@ -3,6 +3,13 @@ title: School History
 permalink: /about-us/sch-history/
 description: ""
 ---
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
 
 ## School History
 
