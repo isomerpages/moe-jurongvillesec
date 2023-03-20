@@ -34,4 +34,7 @@ Due to the Covid-19 situation, we have scaled down our face-to-face sessions and
 _I would like to thank the officers, primers and squadmates for giving me the opportunity to serve the company, I am also very thankful for the support of my squadmates for the past 3 years in Boy’s Brigade and I will serve the company to the best of my ability._
 
 #### Training Schedule
-Saturday 8.30am – 12.30pm
+
+Saturdays: 0830 – 1230
+
+During Covid19 Phase 2: 0930 - 1200
