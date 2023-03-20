@@ -38,7 +38,7 @@ ii.  Character and Citizenship Education (CCE)
 
 #### At Jurongville Secondary School, the following Sexuality lessons will be taught in 2023:
 
-<center><img src="/files/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b style="background-color: initial;">SECONDARY 1</b>
 </div>
 <table width="100%">
