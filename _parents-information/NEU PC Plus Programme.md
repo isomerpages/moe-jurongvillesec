@@ -11,6 +11,7 @@ The NEU PC Plus Programme offers Singapore Citizen or Permanent Resident full ti
 
 IMDA has recently enhanced the NEU PC Plus programme to further support home-based learning (HBL) during the Covid-19 period. These enhancements include:<br>
 * upward revision to the income criteria for eligibility:
+
 | **PC-Bundle Scheme with % copayment** | **PC-Bundle Scheme with iNSPIRE Fund** |
 |:---:|---|
 | Monthly Household Income ≤ $3,400 or<br>Per Capita Income ≤ $900 (or ≤ $1,125 if there is<br>a permanently disabled family member) | Monthly Household Income ≤$2,500 or<br>Per Capita Income ≤$700 |
