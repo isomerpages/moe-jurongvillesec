@@ -2,7 +2,7 @@
 layout: homepage
 title: Jurongville Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/JVSS_Logo.png
+image: /images/JVSS_2020.ico
 permalink: /
 notification: ""
 sections:
@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: announcement 1
           description: New Update!
-          url: /parents-information/Term-Letters/tl/2023%20End%20of%20Term%201_2023_for%20publication.pdf
+          url: /parents-information/Term-Letters/tl/
         - title: announcement 2
           description: Outstanding Youth Award 2023
           url: https://form.gov.sg/632822e0410f8c0012492429
