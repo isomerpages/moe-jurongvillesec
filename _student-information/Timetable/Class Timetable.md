@@ -7,41 +7,138 @@ third_nav_title: Timetable
 ## Class Timetable
 
 #### 2023 SEM1 (Update on 03/01/2023)
-**Secondary 1**
-
-|  |  |  |  |
-|:---:|---|---|---|
-| [1 Discipline](/files/Term3%201DP.pdf) | [1 Empathy](/files/Term3%201EM.pdf) | [1 Integrity](/files/Term3%201IN.pdf) | [1 Passion](/files/Term3%201PA.pdf) |
-| [1 Perseverance](/files/Term3%201PE.pdf) | [1 Resilience](/files/Term3%201RS.pdf) | [1 Respect](/files/Term3%201RP.pdf) |  |
-|  |  |  |  |
-
-**Secondary 2**
-
-|  |  |  |  |
-|:---:|---|---|---|
-| [2 Discipline](/files/Term3%202DP.pdf) | [2 Empathy](/files/Term3%202EM.pdf) | [2 Integrity](/files/Term3%202IN.pdf) | [2 Passion](/files/Term3%202PA.pdf) |
-| [2 Perseverance](/files/Term3%202PE.pdf) | [2 Resilience](/files/Term3%202RS.pdf) | [2 Respect](/files/Term3%202RP.pdf) |  |
-|  |  |  |  |
-
-**Secondary 3**
-
-|  |  |  |  |
-|:---:|---|---|---|
-| [3 Discipline](/files/Term3%203DP.pdf) | [3 Empathy](/files/Term3%203EM.pdf) | [3 Integrity](/files/Term3%203IN.pdf) | [3 Passion](/files/Term3%203PA.pdf) |
-| [3 Perseverance](/files/Term3%203PE.pdf) | [3 Resilience](/files/Term3%203RS.pdf) | [3 Respect](/files/Term3%203RP.pdf) |  |
-|  |  |  |  |
-
-**Secondary 4**
-
-|  |  |  |  |
-|:---:|---|---|---|
-| [4 Discipline](/files/Term3%204DP.pdf) | [4 Empathy](/files/Term3%204EM.pdf) | [4 Integrity](/files/Term3%204IN.pdf) | [4 Passion](/files/Term3%204PA.pdf) |
-| [4 Perseverance](/files/Term3%204PE.pdf) | [4 Resilience](/files/Term3%204RS.pdf) | [4 Respect](/files/Term3%204RP.pdf) |  |
-|  |  |  |  |
-
-**Secondary 5**
-
-|  |
-|:---:|
-| [5 Passion](/files/Term3%205PA.pdf) |
-|  |
+<table width="100%">
+<tbody>
+<tr>
+  
+<th colspan="4">Secondary 1
+</th>
+  
+</tr>
+<tr>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 1DP.pdf" target="_blank">1 Discipline</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 1EM.pdf" target="_blank">1 Empathy</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 1IN.pdf" target="_blank">1 Integrity</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 1PA.pdf" target="_blank">1 Passion</a>
+</td>
+</tr>
+<tr>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 1PE.pdf" target="_blank">1 Perseverance</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 1RS.pdf" target="_blank">1 Resilience</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 1RP.pdf" target="_blank">1 Respect</a>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table><br>
+<table width="100%">
+<tbody>
+  
+<tr>
+  
+<th colspan="4">Secondary 2
+</th>
+</tr>
+<tr>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 2DP.pdf" target="_blank">2 Discipline</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 2EM.pdf" target="_blank">2 Empathy</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 2IN.pdf" target="_blank">2 Integrity</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 2PA.pdf" target="_blank">2 Passion</a>
+</td>
+</tr>
+<tr>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 2PE.pdf" target="_blank">2 Perseverance</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 2RS.pdf" target="_blank">2 Resilience</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 2RP.pdf" target="_blank">2 Respect</a>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table><br>
+<table width="100%">
+<tbody>
+  
+<tr>
+  
+<th colspan="4">Secondary 3
+</th>
+</tr>
+<tr>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 3DP.pdf" target="_blank">3 Discipline</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 3EM.pdf" target="_blank">3 Empathy</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 3IN.pdf" target="_blank">3 Integrity</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 3PA.pdf" target="_blank">3 Passion</a>
+</td>
+</tr>
+<tr>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 3PE.pdf" target="_blank">3 Perseverance</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 3RS.pdf" target="_blank">3 Resilience</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 3RP.pdf" target="_blank">3 Respect</a>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table><br>
+<table width="100%">
+<tbody>
+<tr>
+  
+<th colspan="4">Secondary 4
+</th>
+  
+</tr>
+  
+<tr>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 4DP.pdf" target="_blank">4 Discipline</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 4EM.pdf" target="_blank">4 Empathy</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 4IN.pdf" target="_blank">4 Integrity</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 4PA.pdf" target="_blank">4 Passion</a>
+</td>
+</tr>
+<tr>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 4PE.pdf" target="_blank">4 Perseverance</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 4RS.pdf" target="_blank">4 Resilience</a>
+</td>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 4RP.pdf" target="_blank">4 Respect</a><br>
+</td>
+<td><br>
+</td>
+</tr>
+</tbody>
+</table><br>
+<table width="100%">
+<tbody>
+<tr>
+  
+<th>Secondary 5
+</th>
+  
+</tr>
+<tr>
+<td><a href="/qql/slot/u576/TT/2023S1/2023 Sem 1 Timetable - 5PA.pdf" target="_blank">5 Passion</a>
+</td>
+</tr>
+</tbody>
+</table>
