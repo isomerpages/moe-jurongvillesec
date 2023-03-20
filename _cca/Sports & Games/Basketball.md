@@ -19,6 +19,7 @@ Our teams have continued to train on their own and adapt to the new training for
 **REQUIRE JACKSON'S INPUT VIDEO**
 
 #### Student Leaders
+
 | Name | Appointment | Class |
 |:---:|---|---|
 | Noah Nabisuk Simanjuntak | B Division Boys’ Captain | 3DP |
@@ -27,6 +28,7 @@ Our teams have continued to train on their own and adapt to the new training for
 | Lim Zong Yi, Lucas | C Division Boys’ Vice-Captain | 2DP |
 
 #### Key Achievements
+
 | JVS |
 |:---:|
 | 2020 Participated in the B Division West Zone Championships (Defeated Bukit Panjang Government High for the first time in school history) |
@@ -46,5 +48,5 @@ _Joining the Basketball CCA has taught me values that i apply in court and in th
 _Ever since joining Basketball CCA I have learnt many important values like teamwork, perseverance, and sportsmanship. I have also learnt how to find ways to improve myself not just in basketball but also academically. Values such as self-discipline, determination, and teamwork can only be achieved by a sport like basketball._  
 
 #### Training Schedule
-Tuesday 3.30pm - 5.30pm<br>
-Friday 3.00pm - 5.00pm
+Every Tuesday and Friday<br>
+1430 hr to 1700 hr
