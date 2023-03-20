@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Timetable/.keep
-      - Exam Timetable.md
       - Class Timetable.md
       - Class Mentors 2023.md
       - Counselling and Other Support.md
