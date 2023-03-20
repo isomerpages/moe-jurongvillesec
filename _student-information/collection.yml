@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - JVS PLD Initiative 2023/JVS PLD Initiative 2023.md
       - JVS PLD Initiative 2023/Student Guides and support.md
       - JVS PLD Initiative 2023/.keep
       - Class Mentors 2023.md
