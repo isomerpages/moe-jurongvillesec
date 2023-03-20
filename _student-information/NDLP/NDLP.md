@@ -29,43 +29,39 @@ In the meantime, if there are any further updates, we will alert parents through
 
 #### JVS PLD Initiative Parent Engagement Session
 
-1. Presentation slides 
-JVS Parent Engagement for Web.pdf
+1. Presentation slides<br>
+[JVS Parent Engagement for Web.pdf]("JVS%20Parent%20Engagement%20for%20Web.pdf")
 
 2. Specifications for Chrome Book for 2023 will be announced during the parent engagement session.
 
 3. Click the link below to proceed to register for the PLDs.
 Pdlpadmin
 
-4. Please refer to the links below for more information
-IP2 - Parent Handbook I on Learning with a PLD_2023.pdf
-IP3 - Parent Handbook II on Learning with a PLD_2023.pdf
-Student's Experience
-Parents Voices
-  
-5 \. Click here&nbsp;to proceed to register for the PLDs. (To be updated)  
-  
-6 \. Service Center  
-&nbsp; &nbsp; &nbsp; -&nbsp;&nbsp;**Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions**  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3 Irving Road, #01-17 Singapore 369522 (Beside Tai Seng MRT station, Exit A)  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;#03-19/20 Singapore 179097  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Working Hours :Monday – Friday 11:00am – 7:00pm (closed on Sunday and    Public Holidays)  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tel:&nbsp;68714838&nbsp; &nbsp; &nbsp;Email:&nbsp;[lenovo@smartcares.com](mailto:lenovo@smartcares.com)  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Pre-Registration (For Faster Service/Drop-off):&nbsp;[https://smartcares.com/lenovo](https://smartcares.com/lenovo)  
-  
-&nbsp; &nbsp; &nbsp;-&nbsp;**Acer Computer (Singapore) Pte Ltd**  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;29 International Business Park #01-07, Acer Building, Tower A, 609923<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Service Centre Tel: 68956297<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Contact Centre Tel: 1800 8956299<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Email:&nbsp;[acercare.sg@acer.com](mailto:acercare.sg@acer.com)
+4. Please refer to the links below for more information<br>
+[IP2 - Parent Handbook I on Learning with a PLD_2023.pdf]("IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf")<br>
+[IP3 - Parent Handbook II on Learning with a PLD_2023.pdf]("IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf")<br>
+[Student's Experience]("http://www.youtube.com/watch?v=atVkNBXMVnY")<br>
+[Parents Voices]("https://go.gov.sg/parent-voxpop-1")
 
-7 \. Student's PLD (at school) supporting venue &amp; timing:  
-&nbsp; &nbsp;- Library PLD Corner  
-&nbsp; &nbsp;- Monday to Friday (Except Public Holidays), 2:30pm to 3:30pm
-
-#### PARENT HANDBOOK ON 1-TO-1 LEARNING
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBta9hWvygEFFnc7AI8kJrND0GNf1X4QgBln7yjER4QplhzxDZZln2FRn9ILX739gMPTPDPI4QMhTJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+#### Support
+PLD@Library
+1. Student's can proceed to the PLD corner in the library for technical support at the following timings:
+* Monday to Friday (Except Public and School Holidays), 2:30pm to 3:30pm
+* Students can contact the school general office to make arrangements during school holidays.
+  
+2. Service Center  
+- **Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions**  
+  3 Irving Road, #01-17 Singapore 369522 (Beside Tai Seng MRT station, Exit A)  
+  #03-19/20 Singapore 179097  
+  Working Hours : Monday – Friday 11:00am – 7:00pm (closed on Sunday and Public Holidays)  
+  Tel: 68714838 | Email: [lenovo@smartcares.com](mailto:lenovo@smartcares.com)  
+  Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo)  
+  
+- **Acer Computer (Singapore) Pte Ltd**  
+  29 International Business Park #01-07, Acer Building, Tower A, 609923<br>
+  Service Centre Tel: 68956297<br>
+  Contact Centre Tel: 1800 8956299<br>
+  Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)
 
 #### Acceptable Use Policy (AUP)
 
