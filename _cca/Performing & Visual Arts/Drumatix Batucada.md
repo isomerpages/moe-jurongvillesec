@@ -21,12 +21,14 @@ In spite of the challenges brought on by COVID, the energy and passion of Drumat
 **REQUIRE JACKSON'S INPUT VIDEO**
 
 #### Student Leaders
+
 | Name | Appointment | Class |
 |:---:|---|---|
 | Nur Fathin Inshiqah Binte Muhammad Rohaizad | President | 3RP |
 | Nur Alya Insyirah Binte Rudyman | Vice-President | 3RP |
 
 #### Key Achievements
+
 | JVS |
 |:---:|
 | 2021 Performance for Speech Day |
@@ -43,5 +45,4 @@ _Batucada is a place where I can be myself. I get to release all my stress from 
 _Dramatix Batucada has become one of my healing places. The people, energy and atmosphere made me feel welcomed from the start. Ever since secondary 1, I have gained much experience on how to lead and be a part of a team with my CCA mates. I have overcome my stage fright and gained confidence while performing. Being in Drumatix Batucada is a blessing I never thought I would get._  
 
 #### Training Schedule
-Tuesday 3.30pm - 5.30pm<br>
-Friday 2.30pm - 4.30pm
+Tuesday 3.00pm - 5.00pm
