@@ -30,3 +30,8 @@ In the meantime, if there are any further updates, we will alert parents through
 
 ##### JVS PLD Initiative Parent Engagement Session
 
+1 \. Presentation slides<br>
+[JVS Parent Engagement for Web.pdf](/files/JVS%20Parent%20Engagement%20for%20Web.pdf)<br>
+2 \. Specifications for Chrome Book for 2023 will be announced during the parent engagement session.<br>
+3 \. Click the link below to proceed to register for the PLDs.<br>
+[Pdlpadmin](https://go.gov.sg/pdlpadmin)
