@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2fcpke8jx35fo.amplifyapp.com
 prod: https://master.d2fcpke8jx35fo.amplifyapp.com
-shareicon: /images/JVSS_Logo.png
+shareicon: /images/JVSS_2020.ico
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
