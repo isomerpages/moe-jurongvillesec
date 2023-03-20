@@ -18,11 +18,11 @@ sections:
         - title: announcement 3
           description: President's Award for Teachers
           url: https://form.gov.sg/6327d8dc5f152f001265ae55
-/*  - infopic:
+  - infopic:
       title: Open House 2022
       description: Click button below for more information!
       button: click here
       url: /our-experience/Open-House-2022/2022/
       image: /images/Banner.jpg
-      alt: Image alt text*/
+      alt: Image alt text
 ---
