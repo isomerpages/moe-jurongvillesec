@@ -46,5 +46,5 @@ _It has been a fulfilling 3 years in the Badminton team. I have learnt many new 
 _In the past four years, I have not only learnt leadership skills but also skills which better enable me to perform better as a school team badminton player. I have made a lot of friends in the team and I will definitely treasure them in my memories. My team had participated in a few games in the West Zone competition. We gave all of our best during our matches and we had performed well. I hope that the team will continue to do their best and work together as one to achieve greater heights._  
 
 #### Training Schedule
-Tuesday 3.30pm - 5.30pm<br>
-Friday 3.30pm - 5.30pm
+Tuedays- 4.00pm - 6.00pm<br>
+Fridays-  1.30pm - 3.30pm
