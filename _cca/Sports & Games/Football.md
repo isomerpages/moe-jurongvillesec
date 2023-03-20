@@ -42,14 +42,5 @@ In 2020, the team was steadfast in continuing our training through our e-CCA pro
 _“As a captain for the B Division team, I am proud to represent Jurongville Secondary School. Our aim was to become the champions again in 2021 but unfortunately, we couldn’t participate due to Covid-19. However, we were glad that we can still train together and learn new technical skills. I wish all the very best to my juniors and Jurongville Secondary School. ”_  
 
 #### Training Schedule
-B Division<br>
-Monday 2.45pm - 5.30pm<br>
-Tuesday 2.45pm - 4.30pm<br>
-Thursday 2.45pm - 5.30pm<br>
-Fridays 2:30pm – 4:30pm<br>
-
-C Division<br>
-Monday 2.45pm - 5.30pm<br>
-Tuesday 4.00pm - 6.00pm<br>
-Thursday 2.45pm - 5.30pm<br>
-Fridays 2:30pm – 4:30pm
+C Division - Tuesdays and Fridays 2:30pm – 4:30pm<br>
+B Division - Tuesdays and Fridays 4:30pm – 6:30pm
