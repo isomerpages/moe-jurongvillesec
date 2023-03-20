@@ -64,3 +64,7 @@ Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo]
 Service Centre Tel: 68956297<br>
 Contact Centre Tel: 1800 8956299<br>
 Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)
+
+##### Acceptable Use Policy (AUP)
+
+Click here for more information. (To be updated)
