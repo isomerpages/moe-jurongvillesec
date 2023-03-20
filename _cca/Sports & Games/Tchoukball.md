@@ -17,6 +17,7 @@ We hope our players can grow holistically and be the PRIDE of Jurongville. Join 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBEN-7BH3mBSCZRqukpKRqe9SUVv6oKPSNyJG7hA5kopfdgcPm8-3HIfy8Ps-aUwehgq3L45PvqScI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Student Leaders
+
 | Name | Appointment | Class |
 |:---:|---|---|
 | Sarah Qistina Binte Mohamad Fauzi | President (2020 - 2021) | 4PE |
@@ -25,6 +26,7 @@ We hope our players can grow holistically and be the PRIDE of Jurongville. Join 
 | Sri Ayu Amelia Binte Mohamed Ayub | Vice-President (2021 - present) | 3RS |
 
 #### Key Achievements
+
 | JVS |
 |:---:|
 | 2019 Inter Schools Tchoukball Championships: B Boys 3rd |
