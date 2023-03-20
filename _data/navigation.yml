@@ -25,6 +25,9 @@ links:
         url: /our-experience/Open-House-2022/2022/
   - title: Our Achievements
     collection: our-achievements
+  - title: Student Information
+    url: /permalink
+    sublinks: []
   - title: Parents Information
     collection: parents-information
   - title: News
