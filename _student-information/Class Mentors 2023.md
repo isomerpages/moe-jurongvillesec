@@ -23,3 +23,22 @@ description: ""
 | [Mr **Edwin You** Fu Hui](mailto:you_fu_hui@schools.gov.sg)  | 1RS  | [Mdm **Neo** Lay Yen](mailto:neo_lay_yen@schools.gov.sg)  | 2PE  |
 | [Ms **Rachel** Liew Shan Shan](mailto:liew_shan_shan@schools.gov.sg)  | 1RS  |   |   |
 |   |   |   |   |
+
+| Secondary 3  | Class  | Secondary 4 and 5  | Class  |
+|:-:|---|---|---|
+| [Mdm **Yvonne** Chin Ying Ying](mailto:chin_ying_ying@schools.gov.sg)  | 3EM  |  [Ms **Ethel Chng** Shu Ping](mailto:chng_shu_ping_ethel@schools.gov.sg) |   |
+| [Mr **Lloyd** Lin](mailto:lloyd_lin_jianbang@schools.gov.sg)  | 3EM  |   |   |
+| [Mr **Lam** Seng Tat](mailto:lam_seng_tat@schools.gov.sg)  | 3RP  |   |   |
+| [Ms **Lien** Wei Chi](mailto:lien_wei_chi@schools.gov.sg)  | 3RP  |   |   |
+| [Mdm **Tan** Li Lim](mailto:tan_li_lim@schools.gov.sg)  | 3IN  |   |   |
+| [Mr **Ng** Boon Teck](mailto:ng_boon_teck@schools.gov.sg)  |  3IN |   |   |
+| [Mr Muhammad **Arshad** Bin Jumah](mailto:muhammad_arshad_jumah@schools.gov.sg)  | 3DP  |   |   |
+| [Mdm **Siti Rohani** Bte Rus](mailto:siti_rohani_rus@schools.gov.sg)  |  3DP |   |   |
+| [Mr **Koh** Yong Kai](mailto:koh_yong_kai@schools.gov.sg)  | 3PA  |   |   |
+| [Ms **Karmila** Binte Asari](mailto:karmila_asari@schools.gov.sg)  | 3PA  |   |   |
+| [Ms **Angela Chua** Li Xia](mailto:chua_li_xia_angela@schools.gov.sg)  | 3RS  |   |   |
+| [Ms **Suhaily** Bte Supahan](mailto:suhaily_supahan@schools.gov.sg)  | 3RS  |   |   |
+| [Mr **Vasan**thakumar S/O Vijayarethinam](mailto:vasanthakumar_vijayarethinam@schools.gov.sg)  | 3PE  |   |   |
+| [Mr **Hafiz** Azhar Bin Mohd Rosli](mailto:hafiz_azhar_mohamad_rosli@schools.gov.sg)  | 3PE  |   |   |
+|   |   |   |   |
+|   |   |   |   |
