@@ -2,7 +2,6 @@ collections:
   student-information:
     output: true
     order:
-      - Class Mentors 2022.md
       - Counselling and Other Support.md
       - Sec 3 Subject Combination.md
       - Timetable/.keep
@@ -13,3 +12,4 @@ collections:
       - NDLP/.keep
       - NDLP/NDLP.md
       - NDLP/Student Guides and support.md
+      - Class Mentors 2022.md
