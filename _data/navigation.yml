@@ -38,6 +38,8 @@ links:
         url: /student-information/Timetable/exam-t/
       - title: Sexuality Education
         url: /student-information/sex-ed/
+      - title: National Exam Schedule
+        url: /student-information/nes/
   - title: Parents Information
     collection: parents-information
   - title: News
