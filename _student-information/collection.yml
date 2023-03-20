@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Counselling and Other Support.md
-      - Sec 3 Subject Combination.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - Timetable/Exam Timetable.md
