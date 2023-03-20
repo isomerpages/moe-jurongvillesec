@@ -67,7 +67,7 @@ To reflect the new beginning, with the coming together of the staff and students
 
 **The New School Crest**
 
-<img src="/images/JVSS-2019-logo-new.png" style="width:30%">
+<img src="/images/JVSS_2019_logo_OCT_outline.png" style="width:30%">
 
 Set against the globe, the two leaves represent the students and their growth in a nurturing school environment. The globe represents the school’s aspiration to help all students acquire the values, knowledge and skills necessary to thrive and live meaningfully in Singapore and beyond.
 
