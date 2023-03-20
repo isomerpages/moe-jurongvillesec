@@ -9,6 +9,11 @@ third_nav_title: Term Letters
 #### Term Letter for Parents
 
 ##### Term 1
+[Letter to Parent S1_PG]
+[Letter to Parent S2-3_PG]
+[Letter to Parent S4-5_PG]
+[Letter to Parant (All Level) SEd]
+[Letter to Parent (End of Term 1)]
 
 ##### Term 2
 
