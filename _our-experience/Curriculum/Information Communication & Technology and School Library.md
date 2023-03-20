@@ -10,7 +10,7 @@ The JVS ICT Department aims to nurture “Future-ready and Responsible Digital L
 
 The use of technology will enhance JVnites to be
 
-1 \.&nbsp;**Passionate learners**&nbsp;who are self-directed and intrinsically-motivated
+1 \.&nbsp;**Passionate learners**&nbsp;who are self-directed and intrinsically-motivated<br>
 2 \.&nbsp;**Resilient learners**&nbsp;who adapt and respond positively &amp; skilfully in the face of challenges and setbacks.
 
 We encourage and support the use of new technologies in learning through the various departments and committees. We also leverage on partners, stakeholders and external agencies to not just push the boundaries of learning, but also to ensure a safe and secure environment.
