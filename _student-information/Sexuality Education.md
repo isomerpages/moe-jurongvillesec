@@ -38,7 +38,9 @@ ii.  Character and Citizenship Education (CCE)
 
 #### At Jurongville Secondary School, the following Sexuality lessons will be taught in 2023:
 
-**Secondary 1**<br>
+<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<div style="text-align: center;"><b style="background-color: initial;">SECONDARY 1</b>
+</div>
 <table width="100%">
 <tbody>
 <tr>
@@ -111,8 +113,7 @@ ii.  Character and Citizenship Education (CCE)
 </table>
 <div style="text-align: center;"><b style="background-color: initial;"><br></b>
 </div>
-<div style="text-align: center;"><img src="/qql/slot/u576/Student-information/SEd/MOE Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 <span style="font-weight: normal;">S</span>EXUALITY <span style="font-weight: normal;">E</span>DUCATION LESSONS IN CCE 2021 </h3>
-</div>
+<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b style="background-color: initial;">SECONDARY 2</b>
 </div>
 <table width="100%">
@@ -188,8 +189,7 @@ confidence.<br><br>Students will also learn about the definitions of biological 
 </table>
 <div style="text-align: center;"><b style="background-color: initial;"><br></b>
 </div>
-<div style="text-align: center;"><img src="/qql/slot/u576/Student-information/SEd/MOE Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 <span style="font-weight: normal;">S</span>EXUALITY <span style="font-weight: normal;">E</span>DUCATION LESSONS IN CCE 2021 </h3>
-</div>
+<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b style="background-color: initial;">SECONDARY 3</b>
 </div>
 <table width="100%">
@@ -268,8 +268,7 @@ confidence.<br><br>Students will also learn about the definitions of biological 
 </table>
 <div style="text-align: center;"><b style="background-color: initial;"><br></b>
 </div>
-<div style="text-align: center;"><img src="/qql/slot/u576/Student-information/SEd/MOE Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 <span style="font-weight: normal;">S</span>EXUALITY <span style="font-weight: normal;">E</span>DUCATION LESSONS IN CCE 2021 </h3>
-</div>
+<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b style="background-color: initial;">SECONDARY 4</b>
 </div>
 <table width="100%">
@@ -374,8 +373,7 @@ have if they or their friends are involved in an unhealthy relationship.
 </table>
 <div style="text-align: center;"><b style="background-color: initial;"><br></b>
 </div>
-<div style="text-align: center;"><img src="/qql/slot/u576/Student-information/SEd/MOE Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 <span style="font-weight: normal;">S</span>EXUALITY <span style="font-weight: normal;">E</span>DUCATION LESSONS IN CCE 2021 </h3>
-</div>
+<center><img src="MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b style="background-color: initial;">SECONDARY 5</b>
 </div>
 <table width="100%">
