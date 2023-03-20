@@ -27,7 +27,9 @@ links:
     collection: our-achievements
   - title: Student Information
     url: /student-information/class-mentors-2023/
-    sublinks: []
+    sublinks:
+      - title: Class Mentors 2023
+        url: /student-information/class-mentors-2023/
   - title: Parents Information
     collection: parents-information
   - title: News
