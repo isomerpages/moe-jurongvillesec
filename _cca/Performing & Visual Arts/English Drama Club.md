@@ -19,6 +19,7 @@ This year, our students have continued to adapt to the ever-changing climate tha
 **REQUIRE JACKSON'S INPUT VIDEO**
 
 #### Student Leaders
+
 | Name | Appointment | Class |
 |:---:|---|---|
 | Parthasarathy Vaideghi Pavithran | President | 3IN |
@@ -26,6 +27,7 @@ This year, our students have continued to adapt to the ever-changing climate tha
 | Yee En Tong | Vice-President 2 | 2RP |
 
 #### Key Achievements
+
 | JVS |
 |:---:|
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
@@ -44,5 +46,5 @@ _Even though COVID-19 has presented many challenges, it was fun trying to host C
 _Despite facing many different challenges due to COVID-19 measurements, EDC continued to strive to make the Club safe and enjoyable for all its members. EDC is just not about acting, it is a place for us to step out of our comfort zone by expressing our feelings and thoughts with no judgments. I do hope to make more fun and memorable moments with my EDC members in the years to come!_  
 
 #### Training Schedule
-Tuesdays 3.30pm - 5.30pm<br>
-Fridays 3.30pm - 5.30pm
+Tuesdays    3.00 pm - 5.00 pm<br>
+Fridays        2.30 pm - 4.30 pm
