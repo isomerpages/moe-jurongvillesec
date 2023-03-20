@@ -30,37 +30,43 @@ Both schools were led by a string of outstanding principals. The founding princi
 </th>
 </tr>
 <tr>
-<td>Mdm Sun Huey Min (1994- 1995)
+<td>Mdm Sun Huey Min (1994 - 1995)
 </td>
-<td>Mrs Yeo Chin Nam (1994 – 1997)
-</td>
-</tr>
-<tr>
-<td>Mr Mohd Khairunan (1996 – 2000)
-</td>
-<td>Ms Tay Bee Hian Dorothy (1998 – 2000)
+<td>Mrs Yeo Chin Nam (1994 - 1997)
 </td>
 </tr>
 <tr>
-<td>Mr Ong Kock Hua (2001 – 2006)
+<td>Mr Mohd Khairunan (1996 - 2000)
+</td>
+<td>Ms Tay Bee Hian Dorothy (1998 - 2000)
+</td>
+</tr>
+<tr>
+<td>Mr Ong Kock Hua (2001 - 2006)
 </td>
 <td>Mrs Mary Bay Chua May Lin (2001 - 2007)
 </td>
 </tr>
 <tr>
-<td>Mr. Shawal Bin Hussin (2007 – 2013)
+<td>Mr. Shawal Bin Hussin (2007 - 2013)
 </td>
 <td>Mrs Tan Wan Yu (2008 - 2013)
 </td>
 </tr>
 <tr>
-<td>Mr Benny Lee Kah Chong (2014- 2015)
+<td>Mr Benny Lee Kah Chong (2014 - 2015)
 </td>
 <td>Mdm Sung Mee Har (2014 - 2018)
 </td>
 </tr>
 <tr>
-<td>Mdm Flora Ong Fei Min (2016 – 2018)
+<td>Mdm Flora Ong Fei Min (2016 - 2018)
+</td>
+<td>
+</td>
+  </tr>
+  <tr>
+<td>Mr Chan Yew Wooi (2018 - 2022)
 </td>
 <td>
 </td>
