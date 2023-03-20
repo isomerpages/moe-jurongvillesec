@@ -2,7 +2,6 @@ collections:
   student-information:
     output: true
     order:
-      - Welcoming our New Sec JVnites.md
       - Class Mentors 2023.md
       - Counselling and Other Support.md
       - Sec 3 Subject Combination.md
@@ -14,3 +13,4 @@ collections:
       - JVS PLD Initiative 2023/.keep
       - JVS PLD Initiative 2023/JVS PLD Initiative 2023.md
       - JVS PLD Initiative 2023/Student Guides and support.md
+      - Welcoming our New Sec JVnites.md
