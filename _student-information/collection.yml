@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Timetable/.keep
-      - Timetable/Exam Timetable.md
       - National Exam Schedule.md
       - NDLP/.keep
       - NDLP/NDLP.md
