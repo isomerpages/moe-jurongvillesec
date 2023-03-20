@@ -19,3 +19,10 @@ For further clarifications, you can connect with us either via our school email 
 | Transition to secondary school  | [https://www.moe.gov.sg/secondary/transition-to-secondary](https://www.moe.gov.sg/secondary/transition-to-secondary)  |
 |   |   |
 
+To download the Parents Gateway mobile app:
+
+|   |   |
+|:-:|---|
+| iOS  | Android  |
+| <img src="/images/ios.png" style="width:49%" align=left>  |  <img src="/images/android.png" style="width:49%" align=left> |
+|   |   |
