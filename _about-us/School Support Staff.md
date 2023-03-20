@@ -5,8 +5,6 @@ description: ""
 ---
 ## School Support Staff
 
-<img src="/images/executive and administrative staff 2.jpg" style="width:85%">
-
 | Executive & Administrative Staff |
 |:---:|
 | [Ms Soo Shio Leng (Administration Manager)](mailto:soo_shio_leng@schools.gov.sg) |
