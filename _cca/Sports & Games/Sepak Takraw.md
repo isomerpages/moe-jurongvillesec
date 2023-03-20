@@ -40,5 +40,5 @@ _“I would like to encourage my juniors to keep training and never give up to a
 _“I am so proud of Jurongville Sepak Takraw B Division team. We achieved something we were not able to achieve in 10 years. We trained really hard to get the Championships Trophy. We supported each other and motivated one another in every single game. The times when we cheered for the team and celebrated every point were my favourite moments. I am so happy to be celebrating this victory alongside the seniors. I will make sure that we will continue to train and fight hard in the future.’’_
 
 #### Training Schedule
-Tuesday From 3.30pm to 5.30pm<br>
-Friday From 3.30pm to 5.30pm
+Tuesday - From 2.30pm to 4.30pm<br>
+Friday     - From 3.30pm to 5.30pm
