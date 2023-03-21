@@ -15,12 +15,12 @@ Secondary One students are exposed to the fundamentals of electronics and coding
 Upper Secondary students have the opportunity to specialise in programmes that suit their strengths and interests. These include taking up the O-level Applied Subject, "Electronics", ITE Applied Subject, "Smart Electrical Technology" or applying for a short-term Advanced Elective Module on electronics offered by one of the polytechnics.
 
 #### ALP in Action
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3jzPYcr3DVH3nHiGq1wwPsqvhUC9BbNWOBOPTFEoCftfmG4uqw5U36lId-qjwfG3d3aZCzQhw6Exn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsYvxELkjLJUlRSNWNQkvxZpfy7-tv8ZDtdjZE1xlQ6qEUZZ2U1IoNLOdz_EZGMKs1_IL45QJOSnYX/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Students with keen interest in electronics also represent the school in national STEM-related competitions.
 
 #### ALP Competition &amp; Outreach
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2RSq3UalEXIsJ_ukNpMORjz8lxvsH_BfMQht5yP2ZuDCdhmVIbY0ZTCbe1b-Za-IuukR4EhPXTI-Y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGtIJqrHpzEpWeHGOOOecc5e51fT9dUim60yFDH1HHo3PMRAvbcOBb3NcjPNhckviTEH3H6yXDRlaG/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <figure>
 <img style="width:90%" src="/images/14ALP 141019(2).jpeg">
