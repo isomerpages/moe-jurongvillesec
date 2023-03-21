@@ -19,7 +19,6 @@ Reading becomes more significant in our T&amp;L as we strive to develop our stud
 Our Qing Qing Xuan Maidens, a girl group comprising of Fidelia Lo Miao Ting (2RP), Ngu Yi Jeanne (2DP) and Karis Goh (2DP, took part in the National Schools Xinyao Singing and Songwriting Competition 2022.
 
 Overcoming challenges with positivity and resilience, the effort invested by the girls over the two months paid off handsomely. They emerged as one of the top 5 choral groups in the grand finale after winning the judges’ nod of approval.
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs7tZGdPuzCUFMMsYBhsqKuxwdvpeCII4QoFGkA7CrXYSmu7hlvIImeWehNShdloJFu77VCxMY2XWz/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <center><audio src="/files/2022-JVS-CL-XinYaoCom.mp3" controls=""></audio></center>
 
