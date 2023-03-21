@@ -24,16 +24,16 @@ We collaborated with external organisations such as ITE West to engage selected 
 
 ## Math Competitions&nbsp;
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiD-EfJZHndW1EjgW1qTc97t7TAfcZpZyCcbBHTJYlZKMkJhTgaa-tDDzbmAeWRUwCr8G78RQrk-96/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiD-EfJZHndW1EjgW1qTc97t7TAfcZpZyCcbBHTJYlZKMkJhTgaa-tDDzbmAeWRUwCr8G78RQrk-96/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ## Math Play @ Eureka&nbsp;
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIZXAFM9ekuKz-OS5pRuY9AHnwVY9UM6bJXt91aEtypMV6EwFyr4agdqhz7tV_YfrQT28bvi0yhwOI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIZXAFM9ekuKz-OS5pRuY9AHnwVY9UM6bJXt91aEtypMV6EwFyr4agdqhz7tV_YfrQT28bvi0yhwOI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ## VR Engagement with Matheletes&nbsp;
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIi0HDf8Ax6_iv_RGD6Z-8TPFp5TSDm8zkl9vhZUcARjyncxU62itkWRYdNx-M7kP0yRs_3Sc51ZSv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIi0HDf8Ax6_iv_RGD6Z-8TPFp5TSDm8zkl9vhZUcARjyncxU62itkWRYdNx-M7kP0yRs_3Sc51ZSv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ## Mathelete camp
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTO9Xlp0I7ybt_eEfGsP8QOdTzVv7rvXK6farK7JBv3ziC4k-OVUfMg0-_XAIKzQU_fR4x0JfkXcyHb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTO9Xlp0I7ybt_eEfGsP8QOdTzVv7rvXK6farK7JBv3ziC4k-OVUfMg0-_XAIKzQU_fR4x0JfkXcyHb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
