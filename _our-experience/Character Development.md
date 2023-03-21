@@ -36,4 +36,4 @@ Our upper secondary students are involved in the Service Learning Programme wher
 \-&nbsp;**Nisha (4IN)**
 
 #### Photos
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZSBm_YQyuDE5NP8u_8d1ImJJ_tTLAEYbSEJITUp7PtGc2wpaWsTTNHBzGu8Z4x15y1uJc826L3Z1_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBv3idMX6NAdHSifXw7KVm5AjafsLlkho-gh_BpRF0zh_vcTsRQF-Hu-WpYVlRjmGW0Ez2CzX-Nvdb/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
