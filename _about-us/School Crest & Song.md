@@ -7,7 +7,7 @@ description: ""
 
 #### The School Crest
 
-<img src="/images/JVSS_2019_logo_OCT_outline.png" style="width:30%" align=left>
+<img src="/images/JVSS_2019_logo_OCT_outline.png" style="width:20%" align=left>
 
 **The New School Crest**<br>
 Featuring both the English and Chinese names of the school, the new crest signifies the school’s connection with the proud contributions of the students, staff and stakeholders of both constituent school communities.  
