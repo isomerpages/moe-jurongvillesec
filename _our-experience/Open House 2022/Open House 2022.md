@@ -16,12 +16,10 @@ third_nav_title: Open House 2022
 *   School Tour
 
 Video 1: Watch this video for an introduction to Jurongville and a virtual tour of the school
-
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe src="https://drive.google.com/file/d/1aOPn_CmMCNadhOM7GKCVXVYBaerOKR5v/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Video 2: Watch this video to find out about our key programmes in the school
-
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe src="https://drive.google.com/file/d/19aghXuW-pC1OlPXAZpsp0BZPVErbutgA/preview" width="640" height="480" allow="autoplay"></iframe>
 
 #### Open House 2022
 
