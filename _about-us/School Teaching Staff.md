@@ -4,6 +4,7 @@ permalink: /about-us/sch-teaching-staff/
 description: ""
 ---
 ## School Teaching Staff
+
 <table width="100%">
 <tbody>
    <tr>
