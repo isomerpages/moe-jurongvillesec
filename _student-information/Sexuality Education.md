@@ -40,22 +40,18 @@ ii.  Character and Citizenship Education (CCE)
 
 #### At Jurongville Secondary School, the following Sexuality lessons will be taught in 2023:
 
-<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" style="width: 195px; height: 165px;">
+<h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b style="background-color: initial;">SECONDARY 1</b>
 </div>
 <table width="100%" border="1">
 <tbody>
 <tr>
-<th width="12%">UNIT
-</th>
-<th width="16%">LESSONS / DURATION
-</th>
-<th width="29%">Lesson Overview 
-</th>
-<th width="31%">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:<br>
-</th>
-<th width="12%">TIME PERIOD<br>(e.g. <br>Term 1 Week 2)<br>
-</th>
+<th width="12%">UNIT</th>
+<th width="16%">LESSONS / DURATION</th>
+<th width="29%">Lesson Overview</th>
+<th width="29%">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+<th width="14%">TIME PERIOD<br>(e.g. <br>Term 1 Week 2)</th>
 </tr>
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety
