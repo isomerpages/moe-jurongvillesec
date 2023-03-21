@@ -3,8 +3,8 @@
    <tr>
    <td width="48%" valign="top">
    <b>Craft &amp; Technology Department</b><br>
-   <a href="mailto:you_kim_choo@schools.gov.sg" target="">&nbsp;Ms You Kim Choo (HOD / C&amp;T)</a><br>
-   <a href="mailto:chia_miang_heong@schools.gov.sg" target="">Mr Chia Miang Heong (SH / D&amp;T)</a><<br>
+   <a href="mailto:you_kim_choo@schools.gov.sg" target="">Ms You Kim Choo (HOD / C&amp;T)</a><br>
+   <a href="mailto:chia_miang_heong@schools.gov.sg" target="">Mr Chia Miang Heong (SH / D&amp;T)</a><br>
    <a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" target="">Mdm Sharifah Farrahdillah  (Assistant Year Head)</a><br>
    <a href="mailto:ng_boon_teck@schools.gov.sg" target="">Mr Ng Boon Teck (ST / POA)</a><br>
    <a href="mailto:lim_lay_yean@schools.gov.sg" target="">Mrs Chan-Lim Lay Yean</a><br>
@@ -68,7 +68,7 @@
    <td width="48%" valign="top">
    <b>Mother Tongue Languages Department</b><br>
    <a href="mailto:ong_yi_min@schools.gov.sg" target="">Mdm Ong Yi Min (HOD MTL)</a><br>
-   <a href="mailto:sha_bin@schools.gov.sg" target="">Mr Sha Bin&nbsp;(SH / Chinese Language)</a><br>
+   <a href="mailto:sha_bin@schools.gov.sg" target="">Mr Sha Bin (SH / Chinese Language)</a><br>
    <a href="mailto:siti_zarinah_muhammad@schools.gov.sg" target="">Mdm Siti Zarinah Binte Muhammad (SH / Malay Language)</a><br>
    <a href="mailto:nur_rashidah_ramli@schools.gov.sg" target="">Mdm Nur Rashidah Bte Ramli (HOD / Dis)</a><br>
    <a href="mailto:a_sri_devi_arumugam@schools.gov.sg" target="">Mdm A Sri Devi A/P Arumugam</a><br>
