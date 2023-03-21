@@ -106,7 +106,7 @@ Students learn to focus on their personal strengths to pursue their interests an
 *   develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>
 *   understand what sexual orientation entails
 </td>
-<td valign="top">Term 2 Week 5</td>
+<td valign="top">Term 2<br>Week 5</td>
 </tr>
 <tr>
 <td valign="top">Online Safety Challenge <br>Lesson 2A<br>(60 mins)</td>
@@ -116,7 +116,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td valign="top">
 *   recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline
 </td>
-<td valign="top">Term 2 Week 6<br>
+<td valign="top">Term 2<br>Week 6<br>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>
 *   recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online
 </td>
-<td valign="top">Term 2 Week 7<br>
+<td valign="top">Term 2<br>Week 7<br>
 </td>
 </tr>
 </tbody>
@@ -163,7 +163,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>
 *   recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.
 </td>
-<td valign="top">Term 3 Week 6
+<td valign="top">Term 3<br>Week 6
 </td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   >know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>
 *   know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.
 </td>
-<td valign="top">Term 3 Week 7<br>
+<td valign="top">Term 3<br>Week 7<br>
 </td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>
 *   understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. 
 </td>
-<td valign="top">Term 3 Week 8<br>
+<td valign="top">Term 3<br>Week 8<br>
 </td>
 </tr>
 </tbody>
@@ -224,7 +224,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>
 *   know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.
 </td>
-<td valign="top">Term 2 Week 1
+<td valign="top">Term 2<br>Week 1
 </td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>
 *   understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.
 </td>
-<td valign="top">Term 2 Week 2<br>
+<td valign="top">Term 2<br>Week 2<br>
 </td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>
 *   understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage. 
 </td>
-<td valign="top">Term 2 Week 3<br>
+<td valign="top">Term 2<br>Week 3<br>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td valign="top">
 *   understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.  
 </td>
-<td valign="top">Term 2 Week 4  
+<td valign="top">Term 2<br>Week 4  
 </td>
 </tr>
 </tbody>
@@ -295,7 +295,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td valign="top">
 *   understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs
 </td>
-<td valign="top">Term 2 Week 2
+<td valign="top">Term 2<br>Week 2
 </td>
 </tr>
 </tbody>
@@ -324,14 +324,14 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   Modes of protection, specifically on how the condom is used<br>
 *   Consequences and impact of STIs/HIV
 </td>
-<td>Term 3 Week 2</td>
+<td>Term 3<br>Week 2</td>
 </tr>
 <tr>
 <td style="text-align: left;">Classroom-based Lesson</td>
 <td style="text-align: left;">
   *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making
 </td>
-<td>Term 3 Week 3</td>
+<td>Term 3<br>Week 3</td>
 </tr>
 </tbody>
 </table>
