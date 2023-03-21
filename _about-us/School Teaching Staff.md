@@ -27,7 +27,7 @@ description: ""
       <tr><td><a href="mailto:justine_elizabeth_tham_luo@schools.gov.sg" target="">Ms Justin Elizabeth Tham Luo Wen (FAJT)</a></td></tr>
       <tr><td><a href="mailto:chia_lai_choo_violet@schools.gov.sg" target="">Ms Chia Lai Choo Violet (FAJT)</a></td></tr>
       </tbody>
-   </table>
+   </table><br>
    <table width="100%" border="1">
       <tbody>
       <tr><th>English Language &amp; Music Department</th></tr>
@@ -47,7 +47,7 @@ description: ""
       <tr><td><a href="mailto:wee_ming_hann@schools.gov.sg" target="">Mr Wee Ming Hann</a></td></tr>
       <tr><td><a href="mailto:poon_jing_theng@schools.gov.sg" target="">Ms Poon Jing Theng Phyllis (FAJT)</a></td></tr>
       </tbody>
-   </table>
+   </table><br>
    <table width="100%" border="1">
       <tbody>
       <tr><th>Humanities Department</th></tr>
@@ -61,7 +61,7 @@ description: ""
       <tr><td><a href="mailto:koh_yong_kai@schools.gov.sg" target="">Mr Koh Yong Kai</a></td></tr>
       <tr><td><a href="mailto:usha_rani_subramaniam@schools.gov.sg" target="">Mdm Usha Rani Subramaniam</a></td></tr>
       </tbody>
-   </table>
+   </table><br>
    <table width="100%" border="1">
       <tbody>
       <tr><th>Mathematics Department</th></tr>
@@ -107,7 +107,7 @@ description: ""
       <tr><td><a href="mailto:veerappan_buvaneswari@schools.gov.sg" target="">Mdm Veerappan Buvaneswari</a></td></tr>
       <tr><td><a href="mailto:wong_eik_kiat@schools.gov.sg" target="">Mr Wong Eik Kiat</a></td></tr>
       </tbody>
-   </table>
+   </table><br>
    <table width="100%" border="1">
       <tbody>
       <tr><th>Physical Education &amp; Music Department</th></tr>
@@ -116,7 +116,7 @@ description: ""
       <tr><td><a href="mailto:chang_shang_chun_noah@schools.gov.sg" target="">Mr Chang Shang Chun Noah</a></td></tr>
       <tr><td><a href="mailto:wan_meng_wai_donald@schools.gov.sg" target="">Mr Wan Meng Wai Donald (FAJT)</a></td></tr>
       </tbody>
-   </table>
+   </table><br>
    <table width="100%" border="1">
       <tbody>
       <tr><th>Science Department</th></tr>
@@ -137,7 +137,7 @@ description: ""
       <tr><td><a href="mailto:tan_li_lim@schools.gov.sg" target="">Mdm Tan Li Lim</a></td></tr>
       <tr><td><a href="mailto:vasanthakumar_vijayarethinam@schools.gov.sg" target="">Mr Vasanthakumar S/O Vijayarethinam </a></td></tr>
       </tbody>
-   </table>
+   </table><br>
    <table width="100%" border="1">
       <tbody>
       <tr><th>Allied Educators &amp; School Counsellors</th></tr>
