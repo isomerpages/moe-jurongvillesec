@@ -22,8 +22,6 @@ Overcoming challenges with positivity and resilience, the effort invested by the
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs7tZGdPuzCUFMMsYBhsqKuxwdvpeCII4QoFGkA7CrXYSmu7hlvIImeWehNShdloJFu77VCxMY2XWz/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br><center><audio src="/files/2022-JVS-CL-XinYaoCom.mp3" controls="">
-<p>If you are reading this, it is because your browser does not support the audio element.</p>
-</audio></center>
 
 ##### Naanum Oru Padaippaali
 ‘Naanum Oru Padaippaali’ was organised by the Ministry of Education with the aim of nurturing in students the passion to produce creative literary works of commendable sophistication.
