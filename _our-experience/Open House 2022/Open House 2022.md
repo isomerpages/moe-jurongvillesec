@@ -29,13 +29,13 @@ Video 2: Watch this video to find out about our key programmes in the school
 <img style="width:45%" align=left src="/images/Key-Programmes.png">
 </a></p>
 
-<p><a href="/our-experience/Open-House-2022/knowledgenskills/">
+<p><a href="/our-experience/Open-House-2022/passion/">
 <img style="width:45%" align=right src="/images/CCA.png">
 </a></p>
 
 <br clear="left">
 
-<p><a href="/our-experience/Open-House-2022/passion/">
+<p><a href="/our-experience/Open-House-2022/knowledgenskills/">
 <img style="width:45%" align=left src="/images/Our-Curriculum.png">
 </a></p>
 
