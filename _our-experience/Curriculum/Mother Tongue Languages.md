@@ -21,7 +21,7 @@ Our Qing Qing Xuan Maidens, a girl group comprising of Fidelia Lo Miao Ting (2RP
 Overcoming challenges with positivity and resilience, the effort invested by the girls over the two months paid off handsomely. They emerged as one of the top 5 choral groups in the grand finale after winning the judges’ nod of approval.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs7tZGdPuzCUFMMsYBhsqKuxwdvpeCII4QoFGkA7CrXYSmu7hlvIImeWehNShdloJFu77VCxMY2XWz/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<br><center><audio src="/files/2022-JVS-CL-XinYaoCom.mp3" controls="">
+<center><audio src="/files/2022-JVS-CL-XinYaoCom.mp3" controls=""></audio></center>
 
 ##### Naanum Oru Padaippaali
 ‘Naanum Oru Padaippaali’ was organised by the Ministry of Education with the aim of nurturing in students the passion to produce creative literary works of commendable sophistication.
