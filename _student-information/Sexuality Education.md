@@ -98,8 +98,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety</td>
 <td valign="top">A Role for Everyone <br>Lesson 1<br>(60 mins)</td>
-<td style="text-align: left;" valign="top">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses. 
-<br>Students learn to focus on their personal strengths to pursue their interests and build their self-confidence.<br><br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
+<td style="text-align: left;" valign="top">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses. <br><br>
+Students learn to focus on their personal strengths to pursue their interests and build their self-confidence.<br><br>
+ Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
 <td valign="top">
 *   know that one’s understanding of gender roles should not be limited by gender stereotypes<br>
 *   develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>
@@ -109,7 +110,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tr>
 <tr>
 <td valign="top">Online Safety Challenge <br>Lesson 2A<br>(60 mins)</td>
-<td style="width: 60px;" valign="top">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. <br>
+<td style="width: 60px;" valign="top">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. <br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
 <td valign="top">
@@ -299,38 +300,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tr>
 </tbody>
 </table>
-<br><i>*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”. </i><br><br><br><h3><i>eTeens </i>Programme: </h3> 
-8 \. <i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens </i>is conducted in two segments – a mass talk segment and a classroom-based programme. 
-<br>
-9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens </i>programme is that students are empowered to make wise, informed and sensible decisions. 
-<br>
-<h3>At Jurongville Secondary School, the <i>eTeens</i> programme will be implemented as follows in 2023:</h3>
-<table>
-<tbody>
-<tr>
-<th>Topics/Lessons</th>
-<th>Programme Learning Objectives</th>
-<th>Time Period<br>(e.g. Term 3 Week 9)</th>
-</tr>
-<tr>
-<td style="text-align: left;" valign="top">Mass Talk by HPB appointed vendor</td>
-<td  valign="top">
-*   Awareness of the different STIs and HIV/AIDS<br>
-*   Modes of transmission<br>
-*   Modes of protection, specifically on how the condom is used<br>
-*   Consequences and impact of STIs/HIV
-</td>
-<td valign="top">Term 3 Week 2</td>
-</tr>
-<tr>
-<td style="text-align: left;" valign="top">Classroom-based Lesson</td>
-<td style="text-align: left;" valign="top">*   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-<td valign="top">Term 3 Week 3</td>
-</tr>
-</tbody>
-</table>
-
-_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
+<br><i>*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”. </i><br>
 
 #### _eTeens_ Programme:
 
@@ -370,8 +340,8 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 10 \. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](SEd%20Annex%20A.pdf). The completed form is to be submitted by 10/03/2023.
+11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20A.pdf). The completed form is to be submitted by 10/03/2023.
 
-12 \. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable [here](SEd%20Annex%20B.pdf). The completed form is to be submitted by 10/03/2023.
+12 \. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20B.pdf). The completed form is to be submitted by 10/03/2023.
 
 13 \. Parents can contact the school at 6563 8704 or [jurongville@moe.edu.sg](mailto:jurongville@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
