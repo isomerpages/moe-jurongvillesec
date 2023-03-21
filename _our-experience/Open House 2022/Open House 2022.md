@@ -25,20 +25,20 @@ Video 2: Watch this video to find out about our key programmes in the school
 
 #### Open House 2022
 
-<p><a href="/_our-experience/Open%20House%202022/prepfuture/">
+<p><a href="/our-experience/Open-House-2022/prepfuture/">
 <img style="width:45%" align=left src="/images/Key-Programmes.png">
 </a></p>
 
-<p><a href="/_our-experience/Open%20House%202022/passion/">
+<p><a href="/our-experience/Open-House-2022/passion/">
 <img style="width:45%" align=right src="/images/CCA.png">
 </a></p>
 
 <br clear="left">
 
-<p><a href="/_our-experience/Open%20House%202022/knowledgenskills/">
+<p><a href="/our-experience/Open-House-2022/knowledgenskills/">
 <img style="width:45%" align=left src="/images/Our-Curriculum.png">
 </a></p>
 
-<p><a href="/_our-experience/Open%20House%202022/leading/">
+<p><a href="/our-experience/Open-House-2022/leading/">
 <img style="width:45%" align=right src="/images/LeadingServingOthers.png">
 </a></p>
