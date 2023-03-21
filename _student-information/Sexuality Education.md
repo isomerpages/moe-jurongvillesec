@@ -61,14 +61,14 @@ ii.  Character and Citizenship Education (CCE)
 *   recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>
 *   understand what dating is, and recognise that the readiness and interest in dating vary among individuals
 </td>
-<td valign="top">Term 3 Week 5</td>
+<td valign="top">Term 3<br>Week 5</td>
 </tr>
 <tr>
 <td valign="top">Being Aware, Being Safe<br>Lesson2<br>(60 mins)</td>
 <td style="text-align: left;" valign="top">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 <td valign="top">*   understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
-<td valign="top">Term 3 Week 6</td>
+<td valign="top">Term 3<br>Week 6</td>
 </tr>
 <tr>
 <td valign="top">More than Meets the Eye<br>Lesson 3<br>(60 mins)<br>
@@ -79,7 +79,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>
 *   recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)
 </td>
-<td valign="top">Term 3 Week 7</td>
+<td valign="top">Term 3<br>Week 7</td>
 </tr>
 </tbody>
 </table>
@@ -324,14 +324,14 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 *   Modes of protection, specifically on how the condom is used<br>
 *   Consequences and impact of STIs/HIV
 </td>
-<td>Term 3<br>Week 2</td>
+<td valign="top">Term 3<br>Week 2</td>
 </tr>
 <tr>
 <td style="text-align: left;">Classroom-based Lesson</td>
 <td style="text-align: left;">
   *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making
 </td>
-<td>Term 3<br>Week 3</td>
+<td valign="top">Term 3<br>Week 3</td>
 </tr>
 </tbody>
 </table>
