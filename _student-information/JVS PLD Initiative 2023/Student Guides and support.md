@@ -8,12 +8,11 @@ third_nav_title: JVS PLD Initiative 2023
 
 #### The following are guides that will help you in your use of your PLDs and school systems.
 
-**Guides**
+**Guides**<br>
 
-<img src="/images/photo1669454011.jpeg" style="width:5%" align=left>
+* [Student ICON Takeout ](/files/JVS%20iCON_Google%20Takeout_Guide_for_Students.pdf)
 
-[Student ICON Takeout ](/files/JVS%20iCON_Google%20Takeout_Guide_for_Students.pdf) / pdf 4.8MB
 
 #### Student PLD Update Guides
 
-[PLD Update Guides](/files/Manual%20Update%20of%20Google%20Firmware%20R98%20Guide.pdf)
+* [PLD Update Guides](/files/Manual%20Update%20of%20Google%20Firmware%20R98%20Guide.pdf)
