@@ -9,7 +9,7 @@ description: ""
 Imagine everyday living eased in by technology. You live in smart homes with automated processes. It becomes a norm in the world for drones to navigate between places and deliver parcels. A smart nation and world are no longer dreams, but reality in the near future. We can and should seize opportunities to thrive in the future.
 
 Jurongville Secondary School prides itself in offering STEM Applied Learning Programme, "Real-World Learning Through Electronics". All students receive opportunities to learn electronics and apply their learning in real-world settings.
-<img style="width:85%" src="/images/14 ALP 141019.jpeg">
+<img style="width:85%" src="/images/14 ALP 141019.jpeg"><br>
 Secondary One students are exposed to the fundamentals of electronics and coding through drone flying activities and electronic game design using the BBC Micro:bit. Secondary Two students get to work on the BBC Micro:bit and Arduino platforms to design and build their very own product to help various groups of people within the community. The prototypes include toys, walking sticks as well as automated lighting systems.
 
 Upper Secondary students have the opportunity to specialise in programmes that suit their strengths and interests. These include taking up the O-level Applied Subject, "Electronics", ITE Applied Subject, "Smart Electrical Technology" or applying for a short-term Advanced Elective Module on electronics offered by one of the polytechnics.
