@@ -10,8 +10,8 @@ The JVS ICT Department aims to nurture “Future-ready and Responsible Digital L
 
 The use of technology will enhance JVnites to be
 
-1 \.&nbsp;**Passionate learners**&nbsp;who are self-directed and intrinsically-motivated<br>
-2 \.&nbsp;**Resilient learners**&nbsp;who adapt and respond positively &amp; skilfully in the face of challenges and setbacks.
+1 \. **Passionate learners**&nbsp;who are self-directed and intrinsically-motivated<br>
+2 \. **Resilient learners**&nbsp;who adapt and respond positively &amp; skilfully in the face of challenges and setbacks.
 
 We encourage and support the use of new technologies in learning through the various departments and committees. We also leverage on partners, stakeholders and external agencies to not just push the boundaries of learning, but also to ensure a safe and secure environment.
 
@@ -37,4 +37,4 @@ The JVS library’s physical and digital spaces connect readers and learners to 
 With a flexible multi-use approach, JVS library’s physical space also enables a range of activities including quiet reading, study, collaboration, performance, or school events.
 
 Discovering Me was one such library event for students to come together to discuss their experiences growing up and what defined their personalities. Held on 20 May 2022 in conjunction with ELL Week, the event saw EL Champions Su Thu (2IN), Anya (2DP), Elizabeth and Xylia (2RP) chairing and sharing during the event. It was a great way for students of all levels to bond and discover themselves!
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwl0ygNF748kH4gfxv1nUE3ycq_xWjPlwUD7p5km8FxZdo-CpVomigHS60M5U8IY5XvNbwt5Ejwwxl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIBhErVYLqbnHQaWw8kZqvUJV6G3GmXs_m5pbl8iEiawzSGO7KtfZL4M0HljdIG2oyhjzmOTJN_-rF/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
