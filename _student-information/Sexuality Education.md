@@ -48,19 +48,19 @@ ii.  Character and Citizenship Education (CCE)
 <tr>
 <th width="12%">UNIT
 </th>
-<th width="14%">LESSONS / DURATION
+<th width="16%">LESSONS / DURATION
 </th>
 <th width="29%">Lesson Overview 
 </th>
 <th width="31%">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:<br>
 </th>
-<th width="14%">TIME PERIOD<br>(e.g. <br>Term 1 Week 2)<br>
+<th width="12%">TIME PERIOD<br>(e.g. <br>Term 1 Week 2)<br>
 </th>
 </tr>
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety
 </td>
-<td style="text-align: left;">Steady or Not<br></span>Lesson 1<br>(60 mins)<br>
+<td style="text-align: left;">Steady or Not<br>Lesson 1<br>(60 mins)
 </td>
 <td style="text-align: left;">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline. 
 </td>
