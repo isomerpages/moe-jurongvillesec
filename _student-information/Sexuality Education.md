@@ -47,11 +47,11 @@ ii.  Character and Citizenship Education (CCE)
 <table width="100%" border="1">
 <tbody>
 <tr>
-<th width="12%">UNIT</th>
-<th width="16%">LESSONS / DURATION</th>
-<th width="29%">Lesson Overview</th>
-<th width="29%">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
-<th width="14%">TIME PERIOD<br>(e.g. <br>Term 1 Week 2)</th>
+<th width="12%" align="left">UNIT</th>
+<th width="16%" align="left">LESSONS / DURATION</th>
+<th width="29%" align="left">Lesson Overview</th>
+<th width="29%" align="left">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+<th width="14%" align="left">TIME PERIOD<br>(e.g. Term 1<br>Week 2)</th>
 </tr>
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety
