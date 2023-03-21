@@ -1,5 +1,5 @@
 ---
-title: School Support Staff
+title: School Teaching Staff
 permalink: /about-us/school-teaching-staff/
 description: ""
 ---
