@@ -18,7 +18,7 @@ JVnites are encouraged to be avid readers through our structured reading program
 To immerse our students in rich learning and promote a love for English Language and Literature, we also organised the ELL Week where students were engaged in many enriching and exciting activities, such as Fantasy Adventure, Dramatisation, Flash Fiction and poster design. The whole event culminated in an assembly programme with brain-teaser quizzes which the students thoroughly enjoyed
 
 Furthermore, to broaden our students’ exposure, we provide opportunities beyond the school for students to grow through various competitions. In 2022, our student Su Thu made it to the Semi-Finals of the Orator’s Trophy Secondary School Lower Secondary League.
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS61P80tuvcDN8eipr-Q-FGsgSF8sBpL3ERuMDTOoypug6HqZmzPf39nvDZT_BVQ3HVkTvLj76hSEsP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAjvQru3mCYrza5LSpDGpLCHRYMhefEKu0ZKd6Rt5V8fJJsvxD28EZunrm-PEXuOgh82Hpo59aPi6k/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Music
 
