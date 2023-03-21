@@ -29,4 +29,4 @@ In 2022, we continued with exploration of film music. Students were exposed to t
 Besides this, the department explored the use of loop music from Bandlab where students created original loop composition.
 
 The department is hopeful that the programmes would help students learn confidently and go the extra mile for themselves.
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWM29d3KNFXe4XG6dxlMVLSPMIqR2Xj1blBbhLR1P0SOlduVnCbDh1JH8WPAovVFI6wbYhpz8kPcln/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiSgNwuP67UT4cHtGY08C1uwxp4KVQhAtnMmzPBwhCbat35ni9PLDk_-EkzLy74kNR_S60kkmGjS42/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
