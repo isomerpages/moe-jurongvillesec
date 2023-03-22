@@ -14,7 +14,7 @@ Though we did not manage to compete in the zonal competition this year due to th
 Reflection is a powerful tool that the coach and teachers use to encourage the girls to learn and improve themselves. We will continually work together in our teams to achieve our goals.
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaQXuArSuDXX5lV36dY_AKylyC8PnJI3W9Ibvy2_wuXOMEOH6wKg2BeAgIInHN75uTaqkLk7o3aAky/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSy2QY5EYzWwwA7SFK1ngKUwXs7rx-tMu_EmdeBIUX6kSN5Qw7UM3xMwoKdNxwq5hegG18pzy2Q8etG/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Student Leaders
 
@@ -42,5 +42,5 @@ _One thing I like about netball is that my teammates help me to be better in my 
 _It has been a tough yet enriching netball experience throughout these three years. Netball has taught me dedication, perseverance and discipline in every aspect of life and has made me a better person overall. Not only that, it has also equipped me with better communication and social skills which I am thankful for._&nbsp;
 
 #### Training Schedule
-Tuesday:     2.45 pm to 4.45 pm<br>
-Friday:         1.00 pm to 3.00 pm
+Tuesday 3.30pm - 5.30pm<br>
+Friday 1.00pm - 3.00pm
