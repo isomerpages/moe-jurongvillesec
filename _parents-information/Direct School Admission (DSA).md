@@ -17,9 +17,18 @@ The DSA-Sec and S1 Posting are the two modes of admission to Secondary Schools. 
 
 The following are the various specific talent areas offered by Jurongville Secondary School for the Direct School Admission (DSA) exercise.
 
-| **Learnning for Life Programme (LLP)**<br>**Sports & Games** | **Applied Learning Programme (ALP)**<br>**Science, Technology, Engineering an Maths (STEM)**|
-|:---:|---|
-| Football (Boys) | Electronics & Robotics |
+<table width="80%" border="1" class="ive_eobj_center iveo_table ives_tab_green">
+<tbody>
+<tr>
+<th width="50%"><div style="text-align: center;"><b>Learnning for Life Programme (LLP)<br>Sports &amp; Games</b></div></th>
+<th width="50%"><div style="text-align: center;"><b>Applied Learning Programme (ALP)<br>Science, Technology, Engineering an Maths (STEM)</b></div></th>
+</tr>
+<tr>
+<td><div style="text-align: center;">Football (Boys)</div></td>
+<td><div style="text-align: center;">Electronics &amp; Robotics</div></td>
+</tr>
+</tbody>
+</table>
 
 The following is the write up for the various specific talent areas offered by Jurongville Secondary School for the Direct School Admission (DSA) exercise.
 
