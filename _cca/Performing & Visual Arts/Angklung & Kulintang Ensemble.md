@@ -16,7 +16,7 @@ Covid-19 presents unprecedented challenges in the way we learn and carry out our
 Through these challenging times, the Ensemble is confident that the students’ perseverance and their adaptability to change will make them emerge stronger and united as a team.
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTHevyZUc4KFSmLbYO-GSlyeGXpdjH3sPFhbey6reQj3U57k8BBODokYpeUZhxl92hihTsCYTXQw7D/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLyfimMYddo4ysPjePtK0k3ER2sChehtLLZjLBJI7newl3rA6UZYwis7noKISMCB9RB4dQI0Q_BeH9/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Student Leaders
 
@@ -28,7 +28,7 @@ Through these challenging times, the Ensemble is confident that the students’ 
 
 #### Key Achievements
 
-|   |
+| JVS |
 |:-:|
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment  |
 |  2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
@@ -46,5 +46,5 @@ _‘Being in Angklung has developed me into a resilient person. The first year h
 _‘Ever since joining the Angklung &amp; Kulintang Ensemble, I really learnt so much from it. I literally had no whatsoever experience in playing instruments and so I was kind of nervous when I first joined it. However, now that I have spent 1 and a half years in it, I feel a sense of home and comfort with all of my friends getting together to learn how to read chords and how to play music pieces as one. Though I may have struggled at first, I wouldn't be here without my supportive friends and CCA teachers. Joining this CCA has really been a eye-opening experience and I cannot wait for what the future brings us!’_  
 
 #### Training Schedule
-Every Tuesday:     1500hrs - 1700hrs<br>
-Every Friday:         1400hrs - 1600hrs
+- Tuesday 3.30pm - 5.30pm<br>
+- Friday 2.30pm - 3.30pm
