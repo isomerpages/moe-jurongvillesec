@@ -43,4 +43,4 @@ _Joining JVS NPCC has been a very enlightening and fun experience for me. I reme
 _NPCC has been a great experience for me. I learnt many new life skills and other skills like teamwork and working together as a squad. NPCC has allowed me to come out of my comfort zone and overcome my social anxiety. I really hope that this learning can continue!_  
 
 #### Training Schedule
-Friday 2.30pm to 4.30pm
+- Friday 2.30pm - 4.30pm
