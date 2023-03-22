@@ -14,9 +14,9 @@ This year our members participated in the Singapore Youth Festival (SYF) Arts Pr
 This year, our students have continued to adapt to the ever-changing climate that is the theatre scene in the midst of a pandemic. They have proven their mettle, displaying strength of mind, character and spirit in the face of constant changes. We will continue to encourage, educate and inspire our members as they progress through this journey of theatrical discovery. As their confidence as performers and crew increases, we hope this same confidence will serve them well, even long after they have graduated from Jurongville Secondary School!
 
 #### CCA Photo and Video
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQq9wmPltSj25xcDRmgZXk7Zn_2L_iiUEWYpxYuueR14gOPEB8NVfJ656qeyusaxLGdVDwVNHVUyXGl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZbtK3bXVUnsjpRihJ3uwF5rWgfRe1Cr60B4UyVNR4bBKW3cR-OD5ie3tIEa3zmVsdVkAoSeUM1Ctu/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br>
+<iframe src="https://drive.google.com/file/d/1fo77Wusz_6I0DFUlcIYASnHj_7rS35Uo/preview" width="640" height="480" allow="autoplay"></iframe>
 
 #### Student Leaders
 
@@ -46,5 +46,5 @@ _Even though COVID-19 has presented many challenges, it was fun trying to host C
 _Despite facing many different challenges due to COVID-19 measurements, EDC continued to strive to make the Club safe and enjoyable for all its members. EDC is just not about acting, it is a place for us to step out of our comfort zone by expressing our feelings and thoughts with no judgments. I do hope to make more fun and memorable moments with my EDC members in the years to come!_  
 
 #### Training Schedule
-Tuesdays    3.00 pm - 5.00 pm<br>
-Fridays        2.30 pm - 4.30 pm
+- Tuesday 3.30pm - 5.30pm<br>
+- Friday 3.30pm - 5.30pm
