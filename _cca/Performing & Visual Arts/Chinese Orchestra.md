@@ -20,7 +20,7 @@ Preparing for SYF is a long and arduous journey but we are steadily pushing thro
 CO will always be there for us, through and through. With new members joining us, we are confident of many more fun memories to come. So join us, pronto!
 
 #### CCA Photos
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5J7804nUSgwMNu10f3UJTBIftxd9KSpl0QKMjZRytowToRNDyMMxcwW1BkhPSYS80Ch8s87APRDUV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnZKf9Tqqr-Xi21liN21db5xta_YCcD-zrhDhACsHZLAAL-pVvU3Td7wkWSNp8xyNIKjyzNCOxXytf/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **REQUIRE JACKSON'S INPUT VIDEO**
 
@@ -58,5 +58,5 @@ _“Chinese Orchestra is not merely about playing an instrument. Joining this CC
 
 #### Training Schedule
 
-Every Tuesday     3:00pm - 5:00pm<br>
-Every Friday         1:00pm - 3:00pm
+- Tuesday 3.30pm - 5.30pm<br>
+- Friday 2.00pm - 4.00pm
