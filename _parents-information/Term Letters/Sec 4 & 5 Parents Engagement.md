@@ -8,13 +8,12 @@ third_nav_title: Term Letters
 
 #### Sec 4E/5N
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2nQQTShvd3liknWCHcOG0yKI5wiYWTIgsOP7Dk0HXlmaTYFcbrY6A_e13vl0R0W9E15hdEhKpbVDN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9DlSUv6aJG67j0YMIBa9O5CbXhYwodSJkXxn0tEf_2x1EcebIZ2gKzRR-g3li_w/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Sec 4NA
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHVBmWt1QGrqCKDkpOzu9MYoMUiKZKUJTlvi_P8BE5R9kH4NBJq_2i4COWEQEj9bdOW_lWiTYb-D8D/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdSO1RFtgvH39ikU8MJ7gCiFei8S5JZ1OTRBvZpsQvljOncF8vo4WZGr1f_tkUGQ/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Sec 4NT
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRo8_9mFqTQEHsBhC912zSoAjC3dWdO6vV3k4JrLBKePZUQvNZnfiw0_mSqVlf6TUAioYos6EHHBPr3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTtZow-yAlpnkxKG-n6-nom9Gn61R9PxHqghuTCQ6TVB-i02Da8-YcU4h5ag2caw/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
