@@ -15,7 +15,7 @@ Our teams have continued to train on their own and adapt to the new training for
 
 #### CCA Photo
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2dNfXKNloPTLou1cqiBCvn6v1ljG_fyO7XXBlQx1KOwqy5JKd8by5XbCXYQhSgUg_Lstxobwdx7tw/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<br>
 <iframe src="https://drive.google.com/file/d/1EqhnHaeb4liJgTZbaFpZ-AYKmhz6GiwT/preview" width="640" height="480" allow="autoplay"></iframe>
 
 #### Student Leaders
