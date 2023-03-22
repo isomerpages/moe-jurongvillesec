@@ -15,7 +15,7 @@ As a testament of the strength of the football team, the school has gone on to c
 In 2020, the team was steadfast in continuing our training through our e-CCA programme so that students remain fit and ready student athletes.
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7hz3Z6siVR0zWaG-BT7TWNhQTX6psg3W0b1oNW1idU825TbQOIROJdNkp-rm37y2nqO4kOm3bveP_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7QGVE0vSWxftSmWUVIVE5oSHLukxSZROOFAf7FYs6d3v73CQBDKU_XnLvKnpmtV6rG52aMybVmN97/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Student Leaders
 
@@ -42,5 +42,14 @@ In 2020, the team was steadfast in continuing our training through our e-CCA pro
 _“As a captain for the B Division team, I am proud to represent Jurongville Secondary School. Our aim was to become the champions again in 2021 but unfortunately, we couldn’t participate due to Covid-19. However, we were glad that we can still train together and learn new technical skills. I wish all the very best to my juniors and Jurongville Secondary School. ”_  
 
 #### Training Schedule
-C Division - Tuesdays and Fridays 2:30pm – 4:30pm<br>
-B Division - Tuesdays and Fridays 4:30pm – 6:30pm
+C Division<br>
+- Monday 2:45pm – 5:30pm<br>
+- Tuesday 4:00pm – 6:00pm<br>
+- Thursday 2:45pm – 5:30pm<br>
+- Friday 2:30pm – 6:00pm<br>
+
+B Division<br>
+- Monday 2:45pm – 5:30pm<br>
+- Tuesday 2:45pm – 4:30pm<br>
+- Thursday 2:45pm – 5:30pm<br>
+- Friday 2:30pm – 6:00pm<br>
