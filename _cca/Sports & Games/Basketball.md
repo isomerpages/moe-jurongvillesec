@@ -48,5 +48,5 @@ _Joining the Basketball CCA has taught me values that i apply in court and in th
 _Ever since joining Basketball CCA I have learnt many important values like teamwork, perseverance, and sportsmanship. I have also learnt how to find ways to improve myself not just in basketball but also academically. Values such as self-discipline, determination, and teamwork can only be achieved by a sport like basketball._  
 
 #### Training Schedule
-Tuesday 3.30pm - 5.30pm<br>
-Friday 3.00pm - 5.00pm
+- Tuesday 3.30pm - 5.30pm<br>
+- Friday 3.00pm - 5.00pm
