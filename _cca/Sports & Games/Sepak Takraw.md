@@ -41,4 +41,4 @@ _“I am so proud of Jurongville Sepak Takraw B Division team. We achieved somet
 
 #### Training Schedule
 - Monday 3.30pm - 5.30pm<br>
-- Friday 3.30pm - 5.30pm
+- Thursday 3.30pm - 5.30pm
