@@ -50,7 +50,7 @@ The Triple P Seminars will be held on Zoom. The Programme is a strategy designed
 </td>
 <td>Parents with concerns about their teen's behaviour who require intensive training in positive parenting<br>
 </td>
-<td rowspan="4">Module 1 - What is Positive Parenting?<br><br>Module 2 - Encouraging Appropriate Behaviour<br><br>Model 3 - Teaching New Skills and Behaviours<br><br>Module 4 - Problem Behaviour<br><br>Module 5 - Planning Ahead for Risky Situations<br><br>Module 6 - Raising Confident, Capable Teenagers
+<td valign="top" rowspan="4">Module 1 - What is Positive Parenting?<br><br>Module 2 - Encouraging Appropriate Behaviour<br><br>Model 3 - Teaching New Skills and Behaviours<br><br>Module 4 - Problem Behaviour<br><br>Module 5 - Planning Ahead for Risky Situations<br><br>Module 6 - Raising Confident, Capable Teenagers
 </td>
 </tr>
 <tr>
