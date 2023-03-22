@@ -48,4 +48,4 @@ _I’ve learnt so much throughout my Guiding journey and made a lot of new frien
 To my juniors, I hope all of you can strive to make JVGG a better place for all Guides. I believe all of you can do it. All the best, girls!_
 
 #### Training Schedule
-Friday 2.00pm - 5.00pm
+- Friday 2.00pm - 5.00pm
