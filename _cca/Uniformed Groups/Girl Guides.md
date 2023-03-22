@@ -18,7 +18,7 @@ An international movement, Girl Guiding remains committed to honing every girlâ€
 _P.S. The Puan Noor Aishah Award was discontinued for one year in 2020 due to the disruptions created by the pandemic._
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReadJIHMB3lIeI5MnqzMsgIkf-aisHEf_KpxN5aJ8YpReEs6W_liSSwN1XBHuRp34raxL4-a-0sVmD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTly6jQ8uV_WYdvufBmUS5ZK4bK7omlSZuMkf-Ynk3T6sCY3Qkg980AHaXTSZVuIe5_F5xrMZcWwNml/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Student Leaders
 
