@@ -15,7 +15,7 @@ We are constantly on the lookout for collaboration with like-minded partners. On
 The Modern Dance CCA remains determined to bring the joy and beauty of dance to everyone no matter the circumstance, and our members are eagerly looking forward to performing more in the future!
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbYFH7yBx41vpJkUbIeVYGF-E0lwtzyMJ588x01uXyz6HUx9TIcTvKpm38vXH-xNFmycoVfj1z3UKQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaBUM4cBAXwOdKVUpUDp21ez8NiSReVdnRpENO12qCWDpY-DwvfzCCI7OTGwRf98fFWOryIQvT7xtP/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Student Leaders
 
@@ -46,6 +46,5 @@ _
 _I only managed to join dance in secondary two and I am glad I make the choice to do it. At first, I was really scared to join dance as I only did not know many of the dancers and not alot about dancing. However, I eventually became comfortable interacting with my seniors, juniors, and peers. I am happy to be in dance as I have loved dancing since I was a young girl. I hope all my juniors will have fun in dance and enjoy yourselves!_  
 
 #### Training Schedule
-**Every week**<br>
-Tuesday 3.00 pm to 5.00 pm<br>
-Friday 2.30 pm to 4.30 pm
+- Tuesday 3.30pm - 5.30pm<br>
+- Friday 2.30pm - 4.30pm
