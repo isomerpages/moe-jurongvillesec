@@ -16,9 +16,10 @@ During their e-CCA sessions, members from Sec 1 to 3 produced a virtual video fo
 In spite of the challenges brought on by COVID, the energy and passion of Drumatix Batucada has never wavered. Our students and teachers all look forward to the future with enthusiasm!
 
 #### CCA Photo and Video
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTy942fw7ZfhjsbvazfIn7FyiuL1vUMB7ttSucJSXKmCzAzkStsNJOQPeBDzfclBY74bu8vzFOWWiJg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZ6CfjKiQC3Y9rFnSaY95iG1ssLk7uo8TrYxnFkR4AjFdpnllBPUY1mFwFFY9fmndpFOB5RyJNxhaq/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br>
+<iframe src="https://drive.google.com/file/d/1aKyUB9SNiv01A1Bi_pXhIvZS-J2hdQEq/preview" width="640" height="480" allow="autoplay"></iframe><br>
+<iframe src="https://drive.google.com/file/d/1NygCyAD-Yz1O5S8L1qkzBCi4J_Lk9_F8/preview" width="640" height="480" allow="autoplay"></iframe>
 
 #### Student Leaders
 
@@ -45,4 +46,5 @@ _Batucada is a place where I can be myself. I get to release all my stress from 
 _Dramatix Batucada has become one of my healing places. The people, energy and atmosphere made me feel welcomed from the start. Ever since secondary 1, I have gained much experience on how to lead and be a part of a team with my CCA mates. I have overcome my stage fright and gained confidence while performing. Being in Drumatix Batucada is a blessing I never thought I would get._  
 
 #### Training Schedule
-Tuesday 3.00pm - 5.00pm
+- Tuesday 3.30pm - 5.30pm<br>
+- Friday 2.30pm - 4.30pm
