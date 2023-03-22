@@ -105,5 +105,4 @@ At the end of the graduating year, students’ co-curricular attainment will be 
 
 Please refer to examples in [Annex B](/files/LEAPS%2020%20-%20Annex%20B.pdf).<br>
 For enquiries, please contact<br>
-Dr Mohammad Shah Bin Razak (HOD PE & CCA) at [mohammad\_shah\_razak@schools.gov.sg](mailto:mohammad_shah_razak@schools.gov.sg) or<br>
 Mr Kenny Tiew (SH PE & CCA) at [tiew_choon_lien@schools.gov.sg](mailto:tiew_choon_lien@schools.gov.sg)
