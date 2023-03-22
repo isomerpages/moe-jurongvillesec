@@ -14,9 +14,9 @@ In Jurongville , we inculcate our basketball players in Jurongville to have the 
 Our teams have continued to train on their own and adapt to the new training formats such as e-CCA training through video-conferencing and small group training sessions throughout the latter half of the year because of COVID-19.
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuY5dXah3YL4AxNUgC4mbdwhfRW_IFjxEEP8gXX_h6tYklX5IpZamwlqdAdgpo0EU-9LJ3TGtzyQux/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2dNfXKNloPTLou1cqiBCvn6v1ljG_fyO7XXBlQx1KOwqy5JKd8by5XbCXYQhSgUg_Lstxobwdx7tw/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe src="https://drive.google.com/file/d/1EqhnHaeb4liJgTZbaFpZ-AYKmhz6GiwT/preview" width="640" height="480" allow="autoplay"></iframe>
 
 #### Student Leaders
 
@@ -48,5 +48,5 @@ _Joining the Basketball CCA has taught me values that i apply in court and in th
 _Ever since joining Basketball CCA I have learnt many important values like teamwork, perseverance, and sportsmanship. I have also learnt how to find ways to improve myself not just in basketball but also academically. Values such as self-discipline, determination, and teamwork can only be achieved by a sport like basketball._  
 
 #### Training Schedule
-Every Tuesday and Friday<br>
-1430 hr to 1700 hr
+Tuesday 3.30pm - 5.30pm<br>
+Friday 3.00pm - 5.00pm
