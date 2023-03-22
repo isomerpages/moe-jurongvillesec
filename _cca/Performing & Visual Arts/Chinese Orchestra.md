@@ -21,8 +21,8 @@ CO will always be there for us, through and through. With new members joining us
 
 #### CCA Photos
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnZKf9Tqqr-Xi21liN21db5xta_YCcD-zrhDhACsHZLAAL-pVvU3Td7wkWSNp8xyNIKjyzNCOxXytf/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-**REQUIRE JACKSON'S INPUT VIDEO**
+<br>
+<iframe src="https://drive.google.com/file/d/1bhM0h1KgyrT2B_FV7ZBtGNxTt3LeaZNq/preview" width="640" height="480" allow="autoplay"></iframe>
 
 #### Student Leaders
 
