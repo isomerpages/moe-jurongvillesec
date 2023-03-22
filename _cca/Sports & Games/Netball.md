@@ -42,5 +42,5 @@ _One thing I like about netball is that my teammates help me to be better in my 
 _It has been a tough yet enriching netball experience throughout these three years. Netball has taught me dedication, perseverance and discipline in every aspect of life and has made me a better person overall. Not only that, it has also equipped me with better communication and social skills which I am thankful for._&nbsp;
 
 #### Training Schedule
-Tuesday 3.30pm - 5.30pm<br>
-Friday 1.00pm - 3.00pm
+- Tuesday 3.30pm - 5.30pm<br>
+- Friday 1.00pm - 3.00pm
