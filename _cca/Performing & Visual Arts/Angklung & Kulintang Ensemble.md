@@ -33,7 +33,6 @@ Through these challenging times, the Ensemble is confident that the students’ 
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment  |
 |  2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
 | 2017 Singapore Youth Festival Arts Presentation: Certificate of Distinction  |
-|   |
 
 #### Students' voices
 **SHIVANESWARY D/O SARAVANAN (3-Respect, 2021)** <br>
