@@ -14,7 +14,7 @@ The players display determination to enhance their skills during training sessio
 The team and teachers are appreciative to the school leaders for their strong support and guidance for the boys. The team would also like to thank Coach Said for his invaluable contributions in motivating the boys to achieve success in their endeavours.
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNe0K0qCW-wHVjXykz-KnA2Ki_z6igu3L--6pgkXsNON_5rtFt7sKxxIDVlwtW_K3pdGG2K9uo__lo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0632-4ZYDnagksUDSfOIsc97IzRGCM25kCvkdVRgu-JEM9_Bm4SItkmKNoRc1V8qYOR-pGMXxyOQM/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Student Leaders
 
@@ -40,5 +40,5 @@ _“I would like to encourage my juniors to keep training and never give up to a
 _“I am so proud of Jurongville Sepak Takraw B Division team. We achieved something we were not able to achieve in 10 years. We trained really hard to get the Championships Trophy. We supported each other and motivated one another in every single game. The times when we cheered for the team and celebrated every point were my favourite moments. I am so happy to be celebrating this victory alongside the seniors. I will make sure that we will continue to train and fight hard in the future.’’_
 
 #### Training Schedule
-Tuesday - From 2.30pm to 4.30pm<br>
-Friday     - From 3.30pm to 5.30pm
+- Monday 3.30pm - 5.30pm<br>
+- Friday 3.30pm - 5.30pm
