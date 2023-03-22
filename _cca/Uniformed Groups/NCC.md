@@ -18,7 +18,7 @@ Despite the difficulties faced during the pandemic, the cadet leaders stepped up
 Having attained the Distinction award for the Unit Recognition in 2019, the unit remains committed to achieving greater heights in the years ahead. To serve with pride and dedication, NCC!
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQt_1_thAzuBMHw_k3CWjS0A4ako-wVfjiiGQrrsg1OCft0k3ieT5A6pNDzNcUHh8LK5MQClpXB-HY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgF5_kcueeVU_M-xWfmt0z3nyLF41vSOR8V570L9r9ipKxIwrCLse_jExIcbosEJwhAeuGgVMMYth3/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Student Leaders
 
