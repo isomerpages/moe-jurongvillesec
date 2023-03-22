@@ -15,7 +15,7 @@ were cancelled. Despite facing strong opponents in the games they have played, o
 The school would like to commend the Captain, Lau Yue Hang (4DP) and Aw Jing Xuan (3DP) and Vice-Captains Kesavaram Jignesh (4EM), Wee Si Han Jayden (5PA) and Lim Yu En Aris (3EM) for their excellent role in leading the B Division teams this year. They have led their teams well and have demonstrated the school values of perseverance and discipline on and off the court.
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw6SH9bZB6aICUis0sNHssP4w3qvLRPVmseNzd6xm3IHzqaR-QAZv-ex0UlVrn_B4uCKOTB3eSuEb-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQW2I_3KkY3C3_bMkhIhCPznXlCad_JhUOXkYJyQWpxqnA2vzJmu5ujDy0lLZJeU8wz7L_fUhsm-gdC/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Student Leaders
 
@@ -46,5 +46,5 @@ _It has been a fulfilling 3 years in the Badminton team. I have learnt many new 
 _In the past four years, I have not only learnt leadership skills but also skills which better enable me to perform better as a school team badminton player. I have made a lot of friends in the team and I will definitely treasure them in my memories. My team had participated in a few games in the West Zone competition. We gave all of our best during our matches and we had performed well. I hope that the team will continue to do their best and work together as one to achieve greater heights._  
 
 #### Training Schedule
-Tuedays- 4.00pm - 6.00pm<br>
-Fridays-  1.30pm - 3.30pm
+Tuesday 4.00pm - 6.00pm<br>
+Friday  1.30pm - 3.30pm
