@@ -14,7 +14,7 @@ Due to the unprecedented situation of Covid-19, e-CCA was conducted to engage pl
 We hope our players can grow holistically and be the PRIDE of Jurongville. Join us and let us walk the secondary school journey with you!
 
 #### CCA Photo
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBEN-7BH3mBSCZRqukpKRqe9SUVv6oKPSNyJG7hA5kopfdgcPm8-3HIfy8Ps-aUwehgq3L45PvqScI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbX-pmjOyep8IwLJHTqO7Sx9Pyju5r1HpuddJDfteaPlGAWNej3KWjQ_gb6kU2lCK-rk5J-WsmhjhJ/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Student Leaders
 
