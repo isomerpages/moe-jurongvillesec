@@ -35,4 +35,4 @@ _I would like to thank the officers, primers and squadmates for giving me the op
 
 #### Training Schedule
 
-Saturdays: 0830am – 1230pm
+- Saturday 0830am – 1230pm
