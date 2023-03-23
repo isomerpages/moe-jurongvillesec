@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: media-color
+      background: 
       key_highlights:
         - title: announcements
           description: New Update!
