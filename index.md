@@ -7,6 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
+      subtitle: Beyond Self
       Background: /images/Homepage_P1.jpg
       key_highlights:
         - title: announcements
