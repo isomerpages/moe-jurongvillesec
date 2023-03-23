@@ -12,11 +12,5 @@ sections:
         - title: announcements
           description: New Update!
           url: /parents-information/Term-Letters/tl/
-  - infopic:
-      title: Open House 2022
-      description: Click button below for more information!
-      button: click here
-      url: /our-experience/Open-House-2022/2022/
-      image: /images/Banner.jpg
-      alt: Image alt text
+
 ---
