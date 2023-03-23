@@ -3,4 +3,9 @@ show_reach: true
 social_media:
   instagram: https://www.instagram.com/jurongvilleofficial_new/
 navlink:
-link: usefullink.md
+link: 
+- title: Useful link
+  url: usefullink.md
+  
+- title: Google
+  url: https://workspace.google.com/dashboard
