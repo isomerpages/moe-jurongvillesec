@@ -1,5 +1,6 @@
 contact_us: mailto:jurongville@moe.edu.sg
 show_reach: true
-Useful link: usefullink.md
 social_media:
   instagram: https://www.instagram.com/jurongvilleofficial_new/
+navlink:
+link: usefullink.md
