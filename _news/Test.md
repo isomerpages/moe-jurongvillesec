@@ -1,3 +1,10 @@
+---
+title: TEST
+permalink: /news/TEST/
+description: ""
+---
+## TEST
+
 <div class="slideshow-container">
 
 <div class="mySlides fade">
