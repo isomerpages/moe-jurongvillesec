@@ -50,25 +50,25 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &-1{
     //background-color: $primary;
-    background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+    background: url('/images/Homepage_P1.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
   &-2{
     //background-color: $info;
-    background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
+    background: url('/images/Homepage_P2.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
   &-3{
     //background-color: $warning;
-    background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
+    background: url('/images/Homepage_P3.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
   &-4{
     //background-color: $danger;
-    background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
+    background: url('/images/Homepage_P4.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
