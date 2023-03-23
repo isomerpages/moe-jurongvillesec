@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: 
+      background: Slideshow.html
       key_highlights:
         - title: announcements
           description: New Update!
