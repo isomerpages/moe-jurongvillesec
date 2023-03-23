@@ -7,7 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage_P1.jpg 
+      background: 
+       - /images/Homepage_P1.jpg
+       - /images/Homepage_P2.jpg
+       - /images/Homepage_P3.jpg
+       - /images/Homepage_P4.jpg
       key_highlights:
         - title: announcements
           description: New Update!
