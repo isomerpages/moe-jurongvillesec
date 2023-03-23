@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/5da4c939b_283.jpg
       key_highlights:
-        - title: announcement 1
+        - title: announcements
           description: New Update!
           url: /parents-information/Term-Letters/tl/
   - infopic:
