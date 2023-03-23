@@ -28,9 +28,9 @@ Thank you for visiting Jurongville Secondary School. By accessing and using this
 ### Disclaimer of Warranties and Liability
 8. The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Jurongville Secondary School does not warrant and hereby disclaims any warranty:
 
->>  a. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;
+    a. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;
 
->>  b. that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
+    b. that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
 
 9. Jurongville Secondary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
