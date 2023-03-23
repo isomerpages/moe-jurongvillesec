@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/5da4c939b_283.jpg
+      background: /Slideshow.html
       key_highlights:
         - title: announcements
           description: New Update!
