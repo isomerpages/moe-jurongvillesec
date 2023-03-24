@@ -2,6 +2,21 @@ contact_us: mailto:jurongville@moe.edu.sg
 show_reach: true
 social_media:
   instagram: https://www.instagram.com/jurongvilleofficial_new/
-link:
+
+navlinks:
+  - title: About Us
+    url: /about-us/vision-mission/
+  - title: Our Experience
+    url: /our-experience/el-lit-music/
+  - title: Our Achievements
+    url: /our-achievements/knowledge-skills/
+  - title: Student Information
+    url: /student-information/class-mentors-2023/
+  - title: Parents Information
+    url: /parents-information/Term-Letters/tl/
+  - title: News
+    url: /news/gallery-events/
+
+links:
   - title: Useful_link
     url: /usefullink
