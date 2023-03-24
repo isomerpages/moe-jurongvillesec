@@ -10,7 +10,7 @@ The NEU PC Plus Programme offers Singapore Citizen or Permanent Resident full ti
 #### Enhancements for Covid-19 period
 
 Reference Document: “Neu PC Plus - Faster access to digital technology for low-income families”<br>
-[Neu PC Plus - Faster access to digital technology for low-income families](/files/Neu%20PC%20Plus%20-%20Faster%20access%20to%20digital%20technology%20for%20low-income%20families.pdf)
+[Neu PC Plus - Faster access to digital technology for low-income families](/files/Neu%20PC%20Plus%20-%20Faster%20access%20to%20digital%20technology%20for%20low-income%20families.pdf){:target="_blank"}
 
 IMDA has recently enhanced the NEU PC Plus programme to further support home-based learning (HBL) during the Covid-19 period. These enhancements include:
 
@@ -22,13 +22,13 @@ IMDA has recently enhanced the NEU PC Plus programme to further support home-bas
 
 #### Application
 
-If you are interested to apply, the revised application forms may be downloaded here or from IMDA website [https://www.imda.gov.sg/programme-listing/neu-pc-plus](https://www.imda.gov.sg/programme-listing/neu-pc-plus).
+If you are interested to apply, the revised application forms may be downloaded here or from IMDA website [https://www.imda.gov.sg/programme-listing/neu-pc-plus](https://www.imda.gov.sg/programme-listing/neu-pc-plus){:target="_blank"}.
 
 For non MOE-FAS and non SPED-FAS students, please use: <br>
-<a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/PC_Bundle_Application_Form_v121.pdf">"PC\_Bundle\_Application\_Form\_v12.1"</a>
+<a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/PC_Bundle_Application_Form_v121.pdf" target=_blank>"PC\_Bundle\_Application\_Form\_v12.1"</a>
 
 For MOE-FAS and SPED-FAS students, please use <br>
-<a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/Application%20Form%20for%20MOE-SPED%20FAS%20v51.pdf">"Application Form for MOE-SPED FAS v5.1"</a>
+<a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/Application%20Form%20for%20MOE-SPED%20FAS%20v51.pdf" target=_blank>"Application Form for MOE-SPED FAS v5.1"</a>
 
 For M1 Fibre Broadband application, please use the updated form <br>
-<a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%202023.pdf">"NEU PC Plus IMDA FBB Svc Appl 2023"</a>
+<a href="https://staging.d2fcpke8jx35fo.amplifyapp.com/files/NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%202023.pdf" target=_blank>"NEU PC Plus IMDA FBB Svc Appl 2023"</a>
