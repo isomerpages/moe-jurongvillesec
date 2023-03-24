@@ -33,7 +33,7 @@ third_nav_title: E Newsletter
 <td><center>**Newsletter (Sept 2016 issue)<br>	by JVS student reporters**</center></td>
 </tr>	
 <tr>
-<td align="center"><a href=""><img src="/images/Jurongville 2015 Newsletter 2.png"></a></td>
+<td align="center"><a href="/news/E-Newsletter/2015/"><img src="/images/Jurongville%202015_Page_1.jpg"></a></td>
 <td></td>
 </tr>
 <tr>
