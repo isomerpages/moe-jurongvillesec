@@ -15,26 +15,26 @@ third_nav_title: Timetable
 
 |  |
 |:---:|
-| [Exam Timetable](/files/2022%20EOY%20Timetable_Sec%20One.pdf) |
+| [Exam Timetable](/files/2022%20EOY%20Timetable_Sec%20One.pdf){:target="_blank"} |
 |  |
 
 **Secondary 2**
 
 |  |
 |:---:|
-| [Exam Timetable](/files/2022%20EOY%20Timetable_Sec%20Two.pdf) |
+| [Exam Timetable](/files/2022%20EOY%20Timetable_Sec%20Two.pdf){:target="_blank"} |
 |  |
 
 **Secondary 3**
 
 |  |
 |:---:|
-| [Exam Timetable](/files/2022%20EOY%20Timetable_Sec%20Three.pdf) |
+| [Exam Timetable](/files/2022%20EOY%20Timetable_Sec%20Three.pdf){:target="_blank"} |
 |  |
 
 #### 2022 Mid-Year Examination Timetable
 
 |  |  |  |
 |:---:|---|---|
-| [Sec 4 Express & Sec 5 Normal Academic](/files/2022%20MYE%20Sec4E5N.pdf) | [Sec 4 Normal Academic](/files/2022%20MYE%20Sec4NA.pdf) | [Sec 4 Normal Technical](/files/2022%20MYE%20Sec4NT.pdf) |
+| [Sec 4 Express & Sec 5 Normal Academic](/files/2022%20MYE%20Sec4E5N.pdf){:target="_blank"} | [Sec 4 Normal Academic](/files/2022%20MYE%20Sec4NA.pdf){:target="_blank"} | [Sec 4 Normal Technical](/files/2022%20MYE%20Sec4NT.pdf){:target="_blank"} |
 |  |  |  |
