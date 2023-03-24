@@ -26,7 +26,7 @@ third_nav_title: E Newsletter
 </tr>
 <tr>
 <td align="center"><a href=""><img src="/images/flourish.png"></a></td>
-<td align="center"><a href=""><img src="/images/news.png"></a></td>
+<td align="center"><a href="/news/E-Newsletter/2016/"><img src="/images/Jurongville_Sept%202016_Newsletter_Page_01.jpg"></a></td>
 </tr>
 <tr>
 <td><center><br>Newsletter April 2017 issue<br>by JVS student reporters</br></center></td>
