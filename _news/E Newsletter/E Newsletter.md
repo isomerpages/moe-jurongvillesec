@@ -13,30 +13,30 @@ third_nav_title: E Newsletter
 <td width="50%" aligh="center"><a href="/news/E-Newsletter/2021/"><img src="/images/JVS E-Newsletter_July_2021-P01.jpg"></a></td>
 </tr>
 <tr>
-<td><center>**Newsletter (May 2022 Issue)**</center></td>
-<td><center>**Newsletter (July 2021 Issue)**</center></td>
+<td><center><br>Newsletter (May 2022 Issue)</br></center></td>
+<td><center><br>Newsletter (July 2021 Issue)</br></center></td>
 </tr>
 <tr>
 <td align="center"><a href="/news/E-Newsletter/2020/"><img src="/images/JVS e-Newsletter July2020_Page_01.jpg"></a></td>
 <td align="center"><a href="/files/JVS%20Newsletter%202019%20Updated.pdf"><img src="/images/JVS Newletter May 2019 Cover.jpg"></a></td>
 </tr>
 <tr>
-<td><center>**Newsletter (July 2020 Issue)**</center></td>
-<td><center>**Newsletter (May 2019 Issue)**</center></td>
+<td><center><br>Newsletter (July 2020 Issue)</br></center></td>
+<td><center><br>Newsletter (May 2019 Issue)</br></center></td>
 </tr>
 <tr>
 <td align="center"><a href=""><img src="/images/flourish.png"></a></td>
 <td align="center"><a href=""><img src="/images/news.png"></a></td>
 </tr>
 <tr>
-<td><center>**Newsletter April 2017 Issue<br>by JVS student reporters**</center></td>
-<td><center>**Newsletter (Sept 2016 issue)<br>	by JVS student reporters**</center></td>
+<td><center><br>Newsletter April 2017 issue<br>by JVS student reporters</br></center></td>
+<td><center><br>Newsletter September 2016 issue<br>by JVS student reporters</br></center></td>
 </tr>	
 <tr>
 <td align="center"><a href="/news/E-Newsletter/2015/"><img src="/images/Jurongville%202015_Page_1.jpg"></a></td>
 <td></td>
 </tr>
 <tr>
-<td><center>**Newsletter(Oct 2015 issue)<br>by JVS student reporters**</center><td>
+<td><center><br>Newsletter October 2015 issue<br>by JVS student reporters</br></center><td>
 <td></td>
 </tr>
