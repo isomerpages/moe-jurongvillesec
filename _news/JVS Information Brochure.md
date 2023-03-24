@@ -5,4 +5,4 @@ description: ""
 ---
 ## JVS Information Brochure
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8YGXzLlO0WjetSMRO-Dyn7HSBsHmSPYqoI5NGgym4AHwCE-y7ljDCo6vG5uUXyxF5ZtrC2YPDma7a/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTb4HdRoitlsADizOL0ZjnfahrR7fPGpXsJX0qvP9AAXf3CvChFCEDO_cd4-qVEDpfejoEQZ9f9u4_W/embed?start=true&loop=true&delayms=10000" frameborder="0" width="576" height="605" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
