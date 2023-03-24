@@ -6,4 +6,4 @@ third_nav_title: School Magazine
 ---
 ## JVS Grad Magazine 2021
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRzqQBotpHqDaLh94ZgEO311_6NJlivn8-iFuP-2n2ddLBwl_KyVgAlKW8JXczKYxYScfh2lPQ-6Ntn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrE0snKYDpM09BNXhGPsWDc1VwFB6L2oyCZwh3GkuZX9CS45HbCTU9vbVsaSOQA36EcS8exo6GQB_N/embed?start=true&loop=true&delayms=10000" frameborder="0" width="720" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
