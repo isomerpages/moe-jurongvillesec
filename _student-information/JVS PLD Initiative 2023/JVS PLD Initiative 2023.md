@@ -31,23 +31,23 @@ In the meantime, if there are any further updates, we will alert parents through
 ##### JVS PLD Initiative Parent Engagement Session
 
 1 \. Presentation slides<br>
-* [JVS Parent Engagement for Web.pdf](/files/JVS%20Parent%20Engagement%20for%20Web.pdf)
+* [JVS Parent Engagement for Web.pdf](/files/JVS%20Parent%20Engagement%20for%20Web.pdf){:target="_blank"}
 
 2 \. Specifications for Chrome Book for 2023 will be announced during the parent engagement session.
 
 3 \. Click the link below to proceed to register for the PLDs.<br>
-* [Pdlpadmin](https://go.gov.sg/pdlpadmin)
+* [Pdlpadmin](https://go.gov.sg/pdlpadmin){:target="_blank"}
 
 4 \. Please refer to the links below for more information<br>
-* [IP2 - Parent Handbook I on Learning with a PLD_2023.pdf](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf)<br>
-* [IP3 - Parent Handbook II on Learning with a PLD_2023.pdf](/files/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf)<br>
-* [Student's Experience](http://www.youtube.com/watch?v=atVkNBXMVnY)<br>
-* [Parents Voices](https://go.gov.sg/parent-voxpop-1)
+* [IP2 - Parent Handbook I on Learning with a PLD_2023.pdf](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf){:target="_blank"}<br>
+* [IP3 - Parent Handbook II on Learning with a PLD_2023.pdf](/files/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf){:target="_blank"}<br>
+* [Student's Experience](http://www.youtube.com/watch?v=atVkNBXMVnY){:target="_blank"}<br>
+* [Parents Voices](https://go.gov.sg/parent-voxpop-1){:target="_blank"}
 
 5 \. Students' PLD DMA Control<br>
 * All students' PLD will be under Default Option (refer to Presentation slides page 13)
 * Parents/Guardian control after school hours (Email/Whatsapp with op-in -Option A to Class Mentor with parent's email)
-* [Parents/Guardian control guideline (Option A)](/files/e-DMA-Parent-Guide-v2.0-Option-A-Chrome-OS.pdf)
+* [Parents/Guardian control guideline (Option A)](/files/e-DMA-Parent-Guide-v2.0-Option-A-Chrome-OS.pdf){:target="_blank"}
 
 ##### Support
 
@@ -62,7 +62,7 @@ Service Center<br>
 #03-19/20 Singapore 179097<br>
 Working Hours :Monday – Friday 11:00am – 7:00pm (closed on Sunday and Public Holidays)<br>
 Tel: 68714838     Email: [lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br>
-Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo)
+Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo){:target="_blank"}
 
 **Acer Computer (Singapore) Pte Ltd**<br>
 29 International Business Park #01-07, Acer Building, Tower A, 609923<br>
