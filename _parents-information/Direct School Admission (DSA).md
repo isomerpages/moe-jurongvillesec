@@ -66,7 +66,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 **For further enquiries on DSA-Sec**, you may call our General Office at 6563 8704 between 8 am to 5 pm. Alternatively, you may email us at [jurongville@moe.edu.sg](mailto:jurongville@moe.edu.sg) with the subject “DSA-Sec”.
 
-For more information on DSA-Sec, please refer to the MOE website: [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
+For more information on DSA-Sec, please refer to the MOE website: [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec){:target="_blank"}
 
 #### Selection Process
 
