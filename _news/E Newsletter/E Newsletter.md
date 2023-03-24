@@ -25,7 +25,7 @@ third_nav_title: E Newsletter
 <td><center><br>Newsletter (May 2019 Issue)</br></center></td>
 </tr>
 <tr>
-<td align="center"><a href=""><img src="/images/flourish.png"></a></td>
+<td align="center"><a href="/news/E-Newsletter/2017/"><img src="/images/Jurongville_Newsletter_April2017_Page_01.jpg"></a></td>
 <td align="center"><a href="/news/E-Newsletter/2016/"><img src="/images/Jurongville_Sept%202016_Newsletter_Page_01.jpg"></a></td>
 </tr>
 <tr>
