@@ -10,7 +10,7 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: announcements
-          description: New Update!
+          description: End of Term 1 Letter
           url: /parents-information/Term-Letters/tl/
 
 ---
