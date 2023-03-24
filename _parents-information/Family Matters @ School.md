@@ -101,6 +101,6 @@ parents</b>
 </tbody>
 </table>
 
-Please click on this [link](https://forms.office.com/r/fAuDqYTEGV) to indicate your interest in receiving the appropriate level(s) of parenting support with Lakeside Family Services.
+Please click on this [link](https://forms.office.com/r/fAuDqYTEGV){:target="_blank"} to indicate your interest in receiving the appropriate level(s) of parenting support with Lakeside Family Services.
 
 For enquiries, please contact Lakeside Family Services at [pss@lakeside.org.sg](mailto:pss@lakeside.org.sg)
