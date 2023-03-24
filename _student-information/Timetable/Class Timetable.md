@@ -10,7 +10,7 @@ third_nav_title: Timetable
 ## Class Timetable
 
 #### 2023 SEM1 (Update on 03/01/2023)
-<table width="100%">
+<table width="90%">
 <tbody>
 <tr>
   
@@ -40,7 +40,7 @@ third_nav_title: Timetable
 </tr>
 </tbody>
 </table><br>
-<table width="100%">
+<table width="90%">
 <tbody>
   
 <tr>
@@ -70,7 +70,7 @@ third_nav_title: Timetable
 </tr>
 </tbody>
 </table><br>
-<table width="100%">
+<table width="90%">
 <tbody>
   
 <tr>
@@ -100,7 +100,7 @@ third_nav_title: Timetable
 </tr>
 </tbody>
 </table><br>
-<table width="100%">
+<table width="90%">
 <tbody>
 <tr>
   
@@ -131,7 +131,7 @@ third_nav_title: Timetable
 </tr>
 </tbody>
 </table><br>
-<table width="100%">
+<table width="90%">
 <tbody>
 <tr>
   
