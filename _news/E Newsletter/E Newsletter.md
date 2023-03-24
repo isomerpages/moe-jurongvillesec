@@ -40,3 +40,5 @@ third_nav_title: E Newsletter
 <td><center><br>Newsletter October 2015 issue<br>by JVS student reporters</br></center><td>
 <td></td>
 </tr>
+</tbody>
+</table>
