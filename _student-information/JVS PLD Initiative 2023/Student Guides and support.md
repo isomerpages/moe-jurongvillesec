@@ -10,9 +10,9 @@ third_nav_title: JVS PLD Initiative 2023
 
 **Guides**<br>
 
-* [Student ICON Takeout ](/files/JVS%20iCON_Google%20Takeout_Guide_for_Students.pdf)
+* [Student ICON Takeout ](/files/JVS%20iCON_Google%20Takeout_Guide_for_Students.pdf){:target="_blank"}
 
 
 #### Student PLD Update Guides
 
-* [PLD Update Guides](/files/Manual%20Update%20of%20Google%20Firmware%20R98%20Guide.pdf)
+* [PLD Update Guides](/files/Manual%20Update%20of%20Google%20Firmware%20R98%20Guide.pdf){:target="_blank"}
