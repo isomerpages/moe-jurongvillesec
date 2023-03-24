@@ -21,7 +21,7 @@ For further clarifications, you can connect with us either via our school email 
 
 To download the Parents Gateway mobile app:
 
-<table width="80%">
+<table width="80%" border="1">
 <tbody>
   <tr>
   <th align="center">iOS</th>
@@ -29,7 +29,7 @@ To download the Parents Gateway mobile app:
   </tr>
   <tr>
     <td align="center"><img src="/images/ios.png" style="width:49%"></td>
-    <td><img src="/images/android.png" style="width:49%"></td>
+    <td align="center"><img src="/images/android.png" style="width:49%"></td>
   </tr>
   </tbody>
   </table>
