@@ -15,8 +15,8 @@ For further clarifications, you can connect with us either via our school email 
 
 |   |   |
 |:-:|---|
-| MOE Financial Assistance Schemes (FAS)  | [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)  <br>You may download the financial assistance application form from the school website:<br>[https://jurongvillesec.moe.edu.sg/parents-information/financial-assistance-scheme](/parents-information/Financial-Assistance-Scheme/fas/) and submit the completed form to the General Office during office hours from the date of release of posting results.  |
-| Transition to secondary school  | [https://www.moe.gov.sg/secondary/transition-to-secondary](https://www.moe.gov.sg/secondary/transition-to-secondary)  |
+| MOE Financial Assistance Schemes (FAS)  | [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance){:target="_blank"}  <br>You may download the financial assistance application form from the school website:<br>[https://jurongvillesec.moe.edu.sg/parents-information/financial-assistance-scheme](/parents-information/Financial-Assistance-Scheme/fas/){:target="_blank"} and submit the completed form to the General Office during office hours from the date of release of posting results.  |
+| Transition to secondary school  | [https://www.moe.gov.sg/secondary/transition-to-secondary](https://www.moe.gov.sg/secondary/transition-to-secondary){:target="_blank"}  |
 |   |   |
 
 To download the Parents Gateway mobile app:
