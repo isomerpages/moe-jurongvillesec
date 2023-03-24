@@ -21,11 +21,11 @@ ii.  Build positive relationships based on love and respect (which are the found
 iii.  Make responsible decisions for yourself, your family and society; and<br>
 iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education){:target="_blank"} for more information on MOE Sexuality Education.
 
 #### OVERVIEW OF JURONGVILLE SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022
 
-4 \. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4 \. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope){:target="_blank"} for more information on the scope of Sexuality Education in the school curriculum.
 
 5 \. The subjects that incorporate topics on sexuality include:<br>
 i.  Science<br>
@@ -340,8 +340,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 10 \. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20A.pdf). The completed form is to be submitted by 10/03/2023.
+11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20A.pdf){:target="_blank"}. The completed form is to be submitted by 10/03/2023.
 
-12 \. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20B.pdf). The completed form is to be submitted by 10/03/2023.
+12 \. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20B.pdf){:target="_blank"}. The completed form is to be submitted by 10/03/2023.
 
 13 \. Parents can contact the school at 6563 8704 or [jurongville@moe.edu.sg](mailto:jurongville@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
