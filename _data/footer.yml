@@ -4,8 +4,6 @@ social_media:
   instagram: https://www.instagram.com/jurongvilleofficial_new/
 
 navlinks:
-  - title: About Us
-    url: /about-us/vision-mission/
   - title: Our Experience
     url: /our-experience/el-lit-music/
   - title: Our Achievements
@@ -14,9 +12,7 @@ navlinks:
     url: /student-information/class-mentors-2023/
   - title: Parents Information
     url: /parents-information/Term-Letters/tl/
-  - title: News
-    url: /news/gallery-events/
 
 links:
-  - title: Useful_link
+  - title: Useful link
     url: /usefullink
