@@ -21,10 +21,17 @@ For further clarifications, you can connect with us either via our school email 
 
 To download the Parents Gateway mobile app:
 
-|   |   |
-|:-:|---|
-| iOS  | Android  |
-| <img src="/images/ios.png" style="width:49%" align=left>  |  <img src="/images/android.png" style="width:49%" align=left> |
-|   |   |
-
+<table width="80%">
+<tbody>
+  <tr>
+  <th align="center">iOS</th>
+  <th align="center">Android</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/ios.png" style="width:49%"></td>
+    <td><img src="/images/android.png" style="width:49%"></td>
+  </tr>
+  </tbody>
+  </table>
+<br>
 Parents/Guardians who were on board Parents Gateway when your child/ward was in primary school need not download the Parents Gateway mobile app again when your child/ward progresses on to secondary school.
