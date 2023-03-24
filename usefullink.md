@@ -1,3 +1,8 @@
+---
+title: Useful Link
+permalink: /usefullink/
+description: ""
+---
 <table width="100%">
 <tbody>
 <tr>
