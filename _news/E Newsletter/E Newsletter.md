@@ -21,8 +21,8 @@ third_nav_title: E Newsletter
 <td align="center"><a href="/news/E-Newsletter/2019/"><img src="/images/JVS Newletter May 2019 Cover.jpg"></a></td>
 </tr>
 <tr>
-<td><center><br>Newsletter (July 2020 Issue)</br></center></td>
-<td><center><br>Newsletter (May 2019 Issue)</br></center></td>
+<td><center><b>Newsletter (July 2020 Issue)</b></center></td>
+<td><center><b>Newsletter (May 2019 Issue)</b></center></td>
 </tr>
 <tr>
 <td align="center"><a href="/news/E-Newsletter/2017/"><img src="/images/Jurongville_Newsletter_April2017_Page_01.jpg"></a></td>
