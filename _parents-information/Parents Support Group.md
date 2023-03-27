@@ -32,7 +32,6 @@ description: ""
 | Secondary 4 | Mdm Josephine Chiun |
 
 #### Events
-
 ##### Breakfast with School Leaders for PSG members
 
 On 3 February 2023, our PSG leaders were invited to a Breakfast session with our School Leaders. It was an enjoyable session where our parent representatives, teachers, and school leaders got to know each other, and discuss different matters to support our students.<br>
