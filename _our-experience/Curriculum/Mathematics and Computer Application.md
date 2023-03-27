@@ -30,10 +30,10 @@ We collaborated with external organisations such as ITE West to engage selected 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6tehN974BQ2ltWmWeUJhec71A7nsB_730n-zsfUKGOAfp-74WwmhRsxV4pzgEV32Mt7o8cYckrAMk/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## VR Engagement with Matheletes&nbsp;
+## VR Engagement with Mathletes
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSoE_lMJF90_5QHaoKmg241HA_tsDN4itjbAo9jHsgP3Jnq3KiexSUCwhCcYMznLyhFHjnd8SY1jvqf/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Mathelete camp
+## Mathlete camp
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRE62f3Z_Zm4jF5uCV3mArAbA--IJkb8eDP6rJGDtUFxVwN6IjIBmPOFRfitVKkk_R7qYAeXjjsLmoS/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
