@@ -24,8 +24,8 @@ To download the Parents Gateway mobile app:
 <table width="80%" border="1">
 <tbody>
   <tr>
-    <td align="center"><b>iOS</b></th>
-  <td align="center"><b>Android</b></th>
+    <td align="center"><b>iOS</b></td>
+    <td align="center"><b>Android</b></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/ios.png" style="width:49%"></td>
