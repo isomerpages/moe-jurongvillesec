@@ -125,37 +125,37 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Menu/Left-nav
 .bp-menu-list a.is-active {
-	color: $tertiary !important;
-	border-bottom: 2px solid $tertiary !important;
+	color: $secondary !important;
+	border-bottom: 2px solid $secondary !important;
 	&:hover {
-		border-bottom: 2px solid $tertiary !important;
+		border-bottom: 2px solid $secondary !important;
 	}
 }
 .bp-menu-list a:hover {
-	color: $tertiary !important;
-	border-bottom: 1px solid $tertiary !important;
+	color: $secondary !important;
+	border-bottom: 1px solid $secondary !important;
 }
 
 // Button
 
 .bp-button.is-text span {
   &:hover, &:focus {
-    color: $tertiary;
+    color: $secondary;
   }
 }
 .bp-button:hover {
-  color: $tertiary;
+  color: $secondary;
 }
 
 // Secondary button
 .bp-sec-button {
-	color: $tertiary;
+	color: $secondary;
 	& span {
-		border-bottom: 2px solid $tertiary !important;
+		border-bottom: 2px solid $secondary !important;
 	}
 	&:hover {
 		& span {
-	    	border-bottom: 2px solid $tertiary-hover !important;
+	    	border-bottom: 2px solid $secondary-hover !important;
 	    	color: $secondary-hover !important;
 	  	}
 	  	& i {
@@ -218,39 +218,39 @@ $desktop: 960px + (2 * $gap) !default;
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $tertiary;
+            border-bottom:2px solid $secondary;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $tertiary;
-    border-left: 1px solid $tertiary;
+    border-bottom: 1px solid $secondary;
+    border-left: 1px solid $secondary;
   }
 
   .navbar-item{
     .sub-link.is-active{
-      color:$tertiary;
+      color:$secondary;
     }
 
     .selector{
       &.active{
-        background-color:$tertiary;
+        background-color:$secondary;
       }
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $tertiary;
+        border-bottom:1px solid $secondary;
       }
     }
   }
 .navbar-item:hover {
   a {
-    color:$tertiary;
+    color:$secondary;
   }
   .selector {
-      background-color:$tertiary;
+      background-color:$secondary;
     }
   }
 }
