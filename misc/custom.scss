@@ -125,15 +125,15 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Menu/Left-nav
 .bp-menu-list a.is-active {
-	color: $secondary !important;
-	border-bottom: 2px solid $secondary !important;
+	color: $tertiary !important;
+	border-bottom: 2px solid $tertiary !important;
 	&:hover {
-		border-bottom: 2px solid $secondary !important;
+		border-bottom: 2px solid $tertiary !important;
 	}
 }
 .bp-menu-list a:hover {
-	color: $secondary !important;
-	border-bottom: 1px solid $secondary !important;
+	color: $tertiary !important;
+	border-bottom: 1px solid $tertiary !important;
 }
 
 // Button
