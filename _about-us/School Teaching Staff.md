@@ -52,7 +52,7 @@ description: ""
       <tbody>
       <tr><th>Humanities Department</th></tr>
       <tr><td><a href="mailto:mohammad_nasser_jaafar@schools.gov.sg" target="">Mr Mohammad Nasser Bin Jaafar (HOD / Hum)</a></td></tr>
-      <tr><td><a href="mailto:john_teo_wei_ren@schools.gov.sg" target="">Mr John Teo Wei Ren</a></td></tr>
+      <tr><td><a href="mailto:john_teo_wei_ren@schools.gov.sg" target="">Mr John Teo Wei Ren (SH / Geo)</a></td></tr>
       <tr><td><a href="mailto:chin_ying_ying@schools.gov.sg" target="">Mrs Poh-Chin Ying Ying Yvonne (ST / Geo)</a></td></tr>
       <tr><td><a href="mailto:aditi_das_deshmukh@schools.gov.sg" target="">Mdm Aditi Das Deshmukh</a></td></tr>
       <tr><td><a href="mailto:gladys_siah_ying_ying@schools.gov.sg" target="">Ms Gladys Siah Ying Ying</a></td></tr>
