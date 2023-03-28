@@ -13,7 +13,7 @@ As ardent advocates of engaging English language learners, the English Language 
 
 Recognising the importance of cultivating articulate communicators, our department introduced PVLEGS as a school-wide model for developing oracy skills.  We also nurture class EL Champions who are given various platforms to speak, such as leading the class in speaking activities. During the Secondary 1 Lit Alive! Programme, students collaborate to bring their favourite scenes from drama texts to life as actors and actresses, while learning about perspective-taking and having plenty of fun too! When our students are in Secondary 2, they attend a writing workshop conducted by our ELL Department teachers. We also identify and nurture students with an interest or flair for writing to assume roles as student reporters. At Secondary 3, our students engage in lively debates on current issues, honing their persuasion and critical thinking skills.
 
-JVnites are encouraged to be avid readers through our structured reading programme which comprises weekly reading & speaking lessons, subscription of newspapers and magazines, as well as curated reading articles. 
+JV-nites are encouraged to be avid readers through our structured reading programme which comprises weekly reading & speaking lessons, subscription of newspapers and magazines, as well as curated reading articles. 
 
 To immerse our students in rich learning and promote a love for English Language and Literature, we also organised the ELL Week where students were engaged in many enriching and exciting activities, such as Fantasy Adventure, Dramatisation, Flash Fiction and poster design. The whole event culminated in an assembly programme with brain-teaser quizzes which the students thoroughly enjoyed
 
