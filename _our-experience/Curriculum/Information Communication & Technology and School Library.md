@@ -8,7 +8,7 @@ third_nav_title: Curriculum
 
 The JVS ICT Department aims to nurture “Future-ready and Responsible Digital Learners”.&nbsp; It plans to transform Jurongville Secondary School into an ICT enriched environment where technology is used responsibly, to make learning effective, innovative and meaningful.
 
-The use of technology will enhance JVnites to be
+The use of technology will enhance JV-nites to be
 
 1 \. **Passionate learners**&nbsp;who are self-directed and intrinsically-motivated<br>
 2 \. **Resilient learners**&nbsp;who adapt and respond positively &amp; skilfully in the face of challenges and setbacks.
@@ -32,7 +32,7 @@ We encourage and support the use of new technologies in learning through the var
 <img style="width:85%" src="/images/ICT 04.jpg">
 
 #### Library
-The JVS library’s physical and digital spaces connect readers and learners to their peers, to others within the school and the wider community. The library welcomes JVnites in and provides a safe space for them. It also provides access to a wide array of resources and an environment in which teaching, and learning are the primary emphasis.
+The JVS library’s physical and digital spaces connect readers and learners to their peers, to others within the school and the wider community. The library welcomes JV-nites in and provides a safe space for them. It also provides access to a wide array of resources and an environment in which teaching, and learning are the primary emphasis.
 
 With a flexible multi-use approach, JVS library’s physical space also enables a range of activities including quiet reading, study, collaboration, performance, or school events.
 
