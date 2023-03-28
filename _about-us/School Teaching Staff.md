@@ -114,7 +114,7 @@ description: ""
       <tr><td><a href="mailto:irantaffy_said_b_rohani@schools.gov.sg" target="">Mr Irantaffy Said Bin Rohani (HOD / ICT covering PE)</a></td></tr>
       <tr><td><a href="mailto:tiew_choon_lien@schools.gov.sg" target="">Mr Tiew Choon Lien Kenny (SH / CCA)</a></td></tr>
       <tr><td><a href="mailto:chang_shang_chun_noah@schools.gov.sg" target="">Mr Chang Shang Chun Noah</a></td></tr>
-      <tr><td><a href="mailto:wan_meng_wai_donald@schools.gov.sg" target="">Mr Wan Meng Wai Donald (FAJT)</a></td></tr>
+      <tr><td><a href="mailto:wan_meng_wai_donald@schools.gov.sg" target="">Mr Wan Meng Wai Donald (CAJT)</a></td></tr>
       </tbody>
    </table><br>
    <table width="100%" border="1">
