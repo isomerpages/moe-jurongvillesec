@@ -104,10 +104,7 @@ description: ""
     </tr>
     <tr>
       <td align="left">LH/Discipline</td>
-      <td align="left">Ms Pauline Fong Liew Yueh</td>
-      <td style="text-align: left;">
-        <a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" target="">pauline_fong_liew_yueh@schools.gov.sg</a>
-      </td>
+      <td align="left"><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" target="">Ms Pauline Fong Liew Yueh</a></td>
     </tr>
     <tr>
       <td align="left">SH/English Language & Literature</td>
