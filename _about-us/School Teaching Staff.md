@@ -69,13 +69,13 @@ description: ""
       <tr><td><a href="mailto:karmila_asari@schools.gov.sg" target="">Ms Karmila Binte Asari&nbsp;(LH / Math)</a></td></tr>
       <tr><td><a href="mailto:yeo_choon_huat@schools.gov.sg" target="">Mr Yeo Choon Huat Philip (HOD / CCE)</a></td></tr>
       <tr><td><a href="mailto:han_hui_chin@schools.gov.sg" target="">Ms Han Hui Chin (Assistant YH)</a></td></tr>
+      <tr><td><a href="mailto:sri_masayu_moktar@schools.gov.sg" target="">Mdm Sri Masayu Binte Moktar (covering SH / CCE)</a></td></tr>
       <tr><td><a href="mailto:tan_wen_dee_wendy@schools.gov.sg" target="">Mrs Tey Wen Dee, Wendy (ST / Maths)</a></td></tr>
       <tr><td><a href="mailto:chew_kah_hou@schools.gov.sg" target="">Mr Chew Kah Hou Billy</a></td></tr>
       <tr><td><a href="mailto:nar_han_keong@schools.gov.sg" target="">Mr Nar Han Keong Ken</a></td></tr>
       <tr><td><a href="mailto:neo_lay_yen@schools.gov.sg" target="">Mdm Neo Lay Yen</a></td></tr>
       <tr><td><a href="mailto:shafiqah_mezan@schools.gov.sg" target="">Mdm Shafiqah Bte Mezan</a></td></tr>
       <tr><td><a href="mailto:shahul_hameed_sultan@schools.gov.sg" target="">Mr Shahul Hameed S/O Sultan</a></td></tr>
-      <tr><td><a href="mailto:sri_masayu_moktar@schools.gov.sg" target="">Mdm Sri Masayu Binte Moktar</a></td></tr>
       <tr><td><a href="mailto:toh_puay_boon@schools.gov.sg" target="">Miss Toh Puay Boon</a></td></tr>
       <tr><td><a href="mailto:wong_chun_kiat@schools.gov.sg" target="">Mr Wong Chun Kiat</a></td></tr>
       <tr><td><a href="mailto:lim_meng_tse@schools.gov.sg" target="">Mdm Lim Meng Tse (FAJT)</a></td></tr>
