@@ -222,7 +222,7 @@ $desktop: 960px + (2 * $gap) !default;
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $secondary;
+            border-bottom:2px solid $tertiary;
           }
         }
       }
@@ -245,7 +245,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $tertiary;
+        border-bottom:1px solid $secondary;
       }
     }
   }
