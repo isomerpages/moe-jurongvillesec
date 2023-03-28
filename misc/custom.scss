@@ -182,17 +182,17 @@ $desktop: 960px + (2 * $gap) !default;
 .pagination {
 	span {
 		&:hover {
-            border-color: $secondary;
-            color: $secondary;
+            border-color: $tertiary;
+            color: $tertiary;
 		}
         &.selected-page:hover {
-            background-color: $secondary;
-            border-color: $secondary;
+            background-color: $tertiary;
+            border-color: $tertiary;
         }
 	}
     .selected-page {
-        background-color: $secondary;
-        border-color: $secondary;
+        background-color: $tertiary;
+        border-color: $tertiary;
     }
 }
 
