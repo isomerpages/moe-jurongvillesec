@@ -139,11 +139,11 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bp-button.is-text span {
   &:hover, &:focus {
-    color: $secondary;
+    color: $tertiary;
   }
 }
 .bp-button:hover {
-  color: $secondary;
+  color: $tertiary;
 }
 
 // Secondary button
