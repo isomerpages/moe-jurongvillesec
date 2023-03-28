@@ -132,8 +132,8 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 .bp-menu-list a:hover {
-	color: $tertiary !important;
-	border-bottom: 1px solid $tertiary !important;
+	color: $secondary !important;
+	border-bottom: 1px solid $secondary !important;
 }
 
 // Button
