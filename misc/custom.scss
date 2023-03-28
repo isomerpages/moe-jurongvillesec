@@ -149,13 +149,13 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Secondary button
 .bp-sec-button {
-	color: $secondary;
+	color: $tertiary;
 	& span {
-		border-bottom: 2px solid $secondary !important;
+		border-bottom: 2px solid $tertiary !important;
 	}
 	&:hover {
 		& span {
-	    	border-bottom: 2px solid $secondary-hover !important;
+	    	border-bottom: 2px solid $tertiary-hover !important;
 	    	color: $secondary-hover !important;
 	  	}
 	  	& i {
@@ -236,12 +236,12 @@ $desktop: 960px + (2 * $gap) !default;
 
     .selector{
       &.active{
-        background-color:$secondary;
+        background-color:$tertiary;
       }
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $secondary;
+        border-bottom:1px solid $tertiary;
       }
     }
   }
