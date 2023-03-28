@@ -52,7 +52,7 @@ description: ""
     </tr>
     <tr>
       <td align="left">HOD/Craft & Technology</td>
-      <td align="left""><a href="mailto:you_kim_choo@schools.gov.sg" target="">Ms You Kim Choo</a></td>
+      <td align="left"><a href="mailto:you_kim_choo@schools.gov.sg" target="">Ms You Kim Choo</a></td>
     </tr>
     <tr>
       <td align="left">HOD/Discipline</td>
@@ -63,7 +63,7 @@ description: ""
       <td align="left"><a href="mailto:Mohammad_Nasser_Jaafar@schools.gov.sg" target="">Mr Mohammad Nasser Bin Jaafar</a></td>
     </tr>
     <tr>
-      <td align="left">HOD/ICT&nbsp; (covering PE)</td>
+      <td align="left">HOD/ICT (covering PE)</td>
       <td align="left"><a href="mailto:irantaffy_said_b_rohani@schools.gov.sg" target="">Mr Irantaffy Said Rohani</a></td>
     </tr>
     <tr>
