@@ -235,12 +235,12 @@ $desktop: 960px + (2 * $gap) !default;
 
   .navbar-item{
     .sub-link.is-active{
-      color:$tertiary;
+      color:$secondary;
     }
 
     .selector{
       &.active{
-        background-color:$secondary;
+        background-color:$tertiary;
       }
     }
     &.active{
