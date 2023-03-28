@@ -9,6 +9,7 @@ $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $tertiary: {{- site.colors.tertiary-color -}};
 $secondary-hover: lighten($secondary, 10%);
+$tertiary-hover: lighten($tertiary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
@@ -246,10 +247,10 @@ $desktop: 960px + (2 * $gap) !default;
   }
 .navbar-item:hover {
   a {
-    color:$secondary;
+    color:$tertiary;
   }
   .selector {
-      background-color:$secondary;
+      background-color:$tertiary;
     }
   }
 }
