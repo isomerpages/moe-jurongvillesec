@@ -3,10 +3,10 @@ links:
   - title: About Us
     collection: about-us
   - title: Our Experience
-    url: /our-experience/el-lit-music/
+    url: /our-experience/Curriculum/el-lit-music/
     sublinks:
       - title: Curriculum
-        url: /our-experience/el-lit-music/
+        url: /our-experience/Curriculum/el-lit-music/
       - title: CCA
         url: /cca/permalink/cca/
       - title: Character Development
