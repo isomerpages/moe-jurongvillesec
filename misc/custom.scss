@@ -7,6 +7,7 @@
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
+$tertiary: {{- site.colors.tertiary-color -}};
 $secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
@@ -123,14 +124,14 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Menu/Left-nav
 .bp-menu-list a.is-active {
-	color: $secondary !important;
-	border-bottom: 3px solid $secondary !important;
+	color: $tertiary !important;
+	border-bottom: 2px solid $tertiary !important;
 	&:hover {
-		border-bottom: 3px solid $secondary !important;
+		border-bottom: 2px solid $tertiary !important;
 	}
 }
 .bp-menu-list a:hover {
-	color: $primary !important;
+	color: $tertiary !important;
 	border-bottom: 1px solid $primary !important;
 }
 
