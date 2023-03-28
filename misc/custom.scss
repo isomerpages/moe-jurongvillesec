@@ -217,25 +217,25 @@ $desktop: 960px + (2 * $gap) !default;
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $secondary;
+            border-bottom:2px solid $tertiary;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
+    border-bottom: 1px solid $tertiary;
+    border-left: 1px solid $tertiary;
   }
 
   .navbar-item{
     .sub-link.is-active{
-      color:$secondary;
+      color:$tertiary;
     }
 
     .selector{
       &.active{
-        background-color:$tertiary;
+        background-color:$secondary;
       }
     }
     &.active{
