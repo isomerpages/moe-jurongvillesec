@@ -2,7 +2,7 @@
 title: English Language & Literature and Music
 permalink: /our-experience/Curriculum/el-lit-music/
 description: ""
-third_nav_title: our-experience
+third_nav_title: Curriculum
 ---
 
 ## English Language &amp; Literature / Music
