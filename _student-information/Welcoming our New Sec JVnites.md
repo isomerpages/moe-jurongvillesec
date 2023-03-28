@@ -1,5 +1,5 @@
 ---
-title: Welcoming our New Sec JVnites
+title: Welcoming our New Sec JV-nites
 permalink: /student-information/welcome/
 description: ""
 ---
