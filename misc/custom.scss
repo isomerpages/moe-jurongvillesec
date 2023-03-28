@@ -245,7 +245,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $secondary;
+        border-bottom:1px solid $tertiary;
       }
     }
   }
