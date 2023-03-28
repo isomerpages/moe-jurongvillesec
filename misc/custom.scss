@@ -153,17 +153,17 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Secondary button
 .bp-sec-button {
-	color: $tertiary;
+	color: $secondary;
 	& span {
-		border-bottom: 2px solid $tertiary !important;
+		border-bottom: 2px solid $secondary !important;
 	}
 	&:hover {
 		& span {
-	    	border-bottom: 2px solid $tertiary-hover !important;
-	    	color: $tertiary-hover !important;
+	    	border-bottom: 2px solid $secondary-hover !important;
+	    	color: $secondary-hover !important;
 	  	}
 	  	& i {
-	    	color: $tertiary-hover !important;
+	    	color: $secondary-hover !important;
 	  	}
 	}
 }
