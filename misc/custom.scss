@@ -124,6 +124,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Menu/Left-nav
+// Left Menu Active page title color
 .bp-menu-list a.is-active {
 	color: $secondary !important;
 	border-bottom: 2px solid $secondary !important;
@@ -131,6 +132,9 @@ $desktop: 960px + (2 * $gap) !default;
 		border-bottom: 2px solid $secondary !important;
 	}
 }
+	  
+// Left Menu Select highlight color
+	  
 .bp-menu-list a:hover {
 	color: $tertiary !important;
 	border-bottom: 1px solid $tertiary !important;
