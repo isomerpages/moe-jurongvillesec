@@ -3,7 +3,7 @@ url: https://jurongvillesec.moe.edu.sg
 favicon: /images/JVSS_Logo.png
 colors:
   primary-color: "#317809"
-  secondary-color: "#306649"
+  secondary-color: "#005b3c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
