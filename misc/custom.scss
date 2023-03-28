@@ -153,17 +153,17 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Secondary button
 .bp-sec-button {
-	color: $secondary;
+	color: $tertiary;
 	& span {
-		border-bottom: 2px solid $secondary !important;
+		border-bottom: 2px solid $tertiary !important;
 	}
 	&:hover {
 		& span {
-	    	border-bottom: 2px solid $secondary-hover !important;
-	    	color: $secondary-hover !important;
+	    	border-bottom: 2px solid $tertiary-hover !important;
+	    	color: $tertiary-hover !important;
 	  	}
 	  	& i {
-	    	color: $secondary-hover !important;
+	    	color: $tertiary-hover !important;
 	  	}
 	}
 }
@@ -190,8 +190,8 @@ $desktop: 960px + (2 * $gap) !default;
             color: $secondary;
 		}
         &.selected-page:hover {
-            background-color: $tertiary;
-            border-color: $tertiary;
+            background-color: $secondary;
+            border-color: $secondary;
         }
 	}
     .selected-page {
