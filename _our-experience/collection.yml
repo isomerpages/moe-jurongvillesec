@@ -11,7 +11,8 @@ collections:
       - Curriculum/Humanities.md
       - Curriculum/Physical Education.md
       - Curriculum/Information Communication & Technology and School Library.md
-      - url: /CCA/permalink/CCA/
+      - title: Co-Curriculum
+        - url: /CCA/permalink/CCA/
       - Character Development.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
