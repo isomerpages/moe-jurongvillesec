@@ -1,6 +1,6 @@
 ---
 title: CCA
-permalink: /cca/permalink/cca/
+permalink: /cca/cca/
 description: ""
 ---
 ## CCA
