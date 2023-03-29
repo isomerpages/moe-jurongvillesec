@@ -1,0 +1,17 @@
+collections:
+  parents-information:
+    output: true
+    order:
+      - Term Letters/.keep
+      - Term Letters/Term Letters.md
+      - Term Letters/Sec 1 Parents Engagement.md
+      - Term Letters/Sec 4 & 5 Parents Engagement.md
+      - School Services/.keep
+      - School Services/School Services.md
+      - School Services/Booklist.md
+      - Direct School Admission (DSA).md
+      - Financial Assistance Scheme.md
+      - NEU PC Plus Programme.md
+      - Parents Support Group.md
+      - Family Matters @ School.md
+      - GCE O levels Result Release.md

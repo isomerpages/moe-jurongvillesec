@@ -1,0 +1,20 @@
+collections:
+  news:
+    output: true
+    order:
+      - Gallery of Events.md
+      - School Magazine/.keep
+      - School Magazine/School Magazine.md
+      - School Magazine/JVS Grad Magazine 2021.md
+      - School Magazine/JVS Magazine 2020.md
+      - School Magazine/JVS Magazine 2019.md
+      - E Newsletter/.keep
+      - E Newsletter/E Newsletter.md
+      - E Newsletter/2022 May.md
+      - E Newsletter/2021 July.md
+      - E Newsletter/2020 July.md
+      - E Newsletter/2017 April.md
+      - E Newsletter/2016 September.md
+      - E Newsletter/2015 October.md
+      - JVS Information Brochure.md
+      - The muse.md

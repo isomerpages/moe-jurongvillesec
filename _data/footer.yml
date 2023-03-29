@@ -1,10 +1,16 @@
-contact_us: /contact-us/
+contact_us: mailto:jurongville@moe.edu.sg
 show_reach: true
-feedback: 
-faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  instagram: https://www.instagram.com/jurongville.secondary/
+
+navlinks:
+  - title: Our Experience
+    url: /our-experience/Curriculum/el-lit-music/
+  - title: Our Achievements
+    url: /our-achievements/knowledge-skills/
+  - title: Student Information
+    url: /student-information/class-mentors-2023/
+  - title: Parents Information
+    url: /parents-information/Term-Letters/tl/
+  - title: Useful link
+    url: /usefullink/

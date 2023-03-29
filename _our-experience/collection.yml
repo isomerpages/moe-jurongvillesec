@@ -1,0 +1,29 @@
+collections:
+  our-experience:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/English Language & Literature and Music.md
+      - Curriculum/Mathematics and Computer Application.md
+      - Curriculum/Science.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Craft & Technology and Principle of Accounts.md
+      - Curriculum/Humanities.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Information Communication & Technology and School Library.md
+      - [CCA](/cca/cca/)
+      - Character Development.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Overseas Learning Journey.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Student Council.md
+      - Student Leadership/Sports Leaders.md
+      - Student Discipline.md
+      - Open House 2022/.keep
+      - Open House 2022/Open House 2022.md
+      - Open House 2022/PREPARING FOR THE FUTURE.md
+      - Open House 2022/DEEPENING KNOWLEDGE AND SKILLS.md
+      - Open House 2022/DISCOVERING OUR PASSIONS.md
+      - Open House 2022/LEADING AND SERVING OTHERS.md

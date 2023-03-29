@@ -1,15 +1,63 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/School%20Crest%20with%20Name.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Our Experience
+    url: /our-experience/Curriculum/el-lit-music/
+    sublinks:
+      - title: Curriculum
+        url: /our-experience/Curriculum/el-lit-music/
+      - title: CCA
+        url: /cca/cca/
+      - title: Character Development
+        url: /our-experience/char-develop/
+      - title: Applied Learning Programme
+        url: /our-experience/apl/
+      - title: Learning for Life Programme
+        url: /our-experience/llp/
+      - title: Overseas Learning Journey
+        url: /our-experience/olj/
+      - title: Student Leadership
+        url: /our-experience/Student-Leadership/sl/
+      - title: Student Discipline
+        url: /our-experience/student-discipline/
+      - title: Open House 2022
+        url: /our-experience/Open-House-2022/2022/
+  - title: Our Achievements
+    collection: our-achievements
+  - title: Student Information
+    url: /student-information/class-mentors-2023/
+    sublinks:
+      - title: Class Mentors 2023
+        url: /student-information/class-mentors-2023/
+      - title: Counselling and Other Support
+        url: /student-information/counselling-support/
+      - title: Sec 3 Subject Combination
+        url: /student-information/sec3/
+      - title: Timetable
+        url: /student-information/Timetable/exam-t/
+      - title: Sexuality Education
+        url: /student-information/sex-ed/
+      - title: National Exam Schedule
+        url: /student-information/nes/
+      - title: JVS PLD Initiative 2023
+        url: /student-information/jvs-pld-initiative-2023/jvspld
+      - title: Welcoming our New Sec JV-nites
+        url: /student-information/welcome
+  - title: Parents Information
+    collection: parents-information
+  - title: News
+    url: /news/gallery-events/
+    sublinks:
+      - title: Gallery of Events
+        url: /news/gallery-events/
+      - title: School Magazine
+        url: /news/School-Magazine/magazine/
+      - title: E-Newsletter
+        url: /news/E-Newsletter/enewsletter/
+      - title: JVS Information Brochure
+        url: /news/brochure/
+      - title: The Muse
+        url: /news/muse/
+      - title: JVS Instagram
+        url: https://www.instagram.com/jurongville.secondary/

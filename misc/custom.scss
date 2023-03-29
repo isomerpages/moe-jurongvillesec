@@ -7,7 +7,9 @@
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
+$tertiary: {{- site.colors.tertiary-color -}};
 $secondary-hover: lighten($secondary, 10%);
+$tertiary-hover: lighten($tertiary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
@@ -50,25 +52,25 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &-1{
     //background-color: $primary;
-    background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+    background: url('/images/Homepage_P1.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
   &-2{
     //background-color: $info;
-    background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
+    background: url('/images/Homepage_P2.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
   &-3{
     //background-color: $warning;
-    background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
+    background: url('/images/Homepage_P3.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
   &-4{
     //background-color: $danger;
-    background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
+    background: url('/images/Homepage_P4.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
@@ -122,6 +124,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Menu/Left-nav
+// Left Menu Active page title color
 .bp-menu-list a.is-active {
 	color: $secondary !important;
 	border-bottom: 2px solid $secondary !important;
@@ -129,9 +132,12 @@ $desktop: 960px + (2 * $gap) !default;
 		border-bottom: 2px solid $secondary !important;
 	}
 }
+	  
+// Left Menu Select highlight color
+	  
 .bp-menu-list a:hover {
-	color: $secondary !important;
-	border-bottom: 1px solid $secondary !important;
+	color: $tertiary !important;
+	border-bottom: 1px solid $tertiary !important;
 }
 
 // Button
@@ -197,18 +203,18 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	background-color: $secondary;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken($secondary,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			border-top:1px solid darken($secondary,10%);
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			background-color: darken($secondary,10%);
 		}
 	}
 }
-
+	  
 // Navbar
 .navbar{
   &-start{
@@ -243,12 +249,13 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
+// Top menu highlight word when selected
 .navbar-item:hover {
   a {
-    color:$secondary;
+    color:$tertiary;
   }
   .selector {
-      background-color:$secondary;
+      background-color:$tertiary;
     }
   }
 }
