@@ -46,7 +46,7 @@ In the meantime, if there are any further updates, we will alert parents through
 
 5 \. Students' PLD DMA Control<br>
 * All students' PLD will be under Default Option (refer to Presentation slides page 13)
-* Parents/Guardian control after school hours (Email/Whatsapp with op-in Option A to [Class Mentor] with parent's email)
+* Parents/Guardian control after school hours (Email/Whatsapp with op-in Option A to [Class Mentor](/student-information/class-mentors-2023/) with parent's email)
 * [Parents/Guardian control guideline (Option A)](/files/e-DMA-Parent-Guide-v2.0-Option-A-Chrome-OS.pdf){:target="_blank"}
 
 ##### Support
@@ -61,14 +61,15 @@ Service Center<br>
 3 Irving Road, #01-17 Singapore 369522 (Beside Tai Seng MRT station, Exit A)<br>
 #03-19/20 Singapore 179097<br>
 Working Hours :Monday – Friday 11:00am – 7:00pm (closed on Sunday and Public Holidays)<br>
-Tel:&nbsp;68714838&nbsp; &nbsp; &nbsp;Email:&nbsp;[lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br>
-Pre-Registration (For Faster Service/Drop-off):&nbsp;[https://smartcares.com/lenovo](https://smartcares.com/lenovo){:target="_blank"}
+Tel: 68714838     Email: [lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br>
+Pre-Registration (For Faster Service/Drop-off):
+[https://smartcares.com/lenovo](https://smartcares.com/lenovo){:target="_blank"}
 
 **Acer Computer (Singapore) Pte Ltd**<br>
 29 International Business Park #01-07, Acer Building, Tower A, 609923<br>
 Service Centre Tel: 68956297<br>
 Contact Centre Tel: 1800 8956299<br>
-Email:&nbsp;[acercare.sg@acer.com](mailto:acercare.sg@acer.com)
+Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)
 
 ##### Acceptable Use Policy (AUP)
 
