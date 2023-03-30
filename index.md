@@ -12,5 +12,4 @@ sections:
         - title: announcements
           description: End of Term 1 Letter
           url: /parents-information/Term-Letters/tl/
-
 ---
