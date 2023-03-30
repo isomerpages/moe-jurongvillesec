@@ -4,7 +4,11 @@ permalink: /cca/Uniformed-Groups/bb/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-## Boys' Brigade
+```
+```
+
+```
+```## Boys' Brigade
 
 #### About
 The 86th Boys’ Brigade (BB) is committed to nurturing our Boys to serve and lead. Every year, they are given opportunities to organise several camps such as Induction, Adventure and Leadership camps as well as to be involved in various Values-in-Action events such as BB Week, BB Cares and BB Share-a-Gift Project. Moreover, selected Boys will also be participating in the Adventure Quest and the Character Quest competitions (organised by BB HQ), where they have to undergo intensive mental and physical training prior to the competitions.  
@@ -12,7 +16,7 @@ The 86th Boys’ Brigade (BB) is committed to nurturing our Boys to serve and le
 Due to the Covid-19 situation, we have scaled down our face-to-face sessions and shifted leadership development/life-skills lessons online. However, we remain committed to the objective that our Boys eventually grow to be men with obedience, reverence, self-respect and discipline.
 
 #### CCA Photo
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWrxWX9S0B9g26qOJjw_yiDQgQjxvszIPFRHtBpEMfciPUhUpII6XGK6MermOYgD8xHYyj222RHWil/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 #### Student Leaders
 
@@ -35,4 +39,4 @@ _I would like to thank the officers, primers and squadmates for giving me the op
 
 #### Training Schedule
 
-- Saturday 0830am – 1230pm
+- Saturday 08:30am - 12:30pm
