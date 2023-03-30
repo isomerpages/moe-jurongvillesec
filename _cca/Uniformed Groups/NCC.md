@@ -18,7 +18,7 @@ Despite the difficulties faced during the pandemic, the cadet leaders stepped up
 Having attained the Distinction award for the Unit Recognition in 2019, the unit remains committed to achieving greater heights in the years ahead. To serve with pride and dedication, NCC!
 
 #### CCA Photo
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgF5_kcueeVU_M-xWfmt0z3nyLF41vSOR8V570L9r9ipKxIwrCLse_jExIcbosEJwhAeuGgVMMYth3/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 #### Student Leaders
 
@@ -44,4 +44,4 @@ _I am hopeful for future where we can resume our NCC activities as per normal. T
 _Whenever I put on my NCC uniform, I feel proud as I am learning to serve my country. I also learnt one very important thing in NCC which is, ‘One for all, all for one.’ This was possible through the exemplary leadership shown by my seniors. The training sessions have improved my character and I found myself applying the NCC core values in other aspects of my life. I hope that my seniors will continue to patiently guide and teach me in NCC and that I may one day inspire others as well._
 
 #### Training Schedule
-- Friday 3.30pm - 5.30pm
+- Friday 3:30pm - 5:30pm
