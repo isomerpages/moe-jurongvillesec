@@ -12,7 +12,7 @@ third_nav_title: JVS PLD Initiative 2023
 
 Jurongville aims to be a vibrant and nurturing community of passionate and resilient learners. Through NDLP, we will leverage technology to help us get there.
 
-When our teachers skillfully design lessons that integrate technology meaningfully, we believe that our students will   
+When our teachers skillfully design lessons that integrate technology meaningfully, we believe that our students will&nbsp;  
 
 *   Learn more actively
 *   Think more Critically and Creatively
@@ -24,7 +24,7 @@ At the same time, we would also need to equip our students with the ability to m
 
 ##### Parent Engagement
 
-We will be inviting Sec 1 Parents in Jan 2023 to a parent engagement session where we will be sharing  on this important change in the way students learn in school.  
+We will be inviting Sec 1 Parents in Jan 2023 to a parent engagement session where we will be sharing&nbsp; on this important change in the way students learn in school.  
 
 In the meantime, if there are any further updates, we will alert parents through Parents’ Gateway and publish them on the school’s website.
 
@@ -46,7 +46,7 @@ In the meantime, if there are any further updates, we will alert parents through
 
 5 \. Students' PLD DMA Control<br>
 * All students' PLD will be under Default Option (refer to Presentation slides page 13)
-* Parents/Guardian control after school hours (Email/Whatsapp with op-in -Option A to Class Mentor with parent's email)
+* Parents/Guardian control after school hours (Email/Whatsapp with op-in Option A to [Class Mentor] with parent's email)
 * [Parents/Guardian control guideline (Option A)](/files/e-DMA-Parent-Guide-v2.0-Option-A-Chrome-OS.pdf){:target="_blank"}
 
 ##### Support
@@ -61,14 +61,14 @@ Service Center<br>
 3 Irving Road, #01-17 Singapore 369522 (Beside Tai Seng MRT station, Exit A)<br>
 #03-19/20 Singapore 179097<br>
 Working Hours :Monday – Friday 11:00am – 7:00pm (closed on Sunday and Public Holidays)<br>
-Tel: 68714838     Email: [lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br>
-Pre-Registration (For Faster Service/Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo){:target="_blank"}
+Tel:&nbsp;68714838&nbsp; &nbsp; &nbsp;Email:&nbsp;[lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br>
+Pre-Registration (For Faster Service/Drop-off):&nbsp;[https://smartcares.com/lenovo](https://smartcares.com/lenovo){:target="_blank"}
 
 **Acer Computer (Singapore) Pte Ltd**<br>
 29 International Business Park #01-07, Acer Building, Tower A, 609923<br>
 Service Centre Tel: 68956297<br>
 Contact Centre Tel: 1800 8956299<br>
-Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)
+Email:&nbsp;[acercare.sg@acer.com](mailto:acercare.sg@acer.com)
 
 ##### Acceptable Use Policy (AUP)
 
