@@ -33,17 +33,17 @@ description: ""
 | No | CCA | TUESDAY | FRIDAY | Venue | Teachers |
 |:---:|---|---|---|---|---|
 | 1 | [Angklung &amp; Kulintang Ensemble](/cca/Performing-and-Visual-Arts/ake/) | 3:30pm - 5:30pm<br>(**Tueday**) | 2:30pm - 3:30pm<br>(**Friday**) | Music Room | Ms&nbsp;Norita(IC)<br>Mrs Neo Lay Yen (2IC)<br>Ms Lien Wei Chi<br>Ms Rachel Liew |
-| 2 | [Chinese Orchestra](/cca/Performing-and-Visual-Arts/co/) | 3:30pm - 5:30pm<br>(**Tueday**) | 2.00pm - 4.00pm<br>(**Friday**) | Chinese Orchestra Room | Mdm Loh Siew See (IC)<br>Mr Heng Yuan Hao (2IC)<br>Mrs Er Siao Fun |
-| 3 | [Concert Band](/cca/Performing-and-Visual-Arts/cb/) | 3:30pm - 5:30pm<br>(**Tueday**) | 2.30pm - 4.30pm<br>(**Friday**) | Band Room | Ms Nur Khairin Aisyah (IC)<br>Mrs Samy (2IC)<br>Mr Thomas Lee |
-| 4 | [Drumatix Batucada](/cca/Performing-and-Visual-Arts/db/) | 3:30pm - 5:30pm<br>(**Tueday**) | 2.30pm - 4.30pm<br>(**Friday**) | MPR 1&amp;2 | Mdm Usha (IC)<br>Ms Toh Puay Boon (2IC)<br>Mdm T.Meenakshi |
-| 5 | [English Drama Club](/cca/Performing-and-Visual-Arts/edc/) | 3:30pm - 5:30pm<br>(**Tueday**) | 3.30pm - 5.30pm<br>(**Friday**) | Vista 1 &amp; 2 Room | Ms Kathleen Tan (IC)<br>Ms Gladys Siah (2IC)<br>Ms Ada Yap<br>Mdm Pamela (TBC) |
-| 6 | [Modern Dance](/cca/Performing-and-Visual-Arts/md/) | 3:30pm - 5:30pm<br>(**Tueday**) | 2.30pm - 4.30pm<br>(**Friday**) | Dance Room | Mdm Aditi (IC)<br>Mr Ng Aik Song (2IC)<br>Ms Clarissa Ng |
+| 2 | [Chinese Orchestra](/cca/Performing-and-Visual-Arts/co/) | 3:30pm - 5:30pm<br>(**Tueday**) | 2:00pm - 4:00pm<br>(**Friday**) | Chinese Orchestra Room | Mdm Loh Siew See (IC)<br>Mr Heng Yuan Hao (2IC)<br>Mrs Er Siao Fun |
+| 3 | [Concert Band](/cca/Performing-and-Visual-Arts/cb/) | 3:30pm - 5:30pm<br>(**Tueday**) | 2:30pm - 4:30pm<br>(**Friday**) | Band Room | Ms Nur Khairin Aisyah (IC)<br>Mrs Samy (2IC)<br>Mr Thomas Lee |
+| 4 | [Drumatix Batucada](/cca/Performing-and-Visual-Arts/db/) | 3:30pm - 5:30pm<br>(**Tueday**) | 2:30pm - 4:30pm<br>(**Friday**) | MPR 1&amp;2 | Mdm Usha (IC)<br>Ms Toh Puay Boon (2IC)<br>Mdm T.Meenakshi |
+| 5 | [English Drama Club](/cca/Performing-and-Visual-Arts/edc/) | 3:30pm - 5:30pm<br>(**Tueday**) | 3:30pm - 5:30pm<br>(**Friday**) | Vista 1 &amp; 2 Room | Ms Kathleen Tan (IC)<br>Ms Gladys Siah (2IC)<br>Ms Ada Yap<br>Mdm Pamela (TBC) |
+| 6 | [Modern Dance](/cca/Performing-and-Visual-Arts/md/) | 3:30pm - 5:30pm<br>(**Tueday**) | 2:30pm - 4:30pm<br>(**Friday**) | Dance Room | Mdm Aditi (IC)<br>Mr Ng Aik Song (2IC)<br>Ms Clarissa Ng |
 
 **CLUBS &amp; SOCIETIES**
 
 | No | CCA | TUESDAY | FRIDAY | Venue | Teachers |
 |:---:|---|---|---|---|---|
-| 1 | [Infocomm Club](/cca/permalink/info-club/) | 2.30pm - 5.30pm(**Tueday**) | 2.30pm - 4.30pm<br>(**Friday**) | Computer Lab 1 &amp; Lab 2 | Ms Sri Masayu&nbsp;(IC)<br>Mr Nar Han Keong (2IC)<br>Ms Norazila |
+| 1 | [Infocomm Club](/cca/permalink/info-club/) | 2:30pm - 5:30pm(**Tueday**) | 2:30pm - 4:30pm<br>(**Friday**) | Computer Lab 1 &amp; Lab 2 | Ms Sri Masayu&nbsp;(IC)<br>Mr Nar Han Keong (2IC)<br>Ms Norazila |
 
 #### A Holistic Education for Secondary School Students - LEAPS 2.0
 A holistic education provides students with a broad and deep foundation for lifelong learning. This includes learning not just in the academic areas. Equally important is the development of values and life skills in each child. This will equip the child to handle the challenges in life later on.&nbsp;
