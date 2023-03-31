@@ -1,10 +1,10 @@
 ---
-title: Angklung & Kulintang Ensemble
+title: Angklung &amp; Kulintang Ensemble
 permalink: /cca/Performing-and-Visual-Arts/ake/
 description: ""
-third_nav_title: Performing & Visual Arts
+third_nav_title: Performing &amp; Visual Arts
 ---
-## Angklung & Kulintang Ensemble
+## Angklung &amp; Kulintang Ensemble
 
 #### About
 The aim of the Angklung and Kulintang Ensemble is to promote music appreciation through the playing of two Traditional Malay instruments — the Angklung and Kulintang — which originate from Southeast Asia.
@@ -16,7 +16,7 @@ Covid-19 presents unprecedented challenges in the way we learn and carry out our
 Through these challenging times, the Ensemble is confident that the students’ perseverance and their adaptability to change will make them emerge stronger and united as a team.
 
 #### CCA Photo
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLyfimMYddo4ysPjePtK0k3ER2sChehtLLZjLBJI7newl3rA6UZYwis7noKISMCB9RB4dQI0Q_BeH9/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 #### Student Leaders
 
@@ -32,7 +32,7 @@ Through these challenging times, the Ensemble is confident that the students’ 
 |:-:|
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment  |
 |  2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
-| 2017 Singapore Youth Festival Arts Presentation: Certificate of Distinction  |
+| 2017&nbsp;Singapore Youth Festival Arts Presentation: Certificate of Distinction  |
 
 #### Students' voices
 **SHIVANESWARY D/O SARAVANAN (3-Respect, 2021)** <br>
@@ -45,5 +45,5 @@ _‘Being in Angklung has developed me into a resilient person. The first year h
 _‘Ever since joining the Angklung &amp; Kulintang Ensemble, I really learnt so much from it. I literally had no whatsoever experience in playing instruments and so I was kind of nervous when I first joined it. However, now that I have spent 1 and a half years in it, I feel a sense of home and comfort with all of my friends getting together to learn how to read chords and how to play music pieces as one. Though I may have struggled at first, I wouldn't be here without my supportive friends and CCA teachers. Joining this CCA has really been a eye-opening experience and I cannot wait for what the future brings us!’_  
 
 #### Training Schedule
-- Tuesday 3.30pm - 5.30pm<br>
-- Friday 2.30pm - 3.30pm
+- Tuesday 3:30pm - 5:30pm<br>
+- Friday 2:30pm - 3:30pm
