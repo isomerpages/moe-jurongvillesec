@@ -2,7 +2,7 @@
 title: Concert Band
 permalink: /cca/Performing-and-Visual-Arts/cb/
 description: ""
-third_nav_title: Performing & Visual Arts
+third_nav_title: Performing &amp; Visual Arts
 ---
 ## Concert Band
 
@@ -14,9 +14,9 @@ Unafraid of new challenges and constraints, our band members, instructors and te
 A highlight event of the year 2021 was the band’s participation in Singapore Youth Festival (SYF). Exuding both confidence and pride, our band members impressed the audience with their stellar performance at the SYF Arts Presentation held in April 2021. Their concerted effort, dedication and determination enabled them to put up a splendid performance that won the hearts and praises of the adjudication and teachers.
 
 #### CCA Photo &amp; Video
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfU2YAHE5ov46_TRLIufQ92l_CgsQd-zTBaE3b-3F-tn0_KnYOy3vZjm4Qb3ays280yXPtw2AvSpnA/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 <br>
-<iframe src="https://drive.google.com/file/d/1CdEmHAYZJdmslw4Xf0pCd2Jwl1wb_-Mj/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 #### Student Leaders
 
@@ -41,5 +41,5 @@ _So far, in my experience of 2 years in Concert Band here in Jurongville Seconda
 _Throughout my years in band, I have gone through many ups and downs, especially this year due to the pandemic. It has impacted all of us one way or another. For me, it has been challenging as there were fewer combined band sessions compared to previous years. However, I have learnt to persevere during this time. As band members, we stayed united and rode out the storm together. Our continuous efforts paid off with our SYF achievement. I hope that our juniors will learn to not give up easily and try our very best in doing everything. I would also like to thank my instructors and teachers for guiding the band. If we persevere, we will definitely succeed._  
 
 #### Training Schedule
-- Tuesday 3.30pm - 5.30pm<br>
-- Friday 2.30pm - 4.30pm
+- Tuesday 3:30pm - 5:30pm<br>
+- Friday 2:0pm - 4:30pm
