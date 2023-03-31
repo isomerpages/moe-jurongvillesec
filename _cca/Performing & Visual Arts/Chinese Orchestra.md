@@ -2,7 +2,7 @@
 title: Chinese Orchestra
 permalink: /cca/Performing-and-Visual-Arts/co/
 description: ""
-third_nav_title: Performing & Visual Arts
+third_nav_title: Performing &amp; Visual Arts
 ---
 ## Chinese Orchestra
 
@@ -20,9 +20,9 @@ Preparing for SYF is a long and arduous journey but we are steadily pushing thro
 CO will always be there for us, through and through. With new members joining us, we are confident of many more fun memories to come. So join us, pronto!
 
 #### CCA Photos
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnZKf9Tqqr-Xi21liN21db5xta_YCcD-zrhDhACsHZLAAL-pVvU3Td7wkWSNp8xyNIKjyzNCOxXytf/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 <br>
-<iframe src="https://drive.google.com/file/d/1bhM0h1KgyrT2B_FV7ZBtGNxTt3LeaZNq/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 #### Student Leaders
 
@@ -44,7 +44,7 @@ CO will always be there for us, through and through. With new members joining us
 |:---:|
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
 | 2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
-| 2017 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
+| 2017&nbsp;Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
 
 #### Students’ voices
 **Kwek Sin En (4IN), President**<br>
@@ -58,5 +58,5 @@ _“Chinese Orchestra is not merely about playing an instrument. Joining this CC
 
 #### Training Schedule
 
-- Tuesday 3.30pm - 5.30pm<br>
-- Friday 2.00pm - 4.00pm
+- Tuesday 3:30pm - 5:30pm<br>
+- Friday 2:00pm - 4:00pm
