@@ -2,7 +2,7 @@
 title: Modern Dance
 permalink: /cca/Performing-and-Visual-Arts/md/
 description: ""
-third_nav_title: Performing & Visual Arts
+third_nav_title: Performing &amp; Visual Arts
 ---
 ## Modern Dance
 
@@ -15,7 +15,7 @@ We are constantly on the lookout for collaboration with like-minded partners. On
 The Modern Dance CCA remains determined to bring the joy and beauty of dance to everyone no matter the circumstance, and our members are eagerly looking forward to performing more in the future!
 
 #### CCA Photo
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaBUM4cBAXwOdKVUpUDp21ez8NiSReVdnRpENO12qCWDpY-DwvfzCCI7OTGwRf98fFWOryIQvT7xtP/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 #### Student Leaders
 
@@ -46,5 +46,5 @@ _
 _I only managed to join dance in secondary two and I am glad I make the choice to do it. At first, I was really scared to join dance as I only did not know many of the dancers and not alot about dancing. However, I eventually became comfortable interacting with my seniors, juniors, and peers. I am happy to be in dance as I have loved dancing since I was a young girl. I hope all my juniors will have fun in dance and enjoy yourselves!_  
 
 #### Training Schedule
-- Tuesday 3.30pm - 5.30pm<br>
-- Friday 2.30pm - 4.30pm
+- Tuesday 3:30pm - 5:30pm<br>
+- Friday 2:30pm - 4:30pm
