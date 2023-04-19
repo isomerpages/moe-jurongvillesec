@@ -14,7 +14,7 @@ Due to the Covid-19 situation, we have reduced number of face-to-face sessions a
 JVS NPCC attained Silver for the Unit Overall Proficiency Award. This reflects the unwavering dedication of our Teacher Officers and Cadet Leader Volunteers for being instrumental in developing our cadets into responsible young adults.
 
 #### CCA Photo
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeYDjIFI0jYbHMa8ewvoc3wVr3D7Ws1wqBrdBp7nKZ0dv32GALh9xdrY2tn54K5iCI6zH-5jWYzsBM/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 #### Student Leaders
 
@@ -43,4 +43,4 @@ _Joining JVS NPCC has been a very enlightening and fun experience for me. I reme
 _NPCC has been a great experience for me. I learnt many new life skills and other skills like teamwork and working together as a squad. NPCC has allowed me to come out of my comfort zone and overcome my social anxiety. I really hope that this learning can continue!_  
 
 #### Training Schedule
-- Friday 2.30pm - 4.30pm
+- Friday 2:30pm - 4:30pm

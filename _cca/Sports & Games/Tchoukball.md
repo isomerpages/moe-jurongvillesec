@@ -2,7 +2,7 @@
 title: Tchoukball
 permalink: /cca/Sports-and-Games/tchoukball/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
 ## Tchoukball
 
@@ -14,7 +14,7 @@ Due to the unprecedented situation of Covid-19, e-CCA was conducted to engage pl
 We hope our players can grow holistically and be the PRIDE of Jurongville. Join us and let us walk the secondary school journey with you!
 
 #### CCA Photo
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbX-pmjOyep8IwLJHTqO7Sx9Pyju5r1HpuddJDfteaPlGAWNej3KWjQ_gb6kU2lCK-rk5J-WsmhjhJ/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 #### Student Leaders
 
@@ -46,5 +46,5 @@ _During the first month of me being in charge of the CCA, I was nervous thinking
 _Being in-charge of things that I do not know how to do at first was hard and not easy for me. It helped me to overcome my sense of fear of talking to others and try to bring the team together. Now I know that teamwork, leadership and sportsmanship are needed in the role. Being a Vice-president helped me increase my knowledge of leading the team and myself forward, while working along with the teachers makes me realise that leading is not easy as it seems to be. Leading makes me realise that you need a lot of courage to be able to talk to the whole team. Tchoukball has made me realise that you need a team to achieve, win and have fun with others by working together to strive for the same thing. Seeing the team having fun together in training makes it a memorable experience for me._  
 
 #### Training Schedule
-- Tuesday 3.30pm - 5.30pm<br>
-- Thursday 3.30pm - 5.30pm
+- Tuesday 3:30pm - 5:30pm<br>
+- Thursday 3:30pm - 5:30pm

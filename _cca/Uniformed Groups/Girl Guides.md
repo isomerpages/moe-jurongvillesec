@@ -18,7 +18,7 @@ An international movement, Girl Guiding remains committed to honing every girlâ€
 _P.S. The Puan Noor Aishah Award was discontinued for one year in 2020 due to the disruptions created by the pandemic._
 
 #### CCA Photo
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTly6jQ8uV_WYdvufBmUS5ZK4bK7omlSZuMkf-Ynk3T6sCY3Qkg980AHaXTSZVuIe5_F5xrMZcWwNml/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 #### Student Leaders
 
@@ -48,4 +48,4 @@ _Iâ€™ve learnt so much throughout my Guiding journey and made a lot of new frien
 To my juniors, I hope all of you can strive to make JVGG a better place for all Guides. I believe all of you can do it. All the best, girls!_
 
 #### Training Schedule
-- Friday 2.00pm - 5.00pm
+- Friday 2:00pm - 5:00pm
