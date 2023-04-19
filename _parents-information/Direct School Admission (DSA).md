@@ -12,13 +12,13 @@ The DSA-Sec and Secondary 1 (S1) Posting are the two modes of admission to Secon
 
 #### DSA-Sec 2024 @ Jurongville
 
-In line with Jurongville’s mission to nurture world-ready students with the passion to learn, lead and serve, we are looking for promising students who have the aptitude and passion for one of these 5 talent area offered for DSA-Sec Exercise 2024. 
+In line with Jurongville’s mission to nurture world-ready students with the passion to learn, lead and serve, we are looking for promising students who have the aptitude and passion for one of these 5 talent areas offered for DSA-Sec Exercise 2024.
 
 <table width="80%" border="1">
 <tbody>
 <tr>
 	<th width="50%"><center><b>DSA Domain</b></center></th>
-	<th width="50%"><center><b>Talent Area</b></center></th>
+	<th width="50%"><center><b>Talent Areas</b></center></th>
 	</tr>
 	<tr>
 		<td rowspan="3">Visual, Literary and Performing Arts</td>
