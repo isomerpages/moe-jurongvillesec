@@ -2,9 +2,9 @@ collections:
   parents-information:
     output: true
     order:
-      - DSA/DSA Chinese Orchestra.md
-      - DSA/Direct School Admission (DSA).md
       - DSA/.keep
+      - DSA/Direct School Admission (DSA).md
+      - DSA/DSA Chinese Orchestra.md
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 1 Parents Engagement.md
