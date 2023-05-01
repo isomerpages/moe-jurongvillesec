@@ -50,7 +50,7 @@ In line with Jurongville’s mission to nurture world-ready students with the pa
 * [Important Activities and Dates](/parents-information/dsa/#ImportantActivitiesandDates)
 
 
-<a name="AdmissionCriteria"></a>
+<a id="AdmissionCriteria"></a>
 #### Admission Criteria
 
 Prior experience in related CCAs and / or participation in any relevant school-based or non-school based awards / activities / competitions / performances will be helpful to the applicants. <br>
@@ -96,7 +96,7 @@ Students can use their own instruments or instruments from their primary schools
 	<br>
 Please note that meeting all the above criteria does not guarantee that the applicant will be shortlisted or given an offer. <br>
 
-<a name="ApplicationProcess"></a>
+<a id="ApplicationProcess"></a>
 #### Application Process
 
 Starting from the 2023 P6 cohort, students will be posted through Posting Groups 1, 2 and 3 under Full Subject-Based Banding (Full SBB). This allows them greater flexibility to offer subjects at appropriate subject levels.
@@ -115,7 +115,7 @@ For further enquiries on DSA-Sec, you may call our General Office at 6563 8704 b
 For more details on DSA-Sec, please refer to the MOE DSA-Sec website: www.moe.gov.sg/dsa-sec 
 
 
-<a name="SelectionProcess"></a>
+<a id="SelectionProcess"></a>
 #### Selection Process
 The selection process consists of 
 * Interviews and
@@ -126,6 +126,6 @@ Applicants will be notified via email to attend the interviews and auditions / t
 If successful, selected applicants will receive the DSA-Sec offer directly from Jurongville by mid-September 2023.
 
 
-<a name="ImportantActivitiesandDates"></a>
+<a id="ImportantActivitiesandDates"></a>
 #### Important Activities and Dates
 ![](/images/importantactivitiesanddates.jpg)
