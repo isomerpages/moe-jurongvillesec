@@ -44,10 +44,10 @@ In line with Jurongville’s mission to nurture world-ready students with the pa
 - Primary 6 students may seek DSA-Sec into Jurongville Secondary School before the Secondary 1 Posting Exercise in November 2024.
 
 #### Quick Links
-* Admission Criteria
-* Application Process
-* Selection Process
-* Important Activities and Dates 
+* [Admission Criteria](/parents-information/dsa/#AdmissionCriteria)
+* [Application Process](/parents-information/dsa/#AppicationProcess)
+* [Selection Process](/parents-information/dsa/SelectionProcess)
+* [Important Activities and Dates](/parents-information/dsa/#ImportantActivitiesandDates)
 
 
 <a name="AdmissionCriteria"></a>
