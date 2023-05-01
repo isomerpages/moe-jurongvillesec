@@ -2,6 +2,7 @@ collections:
   parents-information:
     output: true
     order:
+      - DSA/Direct School Admission (DSA).md
       - DSA/.keep
       - Term Letters/.keep
       - Term Letters/Term Letters.md
