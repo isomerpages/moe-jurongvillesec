@@ -67,11 +67,11 @@ Shortlisted applicants will be assessed on both their demonstrated and potential
 			<th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Selection Process</p></th>
 		</tr>
 		<tr>
-			<td rowspan="3"> Visual, Literary and Performing Arts</td>
-			<td>Chinese Orchestra</td>
-			<td rowspan="3">Applications should:<br><ul><li>possess a strong interest and passion for the relevant performing art form or CCA</li><li>have participated in Chinese Orchestra / English Drama / International Dance Singapore Youth Festival (SYF) Arts Presentation (or equivalent) and / or external performances</li><li>possess a positive attitude and a sense of commitment</li><li>have a Conduct Grade of 'Good' or better in Primary 5 and 6</li></ul></td>
-			<td>During the auditions, shortlisted applicants will be required to:<ul><li>play a piece of his / her choice</li><li>sight-read a piece of music during the interview</li></ul>
-Students can use their own instruments or instruments from their primary schools</td><td>
+			<td rowspan="3"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Visual, Literary and Performing Arts</p></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Chinese Orchestra</p></td>
+			<td rowspan="3"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Applications should:</p><br><ul><li>possess a strong interest and passion for the relevant performing art form or CCA</li><li>have participated in Chinese Orchestra / English Drama / International Dance Singapore Youth Festival (SYF) Arts Presentation (or equivalent) and / or external performances</li><li>possess a positive attitude and a sense of commitment</li><li>have a Conduct Grade of 'Good' or better in Primary 5 and 6</li></ul></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">During the auditions, shortlisted applicants will be required to:</p><ul><li>play a piece of his / her choice</li><li>sight-read a piece of music during the interview</li></ul>
+<p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Students can use their own instruments or instruments from their primary schools</p></td><td>
 		</td></tr>
 		<tr>
 			<td>English Drama</td>
