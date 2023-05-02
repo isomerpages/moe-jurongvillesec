@@ -3,7 +3,7 @@ title: Philosophy, Motto & Values
 permalink: /about-us/philosophy-motto-values/
 description: ""
 ---
-## Philosophy, Motto & Values
+## Philosophy, Motto &amp; Values
 
 #### Our School Philosophy
 
@@ -18,7 +18,7 @@ _**Beyond Self**_
 <table width="100%" border="1">
   <tbody>
     <tr>
-      <td align="left"><b>P</b>erseverance</td>
+			<td align="left"><b>P</b>erseverance</td>
       <td align="left">To have a positive outlook with fortitude to overcome challenges and adapt to changes</td>
     </tr>
     <tr>
