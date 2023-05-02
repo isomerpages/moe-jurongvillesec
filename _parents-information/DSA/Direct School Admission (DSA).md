@@ -18,11 +18,11 @@ In line with Jurongville’s mission to nurture world-ready students with the pa
 <table width="80%" border="1">
 <tbody>
 <tr>
-	<th width="50%"><center><b>DSA Domain</b></center></th>
-	<th width="50%"><center><b>Talent Areas</b></center></th>
+	<th width="50%"><center><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><b>DSA Domain</b></p></center></th>
+	<th width="50%"><center><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><b>Talent Areas</b></p></center></th>
 	</tr>
 	<tr>
-		<td rowspan="3">Visual, Literary and Performing Arts</td>
+		<td rowspan="3"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Visual, Literary and Performing Arts</p></td>
 		<td><a href="/parents-information/dsa/dsa-co/">Chinese Orchestra (CO)</a></td>
 	</tr>
 	<tr>
