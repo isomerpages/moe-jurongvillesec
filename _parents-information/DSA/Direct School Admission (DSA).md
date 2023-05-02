@@ -44,6 +44,7 @@ In line with Jurongville’s mission to nurture world-ready students with the pa
 - Do refer to the respective pages for more info on each talent area.<br><br>
 - Primary 6 students may seek DSA-Sec into Jurongville Secondary School before the Secondary 1 Posting Exercise in November 2024.
 
+<a id="QuickLinks"></a>
 #### Quick Links
 * [Admission Criteria](/parents-information/dsa/#AdmissionCriteria)
 * [Application Process](/parents-information/dsa/#ApplicationProcess)
@@ -94,8 +95,10 @@ Students can use their own instruments or instruments from their primary schools
 		</tr>
 	</tbody>
 	</table>
-	<br>
-Please note that meeting all the above criteria does not guarantee that the applicant will be shortlisted or given an offer. <br>
+
+Please note that meeting all the above criteria does not guarantee that the applicant will be shortlisted or given an offer. 
+
+<a href="/parents-information/dsa/#QuickLinks">Back to Quick Links</a>
 
 <a id="ApplicationProcess"></a>
 #### Application Process
@@ -115,6 +118,7 @@ For further enquiries on DSA-Sec, you may call our General Office at 6563 8704 b
 
 For more details on DSA-Sec, please refer to the MOE DSA-Sec website: www.moe.gov.sg/dsa-sec 
 
+<a href="/parents-information/dsa/#QuickLinks">Back to Quick Links</a>
 
 <a id="SelectionProcess"></a>
 #### Selection Process
@@ -126,7 +130,10 @@ Applicants will be notified via email to attend the interviews and auditions / t
 
 If successful, selected applicants will receive the DSA-Sec offer directly from Jurongville by mid-September 2023.
 
+<a href="/parents-information/dsa/#QuickLinks">Back to Quick Links</a>
 
 <a id="ImportantActivitiesandDates"></a>
 #### Important Activities and Dates
 ![](/images/importantactivitiesanddates.jpg)
+
+<a href="/parents-information/dsa/#QuickLinks">Back to Quick Links</a>
