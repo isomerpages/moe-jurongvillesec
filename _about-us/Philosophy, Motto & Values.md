@@ -18,24 +18,24 @@ _**Beyond Self**_
 <table width="100%" border="1">
   <tbody>
     <tr>
-			<td align="left"><b>P</b>erseverance</td>
-      <td align="left">To have a positive outlook with fortitude to overcome challenges and adapt to changes</td>
+			<td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><b>P</b>erseverance</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">To have a positive outlook with fortitude to overcome challenges and adapt to changes</p></td>
     </tr>
     <tr>
-      <td align="left"><b>R</b>espect</td>
-      <td align="left">To respect and appreciate others</td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><b>R</b>espect</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">To respect and appreciate others</p></td>
     </tr>
     <tr>
-      <td align="left"><b>I</b>ntegrity</td>
-      <td align="left">To have moral courage and a strong sense of responsibility</td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><b>I</b>ntegrity</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">To have moral courage and a strong sense of responsibility</p></td>
     </tr>
     <tr>
-      <td align="left"><b>D</b>iscipline</td>
-      <td align="left">To be self-disciplined and exemplary in conduct</td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><b>D</b>iscipline</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">To be self-disciplined and exemplary in conduct</p></td>
     </tr>
     <tr>
-      <td align="left"><b>E</b>mpathy</td>
-      <td align="left">To recognise and meet the needs of others</td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><b>E</b>mpathy</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">To recognise and meet the needs of others</p></td>
     </tr>
   </tbody>
 </table>
