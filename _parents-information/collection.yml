@@ -2,6 +2,7 @@ collections:
   parents-information:
     output: true
     order:
+      - DSA/DSA Electronics & Robotics (Applied Learning Programme (ALP)).md
       - DSA/.keep
       - DSA/Direct School Admission (DSA).md
       - DSA/DSA Chinese Orchestra.md
