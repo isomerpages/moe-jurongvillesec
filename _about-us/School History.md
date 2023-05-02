@@ -12,57 +12,55 @@ There are close parallels in the history of both constituent schools. Both Juron
 Both schools were led by a string of outstanding principals. The founding principal of Jurongville Secondary was Mdm Sun Huey Min. Mdm Sun served as the school’s Principal from 1994 to 1995. The founding principal of Hong Kah Secondary was Mrs Yeo Chin Nam. Mrs Yeo served the school from 1994 to 1997.
 
 **Principals of Jurongville Secondary and Hong Kah Secondary from 1994 to 2018**
-<p style="font-family: Lato, sans-serif; font-size: 1.25rem;">
+
 <table width="100%" border="1">
 <tbody>
 <tr>
-<th width="50%" border="1">Principals of JurongvilleSecondary School<br>
+<th width="50%" border="1"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Principals of Jurongville Secondary School</p><br>
 </th>
-<th width="50%" border="1">Principals of Hong KahSecondary School<br>
+<th width="50%" border="1"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Principals of Hong Kah Secondary School</p><br>
 </th>
 </tr>
 <tr>
-<td>Mdm Sun Huey Min (1994 - 1995)
+	<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Sun Huey Min (1994 - 1995)</p>
 </td>
-<td>Mrs Yeo Chin Nam (1994 - 1997)
-</td>
-</tr>
-<tr>
-<td>Mr Mohd Khairunan (1996 - 2000)
-</td>
-<td>Ms Tay Bee Hian Dorothy (1998 - 2000)
+	<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mrs Yeo Chin Nam (1994 - 1997)</p>
 </td>
 </tr>
 <tr>
-<td>Mr Ong Kock Hua (2001 - 2006)
+<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Mohd Khairunan (1996 - 2000)</p>
 </td>
-<td>Mrs Mary Bay Chua May Lin (2001 - 2007)
-</td>
-</tr>
-<tr>
-<td>Mr. Shawal Bin Hussin (2007 - 2013)
-</td>
-<td>Mrs Tan Wan Yu (2008 - 2013)
+<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Ms Tay Bee Hian Dorothy (1998 - 2000)</p>
 </td>
 </tr>
 <tr>
-<td>Mr Benny Lee Kah Chong (2014 - 2015)
+	<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Ong Kock Hua (2001 - 2006)</p>
 </td>
-<td>Mdm Sung Mee Har (2014 - 2018)
+<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mrs Mary Bay Chua May Lin (2001 - 2007)</p>
 </td>
 </tr>
 <tr>
-<td>Mdm Flora Ong Fei Min (2016 - 2018)
+<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr. Shawal Bin Hussin (2007 - 2013)</p>
+</td>
+	<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mrs Tan Wan Yu (2008 - 2013)</p>
+</td>
+</tr>
+<tr>
+<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Benny Lee Kah Chong (2014 - 2015)</p>
+</td>
+	<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Sung Mee Har (2014 - 2018)</p>
+</td>
+</tr>
+<tr>
+<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Flora Ong Fei Min (2016 - 2018)</p>
 </td>
 <td>
 </td>
   </tr>
   <tr>
-<td>Mr Chan Yew Wooi (2018 - 2022)
+		<td colspan="2"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Chan Yew Wooi (2018 - 2022)</p>
 </td>
-<td>
-</td>
-  </tr></tbody></table></p>
+  </tr></tbody></table>
 
 Mr Chan Yew Wooi, previously Director / Professional Development, Academy of Singapore Teachers, was appointed principal of Jurongville Secondary School from 15 December 2018.
 
