@@ -23,20 +23,20 @@ In line with Jurongville’s mission to nurture world-ready students with the pa
 	</tr>
 	<tr>
 		<td rowspan="3">Visual, Literary and Performing Arts</td>
-		<td>Chinese Orchestra (CO)</td>
+		<td><a href="/parents-information/dsa/dsa-co/">Chinese Orchestra (CO)</a></td>
 	</tr>
 	<tr>
-		<td>English Drama Club</td>
+		<td><a href="/parents-information/dsa/dsa-engdrama/">English Drama Club</a></td>
 	</tr>
 	<tr>
-		<td>Modern Dance</td>
+		<td><a href="/parents-information/dsa/dsa-moderndance/">Modern Dance</a></td>
 	</tr>
 	<tr>
 		<td>Science, Technology, Engineering<br>and Math (STEM)</td>
-		<td>Electronics &amp; Robotics<br>(Applied Learning Programme (ALP))</td></tr>
+		<td><a href="/parents-information/dsa/dsa-alp/">Electronics &amp; Robotics<br>(Applied Learning Programme (ALP))</a></td></tr>
 	<tr>
 		<td>Sports and Games</td>
-		<td>Football (Boys)</td>
+		<td><a href="/parents-information/dsa/dsa-football/">Football (Boys)</a></td>
 </tr>
 </tbody>
 </table>
