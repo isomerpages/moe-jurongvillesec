@@ -3,17 +3,16 @@ title: School History
 permalink: /about-us/sch-history/
 description: ""
 ---
-
 ## School History
 
 In 2019, Jurongville Secondary School merged with Hong Kah Secondary School. The merger decision and its intent was shared by the Ministry of Education with the two schools in April 2017. After the decision was shared with all students, staff, parents and stakeholders, both schools collaborated closely to ensure a smooth transition when school reopened in January 2019.
 
-There are close parallels in the history of both constituent schools. Both Jurongville Secondary and Hong Kah Secondary received their first batch of Secondary One students in 1994. Situated a short distance apart along Jurong East Avenue 1, both schools served the residents of Jurong faithfully and well for a quarter of a century. Interestingly, the name ‘Hong Kah’ could be traced back to a village in pre-industrialised Jurong. That village was popularly known in Teochew, a Chinese dialect, as ‘Hong Kah Choon’, which means ‘Christian Village’. To reflect the shared heritage, MOE decided that the merged school will be known as Jurongville Secondary School in English and 丰嘉中学 in Chinese. 
+There are close parallels in the history of both constituent schools. Both Jurongville Secondary and Hong Kah Secondary received their first batch of Secondary One students in 1994. Situated a short distance apart along Jurong East Avenue 1, both schools served the residents of Jurong faithfully and well for a quarter of a century. Interestingly, the name ‘Hong Kah’ could be traced back to a village in pre-industrialised Jurong. That village was popularly known in Teochew, a Chinese dialect, as ‘Hong Kah Choon’, which means ‘Christian Village’. To reflect the shared heritage, MOE decided that the merged school will be known as Jurongville Secondary School in English and 丰嘉中学 in Chinese.&nbsp;
 
 Both schools were led by a string of outstanding principals. The founding principal of Jurongville Secondary was Mdm Sun Huey Min. Mdm Sun served as the school’s Principal from 1994 to 1995. The founding principal of Hong Kah Secondary was Mrs Yeo Chin Nam. Mrs Yeo served the school from 1994 to 1997.
 
 **Principals of Jurongville Secondary and Hong Kah Secondary from 1994 to 2018**
-
+<p style="font-family: Lato, sans-serif; font-size: 1.25rem;">
 <table width="100%" border="1">
 <tbody>
 <tr>
@@ -63,7 +62,7 @@ Both schools were led by a string of outstanding principals. The founding princi
 </td>
 <td>
 </td>
-  </tr></tbody></table>
+  </tr></tbody></table></p>
 
 Mr Chan Yew Wooi, previously Director / Professional Development, Academy of Singapore Teachers, was appointed principal of Jurongville Secondary School from 15 December 2018.
 
