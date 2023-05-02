@@ -16,9 +16,9 @@ Both schools were led by a string of outstanding principals. The founding princi
 <table width="100%" border="1">
 <tbody>
 <tr>
-<th width="50%" border="1"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Principals of Jurongville Secondary School</p><br>
+<th width="50%" border="1"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Principals of Jurongville Secondary School</p>
 </th>
-<th width="50%" border="1"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Principals of Hong Kah Secondary School</p><br>
+<th width="50%" border="1"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Principals of Hong Kah Secondary School</p>
 </th>
 </tr>
 <tr>
