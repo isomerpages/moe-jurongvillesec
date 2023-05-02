@@ -61,10 +61,10 @@ Shortlisted applicants will be assessed on both their demonstrated and potential
 <table border="1" width="100">
 	<tbody>
 		<tr>
-			<th>DSA Domain</th>
-			<th>Talent Areas</th>
-			<th>Selection Criteria</th>
-			<th> Selection Process</th>
+			<th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">DSA Domain</p></th>
+			<th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Talent Areas</p></th>
+			<th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Selection Criteria</p></th>
+			<th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Selection Process</p></th>
 		</tr>
 		<tr>
 			<td rowspan="3"> Visual, Literary and Performing Arts</td>
