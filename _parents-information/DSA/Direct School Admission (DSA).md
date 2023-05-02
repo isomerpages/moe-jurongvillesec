@@ -41,7 +41,7 @@ In line with Jurongville’s mission to nurture world-ready students with the pa
 </tbody>
 </table>
 <br>
-- Do refer to the respective pages for more info on each talent area.<br><br>
+- Do refer to the respective pages for more info on each talent area.<br>
 - Primary 6 students may seek DSA-Sec into Jurongville Secondary School before the Secondary 1 Posting Exercise in November 2024.
 
 <a id="QuickLinks"></a>
