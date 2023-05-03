@@ -32,12 +32,12 @@ In line with Jurongville’s mission to nurture world-ready students with the pa
 		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="/parents-information/dsa/dsa-moderndance/">Modern Dance</a></p></td>
 	</tr>
 	<tr>
-		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Science, Technology, Engineering<br>and Math (STEM)</p></td>
-		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="/parents-information/dsa/dsa-alp/">Electronics &amp; Robotics<br>(Applied Learning Programme (ALP))</a></p></td></tr>
-	<tr>
 		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Sports and Games</p></td>
 		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="/parents-information/dsa/dsa-football/">Football (Boys)</a></p></td>
 </tr>
+		<tr>
+		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Science, Technology, Engineering<br>and Math (STEM)</p></td>
+		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="/parents-information/dsa/dsa-alp/">Electronics &amp; Robotics<br>(Applied Learning Programme (ALP))</a></p></td></tr>
 </tbody>
 </table>
 <br>
