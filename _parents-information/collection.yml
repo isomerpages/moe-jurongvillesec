@@ -9,7 +9,13 @@ collections:
       - School Services/.keep
       - School Services/School Services.md
       - School Services/Booklist.md
-      - Direct School Admission (DSA).md
+      - DSA/.keep
+      - DSA/Direct School Admission (DSA).md
+      - DSA/DSA Chinese Orchestra.md
+      - DSA/DSA English Drama.md
+      - DSA/DSA Modern Dance.md
+      - DSA/DSA Football (Boys).md
+      - DSA/DSA Electronics & Robotics (Applied Learning Programme).md
       - Financial Assistance Scheme.md
       - NEU PC Plus Programme.md
       - Parents Support Group.md
