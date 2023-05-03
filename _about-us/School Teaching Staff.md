@@ -91,8 +91,8 @@ description: ""
       <tr><th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mother Tongue Languages Department</p></th></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ong_yi_min@schools.gov.sg" target="">Mdm Ong Yi Min<br>(HOD MTL)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sha_bin@schools.gov.sg" target="">Mr Sha Bin<br>(SH / Chinese Language)</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:siti_zarinah_muhammad@schools.gov.sg" target="">Mdm Siti Zarinah Binte Muhammad (SH / Malay Language)</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:nur_rashidah_ramli@schools.gov.sg" target="">Mdm Nur Rashidah Bte Ramli (HOD / Dis)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:siti_zarinah_muhammad@schools.gov.sg" target="">Mdm Siti Zarinah Binte Muhammad<br>(SH / Malay Language)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:nur_rashidah_ramli@schools.gov.sg" target="">Mdm Nur Rashidah Bte Ramli<br>(HOD / Dis)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:a_sri_devi_arumugam@schools.gov.sg" target="">Mdm A Sri Devi A/P Arumugam</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chua_khuang_lim@schools.gov.sg" target="">Mr Chua Khuang Lim</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:heng_yuan_hao@schools.gov.sg" target="">Mr Heng Yuan Hao</a></p></td></tr>
