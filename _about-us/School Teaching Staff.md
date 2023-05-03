@@ -11,48 +11,48 @@ description: ""
    <td width="48%" valign="top">
    <table width="100%" border="1">
       <tbody>
-      <tr><th>Craft &amp; Technology Department</th></tr>
-      <tr><td><a href="mailto:you_kim_choo@schools.gov.sg" target="">&nbsp;Ms You Kim Choo (HOD / C&amp;T)</a></td></tr>
-      <tr><td><a href="mailto:chia_miang_heong@schools.gov.sg" target="">Mr Chia Miang Heong (SH / D&amp;T)</a></td></tr>
-      <tr><td><a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" target="">Mdm Sharifah Farrahdillah  (Assistant Year Head)</a></td></tr>
-      <tr><td><a href="mailto:ng_boon_teck@schools.gov.sg" target="">Mr Ng Boon Teck (ST / POA)</a></td></tr>
-      <tr><td><a href="mailto:lim_lay_yean@schools.gov.sg" target="">Mrs Chan-Lim Lay Yean</a></td></tr>
-      <tr><td><a href="mailto:chang_way_lie@schools.gov.sg" target="">Mrs Quek-Chang Way Lie</a></td></tr>
-      <tr><td><a href="mailto:muhammad_arshad_jumah@schools.gov.sg" target="">Mr Muhammad Arshad Bin Jumah</a></td></tr>
-      <tr><td><a href="mailto:norita_samsi@schools.gov.sg" target="">Miss Norita Bte Samsi</a></td></tr>
-      <tr><td><a href="mailto:liew_shan_shan@schools.gov.sg" target="">Ms Rachel Liew Shan Shan</a></td></tr>
-      <tr><td><a href="mailto:tan_kuay_yong@schools.gov.sg" target="">Miss Tan Kuay Yong</a></td></tr>
-      <tr><td><a href="mailto:wong_ruting@schools.gov.sg" target="">Mdm Wong Ruting</a></td></tr>
-      <tr><td><a href="mailto:you_fu_hui@schools.gov.sg" target="">Mr You Fu Hui Edwin</a></td></tr>
-      <tr><td><a href="mailto:justine_elizabeth_tham_luo@schools.gov.sg" target="">Ms Justin Elizabeth Tham Luo Wen (FAJT)</a></td></tr>
-      <tr><td><a href="mailto:chia_lai_choo_violet@schools.gov.sg" target="">Ms Chia Lai Choo Violet (FAJT)</a></td></tr>
+      <tr><th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Craft &amp; Technology Department</p></th></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:you_kim_choo@schools.gov.sg" target="">Ms You Kim Choo<br>(HOD / C&amp;T)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chia_miang_heong@schools.gov.sg" target="">Mr Chia Miang Heong<br>(SH / D&amp;T)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" target="">Mdm Sharifah Farrahdillah<br>(Assistant Year Head)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ng_boon_teck@schools.gov.sg" target="">Mr Ng Boon Teck<br>(ST / POA)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lim_lay_yean@schools.gov.sg" target="">Mrs Chan-Lim Lay Yean</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chang_way_lie@schools.gov.sg" target="">Mrs Quek-Chang Way Lie</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:muhammad_arshad_jumah@schools.gov.sg" target="">Mr Muhammad Arshad Bin Jumah</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:norita_samsi@schools.gov.sg" target="">Miss Norita Bte Samsi</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:liew_shan_shan@schools.gov.sg" target="">Ms Rachel Liew Shan Shan</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tan_kuay_yong@schools.gov.sg" target="">Miss Tan Kuay Yong</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wong_ruting@schools.gov.sg" target="">Mdm Wong Ruting</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:you_fu_hui@schools.gov.sg" target="">Mr You Fu Hui Edwin</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:justine_elizabeth_tham_luo@schools.gov.sg" target="">Ms Justin Elizabeth Tham Luo Wen (FAJT)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chia_lai_choo_violet@schools.gov.sg" target="">Ms Chia Lai Choo Violet (FAJT)</a></p></td></tr>
       </tbody>
    </table><br>
    <table width="100%" border="1">
       <tbody>
-      <tr><th>English Language &amp; Music Department</th></tr>
-      <tr><td><a href="mailto:soh_yik_pui@schools.gov.sg" target="">Ms Serene Soh Yik Pui (HOD / English)</a></td></tr>
-      <tr><td><a href="mailto:ada_yap@schools.gov.sg" target="">Ms Ada Yap (SH / English &amp; Literature</a></td></tr>
-      <tr><td><a href="mailto:simon_lydia_shamani@schools.gov.sg" target="">Miss Simon Lydia Shamani (SSD)</a></td></tr>
-      <tr><td><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" target="">Miss Pauline Fong Liew Yueh (LH / Dis)</a></td></tr>
-      <tr><td><a href="mailto:lai_hanqiang_joachim@schools.gov.sg" target="">Mr Lai Hanqiang Joachim (ST / EL)</a></td></tr>
-      <tr><td><a href="mailto:suhaily_supahan@schools.gov.sg" target="">Ms Suhaily Bte Supahan (ST / EL)</a></td></tr>
-      <tr><td><a href="mailto:ee_ai_lin@schools.gov.sg" target="">Ms Ee Ai Lin</a></td></tr>
-      <tr><td><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" target="">Mr Lloyd Lin Jianbang</a></td></tr>
-      <tr><td><a href="mailto:clarissa_ng_pey_wen@schools.gov.sg" target="">Mdm Ng Pey Wen Clarissa</a></td></tr>
-      <tr><td><a href="mailto:pamela_anne_de_souza@schools.gov.sg" target="">Mdm Pamela Anne De Souza</a></td></tr>
-      <tr><td><a href="mailto:tan_chai-lian_kathleen@schools.gov.sg" target="">Miss Tan Chai-Lian Kathleen</a></td></tr>
-      <tr><td><a href="mailto:tay_khai_sheng_kenneth@schools.gov.sg" target="">Mr Tay Khai Sheng Kenneth</a></td></tr>
-      <tr><td><a href="mailto:teo_jiaen@schools.gov.sg" target="">Miss Teo Jiaen Victoria</a></td></tr>
-      <tr><td><a href="mailto:wee_ming_hann@schools.gov.sg" target="">Mr Wee Ming Hann</a></td></tr>
-      <tr><td><a href="mailto:poon_jing_theng@schools.gov.sg" target="">Ms Poon Jing Theng Phyllis (FAJT)</a></td></tr>
+      <tr><th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">English Language &amp; Music Department</p></th></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:soh_yik_pui@schools.gov.sg" target="">Ms Serene Soh Yik Pui<br>(HOD / English)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ada_yap@schools.gov.sg" target="">Ms Ada Yap<br>(SH / English &amp; Literature</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:simon_lydia_shamani@schools.gov.sg" target="">Miss Simon Lydia Shamani<br>(SSD)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" target="">Miss Pauline Fong Liew Yueh<br>(LH / Dis)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lai_hanqiang_joachim@schools.gov.sg" target="">Mr Lai Hanqiang Joachim<br>(ST / EL)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:suhaily_supahan@schools.gov.sg" target="">Ms Suhaily Bte Supahan (ST / EL)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ee_ai_lin@schools.gov.sg" target="">Ms Ee Ai Lin</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" target="">Mr Lloyd Lin Jianbang</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:clarissa_ng_pey_wen@schools.gov.sg" target="">Mdm Ng Pey Wen Clarissa</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:pamela_anne_de_souza@schools.gov.sg" target="">Mdm Pamela Anne De Souza</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tan_chai-lian_kathleen@schools.gov.sg" target="">Miss Tan Chai-Lian Kathleen</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tay_khai_sheng_kenneth@schools.gov.sg" target="">Mr Tay Khai Sheng Kenneth</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:teo_jiaen@schools.gov.sg" target="">Miss Teo Jiaen Victoria</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wee_ming_hann@schools.gov.sg" target="">Mr Wee Ming Hann</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:poon_jing_theng@schools.gov.sg" target="">Ms Poon Jing Theng Phyllis (FAJT)</a></p></td></tr>
       </tbody>
    </table><br>
    <table width="100%" border="1">
       <tbody>
-      <tr><th>Humanities Department</th></tr>
-      <tr><td><a href="mailto:mohammad_nasser_jaafar@schools.gov.sg" target="">Mr Mohammad Nasser Bin Jaafar (HOD / Hum)</a></td></tr>
-      <tr><td><a href="mailto:john_teo_wei_ren@schools.gov.sg" target="">Mr John Teo Wei Ren (SH / Geo)</a></td></tr>
+      <tr><th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Humanities Department</p></th></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:mohammad_nasser_jaafar@schools.gov.sg" target="">Mr Mohammad Nasser Bin Jaafar<br>(HOD / Hum)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:john_teo_wei_ren@schools.gov.sg" target="">Mr John Teo Wei Ren<br>(SH / Geo)</a></p></td></tr>
       <tr><td><a href="mailto:chin_ying_ying@schools.gov.sg" target="">Mrs Poh-Chin Ying Ying Yvonne (ST / Geo)</a></td></tr>
       <tr><td><a href="mailto:aditi_das_deshmukh@schools.gov.sg" target="">Mdm Aditi Das Deshmukh</a></td></tr>
       <tr><td><a href="mailto:gladys_siah_ying_ying@schools.gov.sg" target="">Ms Gladys Siah Ying Ying</a></td></tr>
