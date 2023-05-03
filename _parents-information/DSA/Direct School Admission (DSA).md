@@ -7,13 +7,13 @@ third_nav_title: DSA
 ## Direct School Admission (DSA)
 
 
-#### Direct School Admission (DSA-Sec) Exercise 2024 for Secondary 1
+#### Direct School Admission (DSA-Sec) Exercise 2023 for Secondary 1
 
 The DSA-Sec and Secondary 1 (S1) Posting are the two modes of admission to Secondary Schools. The DSA-Sec allows students to seek admission to S1 based on their achievements and talents.
 
-#### DSA-Sec 2024 @ Jurongville
+#### DSA-Sec 2023 @ Jurongville
 
-In line with Jurongville’s mission to nurture world-ready students with the passion to learn, lead and serve, we are looking for promising students who have the aptitude and passion for one of these 5 talent areas offered for DSA-Sec Exercise 2024.
+In line with Jurongville’s mission to nurture world-ready students with the passion to learn, lead and serve, we are looking for promising students who have the aptitude and passion for one of these 5 talent areas offered for DSA-Sec Exercise 2023.
 
 <table width="80%" border="1">
 <tbody>
