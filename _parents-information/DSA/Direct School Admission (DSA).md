@@ -23,10 +23,10 @@ In line with Jurongville’s mission to nurture world-ready students with the pa
 	</tr>
 	<tr>
 		<td rowspan="3"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Visual, Literary and Performing Arts</p></td>
-		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="/parents-information/dsa/dsa-co/">Chinese Orchestra (CO)</a></p></td>
+		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="/parents-information/dsa/dsa-co/">Chinese Orchestra</a></p></td>
 	</tr>
 	<tr>
-		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="/parents-information/dsa/dsa-engdrama/">English Drama Club</a></p></td>
+		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="/parents-information/dsa/dsa-engdrama/">English Drama</a></p></td>
 	</tr>
 	<tr>
 		<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="/parents-information/dsa/dsa-moderndance/">Modern Dance</a></p></td>
