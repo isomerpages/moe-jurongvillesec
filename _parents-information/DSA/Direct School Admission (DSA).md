@@ -74,24 +74,24 @@ Shortlisted applicants will be assessed on both their demonstrated and potential
 <p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Students can use their own instruments or instruments from their primary schools</p></td><td>
 		</td></tr>
 		<tr>
-			<td>English Drama</td>
-			<td>During the auditions, shortlisted applicants will be required to:<ul><li>present a monologue or script of their choice</li><li>improvise on a given short scene on the spot</li></ul></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">English Drama</p></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">During the auditions, shortlisted applicants will be required to:</p><ul><li>present a monologue or script of their choice</li><li>improvise on a given short scene on the spot</li></ul></td>
 		</tr>
 		<tr>
-			<td>Modern Dance</td>
-			<td>During the auditions, shortlisted applicants will be required to:<ul><li>perform a dance of their choice</li><li>learn a short dance routine on the spot</li></ul></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Modern Dance</p></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">During the auditions, shortlisted applicants will be required to:</p><ul><li>perform a dance of their choice</li><li>learn a short dance routine on the spot</li></ul></td>
 		</tr>
 		<tr>
-			<td>Sports and Games</td>
-			<td>Football (Boys)</td>
-			<td>Applicants should:<ul><li>possess an aptitude, passion and technical skills for the sport</li><li>be diligent and have a positive attitude towards learning</li><li>have a Conduct Grade of 'Good' or better in Primary 5 and 6</li></ul></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Sports and Games</p></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Football (Boys)</p></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Applicants should:</p><ul><li>possess an aptitude, passion and technical skills for the sport</li><li>be diligent and have a positive attitude towards learning</li><li>have a Conduct Grade of 'Good' or better in Primary 5 and 6</li></ul></td>
 			<td><ul><li>All applicants will be required to undergo football trials</li><li>Shortlisted applicants will be required to attend an interview</li></ul></td>
 		</tr>
 		<tr>
-			<td>Science, Technology, Engineering and Math (STEM)</td>
-			<td>Electronics &amp; Robotics (Applied Learning Programme (ALP))</td>
-			<td>Applicants should:<ul><li>possess an aptitude and passion in the future of technology</li><li>be diligent and have a positive attitude towards learning</li><li>knowledge in coding and robotics</li><li>have a Conduct Grade of 'Good' or better in Primary 5 and 6</li></ul></td>
-			<td>During the interviews, shortlisted applicants will be required to:<ul><li>undergo coding and robotics hands-on performance tasks</li></ul></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Science, Technology, Engineering and Math (STEM)</p></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Electronics &amp; Robotics (Applied Learning Programme (ALP))</p></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Applicants should:</p><ul><li>possess an aptitude and passion in the future of technology</li><li>be diligent and have a positive attitude towards learning</li><li>knowledge in coding and robotics</li><li>have a Conduct Grade of 'Good' or better in Primary 5 and 6</li></ul></td>
+			<td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">During the interviews, shortlisted applicants will be required to:</p><ul><li>undergo coding and robotics hands-on performance tasks</li></ul></td>
 		</tr>
 	</tbody>
 	</table>
