@@ -17,7 +17,7 @@ sections:
       subtitle: New Update
       description: Direct School Admission (DSA) 2023
       button: Click here
-      url: dsa
+      url: /parents-information/dsa/
       image: /images/jvss_dsa2023_ebanner.jpg
       alt: DSA 2023
 ---
