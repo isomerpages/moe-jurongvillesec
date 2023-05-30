@@ -17,6 +17,7 @@ third_nav_title: Term Letters
 * [Letter to Parent (OML Letter)](/files/jvs%20parent%20oml%20letter%203.pdf){:target="_blank"}
 
 ##### Term 2
+* [Letter to Parent PG](/files/2023%20term%202%20parents%20letter_29%20may%202023.pdf){:target="_blank"}
 
 ##### Term 3
 
