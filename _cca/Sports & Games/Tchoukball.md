@@ -34,6 +34,11 @@ We are also pleased to announce that Tchoukball Association of Singapore (TBAS) 
 
 | JVS |
 |:---:|
+| 2023 Inter Schools Tchoukball Championships: B Boys 2nd |
+| 2023 Inter Schools Tchoukball Championships: B Girls 3rd |
+| 2022 Inter Schools Tchoukball Championships: B Girls 1st |
+| 2022 Inter Schools Tchoukball Championships: B Boys 2nd |
+| 2022 Inter Schools Tchoukball Championships: C Boys 2nd |
 | 2019 Inter Schools Tchoukball Championships: B Boys 3rd |
 | 2019 Inter Schools Tchoukball Championships: B Girls 2nd |
 | 2019 Inter Schools Tchoukball Championships: C Boys 2nd |
@@ -43,13 +48,9 @@ We are also pleased to announce that Tchoukball Association of Singapore (TBAS) 
 | 2018 Inter Schools Tchoukball Championships: C Boys 3rd |
 | 2018 Inter Schools Tchoukball Championships: C Girls 2nd |
 
-#### Students’ voices
-**Tan Shou Jie Matthias 3PA** <br>
-_During the first month of me being in charge of the CCA, I was nervous thinking whether I could handle my duties as the president of the CCA, but all the thoughts just went away after a few months as I knew that I had all my Secondary 3 friends helping me to think whenever I had no ideas for the games during the Zoom sessions. Being the president of tchoukball has taught me many things. I have learnt that whenever you face a problem that you do not know how to solve, you can always ask your friend to help. Another thing that tchoukball has helped me with is my confidence. Previously, I would not even dare to speak in front of a crowd as I did not have the courage. Tchoukball has helped me build my courage and let me speak confidently in front of the whole cca. I would always get nervous on the first training when I had to do quite a few things, but that feeling of nervousness slowly went away whenever I see the tchoukball members all joking around with me. I felt like they had made this experience fun for me._  
-  
-**Sri Ayu Amelia Binte Mohamed Ayub 3RS** <br>
-_Being in-charge of things that I do not know how to do at first was hard and not easy for me. It helped me to overcome my sense of fear of talking to others and try to bring the team together. Now I know that teamwork, leadership and sportsmanship are needed in the role. Being a Vice-president helped me increase my knowledge of leading the team and myself forward, while working along with the teachers makes me realise that leading is not easy as it seems to be. Leading makes me realise that you need a lot of courage to be able to talk to the whole team. Tchoukball has made me realise that you need a team to achieve, win and have fun with others by working together to strive for the same thing. Seeing the team having fun together in training makes it a memorable experience for me._  
+#### 1st ActiveSG-TBAS INTER-SCHOOL ‘B’ DIVISION TCHOUKBALL CHAMPIONSHIPS 2023
+
 
 #### Training Schedule
-- Tuesday 3:30pm - 5:30pm<br>
-- Thursday 3:30pm - 5:30pm
+- Tuesday 3:30pm - 5:30pm (Indoor Sport Hall)<br>
+- Thursday 3:30pm - 5:30pm (Parade Square / Indoor Sport Hall)
