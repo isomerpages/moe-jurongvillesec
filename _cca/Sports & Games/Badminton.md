@@ -2,7 +2,7 @@
 title: Badminton
 permalink: /cca/Sports-and-Games/badminton/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 ## Badminton
 
@@ -15,7 +15,7 @@ were cancelled. Despite facing strong opponents in the games they have played, o
 The school would like to commend the Captain, Lau Yue Hang (4DP) and Aw Jing Xuan (3DP) and Vice-Captains Kesavaram Jignesh (4EM), Wee Si Han Jayden (5PA) and Lim Yu En Aris (3EM) for their excellent role in leading the B Division teams this year. They have led their teams well and have demonstrated the school values of perseverance and discipline on and off the court.
 
 #### CCA Photo
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQW2I_3KkY3C3_bMkhIhCPznXlCad_JhUOXkYJyQWpxqnA2vzJmu5ujDy0lLZJeU8wz7L_fUhsm-gdC/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Student Leaders
 
