@@ -2,7 +2,7 @@
 title: Netball
 permalink: /cca/Sports-and-Games/netball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 ## Netball
 
@@ -14,7 +14,7 @@ Though we did not manage to compete in the zonal competition this year due to th
 Reflection is a powerful tool that the coach and teachers use to encourage the girls to learn and improve themselves. We will continually work together in our teams to achieve our goals.
 
 #### CCA Photo
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSy2QY5EYzWwwA7SFK1ngKUwXs7rx-tMu_EmdeBIUX6kSN5Qw7UM3xMwoKdNxwq5hegG18pzy2Q8etG/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Student Leaders
 
