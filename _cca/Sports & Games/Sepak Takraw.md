@@ -2,7 +2,7 @@
 title: Sepak Takraw
 permalink: /cca/Sports-and-Games/st/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 ## Sepak Takraw
 
@@ -14,7 +14,7 @@ The players display determination to enhance their skills during training sessio
 The team and teachers are appreciative to the school leaders for their strong support and guidance for the boys. The team would also like to thank Coach Said for his invaluable contributions in motivating the boys to achieve success in their endeavours.
 
 #### CCA Photo
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0632-4ZYDnagksUDSfOIsc97IzRGCM25kCvkdVRgu-JEM9_Bm4SItkmKNoRc1V8qYOR-pGMXxyOQM/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Student Leaders
 
