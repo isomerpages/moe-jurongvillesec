@@ -13,7 +13,7 @@ The 86th Boys’ Brigade (BB) is committed to nurturing our Boys to serve and le
 Due to the Covid-19 situation, we have scaled down our face-to-face sessions and shifted leadership development/life-skills lessons online. However, we remain committed to the objective that our Boys eventually grow to be men with obedience, reverence, self-respect and discipline.
 
 #### CCA Photo
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWrxWX9S0B9g26qOJjw_yiDQgQjxvszIPFRHtBpEMfciPUhUpII6XGK6MermOYgD8xHYyj222RHWil/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Student Leaders
 
