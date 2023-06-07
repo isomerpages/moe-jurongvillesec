@@ -2,7 +2,7 @@
 title: Chinese Orchestra
 permalink: /cca/Performing-and-Visual-Arts/co/
 description: ""
-third_nav_title: Performing &amp; Visual Arts
+third_nav_title: Performing & Visual Arts
 ---
 ## Chinese Orchestra
 
@@ -20,7 +20,7 @@ Preparing for SYF is a long and arduous journey but we are steadily pushing thro
 CO will always be there for us, through and through. With new members joining us, we are confident of many more fun memories to come. So join us, pronto!
 
 #### CCA Photos
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnZKf9Tqqr-Xi21liN21db5xta_YCcD-zrhDhACsHZLAAL-pVvU3Td7wkWSNp8xyNIKjyzNCOxXytf/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <br>
 
 
