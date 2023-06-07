@@ -2,7 +2,7 @@
 title: Drumatix Batucada
 permalink: /cca/Performing-and-Visual-Arts/db/
 description: ""
-third_nav_title: Performing &amp; Visual Arts
+third_nav_title: Performing & Visual Arts
 ---
 ## Drumatix Batucada
 
@@ -16,7 +16,7 @@ During their e-CCA sessions, members from Sec 1 to 3 produced a virtual video fo
 In spite of the challenges brought on by COVID, the energy and passion of Drumatix Batucada has never wavered. Our students and teachers all look forward to the future with enthusiasm!
 
 #### CCA Photo and Video
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZ6CfjKiQC3Y9rFnSaY95iG1ssLk7uo8TrYxnFkR4AjFdpnllBPUY1mFwFFY9fmndpFOB5RyJNxhaq/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <br>
 <br>
 
