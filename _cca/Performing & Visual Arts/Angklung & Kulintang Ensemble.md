@@ -1,8 +1,8 @@
 ---
-title: Angklung &amp; Kulintang Ensemble
+title: Angklung & Kulintang Ensemble
 permalink: /cca/Performing-and-Visual-Arts/ake/
 description: ""
-third_nav_title: Performing &amp; Visual Arts
+third_nav_title: Performing & Visual Arts
 ---
 ## Angklung &amp; Kulintang Ensemble
 
@@ -16,7 +16,7 @@ Covid-19 presents unprecedented challenges in the way we learn and carry out our
 Through these challenging times, the Ensemble is confident that the students’ perseverance and their adaptability to change will make them emerge stronger and united as a team.
 
 #### CCA Photo
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLyfimMYddo4ysPjePtK0k3ER2sChehtLLZjLBJI7newl3rA6UZYwis7noKISMCB9RB4dQI0Q_BeH9/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Student Leaders
 
