@@ -2,7 +2,7 @@
 title: Concert Band
 permalink: /cca/Performing-and-Visual-Arts/cb/
 description: ""
-third_nav_title: Performing &amp; Visual Arts
+third_nav_title: Performing & Visual Arts
 ---
 ## Concert Band
 
@@ -14,7 +14,7 @@ Unafraid of new challenges and constraints, our band members, instructors and te
 A highlight event of the year 2021 was the band’s participation in Singapore Youth Festival (SYF). Exuding both confidence and pride, our band members impressed the audience with their stellar performance at the SYF Arts Presentation held in April 2021. Their concerted effort, dedication and determination enabled them to put up a splendid performance that won the hearts and praises of the adjudication and teachers.
 
 #### CCA Photo &amp; Video
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfU2YAHE5ov46_TRLIufQ92l_CgsQd-zTBaE3b-3F-tn0_KnYOy3vZjm4Qb3ays280yXPtw2AvSpnA/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <br>
 
 
