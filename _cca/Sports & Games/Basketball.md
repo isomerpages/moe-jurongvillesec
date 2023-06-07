@@ -2,7 +2,7 @@
 title: Basketball
 permalink: /cca/Sports-and-Games/bball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 ## Basketball
 
@@ -14,8 +14,7 @@ In Jurongville , we inculcate our basketball players in Jurongville to have the 
 Our teams have continued to train on their own and adapt to the new training formats such as e-CCA training through video-conferencing and small group training sessions throughout the latter half of the year because of COVID-19.
 
 #### CCA Photo
-
-<br>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2dNfXKNloPTLou1cqiBCvn6v1ljG_fyO7XXBlQx1KOwqy5JKd8by5XbCXYQhSgUg_Lstxobwdx7tw/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 #### Student Leaders
