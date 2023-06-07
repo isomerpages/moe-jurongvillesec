@@ -2,16 +2,17 @@
 title: Tchoukball
 permalink: /cca/Sports-and-Games/tchoukball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 ## Tchoukball
 
 #### About
-Tchoukball has become a popular choice among the secondary schools and we are pleased to offer it in Jurongville. It is a sport that requires players to be persistent and resilient. In our yearly pursuit to be one of the top teams in the Nationals, our players also embody the school’s PRIDE values.  
-  
-Due to the unprecedented situation of Covid-19, e-CCA was conducted to engage players amidst the pandemic. While e-CCA cannot fully replicate the same learning experiences and outcomes of physical CCA training sessions, teachers and coaches worked closely to curate lesson plans and instructional resources to maximise students’ learning. Teachers hosted the synchronous CCA sessions via Google Meet and facilitated the sessions together with the coaches and leaders in the CCA. Synchronous sessions were conducted once a week and the focus was on developing togetherness, so an array of activities such as online charades and fitness training were conducted.  
-  
-We hope our players can grow holistically and be the PRIDE of Jurongville. Join us and let us walk the secondary school journey with you!
+Tchoukball has become a popular choice among the secondary schools, and we are pleased to offer it in Jurongville. It is a sport that requires players to be persistent and resilient. In our yearly pursuit to be one of the top teams in the Nationals, our players also embody the school’s PRIDE values and displayed good sportsmanship.
+
+Our training programme is specially designed to help shape our players to grow holistically and be the PRIDE of Jurongville. Join us and let us walk the secondary school journey with you!
+
+We are also pleased to announce that Tchoukball Association of Singapore (TBAS) is now officially part of National Sports Association (NSA) under SportsSG, as of 28 March 2023. 
+
 
 #### CCA Photo
 
@@ -20,10 +21,14 @@ We hope our players can grow holistically and be the PRIDE of Jurongville. Join 
 
 | Name | Appointment | Class |
 |:---:|---|---|
-| Sarah Qistina Binte Mohamad Fauzi | President (2020 - 2021) | 4PE |
-| Mythili D/O Parathidasan | Vice-President (2020 - 2021) | 4IN |
-| Tan Shou Jie Matthias | President (2021 - present) | 3PA |
-| Sri Ayu Amelia Binte Mohamed Ayub | Vice-President (2021 - present) | 3RS |
+| HE AN RUI ANDRE | President (2023 - 2024) | 3RP |
+| ARYSTHA MARSHA BINTE MOHAMMAD ASHRIN SHAH | Vice-President (2023 - 2024) | 3DP |
+| MOHAMMAD RAZIIN BIN MOHAMMAD IDHAM | Logistics EX-CO (2023 - 2024) | 3RP |
+| ANDRE MIKHAIL | Logistics EX-CO (2023 - 2024) | 3PA |
+| UNIS LIM ZIE ANN | SEC 1 EX-CO (2023 - 2024) | 3EM |
+| ISAAC CHO SEONG HYEOK | SEC 1 EX-CO (2023 - 2024) | 3EM |
+| CLAIRE WONG | SEC 1 EX-CO (2023 - 2024) | 3PA |
+| MUHAMMAD AMIR DANIAL BIN ISKANDAR ZULKARNAEN | SEC 1 EX-CO (2023 - 2024) | 3RP |
 
 #### Key Achievements
 
