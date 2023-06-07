@@ -14,7 +14,7 @@ Due to the Covid-19 situation, we have reduced number of face-to-face sessions a
 JVS NPCC attained Silver for the Unit Overall Proficiency Award. This reflects the unwavering dedication of our Teacher Officers and Cadet Leader Volunteers for being instrumental in developing our cadets into responsible young adults.
 
 #### CCA Photo
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeYDjIFI0jYbHMa8ewvoc3wVr3D7Ws1wqBrdBp7nKZ0dv32GALh9xdrY2tn54K5iCI6zH-5jWYzsBM/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Student Leaders
 
