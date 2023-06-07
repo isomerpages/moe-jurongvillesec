@@ -2,7 +2,7 @@
 title: English Drama Club
 permalink: /cca/Performing-and-Visual-Arts/edc/
 description: ""
-third_nav_title: Performing &amp; Visual Arts
+third_nav_title: Performing & Visual Arts
 ---
 ## English Drama Club
 
@@ -14,7 +14,7 @@ This year our members participated in the Singapore Youth Festival (SYF) Arts Pr
 This year, our students have continued to adapt to the ever-changing climate that is the theatre scene in the midst of a pandemic. They have proven their mettle, displaying strength of mind, character and spirit in the face of constant changes. We will continue to encourage, educate and inspire our members as they progress through this journey of theatrical discovery. As their confidence as performers and crew increases, we hope this same confidence will serve them well, even long after they have graduated from Jurongville Secondary School!
 
 #### CCA Photo and Video
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZbtK3bXVUnsjpRihJ3uwF5rWgfRe1Cr60B4UyVNR4bBKW3cR-OD5ie3tIEa3zmVsdVkAoSeUM1Ctu/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <br>
 
 
