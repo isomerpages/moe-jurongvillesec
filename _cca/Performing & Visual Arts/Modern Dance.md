@@ -2,7 +2,7 @@
 title: Modern Dance
 permalink: /cca/Performing-and-Visual-Arts/md/
 description: ""
-third_nav_title: Performing &amp; Visual Arts
+third_nav_title: Performing & Visual Arts
 ---
 ## Modern Dance
 
@@ -15,7 +15,7 @@ We are constantly on the lookout for collaboration with like-minded partners. On
 The Modern Dance CCA remains determined to bring the joy and beauty of dance to everyone no matter the circumstance, and our members are eagerly looking forward to performing more in the future!
 
 #### CCA Photo
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaBUM4cBAXwOdKVUpUDp21ez8NiSReVdnRpENO12qCWDpY-DwvfzCCI7OTGwRf98fFWOryIQvT7xtP/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Student Leaders
 

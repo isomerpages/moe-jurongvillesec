@@ -11,7 +11,7 @@ The InfoComm Club CCA aims to excite students about Information Communication an
 The club also aims to cultivate leadership capabilities and forge strong friendships and a sense of camaraderie among members. The executive committee members are tasked to lead, plan training programmes and organise activities for the other members, ranging from weekly school assemblies, team-bonding sessions to farewell ceremony.
 
 #### CCA Photo
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0-kERLIr74LJ_AoWRJCo8PXA5TLK72xZQSUzJHIKczMDJAGl_ZVhNrWZJi9Oaz9_QT9uzavIyxznz/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <br>
 
 

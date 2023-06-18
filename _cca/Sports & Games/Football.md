@@ -2,7 +2,7 @@
 title: Football
 permalink: /cca/Sports-and-Games/football/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 ## Football
 
@@ -15,7 +15,7 @@ As a testament of the strength of the football team, the school has gone on to c
 In 2020, the team was steadfast in continuing our training through our e-CCA programme so that students remain fit and ready student athletes.
 
 #### CCA Photo
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7QGVE0vSWxftSmWUVIVE5oSHLukxSZROOFAf7FYs6d3v73CQBDKU_XnLvKnpmtV6rG52aMybVmN97/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Student Leaders
 
