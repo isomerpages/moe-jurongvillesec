@@ -20,8 +20,9 @@ The school uniforms are also available at the school bookshop during the school 
 
 [Click here for 2023 Booklist](/parents-information/School-Services/booklist/)<br>
 Venue: School Bookshop @ Canteen<br>
-Name of Supplier: Print-Pak &amp; Marketing Pte Ltd<br>
-Tel Number:&nbsp;8756 2083<br>
-Email:&nbsp;[www.printpak.com.sg/enquiry](http://www.printpak.com.sg/enquiry){:target="_blank"}
+Name of Supplier: Shing Lee Bookstores Pte Ltd<br>
+Tel Number: 6764 3102 
+<br>
+Email:&nbsp;[jvss@shingleebookstores.com.sg](jvss@shingleebookstores.com.sg){:target="_blank"}
 
-Operating Hours: 9.00am – 12.00pm &amp; 1.00pm – 3.00pm (last customer order at 2.30pm)
+Operating Hours: 7.30am - 3.00pm
