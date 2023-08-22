@@ -4,10 +4,12 @@ permalink: /student-information/Timetable/exam-t/
 description: ""
 third_nav_title: Timetable
 ---
-
-
-
 ## Exam Timetable
+#### 2023 O-Level Prelim Examination Timetable
+|  |
+|:---:|
+| [Exam Timetable](){:target="_blank"} |
+|  |
 
 #### 2022 End-of-Year Examination Timetable
 
