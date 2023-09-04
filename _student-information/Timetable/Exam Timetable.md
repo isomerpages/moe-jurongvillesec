@@ -11,7 +11,7 @@ third_nav_title: Timetable
 | [Exam Timetable](/files/o%20level%20prelim%20timetable.pdf){:target="_blank"} |
 |  |
 
-#### 2022 End-of-Year Examination Timetable
+#### 2023 End-of-Year Examination Timetable
 
 **Secondary 1**
 
