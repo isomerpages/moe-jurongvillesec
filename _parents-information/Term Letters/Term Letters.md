@@ -20,5 +20,6 @@ third_nav_title: Term Letters
 * [Letter to Parent PG](/files/2023%20term%202%20parents%20letter_29%20may%202023.pdf){:target="_blank"}
 
 ##### Term 3
+* [Letter to Parent PG](/files/2023%20term%203%20parent%20letter.pdf){:target="_blank"}
 
 ##### Term 4
