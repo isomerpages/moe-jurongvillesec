@@ -24,7 +24,9 @@ third_nav_title: Timetable
 
 |  |
 |:---:|
-| [Exam Timetable](/files/2022%20EOY%20Timetable_Sec%20Two.pdf){:target="_blank"} |
+| [Exam Timetable Sec2 Express](/files/EXAM/eoy%20timetable_2023_2exp_v2.pdf){:target="_blank"} |
+| [Exam Timetable Sec2 Normal Academic](/files/EXAM/eoy%20timetable_2023_2na_v2.pdf){:target="_blank"} |
+| [Exam Timetable Sec2 Normal Technical](/files/EXAM/eoy%20timetable_2023_2nt_v2.pdf){:target="_blank"} |
 |  |
 
 **Secondary 3**
