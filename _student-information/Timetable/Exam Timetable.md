@@ -17,7 +17,7 @@ third_nav_title: Timetable
 
 |  |
 |:---:|
-| [Exam Timetable](/files/2022%20EOY%20Timetable_Sec%20One.pdf){:target="_blank"} |
+| [Exam Timetable](/files/EXAM/eoy%20timetable_2023_sec%201_v2.pdf){:target="_blank"} |
 |  |
 
 **Secondary 2**
