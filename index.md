@@ -12,4 +12,11 @@ sections:
         - title: announcements
           description: End of Term 1 Letter
           url: /parents-information/Term-Letters/tl/
+  - infopic:
+      title: Info Booklet
+      subtitle: 2023 Info Booklet
+      id: infopic
+      button: Click here
+      url: https://www.jurongvillesec.moe.edu.sg/news/brochure/
+      image: /images/infobooklet_2023-p01.jpg
 ---
