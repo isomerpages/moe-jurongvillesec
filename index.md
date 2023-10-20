@@ -17,6 +17,6 @@ sections:
       subtitle: 2023 Info Booklet
       id: infopic
       button: Click here
-      url: https://www.jurongvillesec.moe.edu.sg/news/brochure/
+      url: https://www.jurongvillesec.moe.edu.sg/news/booklet/
       image: /images/infobooklet_2023-p01.jpg
 ---
