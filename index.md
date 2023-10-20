@@ -13,7 +13,7 @@ sections:
           description: End of Term 1 Letter
           url: /parents-information/Term-Letters/tl/
   - infopic:
-      title: Info Booklet
+      title: 2023 Info Booklet
       subtitle: 2023 Info Booklet
       id: infopic
       button: Click here
