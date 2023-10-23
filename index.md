@@ -19,4 +19,5 @@ sections:
       button: Click here
       url: https://www.jurongvillesec.moe.edu.sg/news/booklet/
       image: /images/infobooklet_2023-p01.jpg
+      alt: InfoBooklet2023
 ---
