@@ -30,7 +30,10 @@ description: ""
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operation Manager</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ganapate_adakalam@schools.gov.sg" target="">Mr Ganapate Adakalam</a></p></td>
     </tr>
-    <tr>
+     <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operation Manager</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:riduan_rahmat@schools.gov.sg" target="">Mr Riduan Bin Rahmat</a></p></td>
+    </tr>   <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operation Manager</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:Tang_siew_hoong@schools.gov.sg" target="">Mr Tang Siew Hoong</a></p></td>
     </tr>
