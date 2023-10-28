@@ -1,0 +1,20 @@
+---
+title: Counselling and Other Support
+permalink: /student-information/counselling-support/
+description: ""
+---
+
+
+## Counselling and Other Support
+#### Student Support and Development
+As students encounter different experiences and challenges during their secondary school journey, there may be occasions when additional support and guidance are needed. These are offered by Jurongville Secondary’s team of School Counsellors, Education and Career Guidance Counsellor, Student Welfare Officer, Student Health Advisor and Learning and Behavioural Support Officer. Team members work with different stakeholders — parents, teachers, school leaders, government and other agencies, and of course each other — with the aim of providing a strong network of support for students.  
+
+**School Counsellors** provide individual or group counselling to students requiring support for emotional, behavioural as well as mental health related issues. Such referrals may be initiated by teachers and school personnel, parents/family members, or the students themselves. If necessary, referrals are made to external agencies such as REACH for more targeted and/or specialist intervention with the parent’s/guardian’s consent. School Counsellors also organise programmes for groups of students focusing on areas such as social and emotional learning as well as the acquisition of essential life skills.
+
+**The Student Welfare Officer** provides social support for students who face difficulties in attending school due to various risk factors and challenging circumstances. Through student centric casework support and consultation to the students and their families, the Student Welfare Officer aims to address barriers to learning and strengthen the safety net for these students. These may include conducting outreach to the students, making home visits to their families, making referrals to government and community agencies to enhance their access to community resources and services as well as coordinating efforts with school personnel to facilitate the student’s success in school.
+
+**The Education and Career Guidance (ECG) Counsellor** helps students in schools explore their interests and strengths, and guides them in making informed decisions about their education and career pathways. These are done through conducting individual counselling and group guidance sessions, workshops and relevant ECG activities. The Education and Career Guidance Counsellor also works with parents and teachers to provide career guidance resources, as well as the government, community and industry partners to monitor industry developments and design relevant ECG programmes for students and teachers.
+
+**The Student Health Advisor** provides advice and guidance to students with health related issues, and where necessary, refer them to specialists for further support. Timely detection and management of behaviours which may lead to health-related issues, such as smoking, as well encouraging students to adopt healthy lifestyle habits are also focused on. Raising student awareness of physical well-being and personal health is done through individual or group consultations, as well as outreach efforts via close collaboration with the Physical Education Department to conduct workshops and programmes.
+
+**The Learning and Behavioural Officer** provides critical support to students with special educational needs, such as Dyslexia, Autism Spectrum Disorders, ADHD and physical impairments. Interventions are carried out through individual and/or group guidance sessions. Students will be taught and equipped with strategies in areas such as anger and anxiety management, examination and organizational skills, social and communication skills, problem solving and self-management skills. With support from parents, these interventions will allow students to be more confident in achieving personal and academic goals.
