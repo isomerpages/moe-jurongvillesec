@@ -3,7 +3,7 @@ title: PREPARING FOR THE FUTURE
 permalink: /our-experience/open-house-2023/prepfuture/
 description: ""
 third_nav_title: Open House 2023
-variant: tiptap
+variant: markdown
 ---
 ## PREPARING FOR THE FUTURE
 
@@ -13,6 +13,6 @@ variant: tiptap
 
 <img src="/images/CCP.jpg" style="width:85%">
 
-<p><a href="/our-experience/Open-House-2022/2022/">
+<p><a href="/our-experience/open-Hhouse-2023/2023/">
 <img style="width:25%" align="center" src="/images/back.jpg">
 </a></p>
