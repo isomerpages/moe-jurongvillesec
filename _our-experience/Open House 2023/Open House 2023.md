@@ -18,7 +18,7 @@ variant: markdown
 *   School Tour
 
 Video 1: Watch this video for an introduction to Jurongville and a virtual tour of the school
-<iframe src="https://drive.google.com/file/d/1COQt0PIDThrPNMg7hnOCBCCAUNELCnnP/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe allow="autoplay" height="480" width="640" src="https://drive.google.com/file/d/1COQt0PIDThrPNMg7hnOCBCCAUNELCnnP/preview"></iframe>
 
 
 #### Open House 2023
