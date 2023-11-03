@@ -23,20 +23,20 @@ Video 1: Watch this video for an introduction to Jurongville and a virtual tour 
 
 #### Open House 2023
 
-<p><a href="/our-experience/Open-House-2023/prepfuture/">
+<p><a href="/our-experience/open-house-2023/prepfuture/">
 <img style="width:45%" align="left" src="/images/Key-Programmes.png">
 </a></p>
 
-<p><a href="/our-experience/Open-House-2023/passion/">
+<p><a href="/our-experience/open-house-2023/passion/">
 <img style="width:45%" align="right" src="/images/CCA.png">
 </a></p>
 
 <br clear="left">
 
-<p><a href="/our-experience/Open-House-2023/knowledgenskills/">
+<p><a href="/our-experience/open-house-2023/knowledgenskills/">
 <img style="width:45%" align="left" src="/images/Our-Curriculum.png">
 </a></p>
 
-<p><a href="/our-experience/Open-House-2023/leading/">
+<p><a href="/our-experience/open-house-2023/leading/">
 <img style="width:45%" align="right" src="/images/LeadingServingOthers.png">
 </a></p>
