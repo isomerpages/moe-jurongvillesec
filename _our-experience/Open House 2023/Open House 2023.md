@@ -17,7 +17,7 @@ variant: markdown
 *   Batucada, Chinese Orchestra, Angklung, Band and Dance Performance
 *   School Tour
 
-[Video 1: Watch this video for an introduction to Jurongville and a virtual tour of the school](https://drive.google.com/file/d/1COQt0PIDThrPNMg7hnOCBCCAUNELCnnP/preview)
+[Video 1: Watch this video for an introduction to Jurongville and a virtual tour of the school](https://drive.google.com/file/d/1COQt0PIDThrPNMg7hnOCBCCAUNELCnnP/preview){:target="_blank"}
 
 
 #### Open House 2023
