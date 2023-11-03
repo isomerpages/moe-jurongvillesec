@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Open House 2023
 variant: markdown
 ---
-## Open House 2022
+## Open House 2023
 
 <img src="/images/openhouse2023.jpg" style="width:85%">
 
