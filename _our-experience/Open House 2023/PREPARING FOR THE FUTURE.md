@@ -13,6 +13,6 @@ variant: markdown
 
 <img src="/images/CCP.jpg" style="width:85%">
 
-<p><a href="/our-experience/open-Hhouse-2023/2023/">
+<p><a href="/our-experience/open-house-2023/2023/">
 <img style="width:25%" align="center" src="/images/back.jpg">
 </a></p>
