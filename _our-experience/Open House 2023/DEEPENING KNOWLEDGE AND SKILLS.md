@@ -1,8 +1,9 @@
 ---
 title: DEEPENING KNOWLEDGE AND SKILLS
-permalink: /our-experience/Open-House-2022/knowledgenskills/
+permalink: /our-experience/open-house-2023/knowledgenskills/
 description: ""
-third_nav_title: Open House 2022
+third_nav_title: Open House 2023
+variant: markdown
 ---
 ## DEEPENING KNOWLEDGE AND SKILLS
 
@@ -14,6 +15,6 @@ third_nav_title: Open House 2022
 
 <img src="/images/DKS-HU.jpg" style="width:85%">
 
-<p><a href="/our-experience/Open-House-2022/2022/">
-<img style="width:25%" align=center src="/images/back.jpg">
+<p><a href="/our-experience/open-house-2023/2023/">
+<img style="width:25%" align="center" src="/images/back.jpg">
 </a></p>
