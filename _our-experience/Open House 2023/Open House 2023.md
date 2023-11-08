@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Open House 2023
 
-<img src="/images/openhouse2023.jpg" style="width:85%">
+<img src="/images/2023_open%20house%20banner.jpg" style="width:85%">
 
 #### Key Highlights for Open House:
 
