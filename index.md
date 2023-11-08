@@ -18,7 +18,7 @@ sections:
       id: infopic
       button: Click Here
       url: /our-experience/open-house-2023/2023/
-      image: /images/openhouse2023.jpg
+      image: /images/2023_open house banner.jpg
       alt: OpenHouse2023
   - infopic:
       title: 2023 Info Booklet
