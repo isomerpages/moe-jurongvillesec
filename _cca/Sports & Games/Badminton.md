@@ -55,4 +55,4 @@ _Although I joined the team only in Sec 3, it was still very fulfilling. I have 
 
 #### Training Schedule
 - Monday 3:30pm - 5:30pm<br>
-- Friday 2:30pm - 4:30pm
+- Friday 2:30pm - 5:30pm
