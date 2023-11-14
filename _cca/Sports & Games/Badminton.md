@@ -47,15 +47,12 @@ The school would like to commend the Captains and Vice-Captains for their excell
 | 2019 Participated in the West Zone Badminton Competitions |
 
 #### Students' voices
-**Captain, B Division boys, Lau Yue Hang (4DP)** <br>
-_Being in the Badminton team for the past four years had taught me to be disciplined, resilient and to persevere in whatever difficulties that I face. I hope the team will continue to train and work well together. All the best to the team in their future endeavours!_  
+**Rayn Irfan Lum Jun Heng (4 Discipline), B Division Boys’ team Captain** <br>
+_Throughout my years in Badminton, I have learnt many important core values. With the guidance of my coaches and teachers, I learnt to be more disciplined in training and resilient when faced with challenges. To my juniors, achieving success will not be easy, but as long as you put in the hard work, you will definitely see the results!_  
   
-**Captain, B Division girls, Aw Jing Xuan (3 DP)** <br>
-_It has been a fulfilling 3 years in the Badminton team. I have learnt many new skills from my coach and team. This year our team had participated in a few of the West Zone competitions This experience has helped me grow into a better badminton player. I had also made a lot of friends in the team. I hope that our team can continue to work together and strive to achieve better results._  
-  
-**Vice-Captain, B Division boys, Kesavaram Jignesh (4EM)** <br>
-_In the past four years, I have not only learnt leadership skills but also skills which better enable me to perform better as a school team badminton player. I have made a lot of friends in the team and I will definitely treasure them in my memories. My team had participated in a few games in the West Zone competition. We gave all of our best during our matches and we had performed well. I hope that the team will continue to do their best and work together as one to achieve greater heights._  
+**Faith Ng (4 Passion), B Division Girls’ team Captain** <br>
+_Although I joined the team only in Sec 3, it was still very fulfilling. I have learnt never to give up until the last point because there is always a chance you can come back from a game that looks unwinnable. I have also learnt how to take the initiative and help my team during training and competitions. To my juniors, I am super proud of every single one of you and I hope you will never give up during difficult times._  
 
 #### Training Schedule
-- Tuesday 3:30pm - 5:30pm<br>
-- Friday 3:30pm - 5:30pm
+- Monday 3:30pm - 5:30pm<br>
+- Friday 2:30pm - 4:30pm
