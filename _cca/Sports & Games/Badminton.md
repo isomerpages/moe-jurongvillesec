@@ -16,7 +16,7 @@ The school would like to commend the Captains and Vice-Captains for their excell
 
 
 #### CCA Photo
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQW2I_3KkY3C3_bMkhIhCPznXlCad_JhUOXkYJyQWpxqnA2vzJmu5ujDy0lLZJeU8wz7L_fUhsm-gdC/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQW2I_3KkY3C3_bMkhIhCPznXlCad_JhUOXkYJyQWpxqnA2vzJmu5ujDy0lLZJeU8wz7L_fUhsm-gdC/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 #### Teachers-in-charge:
 1. Mrs Chan Lay Yean
