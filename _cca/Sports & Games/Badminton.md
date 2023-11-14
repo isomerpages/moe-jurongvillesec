@@ -3,34 +3,45 @@ title: Badminton
 permalink: /cca/Sports-and-Games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ## Badminton
 
 #### About
-The JVS Badminton training programme for the school team and recreational players aims to inculcate in our players the school’s PRIDE values, and to develop their passion, sportsmanship and excellence in the sport. While the school team attended rigorous weekly training sessions to prepare for competitions, the recreational players hone their badminton skills through guidance from the school team players.  
-  
-Our B Division boys and girls took part in a few games in the West Zone Badminton Competitions at the beginning of the year. Unfortunately, due to the pandemic situation, the remaining games were  
-were cancelled. Despite facing strong opponents in the games they have played, our players fought hard and had performed relatively well. The experience that they have will be invaluable for them to improve their skills and to train hard for the competitions  
-  
-The school would like to commend the Captain, Lau Yue Hang (4DP) and Aw Jing Xuan (3DP) and Vice-Captains Kesavaram Jignesh (4EM), Wee Si Han Jayden (5PA) and Lim Yu En Aris (3EM) for their excellent role in leading the B Division teams this year. They have led their teams well and have demonstrated the school values of perseverance and discipline on and off the court.
+The JVS Badminton training programme aims to inculcate in our players the school’s PRIDE values, and to develop their passion, sportsmanship and excellence in the sport.
+
+Our B and C Division boys and girls took part in the West Zone Badminton Competitions this year and we are pleased that our B Division girls were qualified to participate in the 2nd round of NSG. The experience that they have will be invaluable for them to improve their skills and to train hard for future competitions.
+
+The school would like to commend the Captains and Vice-Captains for their excellent role in leading the B and C Division teams this year. 
+
 
 #### CCA Photo
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQW2I_3KkY3C3_bMkhIhCPznXlCad_JhUOXkYJyQWpxqnA2vzJmu5ujDy0lLZJeU8wz7L_fUhsm-gdC/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-#### Student Leaders
+#### Teachers-in-charge:
+1. Mrs Chan Lay Yean
+2. Mr Koh Kuan Chien
+3. Mr Chua Khuang Lim 
 
+#### Student Leaders
 | Name | Appointment | Class |
 |:---:|---|---|
-| Lau Yue Hang | Captain, B-Division Boys | 4DP |
-| Aw Jing Xuan | Captain, B-Division Girls | 3DP |
-| Kesavaram Jignesh | Vice Captain, B-Division Boys | 4EM |
-| Wee Si Han Jayden | Vice Captain, B-Division Boys | 5PA |
-| Lim Yu En Aris | Vice Captain, B-Division Girls | 3EM |
+| Rayn Irfan Lum Jun Heng | Captain, B-Division Boys | 4DP |
+| Faith Ng Jing Xuan | Captain, B-Division Girls | 4PA |
+| Balathirumurugan Moniesh | Captain, C-Division Boys | 2RS |
+| Elyana Noor Shazwina Binti Muhammad Aidil | Captain, C-Division Girls | 2EM |
+| Low Qi En Alvis | Vice Captain, B-Division Boys | 4DP |
+| Lim Zi Ting | Vice Captain, B-Division Girls | 4DP |
+| Lim Ren Wei Caelan | Vice Captain, C-Division Boys | 2RP |
+| Gladys Yeo Wan Yun | Vice Captain, C-Division Girls | 2EM |
 
 #### Key Achievements
 
 | JVS |
 |:---:|
+| 2023 - Participation in West Zone B and C Division (Boys and Girls) |
+| 2023 -B Division girls participated in the 2nd round of NSG |
+| 2022- Participation in West Zone B and C Division (Boys and Girls) |
 | 2021 Participation in West Zone B Division boys and girls Badminton Competitions Jan 2021 |
 | 2020 Participation in West Zone B and C Division boys and C Division girls Badminton Competitions Jan 2020 |
 | 2019 Participated in the West Zone Badminton Competitions |
