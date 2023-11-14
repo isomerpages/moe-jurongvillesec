@@ -39,9 +39,9 @@ The school would like to commend the Captains and Vice-Captains for their excell
 
 | JVS |
 |:---:|
-| 2023 - Participation in West Zone B and C Division (Boys and Girls) |
-| 2023 -B Division girls participated in the 2nd round of NSG |
-| 2022- Participation in West Zone B and C Division (Boys and Girls) |
+| 2023 Participation in West Zone B and C Division (Boys and Girls) |
+| 2023 B Division girls participated in the 2nd round of NSG |
+| 2022 Participation in West Zone B and C Division (Boys and Girls) |
 | 2021 Participation in West Zone B Division boys and girls Badminton Competitions Jan 2021 |
 | 2020 Participation in West Zone B and C Division boys and C Division girls Badminton Competitions Jan 2020 |
 | 2019 Participated in the West Zone Badminton Competitions |
