@@ -10,7 +10,7 @@ variant: markdown
 <img src="/images/2023_open%20house%20banner.jpg" style="width:85%">
 
 #### Key Highlights for Open House:
-
+*   Date: 25 November 2023 (Saturday)
 *   Time: 8:30 a.m. to 12:00 p.m.
 *   Principal’s Address at 9:00 a.m. and 10.30 a.m.
 *   Key Programmes and CCA Booths
