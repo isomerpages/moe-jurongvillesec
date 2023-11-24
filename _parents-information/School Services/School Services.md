@@ -3,6 +3,7 @@ title: School Services
 permalink: /parents-information/School-Services/ss/
 description: ""
 third_nav_title: School Services
+variant: markdown
 ---
 ## School Services
 
@@ -14,7 +15,7 @@ Tel Number: 6479 6811<br>
 Online Store: [www.khuniform.com](http://www.khuniform.com/)<br>
 Sales Enquiry: [sales@khuniform.com](mailto:sales@khuniform.com)
 
-The school uniforms are also available at the school bookshop during the school terms.
+The school uniforms are also available outside the School General Office on Wednesdays of even weeks during school term times, from 9 am to 12 noon.
 
 #### School Textbooks &amp; Stationery
 
