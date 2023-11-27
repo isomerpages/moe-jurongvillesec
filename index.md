@@ -21,6 +21,15 @@ sections:
       image: /images/2023_open house banner.jpg
       alt: OpenHouse2023
   - infopic:
+      title: Calling all HKSS & JVSS Alumni!
+      id: infopic
+      description: |
+        Join our Alumni community now:
+      button: Click here
+      url: http://go.gov.sg/jvs-alumni-2023
+      image: /images/JVSAlumni.jpg
+      alt: JVSAlumni
+  - infopic:
       title: 2023 Info Booklet
       subtitle: 2023 Info Booklet
       id: infopic
