@@ -16,8 +16,8 @@ Students posted to Jurongville Secondary School will not need to report physical
 
 <h4><a href="/our-experience/sec1registration/usefullink/">Useful links</a></h4>
 
-	
-### Principal's Address
+<h4><a href="/our-experience/sec1registration/principaladdress/">Principal's Address</a></h4>
+
 Dear Students and Parents/Guardians,
 
 On behalf of all of us here at Jurongville Secondary School, welcome!  
