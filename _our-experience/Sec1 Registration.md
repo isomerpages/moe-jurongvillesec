@@ -73,7 +73,7 @@ Students posted to Jurongville Secondary School will need to register through th
 	</tbody></table>
 
 <a id="s1rmatters"></a>
-<img width="80" src="/images/S1RMatters.jpg">
+<img style="width:250px" src="/images/S1RMatters.jpg">
 <table width="100%">
 	<tbody><tr>
 		<th></th>
@@ -107,15 +107,15 @@ Students posted to Jurongville Secondary School will need to register through th
 #### To download the Parents Gateway mobile app:
 <table width="60%">
 	<tbody><tr>
-		<th>iOS</th>
-		<th>Android</th>
+		<th><center>iOS</center></th>
+		<th><center>Android</center></th>
 	</tr>
 	<tr>
-		<td><img src="/images/PGAppiOSQRCode.jpg)"></td>
-		<td><img src="/images/PGAppAndroidQRCode.jpg"></td>
+		<td><img style="width:150px" src="/images/PGAppiOSQRCode.jpg"></td>
+		<td><img style="width:150px" src="/images/PGAppAndroidQRCode.jpg"></td>
 	</tr>
 	</tbody></table>
 	
 Parents/Guardians who were on board Parents Gateway when your child/ward was in primary school need not download the Parents Gateway mobile app again when your child/ward progresses on to secondary school. 
 <br>
-<center><a href="">Back to top</a></center>
+<center><a href="/our-experience/sec1registration/">Back to top</a></center>
