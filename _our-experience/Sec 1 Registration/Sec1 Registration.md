@@ -14,9 +14,9 @@ Students posted to Jurongville Secondary School will not need to report physical
 
 **All registration will be done under the ‘S1 Registration Matters’ segment below. Please complete this online registration by <u>22 December 2023, 12 noon.</u>**
 
-<h4><a href="/our-experience/sec1registration/usefullink/">Useful links</a></h4>
+<h5><a href="/our-experience/sec1registration/usefullink/">Useful links</a></h5>
 
-<h4><a href="/our-experience/sec1registration/principaladdress/">Principal's Address</a></h4>
+<h5><a href="/our-experience/sec1registration/principaladdress/">Principal's Address</a></h5>
 
 Dear Students and Parents/Guardians,
 
