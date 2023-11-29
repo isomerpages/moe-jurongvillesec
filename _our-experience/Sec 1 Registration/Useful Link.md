@@ -31,3 +31,5 @@ You may download the financial assistance application form from the school websi
 		<td><a href="https://www.moe.gov.sg/secondary/s1-posting/results">https://www.moe.gov.sg/secondary/s1-posting/results</a></td>
 	</tr>
 	</tbody></table>
+
+<h5><center><a href="/our-experience/sec1registration/">back to Sec 1 Registration Website</a></center></h5>
