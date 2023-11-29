@@ -71,3 +71,6 @@ Students posted to Jurongville Secondary School will need to register through th
 		<td><img src="/images/GSInformation.jpg"></td>
 	</tr>
 	</tbody></table>
+
+<a id="s1rmatters"></a>
+<img width="200" src="/images/S1RMatters.jpg">
