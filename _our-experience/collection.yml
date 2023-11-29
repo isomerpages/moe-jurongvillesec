@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Useful link.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature and Music.md
       - Curriculum/Mathematics and Computer Application.md
@@ -28,3 +27,4 @@ collections:
       - Open House 2023/DISCOVERING OUR PASSIONS.md
       - Open House 2023/LEADING AND SERVING OTHERS.md
       - Sec1 Registration.md
+      - Useful link.md
