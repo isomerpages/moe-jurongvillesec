@@ -35,7 +35,7 @@ As part of the National Digital Literacy Programme (NDLP), all Sec 1 students wi
 
 To reduce out-of-pocket cash from students, Singapore citizen students can use their Edusave account to pay for the PLD. For students on financial assistance, further subsidies will be provided. The purchase of the device will be done through the school. More information will be provided for students and parents in January 2023. 
 
-Please <a href="https://www.jurongvillesec.moe.edu.sg/student-information/jvs-pld-initiative-2023/jvspld/">click</a> here for more Information
+<a href="https://www.jurongvillesec.moe.edu.sg/student-information/jvs-pld-initiative-2023/jvspld/">Please click here for more Information</a>
 
 <h5><b><u>Secondary-Level Student Smart Card (SSC)</u></b></h5>
 
@@ -48,6 +48,6 @@ In the next 4 or 5 years, the school will be communicating with parents on admin
 Parents Gateway is a mobile application (or “app”) that connects parents and schools on key administrative matters, providing schools with the platform to send updates on programmes and activities to parents. At the same time, Parents Gateway allows parents to perform administrative functions such as providing consent for their children to participate in school activities and declaring travel plans. It aims to aggregate parent-teacher communications securely on a centralised digital platform. Access to Parents Gateway is granted to parents, legal guardians and authorised caregivers of students studying in MOE schools in Singapore. Parents will need to use SingPass to access Parents Gateway.
 
 <h5><b><u>Financial Assistance Schemes</u></b></h5>
-Please click on the link for information regarding the financial assistance schemes available for our students.
+<a href="/parents-information/financialassistancescheme/fas/">Please click on the link for information regarding the financial assistance schemes available for our students.</a>
 
 <h5><center><a href="/our-experience/sec1registration/">Back to Sec 1 Registration Website</a></center></h5>
