@@ -49,3 +49,5 @@ Parents Gateway is a mobile application (or “app”) that connects parents and
 
 <h5><b><u>Financial Assistance Schemes</u></b></h5>
 Please click on the link for information regarding the financial assistance schemes available for our students.
+
+<h5><center><a href="/our-experience/sec1registration/">Back to Sec 1 Registration Website</a></center></h5>
