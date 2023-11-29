@@ -18,10 +18,10 @@ Students who bring their handphones to school will need to put them in their per
 Students can only use their handphones after the end of all lessons in the afternoon. 
 
 <h5><b><u>Counselling and Other Support for Students</u></b></h5>
-Please click the link above for information regarding counselling and support for students,
+Please click the link for information regarding counselling and support for students,
 
 <h5><b><u>School Safety</u></b></h5>
-Please click the link above on the school’s safety policy.
+<a href="/about-us/sch-safety/">Please click the link for the school’s safety policy.</a>
 
 <h5><b><u>ICT Matters for Students And Parents</u></b></h5>
 
