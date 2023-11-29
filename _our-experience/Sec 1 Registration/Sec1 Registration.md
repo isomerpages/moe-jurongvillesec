@@ -24,7 +24,7 @@ Students posted to Jurongville Secondary School will need to register through th
 <table width="100%">
 	<tbody><tr>
 		<td><a href="/our-experience/sec1registration/s1rmatters/"><img src="/images/S1RMatters.jpg"></a></td>
-		<td><img src="/images/S1OMatters.jpg"></td>
+		<td><a href="/our-experience/sec1registration/s1omatters/"><img src="/images/S1OMatters.jpg"></a></td>
 		<td><img src="/images/GSInformation.jpg"></td>
 	</tr>
 	</tbody></table>
