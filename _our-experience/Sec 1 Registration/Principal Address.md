@@ -25,3 +25,5 @@ Till then, I’d like to take the opportunity to wish you and your loved ones a 
 Sincerely,
 Philibert Leow
 Principal
+
+<h5><center><a href="/our-experience/sec1registration/">back to Sec 1 Registration Website</a></center></h5>
