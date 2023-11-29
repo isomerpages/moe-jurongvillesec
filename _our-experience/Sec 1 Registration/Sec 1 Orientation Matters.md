@@ -74,4 +74,4 @@ The following is an overview of the CCA 1st week Orientation Experience.
 	</tr>
 	</tbody></table>
 
-<h5><center><a href="">Back to Sec 1 Registration Website</a></center></h5>
+<h5><center><a href="/our-experience/sec1registration/">Back to Sec 1 Registration Website</a></center></h5>
