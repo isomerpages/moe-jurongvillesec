@@ -2,9 +2,8 @@
 title: Counselling and Other Support
 permalink: /student-information/counselling-support/
 description: ""
+variant: tiptap
 ---
-
-
 ## Counselling and Other Support
 #### Student Support and Development
 As students encounter different experiences and challenges during their secondary school journey, there may be occasions when additional support and guidance are needed. These are offered by Jurongville Secondary’s team of School Counsellors, Education and Career Guidance Counsellor, Student Welfare Officer, Student Health Advisor and Learning and Behavioural Support Officer. Team members work with different stakeholders — parents, teachers, school leaders, government and other agencies, and of course each other — with the aim of providing a strong network of support for students.  

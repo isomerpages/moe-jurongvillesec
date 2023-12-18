@@ -24,16 +24,36 @@ The school would like to commend the Captains and Vice-Captains for their excell
 3. Mr Chua Khuang Lim 
 
 #### Student Leaders
-| Name | Appointment | Class |
-|:---:|---|---|
-| Rayn Irfan Lum Jun Heng | Captain, B-Division Boys | 4DP |
-| Faith Ng Jing Xuan | Captain, B-Division Girls | 4PA |
-| Balathirumurugan Moniesh | Captain, C-Division Boys | 2RS |
-| Elyana Noor Shazwina Binti Muhammad Aidil | Captain, C-Division Girls | 2EM |
-| Low Qi En Alvis | Vice Captain, B-Division Boys | 4DP |
-| Lim Zi Ting | Vice Captain, B-Division Girls | 4DP |
-| Lim Ren Wei Caelan | Vice Captain, C-Division Boys | 2RP |
-| Gladys Yeo Wan Yun | Vice Captain, C-Division Girls | 2EM |
+<table style="width:100%; border=1px;">
+	<tbody><tr>
+		<th>Name</th>
+		<th>Appointment</th>
+		<th>Class</th>
+	</tr>
+	<tr>
+		<td>Rayn Irfan Lum Jun Heng</td><td>Captain, B-Division Boys</td><td>4DP</td>
+	</tr>
+	  <tr><td>Faith Ng Jing Xuan</td><td>Captain, B-Division Girls</td><td>4PA</td>
+	</tr>
+	<tr>
+	  <td>Balathirumurugan Moniesh</td><td>Captain, C-Division Boys</td><td>2RS</td>
+  </tr>
+	<tr>
+	  <td>Elyana Noor Shazwina Binti Muhammad Aidil</td><td>Captain, C-Division Girls</td><td>2EM</td>
+	</tr>
+	<tr>
+	<td>Low Qi En Alvis</td><td>Vice Captain, B-Division Boys</td><td>4DP</td>
+	</tr>
+	<tr>
+	<td>Lim Zi Ting</td><td>Vice Captain, B-Division Girls</td><td>4DP</td>
+	</tr>
+	<tr>
+	<td>Lim Ren Wei Caelan</td><td>Vice Captain, C-Division Boys</td><td>2RP</td>
+	</tr>
+	<tr>
+	<td>Gladys Yeo Wan Yun</td><td>Vice Captain, C-Division Girls</td><td>2EM</td>
+	</tr>
+</tbody></table>
 
 #### Key Achievements
 

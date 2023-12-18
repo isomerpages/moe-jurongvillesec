@@ -2,6 +2,7 @@
 title: School Safety
 permalink: /about-us/sch-safety/
 description: ""
+variant: tiptap
 ---
 ## School Safety
 

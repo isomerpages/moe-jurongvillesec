@@ -1,7 +1,8 @@
 ---
 title: Financial Assistance Scheme
-permalink: /parents-information/Financial-Assistance-Scheme/fas/
+permalink: /parents-information/financialassistancescheme/fas/
 description: ""
+variant: tiptap
 ---
 ## Financial Assistance Scheme
 
