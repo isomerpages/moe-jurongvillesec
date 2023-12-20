@@ -25,7 +25,7 @@ Progressing on to secondary school is a major transition for all students. To he
 		<td>7:30 am</td>
 		<td>2:10 pm</td>
 		<td rowspan="2">Orientation</td>
-		<td rowspan="2">JVS PE Attire (White PE T-shirt and PE Shorts</td>
+		<td rowspan="2"><b>JVS PE Attire (White PE T-shirt and PE Shorts</b></td>
 		<td rowspan="2">Hall</td>
 	</tr>
 	<tr>
@@ -34,7 +34,7 @@ Progressing on to secondary school is a major transition for all students. To he
 		<td>12:30 pm</td>
 	</tr>
 	<tr>
-		<td colspan="5">Students will have their lunch from 12:30 pm to 1:50 pm<br>(There will be attendance taking at 1:50 pm when the students report back to their classrooms.)</td>
+		<td colspan="5"><center>Students will have their lunch from <b>12:30 pm to 1:50 pm</b><br>(There will be attendance taking at 1:50 pm when the students report back to their classrooms.)</center></td>
 	</tr>
 	<tr>
 		<td>1:50 pm</td>
@@ -44,7 +44,7 @@ Progressing on to secondary school is a major transition for all students. To he
 		<td>Classroom</td>
 	</tr>
 	<tr>
-		<td colspan="5">*Dinner is provided for all students before the Campfire.</td>
+		<td colspan="5"><center>*Dinner is provided for all students before the Campfire.</center></td>
 	</tr>
 	</tbody></table>
 	

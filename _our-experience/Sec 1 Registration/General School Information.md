@@ -10,7 +10,7 @@ third_nav_title: Sec 1 Registration
 Discipline is one of our school values. Our school believes that when our students learn to be more disciplined, they think and act in more responsible and considerate ways. To influence the students’ character development through discipline, we believe in Discipline with Care. 
 
 More information can be found at the link below: 
-<a href="/our-experience/student-discipline/">https://jurongvillesec.moe.edu.sg/our-experience/student-discipline</a>
+<a href="/our-experience/student-discipline/"><br>https://jurongvillesec.moe.edu.sg/our-experience/student-discipline</a>
 
 <h5><b><u>Handphone Policy</u></b></h5>
 Students who bring their handphones to school will need to put them in their personal lockers in the classrooms. The handphones cannot be used during curriculum time and recess breaks. This will allow students to focus on their learning and their interaction with their peers and teachers. 

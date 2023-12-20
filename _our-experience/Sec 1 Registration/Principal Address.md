@@ -22,8 +22,8 @@ My Colleagues and I look forward to seeing you and sharing more about our school
 
 Till then, I’d like to take the opportunity to wish you and your loved ones a very merry Christmas and a fantastic start to the new year.  
 
-Sincerely,
-Philibert Leow
+Sincerely,<br>
+Philibert Leow<br>
 Principal
 
 <h5><center><a href="/our-experience/sec1registration/">back to Sec 1 Registration Website</a></center></h5>

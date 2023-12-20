@@ -14,7 +14,7 @@ third_nav_title: Sec 1 Registration
 	</tr>
 	<tr>
 		<td><b>Registration Form</b></td>
-		<td>Please register and complete the online form via this <a href="https://go.gov.sg/sec1jvs2024">link</a> by <b>12 noon on 22 December 2023.</b></td>
+		<td>Please register and complete the online form via this <a href="https://go.gov.sg/sec1jvs2024">link</a> by <b>12 noon on 20 December 2023.</b></td>
 		<td>Click <a href="https://go.gov.sg/sec1jvs2024">link.</a></td>
 	</tr>
 	<tr>
@@ -25,13 +25,13 @@ third_nav_title: Sec 1 Registration
 	<tr>
 		<td><b>Students eligible for Subject-Based Banding (SBB) subjects</b></td>
 		<td>Students who are eligible for SBB subjects will be informed through Parents Gateway (PG).<br>
-			Acceptance of the offer will be done via Parents Gateway (PG) by <b>12 noon on 27 December 2023.</b></td>
+			Acceptance of the offer will be done via Parents Gateway (PG) by <b>12 noon on 26 December 2023.</b></td>
 		<td>Parents Gateway App<br><img width="10" src="/images/PGApp.jpg"></td>
 	</tr>
 	<tr>
 		<td><b>Higher Mother Tongue (HMT)/Third Language Eligibility Outcome</b></td>
 		<td>Students who are eligible for HMT/Third Language will be informed through Parents Gateway (PG).<br>
-			Acceptance of the offer will be done via Parents Gateway (PG) by <b>12 noon on 27 December 2023.</b></td>
+			Acceptance of the offer will be done via Parents Gateway (PG) by <b>12 noon on 26 December 2023.</b></td>
 		<td>Parents Gateway App<br><img width="10" src="/images/PGApp.jpg"></td>
 	</tr>
 	</tbody></table>
