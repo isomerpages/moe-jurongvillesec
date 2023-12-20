@@ -20,7 +20,7 @@ Students posted to Jurongville Secondary School will not need to report physical
 <h5><a href="/our-experience/sec1registration/principaladdress/">Principal's Address</a></h5>
 
 ### Welcome to Jurongville Secondary School!
-Students posted to Jurongville Secondary School will need to register through the online link sent on Parents Gateway (PG) by 22 December 2023, 12 noon. 
+Students posted to Jurongville Secondary School will need to register through the online link sent on Parents Gateway (PG) by 20 December 2023, 12 noon. 
 
 <table width="100%">
 	<tbody><tr>
