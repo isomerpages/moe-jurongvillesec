@@ -14,8 +14,8 @@ third_nav_title: Sec 1 Registration
 	<tr>
 		<td><b>Information on Appeal for Transfer</b></td>
 		<td><a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a><br><br>
-						Students posted to Jurongville who wish to <b><u>appeal to join another school on medical grounds,</u></b> please approach Jurongville’s General Office with the relevant supporting documents (such as medical assessment reports) before <b>12 pm on 22 December 2023.</b><br><br>
-			<b>For appeal request to join Jurongville,</b> you may submit your application via this link <a href="https://go.gov.sg/2024appealjvs">https://go.gov.sg/2024appealjvs</a>. You are still required to complete the registration with your posted school on 21 December 2023.</td>
+						Students posted to Jurongville who wish to <b><u>appeal to join another school on medical grounds,</u></b> please approach Jurongville’s General Office with the relevant supporting documents (such as medical assessment reports) before <b>12 pm on 21 December 2023.</b><br><br>
+			<b>For appeal request to join Jurongville,</b> you may submit your application via this link <a href="https://go.gov.sg/2024appealjvs">https://go.gov.sg/2024appealjvs</a>. You are still required to complete the registration with your posted school on 20 December 2023.</td>
 	</tr>
 	<tr>
 		<td><b>MOE Financial Assistance Scheme (FAS)</b></td>
