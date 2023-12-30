@@ -1,8 +1,9 @@
 ---
 title: Student Guides and support
-permalink: /student-information/NDLP/guide-support/
+permalink: /student-information/jvspld/guide-support/
 description: ""
-third_nav_title: JVS PLD Initiative 2023
+third_nav_title: JVS PLD Initiative 2024
+variant: tiptap
 ---
 ## Student Guides and support
 
