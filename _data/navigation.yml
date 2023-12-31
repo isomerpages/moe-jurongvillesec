@@ -28,10 +28,10 @@ links:
   - title: Our Achievements
     collection: our-achievements
   - title: Student Information
-    url: /student-information/class-mentors-2023/
+    url: /student-information/class-mentors/
     sublinks:
-      - title: Class Mentors 2023
-        url: /student-information/class-mentors-2023/
+      - title: Class Mentors
+        url: /student-information/class-mentors/
       - title: Counselling and Other Support
         url: /student-information/counselling-support/
       - title: Sec 3 Subject Combination
@@ -42,8 +42,8 @@ links:
         url: /student-information/sex-ed/
       - title: National Exam Schedule
         url: /student-information/nes/
-      - title: JVS PLD Initiative 2023
-        url: /student-information/jvs-pld-initiative-2023/jvspld
+      - title: JVS PLD Initiative
+        url: /student-information/jvspld/jvspld
       - title: Welcoming our New Sec JV-nites
         url: /student-information/welcome
   - title: Parents Information
