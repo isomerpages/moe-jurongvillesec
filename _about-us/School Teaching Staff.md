@@ -2,6 +2,7 @@
 title: School Teaching Staff
 permalink: /about-us/school-teaching-staff/
 description: ""
+variant: markdown
 ---
 ## School Teaching Staff
 
@@ -18,7 +19,8 @@ description: ""
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ng_boon_teck@schools.gov.sg" target="">Mr Ng Boon Teck<br>(ST / POA)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lim_lay_yean@schools.gov.sg" target="">Mrs Chan-Lim Lay Yean</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chang_way_lie@schools.gov.sg" target="">Mrs Quek-Chang Way Lie</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:muhammad_arshad_jumah@schools.gov.sg" target="">Mr Muhammad Arshad Bin Jumah</a></p></td></tr>
+        <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chew_khee_lim@schools.gov.sg" target="">Mr Chew Khee Lim Alex</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:muhammad_arshad_jumah@schools.gov.sg" target="">Mr Muhammad Arshad Bin Jumah</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:norita_samsi@schools.gov.sg" target="">Miss Norita Bte Samsi</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:liew_shan_shan@schools.gov.sg" target="">Ms Rachel Liew Shan Shan</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tan_kuay_yong@schools.gov.sg" target="">Miss Tan Kuay Yong</a></p></td></tr>
