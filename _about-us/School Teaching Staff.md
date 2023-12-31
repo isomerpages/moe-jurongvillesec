@@ -37,15 +37,12 @@ variant: markdown
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ada_yap@schools.gov.sg" target="">Ms Ada Yap<br>(SH / English &amp; Literature</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:simon_lydia_shamani@schools.gov.sg" target="">Miss Simon Lydia Shamani<br>(SSD)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" target="">Miss Pauline Fong Liew Yueh<br>(LH / Dis)</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lai_hanqiang_joachim@schools.gov.sg" target="">Mr Lai Hanqiang Joachim<br>(ST / EL)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:suhaily_supahan@schools.gov.sg" target="">Ms Suhaily Bte Supahan (ST / EL)</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ee_ai_lin@schools.gov.sg" target="">Ms Ee Ai Lin</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" target="">Mr Lloyd Lin Jianbang</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:clarissa_ng_pey_wen@schools.gov.sg" target="">Mdm Ng Pey Wen Clarissa</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:pamela_anne_de_souza@schools.gov.sg" target="">Mdm Pamela Anne De Souza</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tan_chai-lian_kathleen@schools.gov.sg" target="">Miss Tan Chai-Lian Kathleen</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tay_khai_sheng_kenneth@schools.gov.sg" target="">Mr Tay Khai Sheng Kenneth</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:teo_jiaen@schools.gov.sg" target="">Miss Teo Jiaen Victoria</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wee_ming_hann@schools.gov.sg" target="">Mr Wee Ming Hann</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:poon_jing_theng@schools.gov.sg" target="">Ms Poon Jing Theng Phyllis (FAJT)</a></p></td></tr>
       </tbody>
@@ -53,7 +50,7 @@ variant: markdown
    <table width="100%" border="1">
       <tbody>
       <tr><th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Humanities Department</p></th></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:mohammad_nasser_jaafar@schools.gov.sg" target="">Mr Mohammad Nasser Bin Jaafar<br>(HOD / Hum)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:mohammad_nasser_jaafar@schools.gov.sg" target="">Mr Mohammad Nasser Bin Jaafar<br>(HOD / CCE Covering Hum)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:john_teo_wei_ren@schools.gov.sg" target="">Mr John Teo Wei Ren<br>(SH / Geo)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chin_ying_ying@schools.gov.sg" target="">Mrs Poh-Chin Ying Ying Yvonne<br>(ST / Geo)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:aditi_das_deshmukh@schools.gov.sg" target="">Mdm Aditi Das Deshmukh</a></p></td></tr>
