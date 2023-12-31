@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /about-us/sch-management-committee/
 description: ""
+variant: markdown
 ---
 ## School Management Committee
 <table width="100%" border="1">
@@ -26,10 +27,6 @@ description: ""
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Administration Manager</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:soo_shio_leng@schools.gov.sg" target="">Ms Soo Shio Leng</a></p></td>
     </tr>
-    <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operation Manager</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ganapate_adakalam@schools.gov.sg" target="">Mr Ganapate Adakalam</a></p></td>
-    </tr>
      <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operation Manager</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:riduan_rahmat@schools.gov.sg" target="">Mr Riduan Bin Rahmat</a></p></td>
@@ -50,8 +47,8 @@ description: ""
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:kay_khine_win@schools.gov.sg" target="">Ms Kay Khine Win</a></p></td>
     </tr>
     <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/Character and Citizenship Education</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:yeo_choon_huat@schools.gov.sg" target="">Mr Philip Yeo</a></p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/Character and Citizenship Education<br>(Covering Humanities)</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:Mohammad_Nasser_Jaafar@schools.gov.sg" target="">Mr Mohammad Nasser Bin Jaafar</a></p></td>
     </tr>
     <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/Craft &amp; Technology</p></td>
@@ -62,11 +59,7 @@ description: ""
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:Nur_Rashidah_RAMLI@schools.gov.sg" target="">Ms Nur Rashidah Ramli</a></p></td>
     </tr>
     <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/Humanities</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:Mohammad_Nasser_Jaafar@schools.gov.sg" target="">Mr Mohammad Nasser Bin Jaafar</a></p></td>
-    </tr>
-    <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/ICT (covering PE)</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/ICT </p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:irantaffy_said_b_rohani@schools.gov.sg" target="">Mr Irantaffy Said Rohani</a></p></td>
     </tr>
     <tr>
@@ -77,9 +70,13 @@ description: ""
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/Mathematics</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ang_ghim_chee@schools.gov.sg" target="">Mr Ang Ghim Chee</a></p></td>
     </tr>
-    <tr>
+		<tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/MotherTongue</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ong_yi_min@schools.gov.sg" target="">Ms Ong Yi Min</a></p></td>
+    </tr>
+    <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/PE &amp; CCA</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:goh_yong_hang@schools.gov.sg" target="">Mr Goh Yong Hang</a></p></td>
     </tr>
     <tr>
 			<td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/Science</p></td>
@@ -92,6 +89,10 @@ description: ""
     <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Assistant Year Head</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" target="">Mdm Sharifah Farrahdillah</a></p></td>
+    </tr>
+		  <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Character and Citizenship Education </p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sri_masayu_moktar@schools.gov.sg" target="">Mdm Sri Masayu Moktar</a></p></td>
     </tr>
     <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Chemistry</p></td>
@@ -106,7 +107,7 @@ description: ""
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chia_miang_heong@schools.gov.sg" target="">Mr Desmond Chia</a></p></td>
     </tr>
     <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">LH/Discipline</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">LH/Discipline (Covering Music)</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" target="">Ms Pauline Fong Liew Yueh</a></p></td>
     </tr>
     <tr>
