@@ -3,37 +3,6 @@ title: Exam Timetable
 permalink: /student-information/Timetable/exam-t/
 description: ""
 third_nav_title: Timetable
+variant: tiptap
 ---
-## Exam Timetable
-#### 2023 O-Level Prelim Examination Timetable
-|  |
-|:---:|
-| [Exam Timetable](/files/o%20level%20prelim%20timetable.pdf){:target="_blank"} |
-|  |
-
-#### 2023 End-of-Year Examination Timetable
-
-**Secondary 1**
-
-|  |
-|:---:|
-| [Exam Timetable](/files/EXAM/eoy%20timetable_2023_sec%201_v2.pdf){:target="_blank"} |
-|  |
-
-**Secondary 2**
-
-|  |
-|:---:|
-| [Exam Timetable Sec2 Express](/files/EXAM/eoy%20timetable_2023_2exp_v2.pdf){:target="_blank"} |
-| [Exam Timetable Sec2 Normal Academic](/files/EXAM/eoy%20timetable_2023_2na_v2.pdf){:target="_blank"} |
-| [Exam Timetable Sec2 Normal Technical](/files/EXAM/eoy%20timetable_2023_2nt_v2.pdf){:target="_blank"} |
-|  |
-
-**Secondary 3**
-
-|  |
-|:---:|
-| [Exam Timetable Sec3 Express](/files/EXAM/eoy%20timetable_2023_3exp_v2.pdf){:target="_blank"} |
-| [Exam Timetable Sec3 Normal Academic](/files/EXAM/eoy%20timetable_2023_3na_v2.pdf){:target="_blank"} |
-| [Exam Timetable Sec3 Normal Technical](/files/EXAM/eoy%20timetable_2023_3nt_v2.pdf){:target="_blank"} |
-|  |
+<h2>Exam Timetable</h2><h4>2023 O-Level Prelim Examination Timetable</h4><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/o%20level%20prelim%20timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4>2023 End-of-Year Examination Timetable</h4><p><strong>Secondary 1</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/EXAM/eoy%20timetable_2023_sec%201_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p><strong>Secondary 2</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/EXAM/eoy%20timetable_2023_2exp_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable Sec2 Express</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/EXAM/eoy%20timetable_2023_2na_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable Sec2 Normal Academic</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/EXAM/eoy%20timetable_2023_2nt_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable Sec2 Normal Technical</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p><strong>Secondary 3</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/EXAM/eoy%20timetable_2023_3exp_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable Sec3 Express</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/EXAM/eoy%20timetable_2023_3na_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable Sec3 Normal Academic</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/EXAM/eoy%20timetable_2023_3nt_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable Sec3 Normal Technical</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>

@@ -35,7 +35,7 @@ As part of the National Digital Literacy Programme (NDLP), all Sec 1 students wi
 
 To reduce out-of-pocket cash from students, Singapore citizen students can use their Edusave account to pay for the PLD. For students on financial assistance, further subsidies will be provided. The purchase of the device will be done through the school. More information will be provided for students and parents in January 2023. 
 
-<a href="https://www.jurongvillesec.moe.edu.sg/student-information/jvs-pld-initiative-2023/jvspld/">Please click here for more Information</a>
+<a href="https://www.jurongvillesec.moe.edu.sg/student-information/jvspld/jvspld/">Please click here for more Information</a>
 
 <h5><b><u>Secondary-Level Student Smart Card (SSC)</u></b></h5>
 
