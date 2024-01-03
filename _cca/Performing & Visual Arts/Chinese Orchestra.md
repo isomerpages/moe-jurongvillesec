@@ -3,21 +3,18 @@ title: Chinese Orchestra
 permalink: /cca/Performing-and-Visual-Arts/co/
 description: ""
 third_nav_title: Performing & Visual Arts
+variant: markdown
 ---
 ## Chinese Orchestra
 
 #### About
-Chinese Orchestra is not just a CCA. It's a second home where all our memories belong. 
+Chinese Orchestra is not just a CCA, but a family that leaves a lasting impression on you for life. In CO, we partake in a palette of experiences and emotions. We will go through many ups and downs, and when we do fall, we work hard to come back up higher than ever. 
 
-Good or bad, happy or sad, all of our experiences and memories are shared between CO members, bonding us together like one family.
+During our annual recruitment, we managed to attract many Sec 1s to join us. A promising start ushered in a positive highlight, when we bagged the Certificate of Distinction at Singapore Youth Festival after an arduous period of rigorous practices. Coming off the high of our stunning achievement, it was apt for us to give back to the community by performing both in school and in public at the National Day Carnival &amp; PassionArts Festival.
 
-With the resumption of normal practice, we put up a variety of performances, including e-concerts for Chinese New Year and Speech Day. We even performed Josh Groban’s hit single “You Raise Me Up” on Teachers’ Day to a live (and enchanted) audience.
+As the year moved on, it was time for us to bid farewell to our Sec 4s, and for the Sec 3s to take over leadership of the orchestra. Tearful goodbyes aside, this farewell is a poignant reminder for us to take solace in the fond memories and tight bonds we have once shared.
 
-Furthermore, with the relaxation of safety measures, CO has increased in fun and excitement! This year’s Games Day was a blast, while we embarked on a learning journey to Chui Huay Lim Club for a live concert. We expressed our appreciation for our instructors with e-cards and gifts, and bid farewell to the Sec 4s with a farewell party.
-
-Preparing for SYF is a long and arduous journey but we are steadily pushing through to achieve a Distinction. With unrelenting effort and unwavering conviction, we will do our best to make CO proud.
-
-CO will always be there for us, through and through. With new members joining us, we are confident of many more fun memories to come. So join us, pronto!
+So what are you waiting for? Chinese Orchestra is the place for you. Join us and embark on the journey of your lifetime!
 
 #### CCA Photos
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnZKf9Tqqr-Xi21liN21db5xta_YCcD-zrhDhACsHZLAAL-pVvU3Td7wkWSNp8xyNIKjyzNCOxXytf/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -28,35 +25,37 @@ CO will always be there for us, through and through. With new members joining us
 
 | Name | Appointment | Class |
 |:---:|---|---|
-| Kwek Sin En | President | 4IN |
-| Carrie Tan Si Yan | Vice-President | 4EM |
-| Lim Hui Zhen | Secretary | 4IN |
-| Wong Jing Qian | Welfare | 4IN |
-| Ke Xiang Ning | Librarian | 4RP |
-| Koh Xiu Ling | Section Leader (Huqin) | 4RP |
-| Lew Shi Hui | Section Leader (Plucking) | 4RP |
-| Tan Jessy | Section Leader (Woodwind) | 4DP |
-| R Harshini Shree Nair | Section Leader (Cello/Bass) | 4PE |
+| Odelia Jane Seet Ming Yue | President | 4RP |
+| Chloe Tang Wei Xin | Vice-President | 4DP |
+| Pua Xuan Kai | Vice-President | 4RP |
+| Aw Yong Chen Mei Shermaine | Secretary | 4DP |
+| Felicia Han Huai Xuan | Welfare | 4EM |
+| Lim Jiang Wei, Darrian | Librarian | 4DP |
+| Ngu Yi Jeanne | Section Leader (Cello/Bass) | 4IN |
+| Chow Wing Han Kelly | Section Leader (Huqin) | 4IN |
+| Tang Yan Fei | Section Leader (Percussion &amp; Woodwind) | 4IN |
+| Sarah Tan Joe Ja | Section Leader (Plucked Strings) | 4EM |
 
 #### Key Achievements and Activities
 
 | JVS |
 |:---:|
+| 2023 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
 | 2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
 | 2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction |
 | 2017&nbsp;Singapore Youth Festival Arts Presentation: Certificate of Accomplishment |
 
 #### Students’ voices
-**Kwek Sin En (4IN), President**<br>
-_“Having played the same instrument for 7 years, I have learnt that just because you have spent a long time in the trade, it does not make you perfect and there is always room for improvement. As long as we devote the effort and time to practise, we can easily better ourselves and exceed expectations. Chinese Orchestra is more than just learning to play instruments. I have created many bonds and memories with my CCA mates that I will cherish forever. I hope my juniors will enjoy their time in the orchestra, forming long-lasting friendships with their CCA mates.”_
+**Odelia Jane Seet Ming Yue (4RP), President**<br>
+_“Although I have already learned how to play a couple of instruments before joining Chinese Orchestra, my learning didn’t stagnate here. I have moved on to learn what it meant to lead a big group of people of similar age. Throughout my entire journey of being in CO, I have made friends and built relationships from Sec 1 to Sec 4. To be placed in charge is a privilege, especially since I'm only 15. As my juniors rise up to lead, I hope that they can learn to cherish every moment in CO.”_
 
-**Carrie Tan Si Yan (4EM), Vice-President**<br>
-_“In my years of being in Chinese Orchestra, I have learnt how to play an instrument. In addition, I have developed better organizational skills and teamwork, while mustered the courage to step out of my comfort zone. Throughout my stint here, I have forged many fond memories and built precious friendships with my CCA mates. CO has offered me a sense of comfort and belonging, with the CO room akin to my second home. To my juniors, I hope that you are able to create loving memories of CO and continue investing your best effort in your future endeavors.”_
+**Chloe Tang Wei Xin (4DP), Vice-President**<br>
+_“Throughout the years of joining Chinese Orchestra, not only have I learnt to play an instrument, I have also learnt the importance of teamwork in an orchestra. After joining CO, I realized that I became more comfortable with public speaking and I also became more confident by taking the initiative and helping others in the orchestra. I have also made many new friends and created many unforgettable bonds with others, regardless of seniority. To my juniors, continue to work together and don’t ever give up. Believe in yourselves!”_
 
-**Lim Hui Zhen (4IN), Secretary**<br>
-_“Chinese Orchestra is not merely about playing an instrument. Joining this CCA has imbued me with a myriad of new skills, such as leadership and musicianship. CO has given me the platform to live out the school core values such as perseverance and empathy, and it encourages me to become a better person. I have also forged great memories with my peers after joining this CCA, which is something that I will never regret! To my dear juniors, I hope you have enjoyed the times spent in CO with your juniors and seniors, and that you can strive for a better self and continue to excel in the CCA.”_
+**Aw Yong Chen Mei Shermaine (4DP), Secretary**<br>
+_“By joining Chinese Orchestra, not only did I learn a new instrument and advance my skills, I also learnt to persevere through challenging times such as when a performance was coming up or when there was Singapore Youth Festival. I have no regrets joining CO, as it has allowed me to create fond memories and bonded friendships with CCA mates from various levels that I will definitely cherish forever. To my dear juniors, I hope you will continue to enjoy your time in CO and remember to strive through the hard times together as one orchestra.”_
 
 #### Training Schedule
 
-- Tuesday 3:30pm - 5:30pm<br>
+- Tuesday 3:45pm - 5:30pm<br>
 - Friday 2:00pm - 4:00pm
