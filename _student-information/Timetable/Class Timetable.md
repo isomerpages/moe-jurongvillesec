@@ -49,7 +49,7 @@ variant: markdown
 <tr>
 <td><a href="/files/TT/2024%20SEM1/JVS_Sem1_S2_DP.pdf" target="_blank">2 Discipline</a>
 </td>
-<td><a href="/files/TT/2024%20SEM1/JVS_Sem1_S2EM.pdf" target="_blank">2 Empathy</a>
+<td><a href="/files/TT/2024%20SEM1/JVS_Sem1_S2_EM.pdf" target="_blank">2 Empathy</a>
 </td>
 <td><a href="/files/TT/2024%20SEM1/JVS_Sem1_S2_IN.pdf" target="_blank">2 Integrity</a>
 </td>
