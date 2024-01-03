@@ -2,8 +2,11 @@
 title: Parents Support Group
 permalink: /parents-information/psg/
 description: ""
+variant: markdown
 ---
 ## Parents Support Group
+
+![](/images/JVS_PSG.png)
 
 **The Parent Support Group (PSG) provides PSG members the opportunity to:**<br>
 1 \.  Share their perspectives and feedback on school programmes and processes<br>
