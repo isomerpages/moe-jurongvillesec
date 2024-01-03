@@ -110,7 +110,7 @@ variant: markdown
 <tr>
 <td><a href="/files/TT/2024%20SEM1/JVS_Sem1_S4_DP.pdf" target="_blank">4 Discipline</a>
 </td>
-<td><a href="/files/TT/2024%20SEM1/JVS_Sem1_S4_EMpdf" target="_blank">4 Empathy</a>
+<td><a href="/files/TT/2024%20SEM1/JVS_Sem1_S4_EM.pdf" target="_blank">4 Empathy</a>
 </td>
 <td><a href="/files/TT/2024%20SEM1/JVS_Sem1_S4_IN.pdf" target="_blank">4 Integrity</a>
 </td>
