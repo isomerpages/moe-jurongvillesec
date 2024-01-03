@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Parents Support Group
 
-![](/images/JVS_PSG.png)
+<a href="https://go.gov.sg/jvspsg"><img src="/images/JVS_PSG.png"></a>
 
 **The Parent Support Group (PSG) provides PSG members the opportunity to:**<br>
 1 \.  Share their perspectives and feedback on school programmes and processes<br>
