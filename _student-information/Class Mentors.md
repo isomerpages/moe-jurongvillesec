@@ -15,7 +15,7 @@ variant: markdown
 			</th><th rowspan="1" colspan="1"><p>Class</p></th>
 		</tr>
 		<tr>
-			<td rowspan="1" colspan="1"><p><a href="mailto:toh_puay_boon@schools.gov.sg" target="_blank">Ms <b>Toh</b> Puay Boon</a></p><p></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:toh_puay_boon@schools.gov.sg" target="_blank">Ms <b>Toh</b> Puay Boon</a></p></td>
 			<td rowspan="1" colspan="1"><p>1DP</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
 			<td rowspan="1" colspan="1"><p><a href="mailto:chew_kah_hou@schools.gov.sg" target="_blank">Mr <b>Billy Chew</b> Kah Hou</a></p></td>
