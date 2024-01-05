@@ -3,6 +3,7 @@ title: Scouts
 permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## Scouts
 
@@ -44,4 +45,4 @@ _One thing I learnt during Scouts was how to tie various kinds of knots, such as
 _One thing I learnt during my time in Scouts is the importance of responsibility. During Secondary 2 when we were still leaders-in-training, we were given a task to plan activities for training. This taught me to be a better planner, to consider objectives to be met, and planning activities to fulfil the objectives. One activity I found fun during my time in Scouts was definitely Job Week Camp! We went around "working" by offering services like cleaning and we got to have fun with our fellow Scouts. The money earned would go to our Scout Troop fund so that it could help fund our Scouting activities, such as our archery tag bonding sessions and our year-end camps._  
 
 #### Training Schedule
-- Tuesday 3:30pm – 6:00pm
+- Tuesday 3:45pm – 6:30pm
