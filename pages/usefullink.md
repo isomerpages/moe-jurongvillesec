@@ -2,6 +2,7 @@
 title: Useful Link
 permalink: /usefullink/
 description: ""
+variant: markdown
 ---
 <table width="100%">
 <tbody>
@@ -142,7 +143,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><a href="https://sites.google.com/jvs.edu.sg/jmlp/home" target="_blank">Medial Literacy Programme</a><br>
+<td><a href="https://sites.google.com/jvs.edu.sg/jmlp/home" target="_blank">Media Literacy Programme</a><br>
 </td>
 </tr>
 <tr>
