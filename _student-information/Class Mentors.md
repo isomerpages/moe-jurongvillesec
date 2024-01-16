@@ -198,7 +198,7 @@ variant: markdown
 			<td rowspan="1" colspan="1"><p><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" target="_blank">Mr <b>Lloyd Lin</b> Jianbang</a></p></td>
 			<td rowspan="1" colspan="1"><p>3IN</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
-			<td rowspan="1" colspan="1"><p><a href="sharifah_farrahdillah_s_a@schools.gov.sg" target="_blank">Mdm <b>Sharifah</b> Farrahdillah Bte S.A.A.</a></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" target="_blank">Mdm <b>Sharifah</b> Farrahdillah Bte S.A.A.</a></p></td>
 			<td rowspan="1" colspan="1"><p>4DP</p></td>
 		</tr>
 		<tr>
