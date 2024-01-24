@@ -151,7 +151,6 @@ variant: markdown
 				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:cheong_kum_seng@schools.gov.sg" target="">Mr Cheong Kum Seng (Russell)<br>(ECG Counsellor)</a></p></td></tr>
 				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ahmad_idris_ismail@schools.gov.sg" target="">Mr Ahmad Idris Bin Ismail
 <br>(SENO)</a></p></td></tr>
-				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:koh_chuan_hwee@schools.gov.sg" target="">Mr Koh Chuan Hwee Edwin<br>(SENO)</a></p></td></tr>
       </tbody>
    </table>
    </td>

@@ -2,6 +2,7 @@
 title: School Support Staff
 permalink: /about-us/school-support-staff/
 description: ""
+variant: markdown
 ---
 ## School Support Staff
 
@@ -9,7 +10,6 @@ description: ""
 <tbody>
 <tr><th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Executive &amp; Administrative Staff</p></th></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:soo_shio_leng@schools.gov.sg" target="">Ms Soo Shio Leng (Administration Manager)</a></p></td></tr>
-<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ganapate_adakalam@schools.gov.sg" target="">Mr Ganapate S/O Adakalam (Operations Manager)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tang_siew_hoong@schools.gov.sg" target="">Mr Tang Siew Hoong (Operations Manager)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:surendran_rachandran@schools.gov.sg" target="">Mr Surendran S/O Rachandran (Administration Executive)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:alen_seng_kian_kok@schools.gov.sg" target="">Mr Alen Seng Kian Kok (ICT Manager)</a></p></td></tr>
