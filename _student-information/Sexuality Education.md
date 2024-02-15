@@ -67,119 +67,87 @@ related to sexuality, which are of prime concern at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 195px; height: 165px;" height="auto" width="100%" alt="MOE Logo.jpg" src="/images/MOE%20Logo.jpg">
 </div>
-<h4>2024 SEXUALITY EDUCATION LESSONS</h4>
-<h3><strong>SECONDARY 1</strong></h3>
+<center><h4>2024 SEXUALITY EDUCATION LESSONS</h4>
+<h3><strong>SECONDARY 1</strong></h3></center>
 <table style="width:100%; border:1px solid black;">
 <tbody>
 <tr>
 <th style="border:1px solid black;">
-<p>UNIT</p>
+	<center>Unit</center>
 </th>
 <th style="border:1px solid black;">
-<p>LESSONS / DURATION</p>
+	<center>Lesson Title /<br> Duration</center>
 </th>
 <th style="border:1px solid black;">
-<p>Lesson Overview</p>
+<center>Lesson Overview</center>
 </th>
 <th style="border:1px solid black;">
-<p>LESSON OBJECTIVES
-<br>At the end of the lesson, students will be able to:</p>
+<center>Lesson Objectives<br>At the end of the lesson, students will be able to:</center>
 </th>
 <th style="border:1px solid black;">
-<p>TIME PERIOD
+<center>Time Period
 <br>(e.g. Term 1
-<br>Week 2)</p>
+<br>Week 2)</center>
 </th>
 </tr>
 <tr>
 <td style="border:1px solid black;" rowspan="3">
-<p>Respectful Relationships &amp; Safety</p>
+<center>Respectful Relationships &amp; Safety</center>
 </td>
 <td style="border:1px solid black;">
-<p>Steady or Not
+<center>Steady or Not
 <br>Lesson 1
-<br>(60 mins)</p>
+<br>(60 mins)</center>
 </td>
 <td style="border:1px solid black;">
-<p>This lesson helps students understand more about relationship building
-and the different types of love (e.g. familial, platonic, romantic). They
-will have the opportunity to better understand the considerations involved
-in making responsible decisions towards dating and romantic relationships
-and understand how to build healthy and supportive relationships, both
-online and offline.</p>
+This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.
 </td>
 <td style="border:1px solid black;">
-<p>* recognise the importance of monitoring and managing our emotional reactions,
-in helpful ways that are reflective of our values and principles
-<br>* recognise that there are different forms of love (e.g. familial, platonic,
-romantic love)
-<br>* recognise the importance and understand what builds healthy and supportive
-relationships, both online and offline
-<br>* understand what dating is, and recognise that the readiness and interest
-in dating vary among individuals</p>
+<li> recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
+	<li>recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
+<li>recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
+<li>understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
 </td>
 <td style="border:1px solid black;">
-<p>Term 3
-<br>Week 5</p>
+<center>Term 3
+<br>Week 8</center>
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-<p>Being Aware, Being Safe
+<center>Being Aware, Being Safe
 <br>Lesson2
-<br>(60 mins)</p>
+<br>(60 mins)</center>
 </td>
 <td style="border:1px solid black;">
-<p>This lesson focuses on helping students to be safe from the dangers of
-sexual grooming and on respecting one’s right to safety. Students will
-also learn about the legal provisions against sexual abuse, and the impact
-of sexual abuse on victims, including the psychological impact on the sense
-of self.
-<br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br><br>
+<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 </td>
 <td style="border:1px solid black;">
-<p>* understand that physical and psychological abuse from others, especially
-those we know and trust, can have strong negative effects on a person’s
-self-concept</p>
+*	understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept
 </td>
 <td style="border:1px solid black;">
-<p>Term 3
-<br>Week 6</p>
+<center>Term 3
+<br>Week 9</center>
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-<p>More than Meets the Eye
+<center>More than Meets the Eye
 <br>Lesson 3
-<br>(60 mins)
-<br>
-</p>
+<br>(60 mins)</center>
 </td>
 <td style="border:1px solid black;">
-<p>This lesson touches on two areas relevant to an adolescent’s curiosity
-on matters related to sexuality – masturbation and pornography. Students
-will gain awareness of the health, legal and moral issues related to viewing,
-downloading and/or distributing pornography. While students may perceive
-watching pornography as a private issue without consequences to bear, they
-will learn that it could lead to addiction and/or other risky sexual behaviours.
-<br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br><br>
+<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 </td>
 <td style="border:1px solid black;">
-<p>* understand and accept that as we work towards becoming our best self,
-there will be times when we make mistakes, and recognise the importance
-of exercising moral courage in facing up to consequences
-<br>* recognise that there are moral and legal consequences of risky sexual
-behaviours, pornography access and acting irresponsibly or maliciously
-when online (e.g. spreading of online falsehoods, flouting copyright laws,
-etc.)</p>
+*	understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>
+*	recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)
 </td>
 <td style="border:1px solid black;">
-<p>Term 3
-<br>Week 7</p>
+<center>Term 4
+<br>Week 1</center>
 </td>
 </tr>
 </tbody>
@@ -190,123 +158,87 @@ etc.)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 195px; height: 165px;" height="auto" width="100%" alt="MOE Logo.jpg" src="/images/MOE%20Logo.jpg">
 </div>
-<h3>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3>
-<p><strong>SECONDARY 2</strong>
-</p>
+<center><h4>2024 SEXUALITY EDUCATION LESSONS</h4>
+<h3><strong>SECONDARY 2</strong></h3></center>
 <table style="width:100%; border:1px solid black;">
 <tbody>
 <tr>
 <th style="border:1px solid black;">
-<p>UNIT</p>
+	<center>Unit</center>
 </th>
 <th style="border:1px solid black;">
-<p>LESSONS / DURATION</p>
+	<center>Lesson Title /<br> Duration</center>
 </th>
 <th style="border:1px solid black;">
-<p>Lesson Overview</p>
+<center>Lesson Overview</center>
 </th>
 <th style="border:1px solid black;">
-<p>LESSON OBJECTIVES
-<br>At the end of the lesson, students will be able to:</p>
+<center>Lesson Objectives<br>At the end of the lesson, students will be able to:</center>
 </th>
 <th style="border:1px solid black;">
-<p>TIME PERIOD
-<br>(e.g. Term 1 Week 2)</p>
+<center>Time Period
+<br>(e.g. Term 1
+<br>Week 2)</center>
 </th>
 </tr>
 <tr>
 <td style="border:1px solid black;" rowspan="3">
-<p>Respectful Relationships &amp; Safety</p>
+<center>Respectful Relationships &amp; Safety</center>
 </td>
 <td style="border:1px solid black;">
-<p>A Role for Everyone
+<center>A Role for Everyone
 <br>Lesson 1
-<br>(60 mins)</p>
+<br>(60 mins)</center>
 </td>
 <td style="border:1px solid black;">
-<p>This lesson focus on how the family, culture and society can influence
-one’s perception of their gender roles. Students will learn what gender
-stereotypes are (e.g. males traditionally as breadwinners and females traditionally
-as doing household chores) and how gender stereotypes are formed. Students
-will discuss how one’s understanding of gender roles should not be limited
-by gender stereotypes, for example women can be pilots, while men can be
-nurses.
-<br>
-<br>Students learn to focus on their personal strengths to pursue their interests
-and build their self-confidence.
-<br>
-<br>Students will also learn about the definitions of biological sex, gender
-identity, gender expression and sexual orientation. They will learn to
-treat everyone with respect and empathy.</p>
+This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br>
+Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. <br><br>
+Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
 </td>
 <td style="border:1px solid black;">
-<p>* know that one’s understanding of gender roles should not be limited
-by gender stereotypes
-<br>* develop an appreciation of one’s own unique qualities and characteristics
-as a male or female
-<br>* understand what sexual orientation entails</p>
+*	know that one’s understanding of gender roles should not be limited by gender stereotypes<br>
+*	develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>
+*	understand what sexual orientation entails
 </td>
 <td style="border:1px solid black;">
-<p>Term 2
-<br>Week 5</p>
+<center>Term 3
+<br>Week 8</center>
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-<p>Online Safety Challenge
+<center>Online Safety Challenge
 <br>Lesson 2A
-<br>(60 mins)</p>
+<br>(60 mins)</center>
 </td>
 <td style="border:1px solid black;">
-<p>This lesson focuses on the issue of online grooming and cyber-flashing.
-It emphasises the need for help-seeking, peer support and positive peer
-influence. The lesson encourages the safe and responsible use of social
-media, and aims to deepen students’ conviction, and extend a call to action
-to students to taking appropriate decisions to safeguard their well-being
-and safety.
-<br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. <br><br>
+<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 </td>
 <td style="border:1px solid black;">
-<p>* recognise one’s vulnerability to risky situations and the importance
-of exercising discretion to reduce risks and avoid negative consequences,
-both online and offline</p>
+*	recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline
 </td>
 <td style="border:1px solid black;">
-<p>Term 2
-<br>Week 6
-<br>
-</p>
+<center>Term 3
+<br>Week 9</center>
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-<p>Do I or Don’t I
+<center>Do I or Don’t I
 <br>Lesson 2B
-<br>(60 mins)
-<br>
-</p>
+<br>(60 mins)</center>
 </td>
 <td style="border:1px solid black;">
-<p>This lesson focuses on respect for personal boundaries; and how to be
-safe from risky sexual behaviour, teenage pregnancy and abortion. Students
-will learn the importance of respecting one another’s boundaries in relationships.
-This lesson emphasises the importance of responsible decision-making, the
-value of sexual abstinence, the need for help seeking. Students will</p>
+This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.
 </td>
 <td style="border:1px solid black;">
-<p>* recognise the importance of self-respect and respect for others in relating
-to members of the opposite gender
-<br>* recognise one’s vulnerability to risky situations and the importance
-of exercising discretion to reduce risks and avoid negative consequences,
-both offline and online</p>
+*	recognise the importance of self-respect and respect for others in relating to members of the opposite sex<br>
+*	recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online
 </td>
 <td style="border:1px solid black;">
-<p>Term 2
-<br>Week 7
-<br>
-</p>
+<center>Term 3
+<br>Week 10</center>
 </td>
 </tr>
 </tbody>
@@ -317,62 +249,46 @@ both offline and online</p>
 <div class="isomer-image-wrapper">
 <img style="width: 195px; height: 165px;" height="auto" width="100%" alt="MOE Logo.jpg" src="/images/MOE%20Logo.jpg">
 </div>
-<h3>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3>
-<p><strong>SECONDARY 3</strong>
-</p>
+<center><h4>2024 SEXUALITY EDUCATION LESSONS</h4>
+<h3><strong>SECONDARY 3</strong></h3></center>
 <table style="width:100%; border:1px solid black;">
 <tbody>
 <tr>
 <th style="border:1px solid black;">
-<p>UNIT</p>
+	<center>Unit</center>
 </th>
 <th style="border:1px solid black;">
-<p>LESSONS / DURATION</p>
+	<center>Lesson Title /<br> Duration</center>
 </th>
 <th style="border:1px solid black;">
-<p>Lesson Overview</p>
+<center>Lesson Overview</center>
 </th>
 <th style="border:1px solid black;">
-<p>LESSON OBJECTIVES
-<br>At the end of the lesson, students will be able to:
-<br>
-</p>
+<center>Lesson Objectives<br>At the end of the lesson, students will be able to:</center>
 </th>
 <th style="border:1px solid black;">
-<p>TIME PERIOD
-<br>(e.g. Term 1 Week 2)
-<br>
-</p>
+<center>Time Period
+<br>(e.g. Term 1
+<br>Week 2)</center>
 </th>
 </tr>
 <tr>
 <td style="border:1px solid black;" rowspan="3">
-<p>Respectful Relationships &amp; Safety</p>
+<center>Respectful Relationships &amp; Safety</center>
 </td>
 <td style="border:1px solid black;">
-<p>Love Yourself, Love Others
+<center>Love Yourself, Love Others
 <br>Lesson 1A
-<br>(60 mins)
-<br>
-</p>
+<br>(60 mins)</center>
 </td>
 <td style="border:1px solid black;">
-<p>This lesson focuses on dating respectfully in healthy relationships. Students
-will learn about self-esteem, their sources of influence (e.g. friends’
-perception) on self-esteem, the impact of one’s self-esteem on our mental
-well-being as well as relationships with others. Students will also learn
-how emotional reactions can affect relationships positively or negatively.
-Students will also learn that maturity and readiness are important when
-entering into a dating relationship.</p>
+This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.
 </td>
 <td style="border:1px solid black;">
-<p>* know that self-perception and identity have an impact on our self-esteem
-and how we interact with others and the choices we make, both online and
-offline.
-<br>* understand that expectations of oneself and others may differ and can
-affect one’s emotions, thoughts and behaviours.
-<br>* recognise what healthy dating relationships involve and know that readiness
-is important when entering into a dating relationship.</p>
+*	know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline<br>
+*	understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours<br>
+*	recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship
+
 </td>
 <td style="border:1px solid black;">
 <p>Term 3
