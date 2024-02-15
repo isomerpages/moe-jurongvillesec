@@ -100,7 +100,7 @@ related to sexuality, which are of prime concern at this age.</p>
 <br>(60 mins)</center>
 </td>
 <td style="border:1px solid black;">
-This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.
+<p>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</p>
 </td>
 <td style="border:1px solid black;">
 <ul><li> recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
