@@ -193,7 +193,7 @@ etc.)</p>
 <h3>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3>
 <p><strong>SECONDARY 2</strong>
 </p>
-<table>
+<table class="table-style">
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
