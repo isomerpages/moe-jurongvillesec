@@ -43,7 +43,7 @@ b.  Character and Citizenship Education (CCE)
 <center><img src="/images/MOE%20Logo.jpg" alt="MOE Logo.jpg" style="width: 195px; height: 165px;">
 <h4 style="text-align: center;">2024 SEXUALITY EDUCATION LESSONS</h4></center>
 <h3 style="text-align: center;"><b>SECONDARY 1</b></h3>
-<table width="100%" border="1">
+<table width="100%" border="2">
 <tbody>
 <tr>
 <th width="12%" align="left">UNIT</th>
