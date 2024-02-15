@@ -2,44 +2,45 @@
 title: Sexuality Education
 permalink: /student-information/sex-ed/
 description: ""
+variant: markdown
 ---
-
 ## Sexuality Education
 
 #### MOE SEXUALITY EDUCATION IN SCHOOLS
 
-1 \. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1 \. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-2 \. The goals of Sexuality Education are to:<br>
-i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;<br>
-ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and<br>
-iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.
+2 \.	The Goals of SEd are to:<br>
+(a)  Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships;<br>
+(b)	 Guide students to make wise, informed and responsible decisions on sexuality matters; <br>
+(c) 	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 
-3 \. The <b>key messages</b> of Sexuality Education are:<br>
-i.  Love and respect yourself as you love and respect others;<br>
-ii.  Build positive relationships based on love and respect (which are the foundation for strong families);<br>
-iii.  Make responsible decisions for yourself, your family and society; and<br>
-iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+3 \. The Key Messages of SEd are:<br>
+(a) 	Love and respect yourself as you love and respect others;<br>
+(b)	 Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+(c)	 Make responsible decisions for yourself, your family and society; and<br>
+(d)	 Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://go.gov.sg/moe-sexuality-education){:target="_blank"} for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-#### OVERVIEW OF JURONGVILLE SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022
+#### OVERVIEW OF JURONGVILLE SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME 2024
 
-4 \. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope){:target="_blank"} for more information on the scope of Sexuality Education in the school curriculum.
+4 \. SEd is delivered in a holistic manner through the school curriculum. The content for SEd is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. 
+You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 5 \. The subjects that incorporate topics on sexuality include:<br>
-i.  Science<br>
-ii.  Character and Citizenship Education (CCE)
+a.  Science<br>
+b.  Character and Citizenship Education (CCE)
 
-#### SEXUALITY EDUCATION LESSONS :
+#### SEd Lessons
 
-6 \. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+6 \. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15-17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction, and an understanding of the possible consequences of sexual behaviour. 
 
-7 \. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+7 \. Through the SEd lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
-#### At Jurongville Secondary School, the following Sexuality lessons will be taught in 2023:
+<h4>At Jurongville Secondary School, the following Sexuality Education lessons will be taught in <u>2024:</u></h4>
 
-<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" style="width: 195px; height: 165px;">
+<center><img src="/images/MOE%20Logo.jpg" alt="MOE Logo.jpg" style="width: 195px; height: 165px;">
 <h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b>SECONDARY 1</b></div>
 <table width="100%" border="1">
@@ -84,7 +85,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tbody>
 </table>
 <br>
-<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3>
+<center><img src="/images/MOE%20Logo.jpg" alt="MOE Logo.jpg" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3>
 <b>SECONDARY 2</b></center>
 <table width="100%" border="1">
 <tbody>
@@ -134,7 +135,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tbody>
 </table>
 <br>
-<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<center><img src="/images/MOE%20Logo.jpg" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b>SECONDARY 3</b>
 </div>
 <table width="100%" border="1">
@@ -174,7 +175,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td valign="top">
 *   know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>
 *   know that a decision to end a relationship will have consequences on oneself and others.<br>
-*   >know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>
+*   &gt;know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>
 *   know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.
 </td>
 <td valign="top">Term 3<br>Week 7<br>
@@ -195,7 +196,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tbody>
 </table>
 <br>
-<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<center><img src="/images/MOE%20Logo.jpg" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b>SECONDARY 4</b>
 </div>
 <table width="100%" border="1">
@@ -268,7 +269,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tbody>
 </table>
 <br>
-<center><img src="/images/MOE%20Logo.jpg" hspace="2" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
+<center><img src="/images/MOE%20Logo.jpg" alt="MOE Logo.jpg" class="ive_eobj_center" style="width: 195px; height: 165px;"><h3 style="text-align: center;">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3></center>
 <div style="text-align: center;"><b>SECONDARY 5</b>
 </div>
 <table width="100%" border="1">
@@ -304,11 +305,11 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 #### _eTeens_ Programme:
 
-8 \. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+8 \. _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
 
-#### At Jurongville Secondary School, the _eTeens_ programme will be implemented as follows in 2023:
+#### At Jurongville Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:
 <table>
 <tbody>
 <tr>
@@ -338,10 +339,10 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 #### INFORMATION FOR PARENTS
 
-10 \. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10 \. Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20A.pdf){:target="_blank"}. The completed form is to be submitted by 10/03/2023.
+11 \. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20A.pdf){:target="_blank"}. The completed form is to be submitted by 10/03/2023.
 
-12 \. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20B.pdf){:target="_blank"}. The completed form is to be submitted by 10/03/2023.
+12 \. Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form. This form is downloadable [here](/files/SEd%20Annex%20B.pdf){:target="_blank"}. The completed form is to be submitted by 10/03/2023.
 
-13 \. Parents can contact the school at 6563 8704 or [jurongville@moe.edu.sg](mailto:jurongville@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+13 \. Parents can contact the school at 6563 8704 or&nbsp;[jurongville@moe.edu.sg](mailto:jurongville@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
