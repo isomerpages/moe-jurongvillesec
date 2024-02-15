@@ -72,7 +72,7 @@ related to sexuality, which are of prime concern at this age.</p>
 <table border="1">
 <tbody>
 <tr>
-<th border="1">
+<th style="border:1px solid black;">
 <p>UNIT</p>
 </th>
 <th rowspan="1" colspan="1">
