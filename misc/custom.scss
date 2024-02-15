@@ -341,7 +341,8 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
-table {
+}
+.table {
       color: black;
       background-color: white;
       border-color: black;
@@ -385,4 +386,3 @@ table {
         }
       }
     }
-}
