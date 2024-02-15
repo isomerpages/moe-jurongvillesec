@@ -72,35 +72,35 @@ related to sexuality, which are of prime concern at this age.</p>
 <table style="width:100%; border:1px solid black;">
 <tbody>
 <tr>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>UNIT</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSONS / DURATION</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>Lesson Overview</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSON OBJECTIVES
 <br>At the end of the lesson, students will be able to:</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>TIME PERIOD
 <br>(e.g. Term 1
 <br>Week 2)</p>
 </th>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;" rowspan="3">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Steady or Not
 <br>Lesson 1
 <br>(60 mins)</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson helps students understand more about relationship building
 and the different types of love (e.g. familial, platonic, romantic). They
 will have the opportunity to better understand the considerations involved
@@ -108,7 +108,7 @@ in making responsible decisions towards dating and romantic relationships
 and understand how to build healthy and supportive relationships, both
 online and offline.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid black;">
 <p>* recognise the importance of monitoring and managing our emotional reactions,
 in helpful ways that are reflective of our values and principles
 <br>* recognise that there are different forms of love (e.g. familial, platonic,
@@ -118,18 +118,18 @@ relationships, both online and offline
 <br>* understand what dating is, and recognise that the readiness and interest
 in dating vary among individuals</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 3
 <br>Week 5</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Being Aware, Being Safe
 <br>Lesson2
 <br>(60 mins)</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson focuses on helping students to be safe from the dangers of
 sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
@@ -139,25 +139,25 @@ of self.
 <br>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* understand that physical and psychological abuse from others, especially
 those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 3
 <br>Week 6</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>More than Meets the Eye
 <br>Lesson 3
 <br>(60 mins)
 <br>
 </p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson touches on two areas relevant to an adolescent’s curiosity
 on matters related to sexuality – masturbation and pornography. Students
 will gain awareness of the health, legal and moral issues related to viewing,
@@ -168,7 +168,7 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 <br>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* understand and accept that as we work towards becoming our best self,
 there will be times when we make mistakes, and recognise the importance
 of exercising moral courage in facing up to consequences
@@ -177,7 +177,7 @@ behaviours, pornography access and acting irresponsibly or maliciously
 when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 3
 <br>Week 7</p>
 </td>
@@ -196,34 +196,34 @@ etc.)</p>
 <table style="width:100%; border:1px solid black;">
 <tbody>
 <tr>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>UNIT</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSONS / DURATION</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>Lesson Overview</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSON OBJECTIVES
 <br>At the end of the lesson, students will be able to:</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>TIME PERIOD
 <br>(e.g. Term 1 Week 2)</p>
 </th>
 </tr>
 <tr>
-<td class="tbl-bdr" rowspan="3">
+<td style="border:1px solid black;" rowspan="3">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>A Role for Everyone
 <br>Lesson 1
 <br>(60 mins)</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson focus on how the family, culture and society can influence
 one’s perception of their gender roles. Students will learn what gender
 stereotypes are (e.g. males traditionally as breadwinners and females traditionally
@@ -239,25 +239,25 @@ and build their self-confidence.
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* know that one’s understanding of gender roles should not be limited
 by gender stereotypes
 <br>* develop an appreciation of one’s own unique qualities and characteristics
 as a male or female
 <br>* understand what sexual orientation entails</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 2
 <br>Week 5</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Online Safety Challenge
 <br>Lesson 2A
 <br>(60 mins)</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing.
 It emphasises the need for help-seeking, peer support and positive peer
 influence. The lesson encourages the safe and responsible use of social
@@ -268,12 +268,12 @@ and safety.
 <br>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* recognise one’s vulnerability to risky situations and the importance
 of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 2
 <br>Week 6
 <br>
@@ -281,28 +281,28 @@ both online and offline</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Do I or Don’t I
 <br>Lesson 2B
 <br>(60 mins)
 <br>
 </p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson focuses on respect for personal boundaries; and how to be
 safe from risky sexual behaviour, teenage pregnancy and abortion. Students
 will learn the importance of respecting one another’s boundaries in relationships.
 This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* recognise the importance of self-respect and respect for others in relating
 to members of the opposite gender
 <br>* recognise one’s vulnerability to risky situations and the importance
 of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 2
 <br>Week 7
 <br>
@@ -323,22 +323,22 @@ both offline and online</p>
 <table style="width:100%; border:1px solid black;">
 <tbody>
 <tr>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>UNIT</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSONS / DURATION</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>Lesson Overview</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSON OBJECTIVES
 <br>At the end of the lesson, students will be able to:
 <br>
 </p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>TIME PERIOD
 <br>(e.g. Term 1 Week 2)
 <br>
@@ -346,17 +346,17 @@ both offline and online</p>
 </th>
 </tr>
 <tr>
-<td class="tbl-bdr" rowspan="3">
+<td style="border:1px solid black;" rowspan="3">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Love Yourself, Love Others
 <br>Lesson 1A
 <br>(60 mins)
 <br>
 </p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson focuses on dating respectfully in healthy relationships. Students
 will learn about self-esteem, their sources of influence (e.g. friends’
 perception) on self-esteem, the impact of one’s self-esteem on our mental
@@ -365,7 +365,7 @@ how emotional reactions can affect relationships positively or negatively.
 Students will also learn that maturity and readiness are important when
 entering into a dating relationship.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* know that self-perception and identity have an impact on our self-esteem
 and how we interact with others and the choices we make, both online and
 offline.
@@ -374,20 +374,20 @@ affect one’s emotions, thoughts and behaviours.
 <br>* recognise what healthy dating relationships involve and know that readiness
 is important when entering into a dating relationship.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 3
 <br>Week 6</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Mending a Broken Heart Lesson
 <br>Lesson 1B
 <br>(60 mins)
 <br>
 </p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Students will learn how to manage their emotions if they were to face
 a breakup and know that relationship building involves person emotions
 and vulnerabilities, and changes and challenges. Students will also learn
@@ -397,7 +397,7 @@ is normal and that one can recover from the experience. They will learn
 that there are healthy ways of coping with breakdowns in relationships
 and that family and friends are important pillars of support.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* know that relationship-building involves personal emotions and vulnerabilities,
 and changes and challenges.
 <br>* know that a decision to end a relationship will have consequences on
@@ -407,7 +407,7 @@ is normal and one can recover from the experience.
 <br>* know there are healthy ways of coping with broken relationships, and
 family and friends are important pillars of support.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 3
 <br>Week 7
 <br>
@@ -415,14 +415,14 @@ family and friends are important pillars of support.</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>When Respect Takes Centre Stage
 <br>Lesson 2
 <br>(60 mins)
 <br>
 </p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson aims to help students think critically and make informed decisions
 in the contexts of sexting and voyeurism, and encourages students to exert
 a positive influence as a respectful online user. It will also deepen students’
@@ -433,7 +433,7 @@ responsibility to be safe and protect their personal space and body. They
 also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* recognise the importance of being informed of social and moral issues
 of the day and the need to reflect on these issues, and weigh them against
 our own moral standpoints as we form our perspectives about them.
@@ -441,7 +441,7 @@ our own moral standpoints as we form our perspectives about them.
 values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 3
 <br>Week 8
 <br>
@@ -462,22 +462,22 @@ and act in alignment with our beliefs.</p>
 <table style="width:100%; border:1px solid black;">
 <tbody>
 <tr>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>UNIT</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSONS / DURATION</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>Lesson Overview</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSON OBJECTIVES
 <br>At the end of the lesson, students will be able to:
 <br>
 </p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>TIME PERIOD
 <br>(e.g. Term 1 Week 2)
 <br>
@@ -485,17 +485,17 @@ and act in alignment with our beliefs.</p>
 </th>
 </tr>
 <tr>
-<td class="tbl-bdr" rowspan="4">
+<td style="border:1px solid black;" rowspan="4">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Levelling the Ground
 <br>Lesson 1
 <br>(60 mins)
 <br>
 </p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson aims to help students think critically about gender stereotypes
 that exist in our society in the contexts of career and family (e.g. males
 typically perceived as main breadwinners and females typically perceived
@@ -505,7 +505,7 @@ that may affect one’s family and future decisions. They will also learn
 to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* understand that the value of a person is not tied to one’s gender and
 not conforming to gender stereotypes does not negate one’s gender identity.
 <br>* understand what gender stereotypes comprise, e.g. notions of masculinity
@@ -514,20 +514,20 @@ and femininity vary over time and space, and are shaped by societal expectations
 one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 2
 <br>Week 1</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>When Love Hurts
 <br>Lesson 2
 <br>(60 mins)
 <br>
 </p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson aims to help students recognise unhealthy relationships and
 build their help-seeking skills. Students will learn to identify potential
 signs of an unhealthy relationship and recognise the different forms of
@@ -538,7 +538,7 @@ where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* know there are healthy ways of coping with broken relationships, and
 family and friends are important pillars of support.
 <br>* recognise emotions caused by traumatic situations, e.g. bullying, abuse
@@ -551,7 +551,7 @@ well-being.
 with verbal ones, when communicating personal and emotional boundaries
 in a relationship.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 2
 <br>Week 2
 <br>
@@ -559,14 +559,14 @@ in a relationship.</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>For Better or For Worse
 <br>Lesson 3
 <br>(60 mins)
 <br>
 </p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This lesson focuses on building a positive relationship with one’s partner
 in a marriage. Students will understand that while a marriage, defined
 in Singapore as a union between a man and a woman, requires mutual commitment
@@ -576,7 +576,7 @@ matters to sustain and maintain a long-term romantic relationship leading
 to marriage is understanding the other person’s perspective and effectively
 communicating with each other.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
 and moral dimensions.
@@ -586,7 +586,7 @@ love, trust, commitment, and requires mutual effort.
 marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 2
 <br>Week 3
 <br>
@@ -594,12 +594,12 @@ the success of their marriage.</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>There’s Always More to a Story
 <br>Lesson 4
 <br>(60 mins)</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>In this lesson, students will revisit the impact of pornography and deepen
 their understanding on its impact on relationships. Students will also
 learn about revenge pornography, including its definition and legal provisions.
@@ -607,12 +607,12 @@ They will also learn that they can turn to trusted adults for help in setting
 boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* understand that we strengthen our character when we commit to sound
 values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 2
 <br>Week 4</p>
 </td>
@@ -631,22 +631,22 @@ and act in alignment with our beliefs.</p>
 <table style="width:100%; border:1px solid black;">
 <tbody>
 <tr>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>UNIT</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSONS / DURATION</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>Lesson Overview</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>LESSON OBJECTIVES
 <br>At the end of the lesson, students will be able to:
 <br>
 </p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>TIME PERIOD
 <br>(e.g.
 <br>Term 1 Week 2)
@@ -655,16 +655,16 @@ and act in alignment with our beliefs.</p>
 </th>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>This is Where I Draw the Line
 <br>(60 mins)
 <br>
 </p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>In this lesson, students will understand that different individuals have
 different emotional and physical boundaries. This lesson highlights the
 need to respect the boundaries of others and reinforces the importance
@@ -673,12 +673,12 @@ Students will examine personal boundaries from different perspectives and
 learn the importance of making sound values-based decisions and acting
 in consideration of the well-being of themselves and others.</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* understand that we strengthen our character when we commit to sound
 values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 2
 <br>Week 2</p>
 </td>
@@ -705,41 +705,41 @@ students are empowered to make wise, informed and sensible decisions.</p>
 <table style="width:100%; border:1px solid black;">
 <tbody>
 <tr>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>Topics/Lessons</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>Programme Learning Objectives</p>
 </th>
-<th class="tbl-bdr">
+<th style="border:1px solid black;">
 <p>Time Period
 <br>(e.g. Term 3 Week 9)</p>
 </th>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* Awareness of the different STIs and HIV/AIDS
 <br>* Modes of transmission
 <br>* Modes of protection, specifically on how the condom is used
 <br>* Consequences and impact of STIs/HIV</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 3
 <br>Week 2</p>
 </td>
 </tr>
 <tr>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Classroom-based Lesson</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>* Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making</p>
 </td>
-<td class="tbl-bdr">
+<td style="border:1px solid black;">
 <p>Term 3
 <br>Week 3</p>
 </td>
