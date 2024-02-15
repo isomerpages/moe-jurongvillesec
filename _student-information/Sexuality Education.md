@@ -69,23 +69,23 @@ related to sexuality, which are of prime concern at this age.</p>
 </div>
 <h4>2024 SEXUALITY EDUCATION LESSONS</h4>
 <h3><strong>SECONDARY 1</strong></h3>
-<table border="1">
+<table class="table-style">
 <tbody>
 <tr>
-<th style="border:1px solid black;">
+<th class="table-style">
 <p>UNIT</p>
 </th>
-<th rowspan="1" colspan="1">
+<th class="table-style">
 <p>LESSONS / DURATION</p>
 </th>
-<th rowspan="1" colspan="1">
+<th class="table-style">
 <p>Lesson Overview</p>
 </th>
-<th rowspan="1" colspan="1">
+<th class="table-style">
 <p>LESSON OBJECTIVES
 <br>At the end of the lesson, students will be able to:</p>
 </th>
-<th rowspan="1" colspan="1">
+<th class="table-style">
 <p>TIME PERIOD
 <br>(e.g. Term 1
 <br>Week 2)</p>
