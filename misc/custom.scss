@@ -342,3 +342,7 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+.tbl-bdr {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
