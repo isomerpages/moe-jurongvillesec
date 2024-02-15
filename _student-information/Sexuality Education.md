@@ -69,7 +69,7 @@ related to sexuality, which are of prime concern at this age.</p>
 </div>
 <h4>2024 SEXUALITY EDUCATION LESSONS</h4>
 <h3><strong>SECONDARY 1</strong></h3>
-<table>
+<table class="table-style">
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
