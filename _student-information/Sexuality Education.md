@@ -541,8 +541,8 @@ In this lesson, students will understand that different individuals have differe
 </table>
 <h4>INFORMATION FOR PARENTS</h4>
 <p>10 . Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers. 
-</p><p>11 . 11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="/files/2024_SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-	</p><p>The completed form is to be submitted by Friday, 23 February 2024. </p>
+</p><p>11 . 11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="/files/2024_SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></p>
+	<p>The completed form is to be submitted by Friday, 23 February 2024. </p>
 Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="/files/2024_SEd_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 	<p>The completed form is to be submitted by Friday, 23 February 2024. </p>
 <p>12 . Parents can contact the school at 6563 8704 or <a href="mailto:jurongville@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jurongville@moe.edu.sg</a> to seek clarification about the school’s Sexuality Education programme. </p>
