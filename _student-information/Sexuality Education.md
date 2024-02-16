@@ -109,8 +109,8 @@ related to sexuality, which are of prime concern at this age.</p>
 <li>understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li></ul>
 </td>
 <td style="border:1px solid black;">
-<center>Term 3
-<br>Week 8</center>
+<center>Term 2
+<br>Week 4</center>
 </td>
 </tr>
 <tr>
@@ -127,8 +127,8 @@ related to sexuality, which are of prime concern at this age.</p>
 <ul><li>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li></ul>
 </td>
 <td style="border:1px solid black;">
-<center>Term 3
-<br>Week 9</center>
+<center>Term 2
+<br>Week 6</center>
 </td>
 </tr>
 <tr>
@@ -146,8 +146,8 @@ related to sexuality, which are of prime concern at this age.</p>
 <li>recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li></ul>
 </td>
 <td style="border:1px solid black;">
-<center>Term 4
-<br>Week 1</center>
+<center>Term 2
+<br>Week 7</center>
 </td>
 </tr>
 </tbody>
@@ -201,8 +201,8 @@ Students will also learn about the definitions of biological sex, gender identit
 	<li>understand what sexual orientation entails</li></ul>
 </td>
 <td style="border:1px solid black;">
-<center>Term 3
-<br>Week 8</center>
+<center>Term 2
+<br>Week 4</center>
 </td>
 </tr>
 <tr>
@@ -219,8 +219,8 @@ Students will also learn about the definitions of biological sex, gender identit
 <ul><li>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li></ul>
 </td>
 <td style="border:1px solid black;">
-<center>Term 3
-<br>Week 9</center>
+<center>Term 2
+<br>Week 6</center>
 </td>
 </tr>
 <tr>
@@ -237,8 +237,8 @@ Students will also learn about the definitions of biological sex, gender identit
 <li>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li></ul>
 </td>
 <td style="border:1px solid black;">
-<center>Term 3
-<br>Week 10</center>
+<center>Term 2
+<br>Week 7</center>
 </td>
 </tr>
 </tbody>
@@ -291,7 +291,7 @@ Students will also learn about the definitions of biological sex, gender identit
 </td>
 <td style="border:1px solid black;">
 <center>Term 2
-<br>Week 4<center>
+<br>Week 2<center>
 </center></center></td>
 </tr>
 <tr>
@@ -311,7 +311,7 @@ Students will also learn about the definitions of biological sex, gender identit
 </td>
 <td style="border:1px solid black;">
 <center>Term 2
-<br>Week 6</center>
+<br>Week 4</center>
 </td>
 </tr>
 <tr>
@@ -329,7 +329,7 @@ Students will also learn about the definitions of biological sex, gender identit
 </td>
 <td style="border:1px solid black;">
 <center>Term 2
-<br>Week 7</center>
+<br>Week 6</center>
 </td>
 </tr>
 </tbody>
@@ -380,8 +380,8 @@ Students will also learn about the definitions of biological sex, gender identit
 <li>know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided</li></ul>
 </td>
 <td style="border:1px solid black;">
-<center>Term 1
-<br>Week 9</center>
+<center>Term 2
+<br>Week 2</center>
 </td>
 </tr>
 <tr>
@@ -400,8 +400,8 @@ Students will also learn about the definitions of biological sex, gender identit
 <li>understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</li></ul>
 </td>
 <td style="border:1px solid black;">
-<center>Term 1
-<br>Week 9</center>
+<center>Term 2
+<br>Week 2</center>
 </td>
 </tr>
 <tr>
@@ -420,7 +420,7 @@ Students will also learn about the definitions of biological sex, gender identit
 </td>
 <td style="border:1px solid black;">
 <center>Term 2
-<br>Week 2</center>
+<br>Week 3</center>
 </td>
 </tr>
 <tr>
@@ -486,8 +486,8 @@ Students will also learn about the definitions of biological sex, gender identit
 <ul><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li></ul>
 </td>
 <td style="border:1px solid black;">
-<center>Term 1
-<br>Week 9</center>
+<center>Term 2
+<br>Week 2</center>
 </td>
 </tr>
 </tbody>
