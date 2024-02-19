@@ -495,7 +495,7 @@ Students will also learn about the definitions of biological sex, gender identit
 <br>
 <h4><em>eTeens</em> Programme:</h4>
 <p>8 . <em>eTeens</em> is a programme developed by the Health Promotion Board (HPB), in collaboration with the Ministry of Education (MOE), to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme is to empower students to make wise, informed and sensible decisions.</p>
-<p>9 . 9.	Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
+<p>9 . Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
 <h4>At Jurongville Secondary School, the <em>eTeens</em> programme will be implemented as follows in <u>2024</u>:</h4>
 <table style="width:100%; border:1px solid black;">
 <tbody>
