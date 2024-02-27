@@ -95,7 +95,7 @@ Option A to <a href="/student-information/class-mentors/" rel="noopener noreferr
 parent's email)</p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0" rel="noopener noreferrer nofollow" target="_blank">Parents/Guardian control guideline (Option A)</a>
+<p><a href="https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view" rel="noopener noreferrer nofollow" target="_blank">Parents/Guardian control guideline (Option A)</a>
 </p>
 </li>
 </ul>
