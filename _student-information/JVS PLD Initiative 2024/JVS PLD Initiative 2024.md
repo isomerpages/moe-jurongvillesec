@@ -62,17 +62,17 @@ and the parent engagement slide above.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/IP2___Parent_Handbook_I_on_Learning_with_a_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP2 - Parent Handbook I on Learning with a PLD.pdf</a>
+<p><a href="/files/IP2___Parent_Handbook_I_on_Learning_with_a_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP2 - Parent Handbook I on Learning with a PLD.pdf</a> 
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook_II_on_Learning_with_a_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP3 - Parent Handbook II on Learning with a PLD.pdf</a>
+<p><a href="/files/IP3___Parent_Handbook_II_on_Learning_with_a_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP3 - Parent Handbook II on Learning with a PLD.pdf</a> 
 <br>
 </p>
 </li>
 <li>
-<p><a href="http://www.youtube.com/watch?v=atVkNBXMVnY" rel="noopener noreferrer nofollow" target="_blank">Student's Experience</a>
+<p><a href="http://www.youtube.com/watch?v=atVkNBXMVnY" rel="noopener noreferrer nofollow" target="_blank">Student's Experience</a> 
 <br>
 </p>
 </li>
@@ -95,7 +95,7 @@ Option A to <a href="/student-information/class-mentors/" rel="noopener noreferr
 parent's email)</p>
 </li>
 <li>
-<p><a href="/files/e-DMA-Parent-Guide-v2.0-Option-A-Chrome-OS.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents/Guardian control guideline (Option A)</a>
+<p><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0" rel="noopener noreferrer nofollow" target="_blank">Parents/Guardian control guideline (Option A)</a>
 </p>
 </li>
 </ul>
@@ -119,16 +119,16 @@ school holidays.</p>
 </li>
 </ul>
 <p>Service Center
-<br><strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong>
+<br><strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong> 
 <br>3 Irving Road, #01-17 Singapore 369522 (Beside Tai Seng MRT station, Exit
 A)
 <br>#03-19/20 Singapore 179097
 <br>Working Hours :Monday – Friday 11:00am – 7:00pm (closed on Sunday and
 Public Holidays)
-<br>Tel: 68714838 Email: <a href="mailto:lenovo@smartcares.com" rel="noopener noreferrer nofollow" target="_blank">lenovo@smartcares.com</a>
+<br>Tel: 68714838 Email: <a href="mailto:lenovo@smartcares.com" rel="noopener noreferrer nofollow" target="_blank">lenovo@smartcares.com</a> 
 <br>Pre-Registration (For Faster Service/Drop-off): <a href="https://smartcares.com/lenovo" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo</a>
 </p>
-<p><strong>Acer Computer (Singapore) Pte Ltd</strong>
+<p><strong>Acer Computer (Singapore) Pte Ltd</strong> 
 <br>29 International Business Park #01-07, Acer Building, Tower A, 609923
 <br>Service Centre Tel: 68956297
 <br>Contact Centre Tel: 1800 8956299
