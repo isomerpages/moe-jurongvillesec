@@ -92,7 +92,7 @@ slides page 13)</p>
 <li>
 <p>Parents/Guardian control after school hours (Email/Whatsapp with op-in
 Option A to <a href="/student-information/class-mentors/" rel="noopener noreferrer nofollow" target="_blank">Class Mentor</a> with
-parent's email)</p>
+parent's name &amp; email)</p>
 </li>
 <li>
 <p><a href="https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view" rel="noopener noreferrer nofollow" target="_blank">Parents/Guardian control guideline (Option A)</a>
