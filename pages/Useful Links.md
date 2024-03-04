@@ -1,5 +1,5 @@
 ---
-title: Useful Link
+title: Useful Links
 permalink: /usefullink/
 description: ""
 variant: markdown
@@ -131,6 +131,9 @@ variant: markdown
 </td>
 </tr>
 <tr>
+<td><a href="https://students-edu-sg.zoom.us/" target="_blank">Student Zoom login</a>
+</td>
+</tr><tr>
 <td><a href="https://www.asiapac.com.sg/pld-lenovo/" target="_blank">LENOVO PLD Service Portal</a>
 </td>
 </tr>
