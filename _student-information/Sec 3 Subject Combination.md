@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 <h4>2025 Normal Academic:</h4>
 <p>1 . <a href="https://drive.google.com/file/d/1OgCAj2LeVpCZ_aePuXSsUOzvOMryEzvE/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Science</a> 
-<br>2 . <a href="https://drive.google.com/file/d/16c6QYiCgWg3nKNtrKhZ4kO_jossD_Hf1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Humanities</a> 
+<br>2 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Humanities</a> 
 <br>3 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Principles of Accounts</a> 
 <br>4 . <a href="https://drive.google.com/file/d/1F3FI8g8OT2gXoiSZItX1j0PUZ3xqIcgp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Craft Tech subjects: Design &amp; Technology, Art, Nutrition &amp; Food Science</a>
 </p>
