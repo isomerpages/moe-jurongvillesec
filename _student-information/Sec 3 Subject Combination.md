@@ -24,5 +24,5 @@ variant: tiptap
 <h4>2025 Normal Technical:</h4>
 <p>1 . <a href="https://drive.google.com/file/d/1XipmGQR_N8BFAVKJmUqGbI_-tQTddLMv/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Smart Electrical Technology (SET)</a> 
 <br>2 . <a href="https://drive.google.com/file/d/1mEQxK3KP19nk2X81SfxoSP1g2R7epWIU/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Art</a> 
-<br>3 . <a href="https://drive.google.com/file/d/1dXQCjBvXDvoZmOn8DH_j4BbAh9SGlx4w/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Nutrition &amp; Food Science</a>
+<br>3 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Nutrition &amp; Food Science</a>
 </p>
