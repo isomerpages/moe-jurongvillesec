@@ -18,7 +18,7 @@ variant: tiptap
 <p>1 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Science</a> 
 <br>2 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Humanities</a> 
 <br>3 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Principles of Accounts</a> 
-<br>4 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Art</a> 
+<br>4 . <a href="https://drive.google.com/file/d/1iPg_3du8rRyONgB3FxzixCUPXA7OpweN/view?t=2" rel="noopener noreferrer nofollow" target="_blank">Art</a> 
 <br>5 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Design &amp; Technology</a>
 </p>
 <h4>2025 Normal Technical:</h4>
