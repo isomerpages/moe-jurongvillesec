@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Sec 3 Subject Combination</h2>
 <h4>2025 Express:</h4>
-<p>1 . <a href="https://drive.google.com/file/d/1V78x0mc4rtp9VeplsL_fauAPwvph4J4B/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Science</a> 
+<p>1 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Science</a> 
 <br>2 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics</a> 
 <br>3 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Humanities</a> 
 <br>4 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Principles of Accounts</a> 
