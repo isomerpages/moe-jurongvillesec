@@ -9,7 +9,7 @@ variant: tiptap
 <p>1 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Science</a> 
 <br>2 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics</a> 
 <br>3 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Humanities</a> 
-<br>4 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Principles of Accounts</a> 
+<br>4 . <a href="https://drive.google.com/file/d/19CCilGYxjU_Z51R-BYv3gHtKf2bwHSWi/view?t=2" rel="noopener noreferrer nofollow" target="_blank">Principles of Accounts</a> 
 <br>5 . <a href="https://drive.google.com/file/d/1Y1yd9lZqLqYaIXUyo_Mooy8CweEkNRj-/view" rel="noopener noreferrer nofollow" target="_blank">Electronics</a> 
 <br>6 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Art</a> 
 <br>7 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Design &amp; Technology</a>
