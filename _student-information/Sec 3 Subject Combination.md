@@ -16,10 +16,10 @@ variant: tiptap
 <br>8 . <a href="https://drive.google.com/file/d/15ckG_Qzjoxmz8IsjFeCOrX2zLON58vsl/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">English Literature</a>
 </p>
 <h4>2025 Normal Academic:</h4>
-<p>1 . <a href="https://drive.google.com/file/d/1OgCAj2LeVpCZ_aePuXSsUOzvOMryEzvE/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Science</a> 
+<p>1 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Science</a> 
 <br>2 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Humanities</a> 
 <br>3 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Principles of Accounts</a> 
-<br>4 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Art</a>
+<br>4 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Art</a> 
 <br>5 . <a href="https://drive.google.com/drive/u/2/folders/1if90OkmqlTgWr_eHrK-ySMbVWoXzF5tJ" rel="noopener noreferrer nofollow" target="_blank">Design &amp; Technology</a>
 </p>
 <h4>2025 Normal Technical:</h4>
