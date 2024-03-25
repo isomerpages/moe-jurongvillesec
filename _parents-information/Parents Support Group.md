@@ -22,7 +22,7 @@ variant: markdown
 
 **The teachers who will be working most closely with PSG members are:**<br>
 1 \.  [Ms Karmila Binte Asari (LH / Mathematics)](mailto:karmila_asari@schools.gov.sg)<br>
-2 \.  [Ms Ethel Chng Shu Ping (ST / Chemistry)](mailto:chng_shu_ping_ethel@schools.gov.sg)
+2 \.  [Ms Han Hui Chin (Assistant Year Head)](mailto:han_hui_chin@schools.gov.sg)
 
 #### Parent Representatives for Different Levels in 2023
 
