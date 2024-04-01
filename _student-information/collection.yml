@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Sec 4 Post Sec Academic Options.md
       - Class Mentors.md
       - Counselling and Other Support.md
       - Sec 3 Subject Combination.md
