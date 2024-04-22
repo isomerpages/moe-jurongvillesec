@@ -23,21 +23,21 @@ Promising primary 6 students in the current year of study with the aptitude and 
 	</tr>
 	<tr>
 		<td rowspan="3">Visual, Literary and Performing Arts</td>
-		<td><a href="/parents-information/dsa/dsa-co/">Chinese Orchestra</a></td>
+		<td><a href="/cca/Performing-and-Visual-Arts/co/">Chinese Orchestra</a></td>
 	</tr>
 	<tr>
-		<td><a href="/parents-information/dsa/dsa-engdrama/">English Drama</a></td>
+		<td><a href="/cca/Performing-and-Visual-Arts/edc/">English Drama</a></td>
 	</tr>
 	<tr>
-		<td><a href="/parents-information/dsa/dsa-moderndance/">Modern Dance</a></td>
+		<td><a href="/cca/Performing-and-Visual-Arts/md/">Modern Dance</a></td>
 	</tr>
 	<tr>
 		<td>Sports and Games</td>
-		<td><a href="/parents-information/dsa/dsa-football/">Football (Boys)</a></td>
+		<td><a href="/cca/Sports-and-Games/football/">Football (Boys)</a></td>
 </tr>
 		<tr>
 		<td>Science, Technology, Engineering<br>and Math (STEM)</td>
-		<td><a href="/parents-information/dsa/dsa-alp/">Electronics &amp; Robotics<br>(Applied Learning Programme (ALP))</a></td></tr>
+		<td><a href="/our-experience/apl/">Electronics &amp; Robotics<br>(Applied Learning Programme (ALP))</a></td></tr>
 </tbody>
 </table>
 <br>
