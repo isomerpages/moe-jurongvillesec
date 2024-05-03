@@ -158,5 +158,5 @@ Please note that only shortlisted applicants will be invited to attend the in-pe
 ##### Enquiries: 
 <ul>
 	<li>Contact the General Office at 6563-8704 (Monday to Friday –8.00am to 5.00pm)</li>
-	<li>Email us at <a href="mailto:JURONGVILLE@MOE.EDU.SG">JURONGVILLE@MOE.EDU.SG</a>. Please indicate “DSA Enquiries” in the subject filed. </li>
+	<li>Email us at <a href="mailto:JURONGVILLE@MOE.EDU.SG">JURONGVILLE@MOE.EDU.SG</a> . Please indicate “DSA Enquiries” in the subject field.  </li>
 </ul>
