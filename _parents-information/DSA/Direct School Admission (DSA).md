@@ -18,11 +18,11 @@ Promising primary 6 students in the current year of study with the aptitude and 
 <table width="80%" border="1">
 <tbody>
 <tr>
-	<th width="50%"><center><b>DSA Domain</b></center></th>
 	<th width="50%"><center><b>Talent Areas</b></center></th>
+	<th width="50%"><center><b>CCA/DSA Domain</b></center></th>
 	</tr>
 	<tr>
-		<td rowspan="3">Visual, Literary and Performing Arts</td>
+		<td rowspan="3">Visual and Performing Arts</td>
 		<td><a href="/cca/Performing-and-Visual-Arts/co/">Chinese Orchestra</a></td>
 	</tr>
 	<tr>
@@ -32,7 +32,7 @@ Promising primary 6 students in the current year of study with the aptitude and 
 		<td><a href="/cca/Performing-and-Visual-Arts/md/">Modern Dance</a></td>
 	</tr>
 	<tr>
-		<td>Sports and Games</td>
+		<td>Sports</td>
 		<td><a href="/cca/Sports-and-Games/football/">Football (Boys)</a></td>
 </tr>
 		<tr>
@@ -41,4 +41,29 @@ Promising primary 6 students in the current year of study with the aptitude and 
 </tbody>
 </table>
 <br>
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+<i>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec) or other useful links listed below: </i>
+
+##### Useful Links: 
+<table width="80%" border="0">
+	<tbody>
+		<tr>
+			<td>Instructions on Application:</td>
+			<td>[https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)</td>
+		</tr>
+		<tr>
+			<td>*Direct to DSA-Sec Portal:</td>
+			<td>[https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)</td>
+		</tr>
+		<tr>
+			<td>DSA-Sec iFAQs:</td>
+			<td>[https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs)</td>
+		</tr>
+		<tr>
+			<td>DSA-Sec School Finder:</td>
+			<td>[https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder)</td>
+		</tr>
+	</tbody>
+	</table>
+	<i>*Available from 7 May 11am onwards</i>
+	
+	
