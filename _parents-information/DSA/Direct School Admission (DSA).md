@@ -102,6 +102,61 @@ Promising primary 6 students in the current year of study with the aptitude and 
 		<td>Sports</td>
 		<td>Football (Boys)</td>
 		<td>Applicants should<br>--have experience and competed in NSG or other FAS sanctioned age group competition.<br>--be a member of Junior Sports Academy (JSA) or school team.</td>
+	</tr>
+	<tr>
+		<td>Science, Technology, Engineering and Math (STEM)</td>
+		<td>Electronics &amp; Robotics (Applied Learning Programme (ALP))</td>
+		<td>Applicants should<br>--possess an aptitude and passion in the future of technology.<br>--be diligent and have a positive attitude towards learning<br>--knowledge in coding and robotics.</td>
+		<td>Shortlisted applicants will be required to undergo performance tasks in   coding, robotics and interview.</td>
+	</tr>
+	</tbody>
+	</table>
+	
+<table border="1">
+<tbody>
+<tr>
+<td><ul><li>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</li><li>Applicants who do not have prior experience may also apply.  The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</li><li>Relevant supporting information is to be keyed in via the MOE DSA Application Portal</li></ul></td>
+</tr>
+</tbody>
+</table>
 
-
-</tr></tbody></table>
+##### Jurongville Secondary School DSA Timeline
+Please note that only shortlisted applicants will be invited to attend the in-person selection trials and interview.
+<table border="1">
+	<tbody>
+		<tr>
+			<th>Event</th>
+			<th>Date</th>
+			<th>Remarks</th>
+		</tr>
+		<tr>
+			<td>Application Open</td>
+			<td>7 May 2024, 11am</td>
+			<td rowspan="2"><a href="https://go.gov.sg/apply-dsa-sec">https://go.gov.sg/apply-dsa-sec</a></td>
+		</tr>
+		<tr>
+			<td>Application Close</td>
+			<td>3 June 2024, 3pm</td>
+		</tr>
+		<tr>
+			<td>Notification to Shortlisted Applicants</td>
+			<td>From 2 July 2024</td>
+			<td>Shortlisted applicants will receive email from school.  Details of selection trials and interview will be advised.</td>
+		</tr>
+		<tr>
+			<td>Selection Trials and Interview for Shortlisted Applicants</td>
+			<td>From 15 July 2024</td>
+			<td>Details of selection will be advised closer the date.
+			</td></tr><tr>
+				<td>Notification of DSA Selection outcome</td>
+				<td>By 9 Sep 2024</td>
+				<td>Applicants will be notified of the selection outcome. </td>
+		</tr>
+	</tbody>
+	</table>
+	
+##### Enquiries: 
+<ul>
+	<li>Contact the General Office at 6563-8704 (Monday to Friday –8.00am to 5.00pm)</li>
+	<li>Email us at <a href="mailto:JURONGVILLE@MOE.EDU.SG">JURONGVILLE@MOE.EDU.SG</a>. Please indicate “DSA Enquiries” in the subject filed. </li>
+</ul>
