@@ -86,11 +86,11 @@ Promising primary 6 students in the current year of study with the aptitude and 
 	<th width="30%"><center><b>Selection Criteria</b></center></th>
 	<th width="30%"><center><b>Selection Process</b></center></th>
 	</tr>
-	<tr>
+	<tr valign="middle">
 		<td rowspan="3">Visual and Performing Arts</td>
 		<td>Chinese Orchestra</td>
 		<td rowspan="3">Applicants should<br>--be passionate and possess the aptitude in the visual and performing arts. <br>--be members of his/her school visual and performing arts CCA.</td>
-		<td valign="middle" rowspan="4">Shortlisted applicants will be required to undergo performance tasks and interview</td>
+		<td rowspan="4">Shortlisted applicants will be required to undergo performance tasks and interview</td>
 	</tr>
 	<tr>
 		<td>English Drama</td>
