@@ -64,7 +64,7 @@ Promising primary 6 students in the current year of study with the aptitude and 
 		</tr>
 	</tbody>
 	</table>
-	<i>*Available from 7 May 11am onwards</i>
+	* *Available from 7 May 11am onwards*
 	
 ##### Note to Applicants:
 <ul>
