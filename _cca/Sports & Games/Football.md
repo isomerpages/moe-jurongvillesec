@@ -64,7 +64,7 @@ will train four times a week.</p>
 <p></p>
 <h4>CCA Photo</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7QGVE0vSWxftSmWUVIVE5oSHLukxSZROOFAf7FYs6d3v73CQBDKU_XnLvKnpmtV6rG52aMybVmN97/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpnTF87cHxZyE9x-Ul04KMl3mwaLdW4HGiaJbXvyahwVgbJ1n0DtqtT-PJsG5thFukyge5s8JB5ows/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
 <h4>Key Achievements</h4>
