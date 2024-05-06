@@ -155,10 +155,7 @@ will train four times a week.</p>
 </tr>
 </tbody>
 </table>
-<h4>Students' voices</h4>
-<p><strong>Kota Leela Karthikeya (4E3), Captain (2021):</strong> 
-<br><em>“As a captain for the B Division team, I am proud to represent Jurongville Secondary School. Our aim was to become the champions again in 2021 but unfortunately, we couldn’t participate due to Covid-19. However, we were glad that we can still train together and learn new technical skills. I wish all the very best to my juniors and Jurongville Secondary School. ”</em>
-</p>
+<p></p>
 <h4>Training Schedule</h4>
 <p>B Division
 <br>
