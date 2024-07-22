@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Class Timetable
 
-#### 2024 SEM 2 (Update on 24/06/2024)
+#### 2024 SEM 2 (Update on 26/06/2024)
 <table width="90%">
 <tbody>
 <tr>
