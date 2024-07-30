@@ -128,7 +128,6 @@ variant: markdown
       <tbody>
 				<tr><th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Science Department</p></th></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lee_hui@schools.gov.sg" target="">Ms Lee Hui Jo-Ann<br>(HOD / SC)</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lim_ee-peow@schools.gov.sg" target="">Mr Lim Ee-Peow<br>(SH / Physics)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ang_yan_pure@schools.gov.sg" target="">Mrs Wong Yan Pure<br>(SH / Chem)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:kay_khine_win@schools.gov.sg" target="">Ms Kay Khine Win (YH)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wee_jin_yi@schools.gov.sg" target="">Mr Wee Jin Yi (YH)</a></p></td></tr>
