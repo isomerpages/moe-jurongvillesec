@@ -126,13 +126,5 @@ variant: markdown
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Malay Language</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:siti_zarinah_muhammad@schools.gov.sg" target="">Mdm Siti Zarinah Muhammad</a></p></td>
     </tr>
-    <tr>
-			<td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/CCA</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tiew_choon_lien@schools.gov.sg" target="">Mr Kenny Tiew</a></p></td>
-    </tr>
-    <tr>
-			<td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Physics</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lim_ee-peow@schools.gov.sg" target="">Mr Lim Ee-Peow</a></p></td>
-    </tr>
   </tbody>
 </table>
