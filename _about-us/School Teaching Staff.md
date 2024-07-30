@@ -87,7 +87,7 @@ variant: markdown
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:marina_abu_hassan@schools.gov.sg" target="">Mdm Marina Binte Abu Hassan (FAJT)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ngiow_teck_shyong@schools.gov.sg" target="">Mr Ngiow Teck Shyong Daniel (FAJT)</a></p></td></tr>
 				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wu_tat_wan_lucy@schools.gov.sg" target="">Mdm Wu Tat Wan Lucy (FAJT)</a></p></td></tr>
-				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:" target="">Ms Ariana Tan Mei Ling (FAJT)</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tan_mei_ling_ariana@schools.gov.sg" target="">Ms Ariana Tan Mei Ling (FAJT)</a></p></td></tr>
       </tbody>
    </table>
    </td>
