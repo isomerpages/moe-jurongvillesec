@@ -6,7 +6,7 @@ third_nav_title: Timetable
 variant: tiptap
 ---
 <h2>Exam Timetable</h2>
-<h4>2024 O-Level Prelim Examination Timetable</h4>
+<h4>2024 N-Level &amp; O-Level Prelim Examination Timetable</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -19,13 +19,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_O_PRELIM_TIMETABLE_15_May.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable</a>
+<p><a href="/files/EXAM/2024_O_PRELIM_TIMETABLE.pdf" rel="noopener noreferrer nofollow" target="_blank">O-Level Prelim Exam Timetable</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/EXAM/2024_NA_PRELIM_TIMETABLE.pdf" rel="noopener noreferrer nofollow" target="_blank">N-Level (NA) Prelim Exam Timetable</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/EXAM/2024_NT_PRELIM_TIMETABLE.pdf" rel="noopener noreferrer nofollow" target="_blank">N-Level (NT) Prelim Exam Timetable</a>
+</p>
 </td>
 </tr>
 </tbody>
