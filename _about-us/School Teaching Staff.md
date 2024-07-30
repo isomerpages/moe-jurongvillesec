@@ -100,11 +100,13 @@ variant: markdown
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:nur_rashidah_ramli@schools.gov.sg" target="">Mdm Nur Rashidah Bte Ramli<br>(HOD / Dis)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chua_khuang_lim@schools.gov.sg" target="">Mr Chua Khuang Lim</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:heng_yuan_hao@schools.gov.sg" target="">Mr Heng Yuan Hao</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:geetha_veeramani@schools.gov.sg" target="">Ms Geetha Veeramani</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:koh_kuan_chien@schools.gov.sg" target="">Mr Koh Kuan Chien</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lien_wei_chi@schools.gov.sg" target="">Miss Lien Wei Chi</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" target="">Ms Nur Khairin Aisyah Bte Ngataman</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:rajendran_subramaniyan@schools.gov.sg" target="">Mr Rajendran Subramaniyan</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tan_jia_hui_b@schools.gov.sg" target="">Ms Tan Jia Hui</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:shafiyah_rosli@schools.gov.sg" target="">Ms Shafiyah Bte Rosli</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tan_jia_hui_b@schools.gov.sg" target="">Ms Tan Jia Hui</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:meenakshi_sundari@schools.gov.sg" target="">Mrs Thangamuthu Meenakshi Sundari</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:thomas_lee_ming_zhi_a@schools.gov.sg" target="">Mr Thomas Lee Ming Zhi</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:veerappan_buvaneswari@schools.gov.sg" target="">Mdm Veerappan Buvaneswari</a></p></td></tr>
