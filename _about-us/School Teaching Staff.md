@@ -47,6 +47,7 @@ variant: markdown
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tan_chai-lian_kathleen@schools.gov.sg" target="">Miss Tan Chai-Lian Kathleen</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tay_khai_sheng_kenneth@schools.gov.sg" target="">Mr Tay Khai Sheng Kenneth</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wee_ming_hann@schools.gov.sg" target="">Mr Wee Ming Hann</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wong_xin_en@schools.gov.sg" target="">Ms Wong Xin En</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:poon_jing_theng@schools.gov.sg" target="">Ms Poon Jing Theng Phyllis (FAJT)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:yee_yan_ee_faith@schools.gov.sg" target="">Ms Yee Yan Ee Faith Jane (FAJT)</a></p></td></tr>
 		 </tbody>
