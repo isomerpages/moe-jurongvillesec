@@ -19,7 +19,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/o%20level%20prelim%20timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable</a>
+<p><a href="/files/2024_O_PRELIM_TIMETABLE_15_May.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam Timetable</a>
 </p>
 </td>
 </tr>
