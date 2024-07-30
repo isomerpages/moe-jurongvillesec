@@ -32,33 +32,40 @@ variant: tiptap
 </ul>
 </li>
 <li>
-<p>Keep Your Child Vape-Free</p>
+<p><a href="/files/Term Letter/Keep_Your_Child_Vape_Free.pdf" rel="noopener noreferrer nofollow" target="_blank">Keep Your Child Vape-Free</a>
+</p>
 </li>
 </ul>
 <p></p>
 <h4>Term 2</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Feedback on Adjustments to Uniforms</p>
+<p><a href="/files/Term Letter/Feedback_on_Adjustments_to_Uniforms.pdf" rel="noopener noreferrer nofollow" target="_blank">Feedback on Adjustments to Uniforms</a>
+</p>
 </li>
 <li>
-<p>Product Fact Sheet</p>
+<p><a href="/files/Term Letter/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet</a>
+</p>
 </li>
 <li>
-<p>Information Note on Singpass for Secondary School</p>
+<p><a href="/files/Term Letter/Information_Note_on_Singpass_for_Secondary_School.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Note on Singpass for Secondary School</a>
+</p>
 </li>
 <li>
-<p>End of Term 2</p>
+<p><a href="/files/Term Letter/2024_End_of_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 2</a>
+</p>
 </li>
 </ul>
 <p></p>
 <h4>Term 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 4/5: JAE (Submit Email Address)</p>
+<p><a href="/files/Term Letter/Sec_sch_student_Info_note_Submit_email_add.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5: JAE (Submit Email Address)</a>
+</p>
 </li>
 <li>
-<p>Sec 1/2: Health Screening (for Seconday 1 to 2 Students)</p>
+<p><a href="/files/Term Letter/School_Health_Visit_for_Secondary_1_to_2_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1/2: Health Screening (for Seconday 1 to 2 Students)</a>
+</p>
 </li>
 </ul>
 <p></p>
