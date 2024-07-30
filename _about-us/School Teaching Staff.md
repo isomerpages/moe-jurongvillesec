@@ -116,12 +116,12 @@ variant: markdown
       <tbody>
       <tr><th><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Physical Education Department</p></th></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:goh_yong_hang@schools.gov.sg" target="">Mr Goh Yong Hang<br>(HOD / PE &amp; CCA)</a></p></td></tr>
-				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tiew_choon_lien@schools.gov.sg" target="">Mr Tiew Choon Lien Kenny<br>(SH / CCA)</a></p></td></tr>
 				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:irantaffy_said_b_rohani@schools.gov.sg" target="">Mr Irantaffy Said Bin Rohani<br>(HOD / ICT)</a></p></td></tr>
 				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:bakhtiar_borhan_said@schools.gov.sg" target="">Mr Bakhtiar Borhan Said
 </a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chang_shang_chun_noah@schools.gov.sg" target="">Mr Chang Shang Chun Noah</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wan_meng_wai_donald@schools.gov.sg" target="">Mr Wan Meng Wai Donald (CAJT)</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tiew_choon_lien@schools.gov.sg" target="">Mr Tiew Choon Lien Kenny</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wan_meng_wai_donald@schools.gov.sg" target="">Mr Wan Meng Wai Donald (CAJT)</a></p></td></tr>
       </tbody>
    </table><br>
    <table width="100%" border="1">
