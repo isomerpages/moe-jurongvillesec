@@ -37,8 +37,11 @@ variant: markdown
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ada_yap@schools.gov.sg" target="">Ms Ada Yap<br>(SH / English &amp; Literature</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:simon_lydia_shamani@schools.gov.sg" target="">Miss Simon Lydia Shamani<br>(SSD)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" target="">Miss Pauline Fong Liew Yueh<br>(LH / Dis)</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:suhaily_supahan@schools.gov.sg" target="">Ms Suhaily Bte Supahan (ST / EL)</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" target="">Mr Lloyd Lin Jianbang</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:serene_lai@schools.gov.sg" target="">Ms Serene Lai (MT / EL)</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:suhaily_supahan@schools.gov.sg" target="">Ms Suhaily Bte Supahan (ST / EL)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:evangeline_nga_jia_ying@schools.gov.sg" target="">Ms Evangeline Nga Jia Ying</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:irene_ti_li_ling@schools.gov.sg" target="">Ms Irene Ti Li Ling</a></p></td></tr>
+				<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" target="">Mr Lloyd Lin Jianbang</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:clarissa_ng_pey_wen@schools.gov.sg" target="">Mdm Ng Pey Wen Clarissa</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:pamela_anne_de_souza@schools.gov.sg" target="">Mdm Pamela Anne De Souza</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tan_chai-lian_kathleen@schools.gov.sg" target="">Miss Tan Chai-Lian Kathleen</a></p></td></tr>
