@@ -67,6 +67,10 @@ variant: tiptap
 <p><a href="/files/Term Letter/School_Health_Visit_for_Secondary_1_to_2_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1/2: Health Screening (for Seconday 1 to 2 Students)</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Term Letter/2024_End_of_Term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 3</a>
+</p>
+</li>
 </ul>
 <p></p>
 <p></p>
