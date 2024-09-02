@@ -68,7 +68,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Term Letter/2024_End_of_Term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 3</a>
+<p><a href="/files/Term Letter/2024_End_of_Term_3_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 3</a>
 </p>
 </li>
 </ul>
