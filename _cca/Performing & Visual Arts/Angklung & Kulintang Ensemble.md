@@ -27,9 +27,8 @@ beauty of cultural fusion and the boundless possibilities of musical expression.
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLyfimMYddo4ysPjePtK0k3ER2sChehtLLZjLBJI7newl3rA6UZYwis7noKISMCB9RB4dQI0Q_BeH9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4>Student Leaders</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -41,9 +40,6 @@ beauty of cultural fusion and the boundless possibilities of musical expression.
 <th rowspan="1" colspan="1">
 <p>Appointment</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,9 +48,6 @@ beauty of cultural fusion and the boundless possibilities of musical expression.
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>3 PA</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,9 +55,6 @@ beauty of cultural fusion and the boundless possibilities of musical expression.
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice- Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 RP</p>
 </td>
 </tr>
 </tbody>
@@ -103,13 +93,13 @@ beauty of cultural fusion and the boundless possibilities of musical expression.
 </tbody>
 </table>
 <h4>Students' voices</h4>
-<p><strong>BOON WAI SEE (3-Passion, 2024)</strong>
+<p><strong>BOON WAI SEE (2024)</strong>
 <br><em>‘Joining Angklung &amp; Kulintang Ensemble has taught me perseverance, resilience and discipline. I participated in Singapore Youth Festival 2023 and even though we didn't get the achievement we aimed for; our bond has become stronger during our practice together. I feel motivated and dedicated to achieving distinction next SYF.’</em>
 </p>
-<p><strong>NUR QAISARA HUSNA BTE HUSSIN (2-Discipline, 2024)</strong>
+<p><strong>NUR QAISARA HUSNA BTE HUSSIN (2024)</strong>
 <br><em>‘During the CCA sessions, I have learnt how to work effectively as a team. Angklung is all about teamwork so being in this CCA has taught me how to be patient and how to work together with my peers. One memorable experience I had was during the JVS 30th Anniversary Prize Conferment Ceremony. My CCA members and I had spent a lot of time preparing for the performance and it sounded really good on the performance day.’</em>
 </p>
-<p><strong>KISHOORKUMAR SIVAKUMAR (1-Discipline, 2024)</strong>
+<p><strong>KISHOORKUMAR SIVAKUMAR (2024)</strong>
 <br><em>‘A year filled with love for music. I joined Angklung &amp; Kulintang Ensemble without much knowledge 𝗍𝗁𝗂𝗇𝗄𝗈𝗇𝗀 𝗂𝗍 𝗐𝗈𝗎𝗅𝖽 𝖻𝖾 𝖻𝗈𝗋𝗂𝗇𝗀. 𝖧𝗈𝗐𝖾𝗏𝖾𝗋, 𝖺s I started to play Angklung, I started to appreciate the music notes. Working together with my peers, it helped to level up my skills. Being someone who has stage fright, this CCA helped me to overcome that. I am glad to be part of many performances in year 2024 especially the 30th anniversary concert.’</em>
 </p>
 <h4>Training Schedule</h4>
