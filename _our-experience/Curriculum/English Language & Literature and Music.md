@@ -27,4 +27,4 @@ JV-nites are exposed to various instruments, ranging from keyboards, guitars and
 Besides this, the department engaged the students using Bandlab where they can explore the use of loop music. Our secondary Two JV-nites then composed using original loop.
 The department is hopeful that these programmes would help students learn confidently and go the extra mile for themselves.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAjvQru3mCYrza5LSpDGpLCHRYMhefEKu0ZKd6Rt5V8fJJsvxD28EZunrm-PEXuOgh82Hpo59aPi6k/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAjvQru3mCYrza5LSpDGpLCHRYMhefEKu0ZKd6Rt5V8fJJsvxD28EZunrm-PEXuOgh82Hpo59aPi6k/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
