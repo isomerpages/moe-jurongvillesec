@@ -39,15 +39,15 @@ By learning problem-solving skills across these domains, students develop interd
 
 #### Nutrition and Food Science (NFS)
 
-Our subject aims to develop students’ understanding of the relationship between nutrition and health, consumer literacy and food science. Students are equipped with the knowledge and skills to be health ambassadors, discerning consumers, and food innovators. 
+Our subject aims to develop students’ understanding of the relationship between nutrition and health, consumer literacy and food science. Students are equipped with knowledge and skills to be health ambassadors, discerning consumers, and food innovators.
 
-With the resumption of school enrichment programmes this year, NFS students had the opportunity to learn the science and art of Pao-making through a workshop conducted by professional chefs. Our graduating NFS students also participated in the “I Scream for Ice-Cream workshop” at the Singapore Science Centre, where they learnt to apply the concepts of food science in ice-cream making.
+Yearly, the NFS unit will organise culinary skill enrichment programme for the upper secondary students to hone their cooking techniques and explore the world of gastronomy.
 
-This year, teachers from the NFS unit and Humanities department came together to learn from each other’s curriculum and participate in a workshop to make food enzymes and food products from food waste.
-
-Our unit continued to collaborate with various stakeholders to promote healthy eating for all students and staff. A termly Fruit Day was carried out to instill the habit of consuming two servings of fruits a day. 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBNaR3vl1TMa_oHFXjI2NQDn9_o6apXQDMUqsV4Wg2dhemRwYQcVapFac4e0TRDi7RAJTZTG-fOiqi/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+Over the years, the NFS unit collaborated with different departments. This year, NFS collaborated with Science Department and brought students on a learning journey to National Kidney Foundation (NKF) to enhance students understanding of kidney-related diseases, prevention strategies and lifestyle modifications.   
+<img style="width:500px" src="/images/2024_CT_NFS_P1.jpg">
 
 #### Principles of Accounts (POA)
 
-The POA curriculum provides students with a basic introduction to financial accounting.  Students will develop an appreciation of the discipline of accounting and the need for ethical conduct in this field.  Accounting students will develop the abilities to  prepare, communicate and use the financial information for decision-making.  They will be trained to be logical, systematic and analytical, while  being imbued with values such as integrity, objectivity and discipline.
+The POA curriculum provides students with a basic introduction to financial accounting. Students will develop an appreciation of the discipline of accounting and the need for ethical conduct in this field. Accounting students will develop the abilities to prepare, communicate and use the financial information for decision-making. They will be trained to be logical, systematic and analytical, while being imbued with values such as integrity, objectivity and discipline.
+This year, two teams of Secondary Three students participated in the National Accounting Challenge 2024.  The aim of this competition is to provide opportunities for POA students to apply their learning to ascertain mastery of the subject and to propose solutions to real-life business scenarios.  One team showed good analytical, decision-making and communication skills to attain 3rd place for the competition.
+<img style="width:500px" src="/images/2024_CT_POA_P1.jpg">
