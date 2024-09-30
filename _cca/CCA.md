@@ -313,7 +313,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm</p>
+<p>3:00pm - 5:00pm</p>
 <p>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
