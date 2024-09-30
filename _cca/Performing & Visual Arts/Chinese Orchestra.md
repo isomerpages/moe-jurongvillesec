@@ -183,15 +183,22 @@ you?</p>
 </tbody>
 </table>
 <h4>Students’ voices</h4>
-<p><strong>Odelia Jane Seet Ming Yue, President</strong>
-<br><em>“Although I have already learned how to play a couple of instruments before joining Chinese Orchestra, my learning didn’t stagnate here. I have moved on to learn what it meant to lead a big group of people of similar age. Throughout my entire journey of being in CO, I have made friends and built relationships from Sec 1 to Sec 4. To be placed in charge is a privilege, especially since I'm only 15. As my juniors rise up to lead, I hope that they can learn to cherish every moment in CO.”</em>
+<p><strong>Ng Zhen Zhen, President</strong>
+<br><em>“During my time in Chinese Orchestra, not only have I developed my proficiency in playing my instrument, I have also learnt to adapt to different situations and learnt how to work with different groups of people. I have also realized the importance of adopting an open mindset and think of different ways to resolve the problems that we encounter, to ensure a conducive and engaging learning environment for all. I hope that my juniors will learn as much, make many new friends and have an enjoyable time in Chinese Orchestra too.”</em>
 </p>
-<p><strong>Chloe Tang Wei Xin, Vice-President</strong>
-<br><em>“Throughout the years of joining Chinese Orchestra, not only have I learnt to play an instrument, I have also learnt the importance of teamwork in an orchestra. After joining CO, I realized that I became more comfortable with public speaking and I also became more confident by taking the initiative and helping others in the orchestra. I have also made many new friends and created many unforgettable bonds with others, regardless of seniority. To my juniors, continue to work together and don’t ever give up. Believe in yourselves!”</em>
+<p><strong>Wong Yu Lin Eliz, Vice-President</strong>
 </p>
-<p><strong>Aw Yong Chen Mei Shermaine, Secretary</strong>
-<br><em>“By joining Chinese Orchestra, not only did I learn a new instrument and advance my skills, I also learnt to persevere through challenging times such as when a performance was coming up or when there was Singapore Youth Festival. I have no regrets joining CO, as it has allowed me to create fond memories and bonded friendships with CCA mates from various levels that I will definitely cherish forever. To my dear juniors, I hope you will continue to enjoy your time in CO and remember to strive through the hard times together as one orchestra.”</em>
+<p><em>“Being in Chinese Orchestra has taught me to be conscientious and resilient both in practising my instrument and improving my personal qualities, be it as a member or as a leader. I have learnt how an orchestra has to work together to move forward to achieve the best outcome, especially when approaching Singapore Youth Festival. I have really enjoyed my time in Chinese Orchestra, forged strong bonds with my CCA mates, gained countless fond memories and hope that my juniors will cherish their time in this CCA. I wish them all the best for the challenges that await them.”</em>
 </p>
+<p><strong>Ke Yi En, Vice-President</strong>
+</p>
+<p><em>“Joining Chinese Orchestra has unearthed the hidden potential within each of us. I discovered mine: empowering others to shine. As a leader, I support and guide, helping members overcome challenges and reach new heights. With Singapore Youth Festival approaching, I see dedication and passion from the members. I appreciate the efforts made, memories shared, and friendships forged. My heart goes out to each member striving for excellence. I'm committed to helping them unlock their potential, embrace growth, and become the best versions of themselves. Together, we'll shine, celebrating every triumph and learning from every setback. All the best!”</em>
+</p>
+<p><strong>Chew Wen Hui, Vice-President</strong>
+</p>
+<p><em>“As someone who was appointed the leader in spite of joining Chinese Orchestra a year later than everyone else, I feel honored by the trust and recognition of my teachers and batchmates. I am proud to say that Chinese Orchestra is the place where I have had the happiest time since I came to this school. Even though I had no musical background, I felt cared for and helped by everyone. I am very fortunate to have experienced the transformation of my life here, and I wish all juniors joining this big family a wonderful experience in the future.”</em>
+</p>
+<p></p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -200,7 +207,7 @@ you?</p>
 </p>
 </li>
 <li>
-<p>Friday 2:00pm - 4:00pm</p>
+<p>Thursday 3:00pm - 5:00pm</p>
 </li>
 </ul>
 <p></p>
