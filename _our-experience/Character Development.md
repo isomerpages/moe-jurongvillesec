@@ -2,10 +2,11 @@
 title: Character Development
 permalink: /our-experience/char-develop/
 description: ""
+variant: markdown
 ---
-## Character Development
+## Character and Citizenship Education
 
-The school believes that character is the first and foremost element that will prepare our students to be world ready. We are committed in providing each student with a holistic education and in nurturing citizens of character who are active contributors of our society.   <br>
+The school believes that character is the first and foremost element that will prepare our students to be world ready. We are committed in providing each student with a holistic education and in nurturing citizens of character who are active contributors of our society.&nbsp;  <br>
 Our Character and Citizenship Education (CCE) programme strives to impact every student through internalizing of values through authentic learning experiences.
 
 The Character and Citizenship Education (CCE) programme in Jurongville encompasses the following key areas:  
@@ -36,4 +37,4 @@ Our upper secondary students are involved in the Service Learning Programme wher
 \-&nbsp;**Nisha (4IN)**
 
 #### Photos
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBv3idMX6NAdHSifXw7KVm5AjafsLlkho-gh_BpRF0zh_vcTsRQF-Hu-WpYVlRjmGW0Ez2CzX-Nvdb/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBv3idMX6NAdHSifXw7KVm5AjafsLlkho-gh_BpRF0zh_vcTsRQF-Hu-WpYVlRjmGW0Ez2CzX-Nvdb/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
