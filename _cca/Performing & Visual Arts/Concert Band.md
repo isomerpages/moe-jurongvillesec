@@ -40,9 +40,8 @@ and a person, and countless memories that will last a lifetime.</p>
 <br>
 </p>
 <h4>Student Leaders</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -54,9 +53,6 @@ and a person, and countless memories that will last a lifetime.</p>
 <th rowspan="1" colspan="1">
 <p>Appointment</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -64,9 +60,6 @@ and a person, and countless memories that will last a lifetime.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band Major</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3RP</p>
 </td>
 </tr>
 <tr>
@@ -76,9 +69,6 @@ and a person, and countless memories that will last a lifetime.</p>
 <td rowspan="1" colspan="1">
 <p>Drum Major</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>3IN</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -86,9 +76,6 @@ and a person, and countless memories that will last a lifetime.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3RP</p>
 </td>
 </tr>
 </tbody>
@@ -127,13 +114,13 @@ and a person, and countless memories that will last a lifetime.</p>
 </tbody>
 </table>
 <h4>Students' voices</h4>
-<p><strong>Alecia Ho Zi Ning (3RP), Band Major</strong>
+<p><strong>Alecia Ho Zi Ning, Band Major</strong>
 <br><em>My 3 years in band had been a fun and educational journey for me. I had the chance to learn more about music while enjoy making music with my friends, seniors and even my juniors. Band is not only a place for me to grow as a musician but also a place for me to develop values such as being responsible and disciplined as I take up larger roles in the band. Our band continued improving despite having to face tight performance deadlines like the ND Parade segment in school right after our 30th Anniversary Performance. It was a challenge but as a band we stayed united and together we overcame it and delivered a great performance. I would also like to thank my teachers and instructors for guiding us through the ups and downs I'm our band journey and helping the band grow stronger.</em>
 </p>
-<p><strong>Loh Yun Ling Brenda (3IN), Drum Major</strong> 
+<p><strong>Loh Yun Ling Brenda, Drum Major</strong> 
 <br><em>My years in Jurongville Concert Band has been a new experience for me. It was tough at first, but the friends in band gave me the encouragement to not give up. I have learnt many things not only relating to music, but also in building my character. Band has taught me important values such as discipline, responsibility , respect and perseverance. It is fascinating to see and work with people from different backgrounds coming together as one harmonious band. I really enjoy my experience in band, and I hope others would have the opportunity to do so as well.</em>
 </p>
-<p><strong>Chan Zhixin, Wesley (3RP), Secretary</strong>
+<p><strong>Chan Zhixin, Wesley, Secretary</strong>
 </p>
 <p><em>My two years in the band have been incredibly memorable, filled with laughter and joy. Through band, I have gained a deeper understanding and connection with music, thanks to the valuable lessons taught by our conductor. These lessons go beyond music, teaching me skills that I can apply in my daily life. This journey has made me a better musician and enhanced my values, such as discipline, responsibility, and teamwork. Additionally, I’ve made new friends, each unique in their own way, and learned how to communicate effectively with them. Lastly, these opportunities were all possible due to our teachers in charge. Their hard work, support, and guidance created a nurturing environment that allowed us to grow and develop</em>
 </p>
