@@ -120,7 +120,7 @@ beauty of cultural fusion and the boundless possibilities of musical expression.
 </p>
 </li>
 <li>
-<p>Friday 3:00pm - 5:00pm</p>
+<p>Thursday 3:00pm - 5:00pm</p>
 </li>
 </ul>
 <p></p>
