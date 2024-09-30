@@ -453,8 +453,8 @@ variant: tiptap
 <br>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm - 4:00pm
-<br>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm
+<br>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Orchestra Room /</p>
