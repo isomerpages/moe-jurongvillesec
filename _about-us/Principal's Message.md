@@ -2,20 +2,42 @@
 title: Principal's Message
 permalink: /about-us/principal-message/
 description: ""
+variant: markdown
 ---
 ## Principal's Message
 
 **Greetings from Jurongville Secondary School and welcome!**
 
-On behalf of a grateful school, I would like to pay tribute to Mr Chan Yew Wooi’s steadfast stewardship of the school over the last four years. As we look forward to the years ahead, we will continue to build on the firm foundation that Mr Chan has laid.
+As we celebrate 30 years of nurturing students in 2024, we are proud to invite you to explore what makes Jurongville Secondary School a unique and inspiring place for your child's secondary education. At Jurongville, we don’t just prepare students for exams—we prepare them for life.
+For three decades, we have been committed to developing well-rounded individuals who are ready to make a positive difference in the world. Our approach to education goes beyond academics, focusing on character development, leadership skills, and community engagement. We believe that every student has the potential to excel, and it is our mission to provide them with the guidance, opportunities, and support they need to do so.
 
-In 2023, we welcome the class of 2026 as our first batch of students who will experience Full Subject Based Banding (FSBB). I hope every student will seize the opportunities afforded by the school to pursue their strengths and interests in the time that they have with us.
+Since our founding, we have educated over 13,750 students, with generations of families trusting us with their children’s growth and development. With an impressive record of academic and non academic success, our students consistently perform well, but what truly sets Jurongville apart is our strong community spirit and the values we instill in each individual. Our alumni are not just graduates; they are change-makers who have gone on to impact their communities, professions, and the world.
 
-The last few years have been challenging as we met the challenges brought about by the COVID-19 pandemic. Despite this, we remain steadfast in our mission <b>to nurture world-ready students with the passion to learn, lead and serve</b>. Indeed, the changes in our lives in the last three years underscore the need to help our students thrive in an increasing Brittle, Anxious, Non-Linear and Incomprehensible environment.
+**A School that Nurtures Beyond the Classroom**
 
-As we continue to forge ahead together with hope and confidence, we also look forward to celebrating our school’s 30th anniversary in 2024. It is indeed an opportune time for all of us to reflect how far we have come since our founding in 1994; how much we have achieved in these years as well as to show our gratitude to the people and community that have made so much possible for us. As we gear up for the celebrations, I hope our students continue to be true to our school’s motto - <b><i>Beyond Self</i></b>, recognizing that they are the future of our community, society and country. May each of you come to enjoy learning; find ways that you can make a difference and remember that we are all called to serve each other.
+At Jurongville, learning is not confined to textbooks. Our students are encouraged to explore their passions through a wide range of co-curricular activities (CCAs), leadership programs, and service-learning projects. These experiences are designed to develop essential life skills such as teamwork, resilience, empathy, and responsibility. Our robust curriculum and enriching programs ensure that every student has the opportunity to grow holistically, discovering their strengths and passions along the way.
 
-For our partners – Parents, Alumnus, and community partners, I invite you to follow us on our social media platforms to stay up to date with what’s happening in and around school.
+**Partnerships that Support Success**
+
+Our success is not achieved alone. Over the years, Jurongville has fostered strong partnerships with the wider community, including our esteemed alumni, parents, and local organizations. These collaborations provide our students with invaluable real-world exposure, mentorship opportunities, and career guidance, further enhancing their learning experiences. Our School Advisory Committee, in particular, has played a key role in supporting our growth, ensuring that we continue to evolve and provide the best education possible for every student who walks through our doors.
+
+**Heritage and Vision for the Future**
+
+As we look back on our 30 years of achievements, we are equally focused on the future. Our school’s heritage is one of resilience, innovation, and inclusivity, and we are constantly adapting to meet the evolving needs of our students in a dynamic world. 
+
+At the heart of our school is a simple yet powerful motto: "*Beyond Self*." This ethos drives everything we do, from how we teach to how we engage with the community. We encourage our students to look beyond their own interests and contribute to the greater good, embodying values of perseverance, respect, integrity, discipline and empathy
+
+**Why Choose Jurongville for Your Child?**
+
+We understand that choosing the right school for your child is an important decision. At Jurongville, you can be confident that your child will be in a nurturing environment that values both academic and personal growth. Our dedicated teachers are passionate about helping each student reach their full potential, tailoring their support to the needs of every individual.
+
+Whether your child excels in the arts, sciences, sports, or leadership, Jurongville provides the platform for them to shine and develop their talents. Our commitment to fostering a love for learning, a strong moral compass, and a sense of community means that your child will leave Jurongville not just as a capable student, but as a confident, compassionate individual ready to take on the future.
+
+**Join the Jurongville Family**
+
+We invite you to become part of our vibrant and supportive school community. Visit us to learn more about how Jurongville Secondary School can be the right fit for your child’s secondary school journey. Together, we can create a future where your child not only succeeds but thrives.
+
+We look forward to welcoming you to Jurongville Secondary School—a place where heritage meets innovation, and every student is empowered to go *beyond self*.
 
 With my warmest regards<br><br>
 Philibert Leow<br>
