@@ -14,10 +14,10 @@ At Jurongville Secondary School, our Science Department is dedicated to fosterin
 	</tr>
 </tbody></table>
 
-##### Our Vision
+#### Our Vision
 To inspire and cultivate scientifically literate students who are curious about the world around them and equipped with the skills to explore, analyse and contribute to the ever-evolving field of science.
 
-##### Our Approach
+#### Our Approach
 We believe that science is best learned by doing. We encourage active learning where students are not just passive recipients of information but active participants in the learning process. Through experiments, projects and real-world applications, students develop a strong foundation in scientific principles and practices.
 
 Where possible, we expose our students to see beyond the classroom through learning journeys that help students to see and learn beyond the classroom. 
@@ -26,7 +26,7 @@ Where possible, we expose our students to see beyond the classroom through learn
 	</tr>
 </tbody></table>
 
-##### Our Curriculum
+#### Our Curriculum
 Our comprehensive science curriculum spans across Biology, Chemistry and Physics. It is carefully crafted to demonstrate ways of thinking and doing in Science. Students will investigate scientific phenomenon, evaluate and develop explanations and solutions where they will make more informed decisions before taking responsible actions.
 <table>
 	<tbody><tr><td><img style="width:300px" src="/images/2024_SC_P6.jpg"></td>
