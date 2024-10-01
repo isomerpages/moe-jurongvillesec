@@ -40,4 +40,4 @@ Our Core Values are based on R.I.C.E, taking reference from The Leadership Chall
 * **School Programmes and Events**: Through planning and organising school events and facilitating school programmes, different groups of student leaders are given the opportunity to learn skills of event planning and management, develop problem-solving and decision-making skills, and build their confidence and self-esteem.
 <img style="width:300px" src="/images/2024_StudentLeadership_P4.jpg">
 We are also excited to announce that our Student Leaders are now on Instagram! Follow us and stay updated on the events and achievements. Whether it’s showcasing students’ work, celebrating success or sharing highlights from school activities, our Instagram page is the place to be.
-Click **Follow** to stay connected!
+Click "<b>Follow</b>" to stay connected!
