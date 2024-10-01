@@ -5,4 +5,112 @@ description: ""
 third_nav_title: Performing & Visual Arts
 variant: tiptap
 ---
-<h2>Angklung &amp; Kulintang Ensemble</h2><h4>About</h4><p>The aim of the Angklung and Kulintang Ensemble is to promote music appreciation through the playing of two Traditional Malay instruments — the Angklung and Kulintang — which originate from Southeast Asia.</p><p>During CCA sessions, members learn the technical skills of playing the Angklung or Kulintang, and acquire a theoretical foundation in music. Though these training sessions, we also cultivate discipline and patience among our members, allowing them to become skilful in playing music.</p><p>Covid-19 presents unprecedented challenges in the way we learn and carry out our CCA training sessions. We learnt to adapt to a new way to carry out our CCA so that the members still have the opportunity to hone their musical skills. Although it is challenging to conduct our CCA sessions via Zoom, the students persevered and even learned new songs during these Zoom sessions. Their hard work finally culminated in a moving performance for the Singapore Youth Festival 2021. They were awarded with the Certificate of accomplishment.</p><p>Through these challenging times, the Ensemble is confident that the students’ perseverance and their adaptability to change will make them emerge stronger and united as a team.</p><h4>CCA Photo</h4><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLyfimMYddo4ysPjePtK0k3ER2sChehtLLZjLBJI7newl3rA6UZYwis7noKISMCB9RB4dQI0Q_BeH9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></div><h4>Student Leaders</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Appointment</p></th><th rowspan="1" colspan="1"><p>Class</p></th></tr><tr><td rowspan="1" colspan="1"><p>KANNAN SUBALAKSHMI</p></td><td rowspan="1" colspan="1"><p>Chairperson</p></td><td rowspan="1" colspan="1"><p>3 Passion</p></td></tr><tr><td rowspan="1" colspan="1"><p>AKHSHAYAA BALAKRISHNAN</p></td><td rowspan="1" colspan="1"><p>Vice- Chairperson</p></td><td rowspan="1" colspan="1"><p>3 Resilience</p></td></tr><tr><td rowspan="1" colspan="1"><p>KOH ZHI YI CHLOE</p></td><td rowspan="1" colspan="1"><p>Vice- Chairperson</p></td><td rowspan="1" colspan="1"><p>3 Passion</p></td></tr></tbody></table><h4>Key Achievements</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>JVS</p></th></tr><tr><td rowspan="1" colspan="1"><p>2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p>2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p>2017&nbsp;Singapore Youth Festival Arts Presentation: Certificate of Distinction</p></td></tr></tbody></table><h4>Students' voices</h4><p><strong>SHIVANESWARY D/O SARAVANAN (3-Respect, 2021)</strong> <br><em>‘I have learnt that we have to work together with my peers in order to achieve something. When I first joined the ensemble I didn't have any friends. However as days go, I managed to get along with CCA mates and juniors and now we have made unforgettable memories.’</em></p><p><strong>DAMIEN OOH LIWEI (1-Discipline, 2021)</strong> <br><em>‘Being in Angklung has developed me into a resilient person. The first year has been a fruitful year where I play an instrument that I have never tried before and interact with my peers and seniors. The songs that we play are relaxing and enjoyable for me and it makes me want to come for the CCA.’</em></p><p><strong>NG SI YUN (2-Empathy, 2021)</strong> <br><em>‘Ever since joining the Angklung &amp; Kulintang Ensemble, I really learnt so much from it. I literally had no whatsoever experience in playing instruments and so I was kind of nervous when I first joined it. However, now that I have spent 1 and a half years in it, I feel a sense of home and comfort with all of my friends getting together to learn how to read chords and how to play music pieces as one. Though I may have struggled at first, I wouldn't be here without my supportive friends and CCA teachers. Joining this CCA has really been a eye-opening experience and I cannot wait for what the future brings us!’</em></p><h4>Training Schedule</h4><ul data-tight="true" class="tight"><li><p>Tuesday 3:45pm - 5:45pm<br></p></li><li><p>Friday 2:30pm - 3:45pm</p></li></ul><p></p>
+<h2>Angklung &amp; Kulintang Ensemble</h2>
+<h4>About</h4>
+<p>The aim of the Angklung and Kulintang Ensemble is to promote music appreciation
+through the playing of two Traditional Malay instruments — the Angklung
+and Kulintang — which originate from Southeast Asia.</p>
+<p>During CCA sessions, members learn the technical skills of playing the
+Angklung or Kulintang and acquire a theoretical foundation in music. Though
+these training sessions, we also cultivate discipline and patience among
+our members, allowing them to become skillful in playing music.</p>
+<p>Our CCA members have the experience to collaborate with other performing
+arts group during this year 30th Anniversary Prize Conferment Ceremony.
+The angklung’s versatility and adaptability make it an ideal instrument
+for collaboration. This innovative collaboration has the potential to create
+captivating performances, blending the angklung’s gentle tones with the
+dynamic beats of other performing groups’ instruments. It showcases the
+beauty of cultural fusion and the boundless possibilities of musical expression.</p>
+<p></p>
+<h4>CCA Photo</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLyfimMYddo4ysPjePtK0k3ER2sChehtLLZjLBJI7newl3rA6UZYwis7noKISMCB9RB4dQI0Q_BeH9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<h4>Student Leaders</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BOON WAI SEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALCANTARA AYESSA SHAMIN DELA LUNA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice- Chairperson</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Key Achievements</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>JVS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017&nbsp;Singapore Youth Festival Arts Presentation: Certificate of Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Students' voices</h4>
+<p><strong>BOON WAI SEE (2024)</strong>
+<br><em>‘Joining Angklung &amp; Kulintang Ensemble has taught me perseverance, resilience and discipline. I participated in Singapore Youth Festival 2023 and even though we didn't get the achievement we aimed for; our bond has become stronger during our practice together. I feel motivated and dedicated to achieving distinction next SYF.’</em>
+</p>
+<p><strong>NUR QAISARA HUSNA BTE HUSSIN (2024)</strong>
+<br><em>‘During the CCA sessions, I have learnt how to work effectively as a team. Angklung is all about teamwork so being in this CCA has taught me how to be patient and how to work together with my peers. One memorable experience I had was during the JVS 30th Anniversary Prize Conferment Ceremony. My CCA members and I had spent a lot of time preparing for the performance and it sounded really good on the performance day.’</em>
+</p>
+<p><strong>KISHOORKUMAR SIVAKUMAR (2024)</strong>
+<br><em>‘A year filled with love for music. I joined Angklung &amp; Kulintang Ensemble without much knowledge 𝗍𝗁𝗂𝗇𝗄𝗈𝗇𝗀 𝗂𝗍 𝗐𝗈𝗎𝗅𝖽 𝖻𝖾 𝖻𝗈𝗋𝗂𝗇𝗀. 𝖧𝗈𝗐𝖾𝗏𝖾𝗋, 𝖺s I started to play Angklung, I started to appreciate the music notes. Working together with my peers, it helped to level up my skills. Being someone who has stage fright, this CCA helped me to overcome that. I am glad to be part of many performances in year 2024 especially the 30th anniversary concert.’</em>
+</p>
+<h4>Training Schedule</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday 3:00pm - 5:00pm
+<br>
+</p>
+</li>
+<li>
+<p>Thursday 3:00pm - 5:00pm</p>
+</li>
+</ul>
+<p></p>

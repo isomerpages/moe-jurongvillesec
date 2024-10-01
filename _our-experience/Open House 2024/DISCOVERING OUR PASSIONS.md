@@ -2,7 +2,7 @@
 title: DISCOVERING OUR PASSIONS
 permalink: /our-experience/open-house-2023/passion/
 description: ""
-third_nav_title: Open House 2023
+third_nav_title: Open House 2024
 variant: markdown
 ---
 ## DISCOVERING OUR PASSIONS

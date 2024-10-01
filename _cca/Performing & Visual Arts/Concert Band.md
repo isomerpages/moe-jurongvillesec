@@ -5,4 +5,135 @@ description: ""
 third_nav_title: Performing & Visual Arts
 variant: tiptap
 ---
-<h2>Concert Band</h2><h4>About</h4><p>Established at the inception of Jurongville Secondary School, the Jurongville Concert Band strives to discover the unique strengths of each and every one of our band members and maximise their musical potential.</p><p>Unafraid of new challenges and constraints, our band members, instructors and teachers worked together in proposing and trying various solutions to continue band practices in line with the safe management measures. Driven by their love for music, band members showed their flexibility and resilience in overcoming the odds by staying united online and offline despite the limitations for band practices.</p><p>A highlight event of the year 2021 was the band’s participation in Singapore Youth Festival (SYF). Exuding both confidence and pride, our band members impressed the audience with their stellar performance at the SYF Arts Presentation held in April 2021. Their concerted effort, dedication and determination enabled them to put up a splendid performance that won the hearts and praises of the adjudication and teachers.</p><h4>CCA Photo &amp; Video</h4><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfU2YAHE5ov46_TRLIufQ92l_CgsQd-zTBaE3b-3F-tn0_KnYOy3vZjm4Qb3ays280yXPtw2AvSpnA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></div><p><br></p><h4>Student Leaders</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Appointment</p></th><th rowspan="1" colspan="1"><p>Class</p></th></tr><tr><td rowspan="1" colspan="1"><p>Muhammad Zahirulhaq Bin Mohamed Hazimin</p></td><td rowspan="1" colspan="1"><p>Band Major</p></td><td rowspan="1" colspan="1"><p>2EM</p></td></tr><tr><td rowspan="1" colspan="1"><p>Seth Yoe Jun Bin</p></td><td rowspan="1" colspan="1"><p>Band Major</p></td><td rowspan="1" colspan="1"><p>3EM</p></td></tr></tbody></table><h4>Key Achievements</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>JVS</p></th></tr><tr><td rowspan="1" colspan="1"><p>2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p>2019 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p>2017&nbsp;Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p></td></tr></tbody></table><h4>Students' voices</h4><p><strong>Muhammad Zahirulhaq (2EM), Band Major</strong> <br><em>So far, in my experience of 2 years in Concert Band here in Jurongville Secondary School, it has been a journey full of fun and new experiences. I had the opportunity to know more about the band and the members and have forged a close bond with them along with the teachers and instructors who have taught me important lessons in both music and values like responsibility, discipline and respect. The band managed to learn new knowledge and have fun together in spite of the pandemic. It was not easy but we progressed and went through it together as a band and that was a really wonderful experience. Seeing people in band from different backgrounds coming together with a mix of different personalities makes the atmosphere in band very lively and vibrant. I really enjoy my band experience and hope to learn more in the future.</em></p><p><strong>Seth Yoe (3EM), Band Major</strong> <br><em>Throughout my years in band, I have gone through many ups and downs, especially this year due to the pandemic. It has impacted all of us one way or another. For me, it has been challenging as there were fewer combined band sessions compared to previous years. However, I have learnt to persevere during this time. As band members, we stayed united and rode out the storm together. Our continuous efforts paid off with our SYF achievement. I hope that our juniors will learn to not give up easily and try our very best in doing everything. I would also like to thank my instructors and teachers for guiding the band. If we persevere, we will definitely succeed.</em></p><h4>Training Schedule</h4><ul data-tight="true" class="tight"><li><p>Tuesday 3:45pm - 5:45pm<br></p></li><li><p>Friday 2:30pm - 4:30pm</p></li></ul><p></p>
+<h2>Concert Band</h2>
+<h4>About</h4>
+<p>The Jurongville Concert Band is a place where students immerse themselves
+in the world of music while honing essential life skills. Here, music becomes
+a tool for personal growth, as members learn, perform, and thrive together.</p>
+<p>The journey of a Concert Band member is one of continuous learning and
+growth. Discipline is instilled in every practice session, as students
+learn to manage their time effectively, balancing academics with their
+commitment to the band. Preparing for performances requires perseverance,
+especially when facing challenges such as mastering a difficult piece or
+performing under pressure. Band members learn to overcome obstacles with
+determination, a quality that will serve them well in all aspects of life.</p>
+<p>In addition to musical and personal development, the Concert Band offers
+numerous leadership opportunities. Senior members often take on roles as
+section leaders, drum majors, or part of the band committee. These positions
+allow students to develop leadership skills, such as communication, decision-making,
+and mentoring their peers — a valuable experience that builds confidence
+and prepares students for future challenges.</p>
+<p>The Concert Band is also a platform for students to showcase their talents,
+both within the school and beyond. Our band was part of the schools’ 30th
+Prize Conferment Ceremony as well as the annual National Day Performance.
+We are also currently preparing for the 2025 SYF in April. These experiences
+help shape well-rounded individuals who are not only musically skilled
+but also poised and self-assured.</p>
+<p>Here, you’ll find a supportive community, a chance to grow as both a musician
+and a person, and countless memories that will last a lifetime.</p>
+<p></p>
+<h4>CCA Photo &amp; Video</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfU2YAHE5ov46_TRLIufQ92l_CgsQd-zTBaE3b-3F-tn0_KnYOy3vZjm4Qb3ays280yXPtw2AvSpnA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p>
+<br>
+</p>
+<h4>Student Leaders</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alecia Ho Zi Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Major</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Yun Ling Brenda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drum Major</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Zhixin, Wesley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Key Achievements</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>JVS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017&nbsp;Singapore Youth Festival Arts Presentation: Certificate of Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Students' voices</h4>
+<p><strong>Alecia Ho Zi Ning, Band Major</strong>
+<br><em>My 3 years in band had been a fun and educational journey for me. I had the chance to learn more about music while enjoy making music with my friends, seniors and even my juniors. Band is not only a place for me to grow as a musician but also a place for me to develop values such as being responsible and disciplined as I take up larger roles in the band. Our band continued improving despite having to face tight performance deadlines like the ND Parade segment in school right after our 30th Anniversary Performance. It was a challenge but as a band we stayed united and together we overcame it and delivered a great performance. I would also like to thank my teachers and instructors for guiding us through the ups and downs I'm our band journey and helping the band grow stronger.</em>
+</p>
+<p><strong>Loh Yun Ling Brenda, Drum Major</strong> 
+<br><em>My years in Jurongville Concert Band has been a new experience for me. It was tough at first, but the friends in band gave me the encouragement to not give up. I have learnt many things not only relating to music, but also in building my character. Band has taught me important values such as discipline, responsibility , respect and perseverance. It is fascinating to see and work with people from different backgrounds coming together as one harmonious band. I really enjoy my experience in band, and I hope others would have the opportunity to do so as well.</em>
+</p>
+<p><strong>Chan Zhixin, Wesley, Secretary</strong>
+</p>
+<p><em>My two years in the band have been incredibly memorable, filled with laughter and joy. Through band, I have gained a deeper understanding and connection with music, thanks to the valuable lessons taught by our conductor. These lessons go beyond music, teaching me skills that I can apply in my daily life. This journey has made me a better musician and enhanced my values, such as discipline, responsibility, and teamwork. Additionally, I’ve made new friends, each unique in their own way, and learned how to communicate effectively with them. Lastly, these opportunities were all possible due to our teachers in charge. Their hard work, support, and guidance created a nurturing environment that allowed us to grow and develop</em>
+</p>
+<p></p>
+<h4>Training Schedule</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday 3:00pm - 5:00pm
+<br>
+</p>
+</li>
+<li>
+<p>Friday 2:30pm - 4:30pm</p>
+</li>
+</ul>
+<p></p>

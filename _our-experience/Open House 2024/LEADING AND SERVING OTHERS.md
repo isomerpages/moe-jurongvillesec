@@ -2,7 +2,7 @@
 title: LEADING AND SERVING OTHERS
 permalink: /our-experience/open-house-2023/leading/
 description: ""
-third_nav_title: Open House 2023
+third_nav_title: Open House 2024
 variant: markdown
 ---
 ## LEADING AND SERVING OTHERS

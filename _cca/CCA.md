@@ -122,7 +122,7 @@ variant: tiptap
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 5:00pm</p>
+<p>2:30pm - 4:30pm</p>
 <p>(<strong>Friday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,7 +143,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 6:30pm</p>
+<p>3:00pm - 6:00pm</p>
 <p>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -313,7 +313,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm</p>
+<p>3:00pm - 5:00pm</p>
 <p>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -425,12 +425,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
+<p>3:00pm - 5:00pm
 <br>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 3:45pm
-<br>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm
+<br>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room</p>
@@ -453,8 +453,8 @@ variant: tiptap
 <br>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm - 4:00pm
-<br>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm
+<br>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Orchestra Room /</p>
@@ -475,7 +475,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
+<p>3:00pm - 5:00pm
 <br>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -2,7 +2,7 @@
 title: PREPARING FOR THE FUTURE
 permalink: /our-experience/open-house-2023/prepfuture/
 description: ""
-third_nav_title: Open House 2023
+third_nav_title: Open House 2024
 variant: markdown
 ---
 ## PREPARING FOR THE FUTURE
