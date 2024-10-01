@@ -2,9 +2,14 @@
 title: National Exam Schedule
 permalink: /student-information/nes/
 description: ""
+variant: markdown
 ---
 ## National Exam Schedule
 
-#### 2023 National Exam
+#### 2024 National Exam
 
-Information on 2023 National Exam Schedule will be posted on this page when available.
+[GCE O-Level Exam schedule](https://www.seab.gov.sg/docs/default-source/examination-timetable/gce-o-level-exam-timetable-as-at-24-may-2024-for-publication.pdf?sfvrsn=da8fceeb_1)
+
+[GCE NA-Level Exam schedule](https://www.seab.gov.sg/docs/default-source/examination-timetable/gce-n-level-exam-timetable-for-publication-as-at-24-may.pdf?sfvrsn=9e38656_1)
+
+[GCE NT-Level Exam schedule](https://www.seab.gov.sg/docs/default-source/examination-timetable/gce-n-level-exam-timetable-for-publication-as-at-24-may.pdf?sfvrsn=9e38656_1)
