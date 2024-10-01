@@ -2,25 +2,30 @@
 title: Applied Learning Programme
 permalink: /our-experience/apl/
 description: ""
+variant: markdown
 ---
 ## Applied Learning Programme&nbsp;
 
 #### Preparing Students for a SMART Nation and World
 Imagine everyday living eased in by technology. You live in smart homes with automated processes. It becomes a norm in the world for drones to navigate between places and deliver parcels. A smart nation and world are no longer dreams, but reality in the near future. We can and should seize opportunities to thrive in the future.
 
-Jurongville Secondary School prides itself in offering STEM Applied Learning Programme, "Real-World Learning Through Electronics". All students receive opportunities to learn electronics and apply their learning in real-world settings.
-<img style="width:85%" src="/images/14 ALP 141019.jpeg"><br>
-Secondary One students are exposed to the fundamentals of electronics and coding through drone flying activities and electronic game design using the BBC Micro:bit. Secondary Two students get to work on the BBC Micro:bit and Arduino platforms to design and build their very own product to help various groups of people within the community. The prototypes include toys, walking sticks as well as automated lighting systems.
+#### STEM ALP in Action
+Jurongville Secondary School prides itself in offering STEM Applied Learning Programme, “Real-World Learning Through Electronics”. All students receive opportunities to learn electronics and apply their learning in real-world settings. 
 
-Upper Secondary students have the opportunity to specialise in programmes that suit their strengths and interests. These include taking up the O-level Applied Subject, "Electronics", ITE Applied Subject, "Smart Electrical Technology" or applying for a short-term Advanced Elective Module on electronics offered by one of the polytechnics.
+Secondary One and Two students are exposed to the fundamentals of electronics and coding through drone flying activities and learn to control robots using block programing. They learn the basics of how to create their own online games and have hands on opportunities to learn and apply what they have learnt. 
+<table>
+	<tbody><tr>
+		<td><img style="width:250px" src="/images/2024_ALP_P1.jpg"></td>
+		<td><img style="width:250px" src="/images/2024_ALP_P2.jpg"></td>
+		<td><img style="width:150px" src="/images/2024_ALP_P3.jpg"></td>
+	</tr>
+	</tbody></table>
+Upper Secondary students have the opportunity to specialise in programmes that suit their strengths and interests. These include taking up the O-level Applied Subject, “Electronics”, ITE Applied Subject, “Smart Electrical Technology” or applying for a short-term Applied Learning Modules at Polytechnics (APLM) on Electronics.
+Some of the students even had the opportunity to share what they have learnt in STEM ALP lessons with friends in Dripstone Middle School in Darwin Australia.
 
-#### ALP in Action
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsYvxELkjLJUlRSNWNQkvxZpfy7-tv8ZDtdjZE1xlQ6qEUZZ2U1IoNLOdz_EZGMKs1_IL45QJOSnYX/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-Students with keen interest in electronics also represent the school in national STEM-related competitions.
 
 #### ALP Competition &amp; Outreach
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGtIJqrHpzEpWeHGOOOecc5e51fT9dUim60yFDH1HHo3PMRAvbcOBb3NcjPNhckviTEH3H6yXDRlaG/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGtIJqrHpzEpWeHGOOOecc5e51fT9dUim60yFDH1HHo3PMRAvbcOBb3NcjPNhckviTEH3H6yXDRlaG/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <figure>
 <img style="width:90%" src="/images/14ALP 141019(2).jpeg">
