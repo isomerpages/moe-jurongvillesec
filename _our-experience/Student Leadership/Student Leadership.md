@@ -19,13 +19,13 @@ Our Core Values are based on R.I.C.E, taking reference from The Leadership Chall
 * **Integrity**: We lead with honesty and strong moral principles.
 * **Collaboration**: We work together in service of others such as the school and community. 
 * **Empathy**: We listen and understand the needs of others.
-<img style="width:300px" src="/images/2024_StudentLeadership_P2.jpg">
+<img style="width:200px" src="/images/2024_StudentLeadership_P2.jpg">
 
 #### Objectives of JVS Student Leadership Programme
 * **Develop leadership skills for personal growth**: Through workshops, mentorship and on-the-job learning, our leaders learn to build their confidence and develop their self-awareness, while learning critical skills such as communication, conflict resolution and decision-making.
 * **Promote student voice**: As role models, we believe that our leaders should have an active role in shaping the school environment. Our leaders act as advocates for their peers and foster a positive school culture. 
 * **Drive Innovation and Problem-Solving**: Our leaders are trained to address challenges with creative solutions, improving the school and the community.
-<img style="width:300px" src="/images/2024_StudentLeadership_P3.jpg">
+<img style="width:200px" src="/images/2024_StudentLeadership_P3.jpg">
 
 #### Leadership Roles in Jurongville Secondary School
 1. **Student Council (SC)**: They are the voice of the student body, who organises and leads initiatives and school programmes, and represents students in school decisions.
@@ -38,6 +38,6 @@ Our Core Values are based on R.I.C.E, taking reference from The Leadership Chall
 * **Workshops**: All JVnites participate in yearly leadership development workshops that expose them to The Leadership Challenge Model framework developed by James Kouzes and Barry Posner, which consists of The Five Practices of Exemplary Leadership of Modeling the Way, Inspiring a Shared Vision, Challenging the Process, Enabling Others to Act, Encouraging the Heart.
 * **Role-Specific Leadership Camps**: These camps aim to equip different groups of student leaders with the necessary skills, knowledge, and mindset to excel in their specific leadership roles. 
 * **School Programmes and Events**: Through planning and organising school events and facilitating school programmes, different groups of student leaders are given the opportunity to learn skills of event planning and management, develop problem-solving and decision-making skills, and build their confidence and self-esteem.
-<img style="width:200px" src="/images/2024_StudentLeadership_P4.jpg">
+<img style="width:150px" src="/images/2024_StudentLeadership_P4.jpg">
 We are also excited to announce that our Student Leaders are now on Instagram! Follow us and stay updated on the events and achievements. Whether it’s showcasing students’ work, celebrating success or sharing highlights from school activities, our Instagram page is the place to be.
 Click "<b>Follow</b>" to stay connected!
