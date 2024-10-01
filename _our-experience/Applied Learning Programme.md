@@ -21,25 +21,30 @@ Secondary One and Two students are exposed to the fundamentals of electronics an
 	</tr>
 	</tbody></table>
 Upper Secondary students have the opportunity to specialise in programmes that suit their strengths and interests. These include taking up the O-level Applied Subject, “Electronics”, ITE Applied Subject, “Smart Electrical Technology” or applying for a short-term Applied Learning Modules at Polytechnics (APLM) on Electronics.
+
 Some of the students even had the opportunity to share what they have learnt in STEM ALP lessons with friends in Dripstone Middle School in Darwin Australia.
+<table>
+	<tbody><tr>
+		<td><img style="width:250px" src="/images/2024_ALP_P4.jpg"></td>
+		<td><img style="width:250px" src="/images/2024_ALP_P5.jpg"></td>
+	</tr>
+	</tbody></table>
 
-
-#### ALP Competition &amp; Outreach
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGtIJqrHpzEpWeHGOOOecc5e51fT9dUim60yFDH1HHo3PMRAvbcOBb3NcjPNhckviTEH3H6yXDRlaG/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-
-<figure>
-<img style="width:90%" src="/images/14ALP 141019(2).jpeg">
-<figcaption> Students would experience a four/five-year programme with level-specific themes.<br>
-Are you game for these opportunities? Join us and be fascinated by the beauty and potential of electronics!
- </figcaption>
-</figure>
-
+#### STEM ALP Competition &amp; Outreach 
+Students with keen interest in electronics also represent the school in national STEM-related competitions such as the IDE Maker competition, IgnITE Skills Challenge and Technopreneur Challenge.
+<table>
+	<tbody><tr>
+		<td><img style="width:250px" src="/images/2024_ALP_P6.jpg"></td>
+		<td><img style="width:250px" src="/images/2024_ALP_P7.jpg"></td>
+	</tr>
+	</tbody></table>
+	
 #### Quotes from Students:
-_" I have received numerous opportunities that provide me a strong foundation in electronics. This prepares me well in my aspirations as I am interested in becoming an app developer in future."_&nbsp;<br>
-_Hans Delano, 16_
+*” The IDE Maker Competition Competition was memorable because we got to see the different inventions by other teams. We faced challenges in creating our prototype, but we managed to innovate and improvise to build our prototype. I enjoyed the process and learning from others.” 
+Ng Tze Heng, IDE Maker Competition, Engineering Award
 
-_“It is definitely an enriching experience for me as I’ve had the opportunity to create something unique. My group and I felt the satisfaction that our project is able to contribute to the society at large.”_&nbsp;<br>
-_Nuryn Fatin, 15, IDE Maker Competition 2019 (Champions)_
+*”Being part of the IDE Maker Competition was a very fruitful and enjoyable experience. I managed to learn various things and work together with my peers! I also learnt that it is always important to lend a helping hand and to support everyone else because we are a team..” 
+Azreen Banu Binte Ummor, IDE Maker Competition, Engineering Award
 
-_“Winning first place certainly feels good and I am proud to have done everything I did, along with my group and the teachers who mentored us. I have learnt that staying true to whatever you are doing is indeed the key to accomplishing whatever you want.”_&nbsp;<br>
-_Ang Wei Xiang, 14, National Robotics Programming Competition 2019 (Most Innovative Solution – First Place)_
+*“I had fun and learnt how to work in a team with people I was not familiar with. We had an excellent idea, but we were unable to proceed to the next stage of the competition. I learnt that in being Technopreneur, we need to be convincing in our presentation to get others to buy into our ideas. 
+Kaviarasu Kishore, Technopreneur Competition*
