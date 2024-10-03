@@ -10,7 +10,7 @@ sections:
       background: /images/30th_Anni_Website_Banner_Final_JPG.jpg
       key_highlights:
         - title: announcements
-          description: End of Term 1 Letter
+          description: Term Letter
           url: /parents-information/Term-Letters/tl/
   - infopic:
       title: Open House 2024
