@@ -13,6 +13,13 @@ sections:
           description: End of Term 1 Letter
           url: /parents-information/Term-Letters/tl/
   - infopic:
+      title: Open House 2024
+      id: infopic
+      button: Click Here
+      url: /our-experience/open-house/open-house/
+      image: /images/2024_OpenHouse_P1.jpg
+      alt: Open House 2024
+  - infopic:
       title: Calling all HKSS & JVSS Alumni!
       id: infopic
       description: "Join our Alumni community now:"
