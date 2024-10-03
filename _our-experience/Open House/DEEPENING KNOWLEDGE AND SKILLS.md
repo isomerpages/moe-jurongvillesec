@@ -2,7 +2,7 @@
 title: DEEPENING KNOWLEDGE AND SKILLS
 permalink: /our-experience/open-house-2023/knowledgenskills/
 description: ""
-third_nav_title: Open House 2024
+third_nav_title: Open House
 variant: markdown
 ---
 ## DEEPENING KNOWLEDGE AND SKILLS

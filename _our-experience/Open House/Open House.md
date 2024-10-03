@@ -1,8 +1,8 @@
 ---
-title: Open House 2024
-permalink: /our-experience/open-house-2024/2024/
+title: Open House
+permalink: /our-experience/open-house/open-house/
 description: ""
-third_nav_title: Open House 2024
+third_nav_title: Open House
 variant: markdown
 ---
 ## Open House 2024
