@@ -20,20 +20,20 @@ variant: markdown
 
 #### Open House 2024
 
-<p><a href="/our-experience/open-house-2024/prepfuture/">
+<p><a href="/our-experience/open-house/prepfuture/">
 <img style="width:45%" align="left" src="/images/Key-Programmes.png">
 </a></p>
 
-<p><a href="/our-experience/open-house-2024/passion/">
+<p><a href="/our-experience/open-house/passion/">
 <img style="width:45%" align="right" src="/images/CCA.png">
 </a></p>
 
 <br clear="left">
 
-<p><a href="/our-experience/open-house-2024/knowledgenskills/">
+<p><a href="/our-experience/open-house/knowledgenskills/">
 <img style="width:45%" align="left" src="/images/Our-Curriculum.png">
 </a></p>
 
-<p><a href="/our-experience/open-house-2024/leading/">
+<p><a href="/our-experience/open-house/leading/">
 <img style="width:45%" align="right" src="/images/LeadingServingOthers.png">
 </a></p>
