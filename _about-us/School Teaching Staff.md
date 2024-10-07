@@ -16,7 +16,7 @@ variant: markdown
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:you_kim_choo@schools.gov.sg" target="">Ms You Kim Choo<br>(HOD / Craft &amp; Technology)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chia_miang_heong@schools.gov.sg" target="">Mr Chia Miang Heong<br>(SH / Design &amp; Technology)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" target="">Mdm Sharifah Farrahdillah<br>(Assistant Year Head)</a></p></td></tr>
-      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ng_boon_teck@schools.gov.sg" target="">Mr Ng Boon Teck<br>(ST / POA)</a></p></td></tr>
+      <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ng_boon_teck@schools.gov.sg" target="">Mr Ng Boon Teck<br>(ST / Principle Of Account)</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lim_lay_yean@schools.gov.sg" target="">Mrs Chan-Lim Lay Yean</a></p></td></tr>
       <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chang_way_lie@schools.gov.sg" target="">Mrs Quek-Chang Way Lie</a></p></td></tr>
         <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:chew_khee_lim@schools.gov.sg" target="">Mr Chew Khee Lim Alex</a></p></td></tr>
