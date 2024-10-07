@@ -2,7 +2,6 @@ collections:
   news:
     output: true
     order:
-      - Post Exam Activities.md
       - Gallery of Events.md
       - School Magazine/.keep
       - School Magazine/School Magazine.md
@@ -19,3 +18,4 @@ collections:
       - E Newsletter/2015 October.md
       - JVS Information Booklet.md
       - The muse.md
+      - Post Exam Activities.md
