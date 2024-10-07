@@ -28,10 +28,10 @@ variant: markdown
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:soo_shio_leng@schools.gov.sg" target="">Ms Soo Shio Leng</a></p></td>
     </tr>
      <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operation Manager</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operations Manager</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:riduan_rahmat@schools.gov.sg" target="">Mr Riduan Bin Rahmat</a></p></td>
     </tr>   <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operation Manager</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operations Manager</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:Tang_siew_hoong@schools.gov.sg" target="">Mr Tang Siew Hoong</a></p></td>
     </tr>
     <tr>
