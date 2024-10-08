@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Open House 2024
 
-![](/images/2024_OpenHouse_P1.jpg)
+![](/images/JVS_OpenHouse_2024.jpg)
 
 #### Key Highlights for Open House:
 * Show-and-tell of school experience by student ambassadors
