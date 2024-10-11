@@ -17,7 +17,7 @@ sections:
       id: infopic
       button: Click Here
       url: /our-experience/open-house/open-house/
-      image: /images/2024_OpenHouse_P1.jpg
+      image: /images/JVS_OpenHouse_2024.jpg
       alt: Open House 2024
   - infopic:
       title: Calling all HKSS & JVSS Alumni!
