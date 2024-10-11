@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/JVS iCON_Google Takeout_Guide_for_Students.pdf" rel="noopener nofollow" target="_blank">Student ICON Takeout</a>
+<p><a href="/files/JVS_Takeout.pdf" rel="noopener nofollow" target="_blank">Student ICON Takeout</a>
 </p>
 </li>
 </ul>
