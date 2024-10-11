@@ -5,15 +5,22 @@ description: ""
 third_nav_title: JVS PLD Initiative
 variant: tiptap
 ---
-## Student Guides and support
-
-#### The following are guides that will help you in your use of your PLDs and school systems.
-
-**Guides**<br>
-
-* [Student ICON Takeout ](/files/JVS%20iCON_Google%20Takeout_Guide_for_Students.pdf){:target="_blank"}
-
-
-#### Student PLD Update Guides
-
-* [PLD Update Guides](/files/Manual%20Update%20of%20Google%20Firmware%20R98%20Guide.pdf){:target="_blank"}
+<h2>Student Guides and support</h2>
+<h4>The following are guides that will help you in your use of your PLDs and school systems.</h4>
+<p><strong>Guides</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/JVS iCON_Google Takeout_Guide_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Student ICON Takeout</a>
+</p>
+</li>
+</ul>
+<h4>Student PLD Update Guides</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Manual%20Update%20of%20Google%20Firmware%20R98%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Update Guides</a>
+</p>
+</li>
+</ul>
+<p></p>
