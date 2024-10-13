@@ -1,8 +1,8 @@
 ---
-title: JVS PLD Initiative 2024
+title: JVS PLD Initiative
 permalink: /student-information/jvspld/jvspld/
 description: ""
-third_nav_title: JVS PLD Initiative 2024
+third_nav_title: JVS PLD Initiative
 variant: tiptap
 ---
 <h2>JVS PLD Initiative 2024</h2>
@@ -105,10 +105,10 @@ parent's name &amp; email)</p>
 support at the following timings:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday to Thursday, 3:00pm to 4:00pm</p>
+<p>Week 6 &amp; 7 - 12:00pm to 2:00pm</p>
 </li>
 <li>
-<p>Friday, 1:00pm to 2:00pm</p>
+<p>Week 8 onwards - 9:00am to 11:00am</p>
 </li>
 <li>
 <p>Except Public and School Holidays</p>
