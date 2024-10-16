@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Booklist
 
-Booklist and Stationery 2024
+Booklist and Stationery 2025
 
 | Level | Item |
 |:---:|---|
