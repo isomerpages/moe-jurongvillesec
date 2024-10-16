@@ -22,6 +22,7 @@ Name of Supplier: <b>Shing Lee Bookstores Pte Ltd</b><br>
 Tel Number: 6764 3102 
 <br>
 Online Store: [www.bookstores.shinglee.com.sg](http://www.bookstores.shinglee.com.sg/)<br>
+Sales Enquiry: [jvss@shingleebookstores.com.sg](jvss@shingleebookstores.com.sg)<br>
 Operating Hours: 9:00am - 3:00pm (Christmas Eve: 9:00am - 12:00pm)
 
 #### Yearend Sales
