@@ -7,23 +7,21 @@ variant: markdown
 ---
 ## School Services
 
-#### School Uniform
-Name of Supplier: KH Uniform Pte Ltd<br>
+### School Uniform
+Name of Supplier: <b>KH Uniform Pte Ltd</b><br>
 Address: Blk 115A Commonwealth Drive #02-28 S(149596)<br>
 Tel Number: 6479 6811<br>
 Online Store: [www.khuniform.com](http://www.khuniform.com/)<br>
-Sales Enquiry: [sales@khuniform.com](mailto:sales@khuniform.com)
-
+Sales Enquiry: [sales@khuniform.com](mailto:sales@khuniform.com)<br>
 Operating Hours: 9:00am - 12:00pm, 1:00pm - 5:00pm (Christmas Eve: 9:00am - 12:00pm)
 
 #### School Textbooks &amp; Stationery
 [Click here for 2024 Booklist](/parents-information/School-Services/booklist/)<br>
 Venue: School Bookshop @ Canteen<br>
-Name of Supplier: Shing Lee Bookstores Pte Ltd<br>
+Name of Supplier: <b>Shing Lee Bookstores Pte Ltd</b><br>
 Tel Number: 6764 3102 
 <br>
-Email:&nbsp;[jvss@shingleebookstores.com.sg](jvss@shingleebookstores.com.sg){:target="_blank"}
-
+Online Store: [www.bookstores.shinglee.com.sg](http://www.bookstores.shinglee.com.sg/)<br>
 Operating Hours: 9:00am - 3:00pm (Christmas Eve: 9:00am - 12:00pm)
 
 #### Yearend Sales
