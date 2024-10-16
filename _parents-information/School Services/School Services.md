@@ -16,7 +16,7 @@ Sales Enquiry: [sales@khuniform.com](mailto:sales@khuniform.com)<br>
 Operating Hours: 9:00am - 12:00pm, 1:00pm - 5:00pm (Christmas Eve: 9:00am - 12:00pm)
 
 #### School Textbooks &amp; Stationery
-[Click here for 2024 Booklist](/parents-information/School-Services/booklist/)<br>
+[Click here for Booklist](/parents-information/School-Services/booklist/)<br>
 Venue: School Bookshop @ Canteen<br>
 Name of Supplier: <b>Shing Lee Bookstores Pte Ltd</b><br>
 Tel Number: 6764 3102 
