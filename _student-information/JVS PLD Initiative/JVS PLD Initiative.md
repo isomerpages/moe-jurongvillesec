@@ -105,7 +105,7 @@ parent's name &amp; email)</p>
 support at the following timings:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Week 6 &amp; 7 - 12:00pm to 2:00pm</p>
+<p>Week 7 - 1:30pm to 3:30pm</p>
 </li>
 <li>
 <p>Week 8 onwards - 9:00am to 11:00am</p>
