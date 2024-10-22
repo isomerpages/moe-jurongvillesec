@@ -73,4 +73,15 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
+<h4>Term 4</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Term Letter/JVS_Parent_Engagement.pdf" rel="noopener nofollow" target="_blank">JVS Parent Engagement</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Term Letter/JVS_Resources_to_Support_Parents.pdf" rel="noopener nofollow" target="_blank">JVS Resources to Support Parents</a>
+</p>
+</li>
+</ul>
 <p></p>
