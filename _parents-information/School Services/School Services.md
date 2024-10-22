@@ -35,4 +35,6 @@ Operating Hours:
 [Click here for Booklist](/parents-information/School-Services/booklist/)
 
 #### Yearend Sales
-![](/images/Dates_for_Yearend_Sales.jpg)
+![](/images/2024_Bookshop_Sales_Dates.jpg)<br>
+![](/images/2024_Uniform_Sales_Dates.jpg)<br>
+![](/images/2024_Common_Sales_Dates_for_Bookshop_and_Uniform.jpg)
