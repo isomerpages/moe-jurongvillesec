@@ -28,6 +28,7 @@ Reading becomes more significant in our T&amp;L as we strive to develop our stud
 * MUHD RIAN ASHRAF (3IN) achieved Gold with Distinction.
 * NUR HADHINAH BINTE HASHIM(3DP) achieved Silver.
 * SITI NURZAHIRAH AZ-ZAHRAH BINTE KAMARRUZAMAN (3EM), NURUL BARNIYAH HAMIZAN (3IN), MUHAMMAD RIZKY BIN AHMAD (3IN) AND JESS RIHANNA HANAFIE (3PA) achieved bronze.
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIWurWU3avDEqsoy-hIf65D9LOezsP0O9qHS9U7kA21PRdMTVqbWWaDdmzDLUbQIoVNuxwtVYVCPks/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **2024 W4 Cluster All Arts Competition- Short Story Writing**
 * MAGESH KUMAR RASHMITHA (2PA) won 3rd prize.
@@ -37,3 +38,4 @@ Reading becomes more significant in our T&amp;L as we strive to develop our stud
 
 **2024 W4 Cluster All Arts Competition-Advertisement Making**
 * MANIVANNAN ASHWIN (3RP), DHINAKARAN DEEPAK NARAYAN (3DP) and MARUTHABANAN MITHULESH (3RP) were awarded 2nd prize.
+![](/images/JVS_2024_W4_Cluster_All_Arts.jpg)
