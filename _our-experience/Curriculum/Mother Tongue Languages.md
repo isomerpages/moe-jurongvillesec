@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /our-experience/Curriculum/mtl/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 ## Mother Tongue Languages
 
@@ -11,43 +12,30 @@ This year, the Mother Tongue Languages (MTL) department focused on making the le
 Reading becomes more significant in our T&amp;L as we strive to develop our students to be discerning readers with a love for reading. Hence, our new look programme aims to cultivate the reading habits of our students for them to be lifelong learners beyond school. In addition, journal writing plays a significant role in our T&amp;L. Our students are tasked to write and reflect on their thoughts, feelings and life experiences. They also hone their communications skills by sharing their comments or views either online and/or in class.
 
 #### Mother Tongue Fortnight activities
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqaR8AmpfyIUwFXexTKhWhMYz4A0-fFsn-B4LSgxaNiE_Lzr633PjksoP4vLoSpj69Z5PGDafFRW92/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqaR8AmpfyIUwFXexTKhWhMYz4A0-fFsn-B4LSgxaNiE_Lzr633PjksoP4vLoSpj69Z5PGDafFRW92/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 #### Our Achievements
 
-##### National Schools Xinyao Singing and Songwriting Competition
-Our Qing Qing Xuan Maidens, a girl group comprising of Fidelia Lo Miao Ting (2RP), Ngu Yi Jeanne (2DP) and Karis Goh (2DP, took part in the National Schools Xinyao Singing and Songwriting Competition 2022.
+**2023 National Schools Xinyao Singing and Songwriting Competition**
+* FIDELIA LO MIAO TING (3RP), NGU YI JEANNE (3EM), KARIS GOH(3RP) came in second in the 2023 National Schools Xinyao Singing and Songwriting Competition.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs7tZGdPuzCUFMMsYBhsqKuxwdvpeCII4QoFGkA7CrXYSmu7hlvIImeWehNShdloJFu77VCxMY2XWz/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-Overcoming challenges with positivity and resilience, the effort invested by the girls over the two months paid off handsomely. They emerged as one of the top 5 choral groups in the grand finale after winning the judges’ nod of approval.
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs7tZGdPuzCUFMMsYBhsqKuxwdvpeCII4QoFGkA7CrXYSmu7hlvIImeWehNShdloJFu77VCxMY2XWz/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<center><audio src="/files/2022-JVS-CL-XinYaoCom.mp3" controls=""></audio></center>
+**2024 National Secondary Schools Chinese Creative Writing Competition**
+* LIU XIN YU (2RS) has clinched the second prize in the recent National Secondary Schools Chinese Creative Writing Competition.
+![](/images/JVS_2024_Chinese_Creative_Writing_Competition.jpg)
 
-##### Naanum Oru Padaippaali
-‘Naanum Oru Padaippaali’ was organised by the Ministry of Education with the aim of nurturing in students the passion to produce creative literary works of commendable sophistication.
+**2023 Saya Boleh Mengarang (Writing Competition)**
+* MUHD RIAN ASHRAF (3IN) achieved Gold with Distinction.
+* NUR HADHINAH BINTE HASHIM(3DP) achieved Silver.
+* SITI NURZAHIRAH AZ-ZAHRAH BINTE KAMARRUZAMAN (3EM), NURUL BARNIYAH HAMIZAN (3IN), MUHAMMAD RIZKY BIN AHMAD (3IN) AND JESS RIHANNA HANAFIE (3PA) achieved bronze.
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIWurWU3avDEqsoy-hIf65D9LOezsP0O9qHS9U7kA21PRdMTVqbWWaDdmzDLUbQIoVNuxwtVYVCPks/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-Under the ‘Budding Artistes’ category, our students were trained on the fundamentals of short story writing. The skills acquired during the workshops were translated into creative pieces of work that had undergone 3 rounds of selection, alongside those of their peers from 15 other secondary schools.
+**2024 W4 Cluster All Arts Competition- Short Story Writing**
+* MAGESH KUMAR RASHMITHA (2PA) won 3rd prize.
 
-To much joy, our students Veeramahendran Amirtha (3IN), Thambi Durai Sherin (3RS) and Ramanathan Abinaya (2IN) were recipients of the ‘Best Budding Artistes’ awards and had their hard work showcased during the Prize Presentation Ceremony.
+**2024 W4 Cluster All Arts Competition- Oratorical**
+*  THIRUPPATHI PRAGATHI  (2PA) came in 2nd.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3x4P4oUrqGFUzkzcqQVXQR934ol7HiUKUyalpu9wbBlCsuinJZtxl0vgla3hia7pYSR5VSXqMOYVk/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-##### Malay Language competitions
-
-**Inter-Secondary Schools Translation Competition: 3T (Terjemah. Tutur. Tepat)**
-**Consolation Prize**
-*   Puteri Rashiqah Hamisah Binte Misri (3RS)
-*   Muhammad Haziq Bin Mohamed Eddil (3RP)
-*   Nur Aliya Binte Zohkifli (3EM)
-
-**Malay Finnese TikTok Video Competition 2022**
-**Consolation Prize**
-*   Nur Aliya Binte Zohkifli (3EM)
-*   Muhammad Zahirulhaq Bin Mohamed (3IN)
-*   Estee Ellyza Binte Aminurrashid (3DP)
-
-**Writing Competition : Pena Emasku 2022**
-*   Irfan Bin Mohd Shaffa (3EM): Gold Award - Top 30
-*   Nursyafawati Binte Rosli (3DP): Gold Award - Consolation
-*   Muhammad Zahirulhaq Bin Mohamed (3IN): Gold Award - Consolation
-*   Muhammad Haziq Bin Mohamed Eddil (3RP): Gold Award - Consolation
-<img style="width:85%" src="/images/Malay Language competitions.jpg">
+**2024 W4 Cluster All Arts Competition-Advertisement Making**
+* MANIVANNAN ASHWIN (3RP), DHINAKARAN DEEPAK NARAYAN (3DP) and MARUTHABANAN MITHULESH (3RP) were awarded 2nd prize.
+![](/images/JVS_2024_W4_Cluster_All_Arts.jpg)
