@@ -37,3 +37,5 @@ variant: markdown
 <p><a href="/our-experience/open-house/leading/">
 <img style="width:45%" align="right" src="/images/LeadingServingOthers.png">
 </a></p>
+<br><br><br><br><br><br><br>
+<h4><p><a href="/files/Open_House_2024_FAQ.pdf">Open House 2024 FAQ</a></p></h4>
