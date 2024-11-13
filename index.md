@@ -17,6 +17,6 @@ sections:
       id: infopic
       button: Click Here
       url: /our-experience/open-house/open-house/
-      image: /images/JVS_OpenHouse_2024.jpg
+      image: /images/JVS_OpenHouseBanner.jpg
       alt: Open House 2024
 ---
