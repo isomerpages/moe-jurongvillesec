@@ -10,7 +10,7 @@ variant: markdown
 ![](/images/JVS_OpenHouseBanner.jpg)
 
 #### Key Highlights for Open House:
-* 0930hrs Principal’s Talk and Sharing
+* 0900hrs and 1030hrs : Principal’s Talk and Sharing
 * Show-and-tell of school experience by student ambassadors
 * School Tour with Interactive booths featuring CCAs and key signature Programme
 * Performing Arts Group Show Case
