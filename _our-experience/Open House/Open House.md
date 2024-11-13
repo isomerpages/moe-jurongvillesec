@@ -7,13 +7,15 @@ variant: markdown
 ---
 ## Open House 2024
 
-![](/images/JVS_OpenHouse_2024.jpg)
+![](/images/JVS_OpenHouseBanner.jpg)
 
 #### Key Highlights for Open House:
+* 0930hrs Principal’s Talk and Sharing
 * Show-and-tell of school experience by student ambassadors
 * School Tour with Interactive booths featuring CCAs and key signature Programme
 * Performing Arts Group Show Case
 * Consultation booths on admission and academic matters
+
 
 [Video 1: Watch this video for an introduction to Jurongville and a virtual tour of the school](https://drive.google.com/file/d/1COQt0PIDThrPNMg7hnOCBCCAUNELCnnP/preview){:target="_blank"}
 
