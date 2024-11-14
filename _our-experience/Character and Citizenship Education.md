@@ -64,3 +64,13 @@ The CCE experience in Jurongville comprises learning in various domains such as:
 #### Highlights from our National Education (NE) events
 ##### Intergenerational Learning Programme (Sec 2)
 <iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJloqzu42FV18JNItNNe7VtVg-XIVAm5n2LUY13o47CVf2YFTTPT2-0cdyfYFrl6rKUejOsYrWr26y/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+##### International Friendship Day (Assembly)
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRW30VmNQ_yOF71wD5V38KDVbqEbXSp_mhs3gIHm8KFEHhVqLILlSIN8EPVzqVSRfmgqDKiGsJB9Dr3/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+##### RHD Contemporary Issue Lesson
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfm1DjrziOoiKkzDPPGmXWv46_EVtD0dGnGq2RpUrBhLdEnp8FBRzhBB4vLDu0u9kR-ZtMxz2Y5VlX/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+#### Highlights from our Education and Career Guidance (ECG) programmes
+##### Sessions with ECG Counsellor
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ3LrtpKh91RmgUAWXX83mlBjM0L21vTZy7bON_eq6-ZZvTtWZsR_FgvzHgbONzR3Rtxwyr_HPKUvC/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
