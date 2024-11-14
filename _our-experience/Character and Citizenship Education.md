@@ -6,35 +6,61 @@ variant: markdown
 ---
 ## Character and Citizenship Education
 
-The school believes that character is the first and foremost element that will prepare our students to be world ready. We are committed in providing each student with a holistic education and in nurturing citizens of character who are active contributors of our society.&nbsp;  <br>
-Our Character and Citizenship Education (CCE) programme strives to impact every student through internalizing of values through authentic learning experiences.
+#### What is CCE?
+CCE provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being, and citizenship dispositions in a coherent and holistic way. 
 
-The Character and Citizenship Education (CCE) programme in Jurongville encompasses the following key areas:  
+#### CCE @ JVS
+The school believes that character is the first and foremost element that will prepare our JVnites to be world-ready. We are committed to provide each JVnite with a holistic education and to nurture them to be citizens of character who are active contributors of our society. 
 
-*   CCE lessons (Social Skills lessons, Well-being lessons)
-*   Assembly Programme
-*   Enrichment Programme
-*   Values-In-Action Programme (Service Learning Programme)
-*   Education and Career Guidance (ECG)
-*   Cyberwellness Programme
-*   Sexuality Education (SEd)
-*   National Education (NE)
+Through a variety of authentic learning activities within and beyond the classroom, JVnites experience being part of something larger than themselves and become cognisant of their roles and responsibilities in their families, communities, the nation, and beyond. This is encapsulated in our School Mission of nurturing world-ready students with the passion to learn, lead and serve.
 
-#### Service Learning
+The CCE experience in Jurongville comprises learning in various domains such as:
 
-##### Developing Empathy through VIA &amp; Service Learning Projects
-“We’ll always serve with steadfastness, and honour her ideal; To be committed and responsible, and give beyond ourselves with zeal.” These lyrics from our school song give a glimpse of the importance we place in empowering our students to serve others in the community.  
-  
-Annually, during the lead-up to the Lunar New Year, the school collaborates with our community partners for a Values-in-Action (VIA) project called ‘Project Love’. Through this project, our students seek to make a difference to the lives of underprivileged families in Jurong East through the contribution of food hampers by all classes. Our students also design hand-made cards bearing their hopes and well-wishes to encourage the residents and to spread the festive cheer. This annual project deepens our students’ sense of empathy, and makes them more aware of the needs of the community around them.
+<table width="100%">
+	<tbody>
+		<tr>
+			<th>Domains</th>
+			<th>Key Programmes</th>
+		</tr>
+		<tr>
+			<td>National Education (NE)</td>
+			<td><ul><li>	School-wide commemoration comprising lessons and activities on Total Defence Day, International Friendship Day, Racial Harmony Day and National Day</li><li>Level-specific NE events such as NRIC Presentation Ceremony and NS Engagement Talk</li><li>Class-/ subject-based lessons on contemporary issues</li><li>School-/ level-wide/ class-based/ ad-hoc Values-in-Action (VIA) activities</li>,</ul></td>
+		</tr>
+		<tr><td>Education and Career Guidance (ECG)</td>
+			<td><ul><li>ECG conversations with ECG Counsellor</li><li>Open House visits and Learning Journeys to tertiary institutions</li><li>Practice-oriented learning experiences at tertiary institutions</li><li>Industry visits</li><li>Career fairs and talks by industry professionals</li><li>Short-term work attachment</li></ul></td>
+		</tr>
+		<tr>
+			<td>Mental Health and Cyber Wellness</td>
+			<td><ul><li>Lessons on socio-emotional competencies facilitated by Peer Support Leaders (PSLs)</li><li>Mental Health Awareness activities</li><li>Assembly talks</li><li>Lessons on digital citizenship and online responsibility facilitated by Peer Support Leaders (PSLs)</li><li>Lessons teaching critical thinking and media literacy in Social Studies</li></ul></td>
+		</tr>
+		<tr>
+			<td>Sexuality Education (SEd)</td>
+			<td><ul><li>Class-based lessons</li><li>Assembly talks</li></ul></td>
+		</tr>
+		<tr>
+			<td>Family Education (FEd)</td>
+			<td><ul><li>Parent/Guardian Appreciation Lesson Package</li><li>Game-based lessons</li></ul></td>
+		</tr>
+		<tr>
+			<td>School P.R.I.D.E. Values</td>
+			<td><ul><li>-	Talk the Walk - school-based lesson on school values and online engagement by Student Councillors</li></ul></td>
+		</tr>
+	</tbody>
+	</table>
+			
+#### Highlights from our VIA events
+##### Project Love (Whole school)
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQBlKFE1nQikQeVtGgxexx1NRLW6MRO6i9tt4XRN673zznoirqXfiqDLGDclSc0WmfAiZEMOxEVPTll/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-Service Learning and Values-in-Action (VIA) are platforms structured for JV-nites to put into practice the knowledge and competencies that they have acquired through various school-wide programmes. Through these platforms, JV-nites will be able to sharpen their leadership skills, and develop empathy for those around them.  
-  
-Our upper secondary students are involved in the Service Learning Programme where they are empowered to explore and serve the community’s needs. The students choose and plan a meaningful service learning project of their choice to inspire others to action. Due to the restrictions posed by COVID-19 pandemic, the students focus on indirect services and advocacy projects. Examples of these projects include conducting virtual workshops for the elderly; collecting items such as paper boxes, newspapers and trash bags for Animal Concerns Research and Education (ACRES); gratitude project to honour the security guards and canteen vendors; and raising awareness about mental health and kidney health. When students are given the autonomy to select their advocacy project, their sense of ownership is strengthened and they are even more driven to do good as citizens!  
-  
-“The one thing that I have learnt during this experience was being determined. I was able to persevere and get through the entire project without giving up and abandoning my teammates aside. With determination, I could balance the different teams' tasks and ran the project with success! … What stuck to me the most was seeing how all my classmates were happily working together, talking things out whenever things get rough and coming together to solve issues as a team." -&nbsp;**Swee Kaih Yinh, Audrey (4DP)**  
-  
-“I think that we got very close as a class when we worked together for a cause, a good one. We got to learn a lot about each other and about our strengths, putting them together while helping each other by working together to strengthen each other's weaknesses. Even if we have had our setbacks and differences, we learnt how to be more mature, caring and considerate. We matured as a class through all these activities.”  
-\-&nbsp;**Nisha (4IN)**
+##### Spring Cleaning (Whole school)
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSuQ_DbEUVapu2-px-idCM41_tvMxWtJMSDNE37a5F8ahRImRuQQfWspnrrzB8VSH_mZwAtV5E4i_RB/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-#### Photos
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBv3idMX6NAdHSifXw7KVm5AjafsLlkho-gh_BpRF0zh_vcTsRQF-Hu-WpYVlRjmGW0Ez2CzX-Nvdb/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+##### Green (Sec 1)
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0HBd3fiusYR3YKRyazra3DJOKgQS4NvvP0T9VseI87_sPN7bLrIQPX14QTRr_onhauemaJcBly4jF/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+##### Intergenerational Learning Programme (Sec 2)
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmyxqNGP3d5H0RbeeO_PbK5Xjvu0pZPayMR2hNKB06WYIVHTzVaX5MXfj64fNgJUJvBE9oiN2f8REn/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+#### Highlights from our National Education (NE) events
+##### Intergenerational Learning Programme (Sec 2)
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJloqzu42FV18JNItNNe7VtVg-XIVAm5n2LUY13o47CVf2YFTTPT2-0cdyfYFrl6rKUejOsYrWr26y/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
