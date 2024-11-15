@@ -74,3 +74,19 @@ The CCE experience in Jurongville comprises learning in various domains such as:
 #### Highlights from our Education and Career Guidance (ECG) programmes
 ##### Sessions with ECG Counsellor
 <iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ3LrtpKh91RmgUAWXX83mlBjM0L21vTZy7bON_eq6-ZZvTtWZsR_FgvzHgbONzR3Rtxwyr_HPKUvC/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+##### ECG Fair
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6gyuQBie1yjs2-ecwc0xijj7nbEPUaRmG-pimgpcOkJIIlfcoMfR4LFAr8J2YClLnJuN7pNk09bop/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+##### Learning Journeys &amp; Practice-oriented learning experiences at tertiary institutions
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScEXro753pxtwj8uuTN-bUXoXaDdG77OaXdQGipUqsZOSdWB0CO286CUwaBI_ctK971SbV2UIlbFnS/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+##### Highlights from our Mental Health and Cyber Wellness activities
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvrG2M_6Hs2pmHUb30B6ftRj2eDAUCL-MxIUxmZSUECAybKI4qrRsEGf1ifO9ONXKaIZ2-7nizPz4X/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+#### Highlights from our Family Education (FEd) programmes 
+##### Band of Islanders Game
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRuY8F3LAMMBja2PyheADlHvGjbijrf-mP20dFwSzJm4qOhw_5vUTSMQvatpjnGpxlKKjp4NLGSoNrF/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+##### Parents/Guardians Appreciation Lesson
+<iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZ02vAqE80T2ZMHrc-W80nPxF0dA8XFCxBYtCyB6VK1IkI6vJ2qvRr3YQZGfUofKjUM0RvBcLcs5OO/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
