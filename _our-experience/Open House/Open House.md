@@ -40,4 +40,4 @@ variant: markdown
 <img style="width:45%" align="right" src="/images/LeadingServingOthers.png">
 </a></p>
 <br><br><br><br><br><br><br>
-<h4><p><a target="_blank" href="/files/Open_House_2024_FAQ.pdf">Open House 2024 FAQ</a></p></h4>
+<h4><p><a target="_blank" href="/files/JVS_OpenHouse_FAQ.pdf">Open House 2024 FAQ</a></p></h4>
