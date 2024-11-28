@@ -83,5 +83,9 @@ variant: tiptap
 <p><a href="/files/Term Letter/JVS_Resources_to_Support_Parents.pdf" rel="noopener nofollow" target="_blank">JVS Resources to Support Parents</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Term Letter/2024_End_of_Year.pdf" rel="noopener nofollow" target="_blank">End of Year</a>
+</p>
+</li>
 </ul>
 <p></p>
