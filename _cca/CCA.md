@@ -364,16 +364,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
+<p>3:00pm - 5:00pm
 <br>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
+<p>3:00pm - 5:00pm
 <br>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH (<strong>Tuesday</strong>) /</p>
-<p>Parade Square / ISH (<strong>Thursday</strong>)</p>
+<p>School Hall</p>
+<p>(<strong>Tuesday</strong>) /</p>
+<p>ISH / Parade Square</p>
+<p>(<strong>Thursday</strong>)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
