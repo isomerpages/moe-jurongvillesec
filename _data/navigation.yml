@@ -24,7 +24,7 @@ links:
       - title: Open House
         url: /our-experience/open-house/open-house/
       - title: Sec 1 Registration
-        url: /our-experience/sec1registration/
+        url: https://sites.google.com/moe.edu.sg/jvs-sec-1-registration/home
   - title: Our Achievements
     collection: our-achievements
   - title: Student Information
@@ -49,7 +49,26 @@ links:
       - title: Digital Student Handbook
         url: ./files/2024_e_student_handbook__website_.pdf
   - title: Parents Information
-    collection: parents-information
+    url: /parents-information/Term-Letters/tl/
+    sublinks:
+      - title: Term Letters
+        url: /parents-information/Term-Letters/tl/
+      - title: School Services
+        url: /parents-information/School-Services/ss/
+      - title: DSA
+        url: /parents-information/dsa/
+      - title: S4 Post Sec Academic Options
+        url: /sec-4-post-sec-academic-options/
+      - title: Financial Assistance Scheme
+        url: /parents-information/financialassistancescheme/fas/
+      - title: Parents Support Group
+        url: /parents-information/psg/
+      - title: Family Matters @ School
+        url: /parents-information/fm-school/
+      - title: GCE O levels Result Release
+        url: /parents-information/resultrelease/
+      - title: GCE N levels Result Release
+        url: https://sites.google.com/moe.edu.sg/nlevelresultsrelease/home
   - title: News
     url: /news/gallery-events/
     sublinks:
