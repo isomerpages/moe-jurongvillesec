@@ -115,8 +115,7 @@ variant: markdown
 	</tbody>
 </table>
 <p><br></p>
-
-			&lt;<table>
+<table>
 	<tbody>
 		<tr>
 			<th rowspan="1" colspan="1"><p>Secondary 3</p></th>
@@ -154,7 +153,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td rowspan="1" colspan="1"><p><a href="mailto:muhammad_nasri_selamat@schools.gov.sg" target="_blank">Mr Muhammad <b>Nasri</b> Bin Selamat</a></p></td>
-			<td rowspan="1" colspan="1"><p>3IN</p></td>
+			<td rowspan="1" colspan="1"><p>3EM</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
 			<td rowspan="1" colspan="1"><p><a href="mailto:chia_miang_heong@schools.gov.sg" target="_blank">Mr <b>Desmond Chia</b> Miang Heong</a></p></td>
 			<td rowspan="1" colspan="1"><p>4DP</p></td>
