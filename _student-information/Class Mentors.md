@@ -115,8 +115,7 @@ variant: markdown
 	</tbody>
 </table>
 <p><br></p>
-
-			&lt;<table>
+<table>
 	<tbody>
 		<tr>
 			<th rowspan="1" colspan="1"><p>Secondary 3</p></th>
