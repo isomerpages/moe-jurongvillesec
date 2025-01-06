@@ -100,15 +100,15 @@ parent's name &amp; email)</p>
 </li>
 </ul>
 <h5>Support</h5>
-<p>PLD@Library
-<br>1 . Student's can proceed to the PLD corner in the library for technical
+<h5>PLD@Library </h5>
+<p>1 . Student's can proceed to the PLD corner in the library for technical
 support at the following timings:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Week 7 - 1:30pm to 3:30pm</p>
+<p>Monday - Thursday (2:30pm to 3:30pm)</p>
 </li>
 <li>
-<p>Week 8 onwards - 9:00am to 11:00am</p>
+<p>Friday (12:30pm to 1:30pm)</p>
 </li>
 <li>
 <p>Except Public and School Holidays</p>
@@ -118,16 +118,15 @@ support at the following timings:</p>
 school holidays.</p>
 </li>
 </ul>
-<p>Service Center
-<br><strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong> 
+<h5>Service Center</h5>
+<p><strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions </strong>
 <br>3 Irving Road, #01-17 Singapore 369522 (Beside Tai Seng MRT station, Exit
 A)
 <br>#03-19/20 Singapore 179097
 <br>Working Hours :Monday – Friday 11:00am – 7:00pm (closed on Sunday and
 Public Holidays)
-<br>Tel: 68714838 Email: <a href="mailto:lenovo@smartcares.com" rel="noopener noreferrer nofollow" target="_blank">lenovo@smartcares.com</a> 
-<br>Pre-Registration (For Faster Service/Drop-off): <a href="https://smartcares.com/lenovo" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo</a>
-</p>
+<br>Tel: 68714838 Email: lenovo@smartcares.com
+<br>Pre-Registration (For Faster Service/Drop-off): https://smartcares.com/lenovo</p>
 <p><strong>Acer Computer (Singapore) Pte Ltd</strong> 
 <br>29 International Business Park #01-07, Acer Building, Tower A, 609923
 <br>Service Centre Tel: 68956297
