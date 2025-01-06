@@ -100,8 +100,8 @@ parent's name &amp; email)</p>
 </li>
 </ul>
 <h5>Support</h5>
-<h5>PLD@Library </h5>
-<p>1 . Student's can proceed to the PLD corner in the library for technical
+<h5>PLD@Library</h5>
+<p>1 . Students can proceed to the PLD corner in the library for technical
 support at the following timings:</p>
 <ul data-tight="true" class="tight">
 <li>
