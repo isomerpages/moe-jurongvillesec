@@ -12,6 +12,9 @@ sections:
         - title: announcements
           description: Term Letter
           url: /parents-information/Term-Letters/tl/
+        - title: Announcements
+          description: GCE O-Level Results Release
+          url: ""
   - infopic:
       title: Open House 2024
       id: infopic
