@@ -7,25 +7,19 @@ variant: tiptap
 <h2>GCE O-Level Results</h2>
 <p>Dear Parents/Guardians,</p>
 <p></p>
-<p>The 2024 O-Level results will be released on <strong>Friday, 10 January 2025, at 2:30 pm.</strong> 
+<p>The 2024 O-Level results will be released on <strong>Friday, 10 January 2025, at 2:30 pm.</strong>
 </p>
 <p></p>
 <p>As your child reaches this significant milestone, it is important to remind
-them that their</p>
-<p>worth is not defined by their grades but by the character and resilience
-they have</p>
-<p>developed throughout their journey. Your support will be invaluable in
-helping them</p>
-<p>manage their emotions and stay positive as they consider their next steps.</p>
-<p></p>
+them that their worth is not defined by their grades but by the character
+and resilience they have developed throughout their journey. Your support
+will be invaluable in helping them manage their emotions and stay positive
+as they consider their next steps.</p>
 <h4>Education &amp; Career Guidance (ECG) Parent Engagement</h4>
-<p>We warmly invite you and your child to attend the <strong>ECG Parent Engagement Session</strong>
-</p>
-<p>before the release of the results. This session will provide valuable
-guidance on the</p>
-<p>various education and career pathways available, enabling you to make
-well-informed</p>
-<p>decisions together.</p>
+<p>We warmly invite you and your child to attend the ECG Parent Engagement
+Session before the release of the results. This session will provide valuable
+guidance on the various education and career pathways available, enabling
+you to make well-informed decisions together.</p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -89,13 +83,11 @@ well-informed</p>
 <p></p>
 <h4>Parking Arrangements</h4>
 <p>Please note that parking is not available within the school premises.
-Visitors are</p>
-<p>encouraged to use nearby neighborhood carparks.</p>
+Visitors are encouraged to use nearby neighborhood carparks.</p>
 <p></p>
 <h4>ECG Counselling Support</h4>
-<p>Students seeking further guidance can book a session with the <strong>ECG Centre @ MOE</strong>
-</p>
-<p>using the appointment form at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.</p>
+<p>Students seeking further guidance can book a session with the ECG Centre
+@ MOE using the appointment form at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -161,9 +153,9 @@ Visitors are</p>
 <p></p>
 <h4>Resources for Parents</h4>
 <p>Below are some useful resources to support your child during this time:</p>
-<p>•	<strong>Social and Emotional Support</strong>: Visit <a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a> for
+<p>• <strong>Social and Emotional Support</strong>: Visit <a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a> for
 helpful resources.</p>
-<p>•	<strong>Education and Career Guidance (ECG)</strong>: Guidance materials
+<p>• <strong>Education and Career Guidance (ECG)</strong>: Guidance materials
 and further details are included in the attached <a href="/files/Infosheet_for_Parents__O_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank">Infosheet for Parents</a>.</p>
 <p></p>
 <h4>Collection of GCE O-Level Results</h4>
@@ -192,7 +184,6 @@ long.</p>
 </ul>
 </li>
 </ul>
-<p></p>
 <p>Thank you for your continued partnership in ensuring the best outcomes
 for your child. We look forward to supporting them as they embark on the
 next phase of their educational journey.</p>
