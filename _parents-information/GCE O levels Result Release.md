@@ -4,4 +4,199 @@ permalink: /parents-information/resultrelease/
 description: ""
 variant: tiptap
 ---
-<h2>GCE O-Level Results</h2><p>Dear Parents/Guardians,</p><p>The results of the 2023 Singapore Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released in the school hall on Thursday, 11 January 2024, 2pm. For the collection of GCE O-Level examination results, school candidates and parents will be allowed entry into the school premises. Candidates are to report to the hall and be seated by 1.45 pm.</p><p>School candidates who are unwell or self-isolating due to a positive COVID-19 test result should not return to school to collect their results. They should access their results online. The guide on accessing the Candidates Portal (<a href="https://myexams.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://myexams.seab.gov.sg</a>) can be found at: <a href="https://go.gov.sg/2j0grx" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2j0grx</a>.</p><p>School candidates who are unable to collect their results in person can also appoint a proxy to collect a physical copy of their results on their behalf from the school General Office after 2.30pm. Proxy are required to produce the relevant documents for the school’s verification when collecting the results.</p><p>For more resources on providing social and emotional support, affirming your teen, and supporting your teen’s transition through post O-Level education, please refer to: <a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>. You and your teen may also wish to refer to the What’s Next pamphlet (<a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>) and available ECG resources on the MySkillsFuture Student Portal (<a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>).</p><p>For ECG counselling services, students may contact the ECG Counsellor in our school via email: <a href="mailto: cheong_kum_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_kum_seng@schools.gov.sg</a> or the ECG Centre @ MOE (Grange Road) for online or phone counselling appointments from 4 to 18 January 2024 via email: <a href="mailto: moe_ecg@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_ecg@moe.gov.sg</a>, the appointment booking form: <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a> or Phone: 68311420 (operating hours are 9.00am to 5.00pm on weekdays and 9.00am to 12.00pm on Saturdays)</p><p>Thank you.</p><p><a href="/files/2023_O_Level_Info_Sheet_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 O-Level Info Sheet for Parent</a></p>
+<h2>GCE O-Level Results</h2>
+<p>Dear Parents/Guardians,</p>
+<p></p>
+<p>The 2024 O-Level results will be released on <strong>Friday, 10 January 2025, at 2:30 pm.</strong> 
+</p>
+<p></p>
+<p>As your child reaches this significant milestone, it is important to remind
+them that their</p>
+<p>worth is not defined by their grades but by the character and resilience
+they have</p>
+<p>developed throughout their journey. Your support will be invaluable in
+helping them</p>
+<p>manage their emotions and stay positive as they consider their next steps.</p>
+<p></p>
+<h4>Education &amp; Career Guidance (ECG) Parent Engagement</h4>
+<p>We warmly invite you and your child to attend the <strong>ECG Parent Engagement Session</strong>
+</p>
+<p>before the release of the results. This session will provide valuable
+guidance on the</p>
+<p>various education and career pathways available, enabling you to make
+well-informed</p>
+<p>decisions together.</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Friday</p>
+<p>10 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:45pm to 2:15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Parent Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of O Level Results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Parking Arrangements</h4>
+<p>Please note that parking is not available within the school premises.
+Visitors are</p>
+<p>encouraged to use nearby neighborhood carparks.</p>
+<p></p>
+<h4>ECG Counselling Support</h4>
+<p>Students seeking further guidance can book a session with the <strong>ECG Centre @ MOE</strong>
+</p>
+<p>using the appointment form at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Availability</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Days</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Timings</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 - 16 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weekdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am to 5:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am to 12:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am to 12:00pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Resources for Parents</h4>
+<p>Below are some useful resources to support your child during this time:</p>
+<p>•	<strong>Social and Emotional Support</strong>: Visit <a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a> for
+helpful resources.</p>
+<p>•	<strong>Education and Career Guidance (ECG)</strong>: Guidance materials
+and further details are included in the attached <a href="/files/Infosheet_for_Parents__O_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank">Infosheet for Parents</a>.</p>
+<p></p>
+<h4>Collection of GCE O-Level Results</h4>
+<p>All students are required to collect their results in person at their
+respective secondary schools.</p>
+<p>Students who are unable to collect their results may appoint a proxy to
+do so. The proxy must present the necessary documents for verification
+when collecting the physical copy of the results from the school.</p>
+<p>To ensure a positive representation of the school, the following attire
+and grooming standards must be adhered to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Attire</strong>: Full school uniform only, consisting of a black
+top and a school skirt or long pants, paired with proper school shoes.</p>
+</li>
+<li>
+<p><strong>Hair</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Male Students: Short, neat, and non-coloured hair with no facial hair.</p>
+</li>
+<li>
+<p>Female Students: Short and neat non-coloured hair, tied up if it is too
+long.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<p>Thank you for your continued partnership in ensuring the best outcomes
+for your child. We look forward to supporting them as they embark on the
+next phase of their educational journey.</p>
+<p>Sincerely,</p>
+<p>Philibert Leow</p>
+<p>Principal</p>
+<p></p>
