@@ -191,8 +191,7 @@ next phase of their educational journey.</p>
 <p>Philibert Leow</p>
 <p>Principal</p>
 <h4><br>Resources</h4>
-<p><a href="/files/2024_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener nofollow" target="_blank">2024 O-Level Briefing Slides for Students</a>
-</p>
+<p></p>
 <p><a href="/files/A_Guide_to_Post_Secondary_Admissions_Exercises.pdf" rel="noopener nofollow" target="_blank">A Guide to Post-Secondary Admissions Exercises</a>
 </p>
 <p><a href="/files/O_level_Student_Resource.pdf" rel="noopener nofollow" target="_blank">O-Level Student Resource</a>
