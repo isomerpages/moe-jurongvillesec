@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/30th_Anni_Website_Banner_v1.jpg
+      background: /images/Homepage.gif
       key_highlights:
         - title: announcements
           description: Term Letter

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: JVS PLD Initiative
 variant: tiptap
 ---
-<h2>JVS PLD Initiative 2024</h2>
+<h2>JVS PLD Initiative 2025</h2>
 <h4>A Part of the National Digital Literacy Programme (NDLP)</h4>
 <h5>Our Vision for Learning</h5>
 <p>Jurongville aims to be a vibrant and nurturing community of passionate
@@ -43,17 +43,23 @@ through Parents’ Gateway and publish them on the school’s website.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/JVS_IP2_Parent_Engagement_Deck_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">JVS_IP2_Parent_Engagement_Deck_2024</a>
+<p><a href="/files/JVS_IP2_Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">JVS IP2 Parent Engagement Deck 2025</a>
 </p>
 </li>
 </ul>
-<p>2 . Specifications for Chrome Book for 2024 will be shared in the PG letter
+<p>2 . Specifications for Chrome Book for 2025 will be shared in the PG letter
 and the parent engagement slide above.</p>
 <p>3 . Click the link below to proceed to register for the PLDs before Fri
-5th Jan so that your child/students will receive the PLD on time.</p>
+17<sup>th</sup> Jan so that your child/students will receive the PLD on
+time.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">Pdlpadmin</a>
+<p>Intent to purchase &amp; Collection - <a href="https://go.gov.sg/2025jvspld" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025jvspld</a>
+</p>
+</li>
+<li>
+<p>Edusave withdrawals - <a href="https://go.gov.sg/edusaveformsgso" rel="noopener nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
+<br>
 </p>
 </li>
 </ul>
@@ -62,12 +68,14 @@ and the parent engagement slide above.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/IP2___Parent_Handbook_I_on_Learning_with_a_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP2 - Parent Handbook I on Learning with a PLD.pdf</a> 
+<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">IP2 - Parent Handbook I on Learning with a PLD.pdf</a>
+<a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
+</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook_II_on_Learning_with_a_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">IP3 - Parent Handbook II on Learning with a PLD.pdf</a> 
+<p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">IP3 - Parent Handbook II on Learning with a PLD.pdf</a> 
 <br>
 </p>
 </li>
@@ -86,23 +94,22 @@ and the parent engagement slide above.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All students' PLD will be under Default Option (refer to Presentation
-slides page 13)</p>
+<p>All students' PLD will be under Default Option unless Parents opt for
+Option A or B</p>
 </li>
 <li>
-<p>Parents/Guardian control after school hours (Email/Whatsapp with op-in
-Option A to <a href="/student-information/class-mentors/" rel="noopener noreferrer nofollow" target="_blank">Class Mentor</a> with
-parent's name &amp; email)</p>
+<p>Changes to Parents/Guardian control after school hours (Email <a href="/student-information/class-mentors/" rel="noopener noreferrer nofollow" target="_blank">Class Mentor</a> with
+parent's name &amp; contact)</p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view" rel="noopener noreferrer nofollow" target="_blank">Parents/Guardian control guideline (Option A)</a>
+<p><a href="/files/Chromebook___Parent_Option_A_Group.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents/Guardian control guideline (Option A)</a>
 </p>
 </li>
 </ul>
 <h5>Support</h5>
 <h5>PLD@Library</h5>
-<p>1 . Students can proceed to the PLD corner in the library for technical
-support at the following timings:</p>
+<p>Students can proceed to the PLD corner in the library for technical support
+at the following timings:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Monday - Thursday (2:30pm to 3:30pm)</p>
@@ -123,7 +130,7 @@ school holidays.</p>
 <br>3 Irving Road, #01-17 Singapore 369522 (Beside Tai Seng MRT station, Exit
 A)
 <br>#03-19/20 Singapore 179097
-<br>Working Hours :Monday – Friday 11:00am – 7:00pm (closed on Sunday and
+<br>Working Hours: Monday – Friday 11:00am – 7:00pm (closed on Sunday and
 Public Holidays)
 <br>Tel: 68714838 Email: lenovo@smartcares.com
 <br>Pre-Registration (For Faster Service/Drop-off): https://smartcares.com/lenovo</p>
