@@ -1,0 +1,90 @@
+logo: /images/School%20Crest%20with%20Name.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Experience
+    url: /our-experience/Curriculum/el-lit-music/
+    sublinks:
+      - title: Curriculum
+        url: /our-experience/Curriculum/el-lit-music/
+      - title: CCA
+        url: /cca/permalink/cca/
+      - title: Character Development
+        url: /our-experience/char-develop/
+      - title: Applied Learning Programme
+        url: /our-experience/apl/
+      - title: Learning for Life Programme
+        url: /our-experience/llp/
+      - title: Overseas Learning Journey
+        url: /our-experience/olj/
+      - title: Student Leadership
+        url: /our-experience/Student-Leadership/sl/
+      - title: Student Discipline
+        url: /our-experience/student-discipline/
+      - title: Open House
+        url: /our-experience/open-house/open-house/
+      - title: Sec 1 Registration
+        url: https://sites.google.com/moe.edu.sg/jvs-sec-1-registration/home
+  - title: Our Achievements
+    collection: our-achievements
+  - title: Student Information
+    url: /student-information/class-mentors/
+    sublinks:
+      - title: JVS Calendar
+        url: https://calendar.google.com/calendar/u/0/embed?src=c_bc326f47528a284de1596f498515472f62e386a51d3d02a15f2825e854d39859@group.calendar.google.com&ctz=Asia/Singapore
+      - title: Class Mentors
+        url: /student-information/class-mentors/
+      - title: Counselling and Other Support
+        url: /student-information/counselling-support/
+      - title: Sec 3 Subject Combination
+        url: /student-information/sec3/
+      - title: Timetable
+        url: /student-information/Timetable/class-t/
+      - title: Sexuality Education
+        url: /student-information/sex-ed/
+      - title: National Exam Schedule
+        url: /student-information/nes/
+      - title: JVS PLD Initiative
+        url: /student-information/jvspld/jvspld
+      - title: Digital Student Handbook
+        url: ./files/2024_e_student_handbook__website_.pdf
+  - title: Parents Information
+    url: /parents-information/Term-Letters/tl/
+    sublinks:
+      - title: Term Letters
+        url: /parents-information/Term-Letters/tl/
+      - title: School Services
+        url: /parents-information/School-Services/ss/
+      - title: DSA
+        url: /parents-information/dsa/
+      - title: S4 Post Sec Academic Options
+        url: /sec-4-post-sec-academic-options/
+      - title: Financial Assistance Scheme
+        url: /parents-information/financialassistancescheme/fas/
+      - title: Parents Support Group
+        url: /parents-information/psg/
+      - title: Family Matters @ School
+        url: /parents-information/fm-school/
+      - title: GCE O levels Result Release
+        url: /parents-information/resultrelease/
+      - title: GCE N levels Result Release
+        url: https://sites.google.com/moe.edu.sg/nlevelresultsrelease/home
+      - title: Sec 1 Parents Engagement
+        url: /files/WEBSITE__Parents_Engagement_Sec_1_10_Jan_2025.pdf
+  - title: News
+    url: /news/gallery-events/
+    sublinks:
+      - title: Gallery of Events
+        url: /news/gallery-events/
+      - title: School Magazine
+        url: /news/School-Magazine/magazine/
+      - title: E-Newsletter
+        url: /news/E-Newsletter/enewsletter/
+      - title: JVS Information Brochure
+        url: /news/brochure/
+      - title: The Muse
+        url: /news/muse/
+      - title: JVS Instagram
+        url: https://www.instagram.com/jurongville.secondary/
+      - title: Post Exam Activities (PEA)
+        url: https://docs.google.com/spreadsheets/d/1YCA0TtOWPlu-8GD_RauKPPbfMvlWLDsM/edit?gid=1865282346#gid=1865282346

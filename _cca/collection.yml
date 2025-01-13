@@ -1,0 +1,26 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC.md
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Scouts.md
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Football.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Sepak Takraw.md
+      - Sports & Games/Tchoukball.md
+      - Performing & Visual Arts/.keep
+      - Performing & Visual Arts/Angklung & Kulintang Ensemble.md
+      - Performing & Visual Arts/Chinese Orchestra.md
+      - Performing & Visual Arts/Concert Band.md
+      - Performing & Visual Arts/Drumatix Batucada.md
+      - Performing & Visual Arts/English Drama Club.md
+      - Performing & Visual Arts/Modern Dance.md
+      - Clubs.md

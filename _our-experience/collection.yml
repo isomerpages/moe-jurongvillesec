@@ -1,0 +1,32 @@
+collections:
+  our-experience:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/English Language & Literature and Music.md
+      - Curriculum/Mathematics and Computer Application.md
+      - Curriculum/Science.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Craft & Technology and Principle of Accounts.md
+      - Curriculum/Humanities.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Information Communication & Technology and School Library.md
+      - Character and Citizenship Education.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Overseas Learning Journey.md
+      - Student Leadership/Class Leaders.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Student Council.md
+      - Student Leadership/Sports Leaders.md
+      - Student Leadership/Audio Visual Leaders.md
+      - Student Leadership/Peer Support Leaders.md
+      - Student Leadership/Co Curricular Activity Leaders.md
+      - Student Discipline.md
+      - Open House/.keep
+      - Open House/Open House.md
+      - Open House/PREPARING FOR THE FUTURE.md
+      - Open House/DEEPENING KNOWLEDGE AND SKILLS.md
+      - Open House/DISCOVERING OUR PASSIONS.md
+      - Open House/LEADING AND SERVING OTHERS.md

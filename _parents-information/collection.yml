@@ -1,0 +1,17 @@
+collections:
+  parents-information:
+    output: true
+    order:
+      - Term Letters/.keep
+      - Term Letters/Term Letters.md
+      - Term Letters/Sec 4 & 5 Parents Engagement.md
+      - School Services/.keep
+      - School Services/School Services.md
+      - School Services/Booklist.md
+      - DSA/.keep
+      - DSA/Direct School Admission (DSA).md
+      - Sec 4 Post Sec Academic Options.md
+      - Financial Assistance Scheme.md
+      - Parents Support Group.md
+      - Family Matters @ School.md
+      - GCE O levels Result Release.md
