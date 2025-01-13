@@ -33,7 +33,7 @@ to manage their usage of devices, so that they remain in control of the
 ‘machines’, rather than the other way round. Their personal well-being
 will be enhanced through greater emphasis on Cyberwellness next year.</p>
 <h5>Parent Engagement</h5>
-<p>We will be sending out details to Sec 1 Parents in Jan 2024 through the
+<p>We will be sending out details to Sec 1 Parents in Jan 2025 through the
 Parent Gateway.</p>
 <p>In the meantime, if there are any further updates, we will alert parents
 through Parents’ Gateway and publish them on the school’s website.</p>
