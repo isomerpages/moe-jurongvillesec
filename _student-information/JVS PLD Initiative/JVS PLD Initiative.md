@@ -5,7 +5,7 @@ description: ""
 third_nav_title: JVS PLD Initiative
 variant: tiptap
 ---
-<h2>JVS PLD Initiative 2024</h2>
+<h2>JVS PLD Initiative 2025</h2>
 <h4>A Part of the National Digital Literacy Programme (NDLP)</h4>
 <h5>Our Vision for Learning</h5>
 <p>Jurongville aims to be a vibrant and nurturing community of passionate
@@ -43,7 +43,7 @@ through Parents’ Gateway and publish them on the school’s website.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/JVS_IP2_Parent_Engagement_Deck_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">JVS_IP2_Parent_Engagement_Deck_2024</a>
+<p><a href="/files/JVS_IP2_Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">JVS IP2 Parent Engagement Deck 2025</a>
 </p>
 </li>
 </ul>
