@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage.gif
+      background: /images/2025_Homepage_Banner.jpg
       key_highlights:
         - title: announcements
           description: Term Letter
