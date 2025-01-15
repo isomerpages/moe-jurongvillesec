@@ -133,7 +133,7 @@ and a person, and countless memories that will last a lifetime.</p>
 </p>
 </li>
 <li>
-<p>Friday 2:30pm - 4:30pm</p>
+<p>Thursday 3:00pm - 5:00pm</p>
 </li>
 </ul>
 <p></p>
