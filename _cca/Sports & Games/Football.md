@@ -157,31 +157,6 @@ will train four times a week.</p>
 </table>
 <p></p>
 <h4>Training Schedule</h4>
-<p>B Division
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday 4:30pm – 6:00pm
-<br>
-</p>
-</li>
-<li>
-<p>Tuesday 4:30pm – 6:00pm
-<br>
-</p>
-</li>
-<li>
-<p>Thursday 4:30pm – 6:00pm
-<br>
-</p>
-</li>
-<li>
-<p>Friday 2:30pm – 5:30pm
-<br>
-</p>
-</li>
-</ul>
 <p>C Division
 <br>
 </p>
@@ -201,8 +176,23 @@ will train four times a week.</p>
 <br>
 </p>
 </li>
+</ul>
+<p>B Division
+<br>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Friday 2:30pm – 5:30pm
+<p>Monday 4:30pm – 6:00pm
+<br>
+</p>
+</li>
+<li>
+<p>Tuesday 4:30pm – 6:00pm
+<br>
+</p>
+</li>
+<li>
+<p>Thursday 4:30pm – 6:00pm
 <br>
 </p>
 </li>
