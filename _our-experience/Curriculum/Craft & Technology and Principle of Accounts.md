@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum
 variant: markdown
 ---
-## Craft &amp; Technology / Principle of Accounts
+## Craft &amp; Technology / Principles of Accounts
 
 #### Art
 
