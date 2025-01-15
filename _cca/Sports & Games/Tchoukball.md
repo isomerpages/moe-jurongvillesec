@@ -193,7 +193,7 @@ SportsSG, as of 28 March 2023.</p>
 </p>
 </li>
 <li>
-<p>Thursday 3:00pm - 5:00pm (Indoor Sport Hall / Parade Square)</p>
+<p>Thursday 3:00pm - 5:00pm (Indoor Sport Hall)</p>
 </li>
 </ul>
 <p></p>
