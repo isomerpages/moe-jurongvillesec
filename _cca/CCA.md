@@ -429,7 +429,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms&nbsp;Norita (IC)</p>
-<p>Mrs Neo Lay Yen (2IC)</p>
+<p>Ms Rachel Liew Shan Shan (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -441,7 +441,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
+<p>3:00pm - 5:00pm
 <br>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -449,13 +449,12 @@ variant: tiptap
 <br>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra Room /</p>
-<p>ALP Room, Media Room 3 &amp; 4 (<strong>Tuesday</strong>)</p>
+<p>Chinese Orchestra Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Loh Siew See (IC)</p>
-<p>Mr Heng Yuan Hao (2IC)</p>
-<p>Mrs Er Siao Fun</p>
+<p>Mrs Er Siao Fun (2IC)</p>
+<p>Ms Toh Puay Boon</p>
 </td>
 </tr>
 <tr>
@@ -471,16 +470,15 @@ variant: tiptap
 <br>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 4:30pm
-<br>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm
+<br>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Room /</p>
-<p>Level 4 Classrooms</p>
+<p>Band Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Khairin Aisyah (IC)</p>
-<p>Mrs Samy (2IC)</p>
+<p>Mr Tiew Choon Lien Kenny (IC)</p>
+<p>Ms Nur Khairin Aisyah (2IC)</p>
 <p>Mr Thomas Lee</p>
 </td>
 </tr>
@@ -493,19 +491,22 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
-<br>(<strong>Tuesday</strong>)</p>
+<p>3:00pm - 5:00pm
+<br>(<strong>Monday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 4:30pm
-<br>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm
+<br>(<strong>Wednesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPR 1 &amp; 2</p>
+<p>Music Room</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Usha (IC)</p>
-<p>Ms Toh Puay Boon (2IC)</p>
+<p>Ms Evangeline Nga Jia Ying</p>
+<p>(2IC)</p>
+<p>Mdm Thangamuthu Meenakshi Sundari</p>
 </td>
 </tr>
 <tr>
@@ -517,12 +518,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
+<p>3:00pm - 5:00pm
 <br>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 5:30pm
-<br>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm
+<br>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vista 1 &amp; 2 Room</p>
@@ -530,7 +531,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Kathleen Tan (IC)</p>
 <p>Ms Gladys Siah (2IC)</p>
-<p>Ms Rachel Liew Shan Shan</p>
+<p>Mdm Shivali Popat Jadhav</p>
 </td>
 </tr>
 <tr>
