@@ -227,16 +227,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm</p>
+<p>3:00pm - 5:00pm</p>
 <p>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:00pm</p>
-<p>(<strong>Friday</strong>)</p>
+<p>(<strong>Wednesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Basketball (Tuesday) /</p>
-<p>ISH (Friday)</p>
+<p>Indoor Sport Hall (Tue) / Outdoor Court (Wed)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,18 +260,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3:00pm - 4:30pm
 <br>(<strong>Thursday</strong>)</p>
-<p>2:30pm - 5:30pm
-<br>(<strong>Friday</strong>)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Field /</p>
-<p>Eureka Room 1 (<strong>Monday</strong>)</p>
+<p>School Field / Eureka Room 1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shahul Hameed (IC)</p>
-<p>Mr Raymond Tan (2IC)</p>
-<p>Mr Hafiz Azhar</p>
-<p>Mr Donald Wan</p>
+<p>Mr Hafiz Azhar (IC)</p>
+<p>Mr Donald Wan (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -292,18 +288,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>4:30pm - 6:00pm
 <br>(<strong>Thursday</strong>)</p>
-<p>2:30pm - 5:30pm
-<br>(<strong>Friday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Field /</p>
-<p>Eureka Room 1 (<strong>Monday</strong>)</p>
+<p>School Field / Eureka Room 1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shahul Hameed (IC)</p>
 <p>Mr Raymond Tan (2IC)</p>
-<p>Mr Hafiz Azhar</p>
-<p>Mr Donald Wann</p>
 </td>
 </tr>
 <tr>
