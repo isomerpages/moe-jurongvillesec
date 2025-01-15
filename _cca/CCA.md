@@ -235,7 +235,7 @@ variant: tiptap
 <p>(<strong>Wednesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sport Hall (Tue) / Outdoor Court (Wed)</p>
+<p>ISH (<strong>Tuesday</strong>) / Outdoor Court (<strong>Wednesday</strong>)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,16 +311,16 @@ variant: tiptap
 <p>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:00pm - 3:00pm</p>
-<p>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm</p>
+<p>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parade Square (<strong>Tuesday</strong>) /</p>
-<p>ISH (<strong>Friday</strong>)</p>
+<p>School Hall (<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Rohani (IC)</p>
-<p>Ms Bakhtiar Borhan Said (2IC)</p>
+<p>Ms Bakhtiar Borhan Said (IC)</p>
+<p>Mdm Siti Rohani (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -332,21 +332,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
+<p>3:00pm - 5:00pm
 <br>(<strong>Monday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
-<br>(<strong>Thursday</strong>)</p>
+<p>3:00pm - 5:00pm
+<br>(<strong>Wednesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH (<strong>Monday</strong>) /</p>
-<p>School Hall (<strong>Thursday</strong>)</p>
+<p>ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Zailani (IC)</p>
-<p>Ms Angela Chua (2IC)</p>
-<p>Mr Lloyd Lin</p>
+<p>Mr Lloyd Lin (IC)</p>
+<p>Mr Mohd Zailani (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -367,15 +365,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
-<p>(<strong>Tuesday</strong>) /</p>
-<p>ISH / Parade Square</p>
-<p>(<strong>Thursday</strong>)</p>
+<p>(<strong>Tuesday</strong>) / ISH (<strong>Thursday</strong>)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edwin You (IC)</p>
 <p>Mr Vasan (2IC)</p>
-<p>Ms Kay</p>
+<p>Mr Chua Khuang Lim</p>
 </td>
 </tr>
 </tbody>
