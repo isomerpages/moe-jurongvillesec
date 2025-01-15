@@ -54,7 +54,7 @@ variant: tiptap
 <p>(<strong>Saturday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parade Square</p>
+<p>Parade Square / Classroom</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Yong Kai (IC)</p>
@@ -70,20 +70,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>3:00pm - 5:30pm</p>
+<p>(<strong>Tuesday</strong>)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm - 5:00pm</p>
-<p>(<strong>Friday</strong>)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Amphitheatre /</p>
-<p>Classroom Blocks</p>
+<p>Classroom</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Li Lim (IC)</p>
 <p>Ms Tan Jia Hui (2IC)</p>
+<p>Ms Wong xin En</p>
 </td>
 </tr>
 <tr>
