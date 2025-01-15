@@ -98,13 +98,13 @@ in our teams to achieve our goals.</p>
 </table>
 <h4>Students' voices</h4>
 <p><strong>Anya Wong Jing En, B Division Captain</strong>
-<br><em>Netball taught me the essence of teamwork over individual strength. It showed me that being the best is not always crucial; that effort and determination mattered the most. Our coach, who was always there to guide, imparted invaluable lessons that I'm certain the team cherishes. A message to my team mates; work diligently, play with passion, and above all, savor every step of the journey. </em>
+<br><em>Netball taught me the essence of teamwork over individual strength. It showed me that being the best is not always crucial; that effort and determination mattered the most. Our coach, who was always there to guide, imparted invaluable lessons that I'm certain the team cherishes. A message to my team mates; work diligently, play with passion, and above all, savor every step of the journey.</em>
 </p>
 <p><strong>Tan Jia Hui, B Division Vice-Captain:</strong>
 <br><em>Through Netball CCA, I have learnt to be more independent and persevering in my daily life. Netball CCA have made me physically and mentally stronger through hard work and tough trainings. The trainings might be tough but it has helped us to improve and learn many skills. I hope to develop myself further from Netball.</em>
 </p>
 <p><strong>Aktchiyaa Chakkaravarthi, B Division Committee Member:</strong>
-<br><em>Netball has been a nurturing field where I learnt important values like perseverance, hardwork, teamwork and empathy. In Netball, we faced challenges that forced us to learn to work together as one team. We have been taught to not leave anyone behind and support every single person in the team. No matter how tough the trainings were, we knew at the end of the day it was all worth it as we improved and grew. </em>
+<br><em>Netball has been a nurturing field where I learnt important values like perseverance, hardwork, teamwork and empathy. In Netball, we faced challenges that forced us to learn to work together as one team. We have been taught to not leave anyone behind and support every single person in the team. No matter how tough the trainings were, we knew at the end of the day it was all worth it as we improved and grew.</em>
 </p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
@@ -114,7 +114,7 @@ in our teams to achieve our goals.</p>
 </p>
 </li>
 <li>
-<p>Friday 1:00pm - 3:00pm</p>
+<p>Thursday 3:00pm - 5:00pm</p>
 </li>
 </ul>
 <p></p>
