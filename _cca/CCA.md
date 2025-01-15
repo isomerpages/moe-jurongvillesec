@@ -151,7 +151,8 @@ variant: tiptap
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom Blocks</p>
+<p>Classroom /</p>
+<p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Ruting (IC)</p>
