@@ -7,18 +7,22 @@ variant: tiptap
 ---
 <h2>Football</h2>
 <p>Teacher ICs:</p>
+<p>C Division</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Hafiz Azhar (I/C)</p>
+</li>
+<li>
+<p>Mr Donald Wan (2 I/C)</p>
+</li>
+</ol>
+<p>B Division</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mr Shahul Hameed (I/C)</p>
 </li>
 <li>
 <p>Mr Raymond Tan (2 I/C)</p>
-</li>
-<li>
-<p>Mr Hafiz Azhar</p>
-</li>
-<li>
-<p>Mr Donald Wan</p>
 </li>
 </ol>
 <p></p>
