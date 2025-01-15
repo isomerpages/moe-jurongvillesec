@@ -202,12 +202,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm</p>
+<p>3:00pm - 5:00pm</p>
 <p>(<strong>Monday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 4:30pm</p>
-<p>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm</p>
+<p>(<strong>Wednesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
@@ -215,7 +215,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Chan Lay Yean (IC)</p>
 <p>Mr Koh Kuan Chien (2IC)</p>
-<p>Mr Chua Khuang Lim</p>
+<p>Ms Geetha Veeramani</p>
 </td>
 </tr>
 <tr>
