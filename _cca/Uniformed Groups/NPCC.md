@@ -119,7 +119,7 @@ to navigate the world of the 21st centuryz.</p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Friday 2:30pm - 4:30pm</p>
+<p>Friday 3:00pm - 5:00pm</p>
 </li>
 </ul>
 <p></p>
