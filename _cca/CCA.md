@@ -77,9 +77,8 @@ variant: tiptap
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Amphitheatre /</p>
-<p>Classroom</p>
-<p></p>
+<p>Classroom /</p>
+<p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Li Lim (IC)</p>
@@ -96,14 +95,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm</p>
+<p>3:00pm - 5:00pm</p>
 <p>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom 4RP &amp; 4RS /</p>
+<p>Classroom /</p>
 <p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
