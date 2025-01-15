@@ -119,19 +119,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>3:00pm - 5:00pm</p>
+<p>(<strong>Tuesday</strong>)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 4:30pm</p>
-<p>(<strong>Friday</strong>)</p>
+<p>Classroom /</p>
+<p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom Blocks</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Kah Hou (IC)</p>
-<p>Mr Lam Seng Tat (2IC)</p>
-<p>Ms Grace Lee Ying Hui</p>
+<p>Mr Lam Seng Tat (IC)</p>
+<p>Ms Grace Lee Ying Hui (2IC)</p>
+<p>Ms Tan Kuay Yong</p>
 </td>
 </tr>
 <tr>
