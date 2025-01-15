@@ -543,12 +543,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm
+<p>3:00pm - 5:00pm
 <br>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 4:30pm
-<br>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm
+<br>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Room</p>
@@ -556,7 +556,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Aditi (IC)</p>
 <p>Ms Clarissa Ng (2IC)</p>
-<p>Ms Lien Wei Chi</p>
 </td>
 </tr>
 </tbody>
@@ -602,20 +601,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:45pm - 5:45pm</p>
+<p>3:00pm - 5:00pm</p>
 <p>(<strong>Tuesday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 4:30pm</p>
-<p>(<strong>Friday</strong>)</p>
+<p>3:00pm - 5:00pm</p>
+<p>(<strong>Thursday</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 3 &amp; Lab 4</p>
+<p>Computer Lab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nar Han Keong&nbsp;(IC)</p>
-<p>Mr Muhd Arshad (2IC)</p>
-<p>Ms Sri Masayu</p>
+<p>Mr Muhammad Arshad (IC)</p>
+<p>Mr Nar Han Keong&nbsp;(2IC)</p>
+<p>Mr Muhammad Nasri</p>
 </td>
 </tr>
 </tbody>
