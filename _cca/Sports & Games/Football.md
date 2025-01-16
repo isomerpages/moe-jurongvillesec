@@ -7,18 +7,22 @@ variant: tiptap
 ---
 <h2>Football</h2>
 <p>Teacher ICs:</p>
+<p>C Division</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Hafiz Azhar (I/C)</p>
+</li>
+<li>
+<p>Mr Donald Wan (2 I/C)</p>
+</li>
+</ol>
+<p>B Division</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mr Shahul Hameed (I/C)</p>
 </li>
 <li>
 <p>Mr Raymond Tan (2 I/C)</p>
-</li>
-<li>
-<p>Mr Hafiz Azhar</p>
-</li>
-<li>
-<p>Mr Donald Wan</p>
 </li>
 </ol>
 <p></p>
@@ -157,31 +161,6 @@ will train four times a week.</p>
 </table>
 <p></p>
 <h4>Training Schedule</h4>
-<p>B Division
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday 4:30pm – 6:00pm
-<br>
-</p>
-</li>
-<li>
-<p>Tuesday 4:30pm – 6:00pm
-<br>
-</p>
-</li>
-<li>
-<p>Thursday 4:30pm – 6:00pm
-<br>
-</p>
-</li>
-<li>
-<p>Friday 2:30pm – 5:30pm
-<br>
-</p>
-</li>
-</ul>
 <p>C Division
 <br>
 </p>
@@ -201,8 +180,23 @@ will train four times a week.</p>
 <br>
 </p>
 </li>
+</ul>
+<p>B Division
+<br>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Friday 2:30pm – 5:30pm
+<p>Monday 4:30pm – 6:00pm
+<br>
+</p>
+</li>
+<li>
+<p>Tuesday 4:30pm – 6:00pm
+<br>
+</p>
+</li>
+<li>
+<p>Thursday 4:30pm – 6:00pm
 <br>
 </p>
 </li>

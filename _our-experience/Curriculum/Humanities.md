@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /our-experience/Curriculum/humanities/
+permalink: /our-experience/curriculum/humanities/
 description: ""
 third_nav_title: Curriculum
 variant: markdown

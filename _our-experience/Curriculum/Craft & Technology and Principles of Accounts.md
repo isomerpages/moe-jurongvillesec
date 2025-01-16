@@ -1,11 +1,11 @@
 ---
-title: Craft & Technology and Principle of Accounts
-permalink: /our-experience/Curriculum/cnt-poa/
+title: Craft & Technology and Principles of Accounts
+permalink: /our-experience/curriculum/cnt-poa/
 description: ""
 third_nav_title: Curriculum
 variant: markdown
 ---
-## Craft &amp; Technology / Principle of Accounts
+## Craft &amp; Technology / Principles of Accounts
 
 #### Art
 

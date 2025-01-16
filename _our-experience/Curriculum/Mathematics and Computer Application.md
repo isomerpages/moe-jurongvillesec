@@ -1,6 +1,6 @@
 ---
 title: Mathematics and Computer Application
-permalink: /our-experience/Curriculum/math-compapp/
+permalink: /our-experience/curriculum/math-compapp/
 description: ""
 third_nav_title: Curriculum
 variant: markdown

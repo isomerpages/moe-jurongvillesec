@@ -1,6 +1,6 @@
 ---
 title: English Language & Literature and Music
-permalink: /our-experience/Curriculum/el-lit-music/
+permalink: /our-experience/curriculum/el-lit-music/
 description: ""
 third_nav_title: Curriculum
 variant: markdown

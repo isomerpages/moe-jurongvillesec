@@ -202,7 +202,7 @@ you?</p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday 3:45pm - 5:45pm
+<p>Tuesday 3:00pm - 5:00pm
 <br>
 </p>
 </li>

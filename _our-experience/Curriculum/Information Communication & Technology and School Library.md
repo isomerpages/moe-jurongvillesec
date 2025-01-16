@@ -1,8 +1,9 @@
 ---
 title: Information Communication & Technology and School Library
-permalink: /our-experience/Curriculum/ict-sl/
+permalink: /our-experience/curriculum/ict-sl/
 description: ""
 third_nav_title: Curriculum
+variant: tiptap
 ---
 ## Information Communication &amp; Technology / School Library
 
@@ -37,4 +38,4 @@ The JVS library’s physical and digital spaces connect readers and learners to 
 With a flexible multi-use approach, JVS library’s physical space also enables a range of activities including quiet reading, study, collaboration, performance, or school events.
 
 Discovering Me was one such library event for students to come together to discuss their experiences growing up and what defined their personalities. Held on 20 May 2022 in conjunction with ELL Week, the event saw EL Champions Su Thu (2IN), Anya (2DP), Elizabeth and Xylia (2RP) chairing and sharing during the event. It was a great way for students of all levels to bond and discover themselves!
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIBhErVYLqbnHQaWw8kZqvUJV6G3GmXs_m5pbl8iEiawzSGO7KtfZL4M0HljdIG2oyhjzmOTJN_-rF/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIBhErVYLqbnHQaWw8kZqvUJV6G3GmXs_m5pbl8iEiawzSGO7KtfZL4M0HljdIG2oyhjzmOTJN_-rF/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
