@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>CCA</h2>
-<p><strong>2024 CCA Weekly Schedule Semester 1</strong>
+<p><strong>2025 CCA Weekly Schedule Semester 1</strong>
 <br><strong>UNIFORMED GROUPS</strong>
 </p>
 <table style="minWidth: 150px">
