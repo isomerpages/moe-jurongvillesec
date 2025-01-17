@@ -4,7 +4,7 @@ permalink: /student-information/class-mentors/
 description: ""
 variant: markdown
 ---
-<h2>Class Mentors 2024</h2>
+<h2>Class Mentors 2025</h2>
 <table>
 	<tbody>
 		<tr>
