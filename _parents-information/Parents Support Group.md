@@ -39,3 +39,7 @@ variant: markdown
 
 On 3 February 2023, our PSG leaders were invited to a Breakfast session with our School Leaders. It was an enjoyable session where our parent representatives, teachers, and school leaders got to know each other, and discuss different matters to support our students.<br>
 <img src="/images/2023%20PSG%20Breakfast%20with%20Principal.jpg" style="width:90%">
+
+#### Resources
+1. PArenting for Wellness: Toolkit for Parents: https://file.go.gov.sg/pfw-toolbox-for-parents.pdf
+2. Raising a Digitally Smart Child Parent Kit: https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf
