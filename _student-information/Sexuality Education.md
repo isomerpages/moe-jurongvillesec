@@ -93,8 +93,7 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Programme Learning Objectives</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time Period
-<br>(e.g. Term 3 Week 9)</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
