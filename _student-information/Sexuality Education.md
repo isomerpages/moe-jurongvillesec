@@ -77,7 +77,7 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<h4>At Jurongville Secondary School, the <em>eTeens</em> programme will be implemented as follows in <u>2024</u>:</h4>
+<h4>At Jurongville Secondary School, the eTeens programme will be implemented as follows in 2025:</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -99,7 +99,7 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -120,7 +120,7 @@ and consistent condom use).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2
-<br>Week 2</p>
+<br>Week 8</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2
-<br>Week 3</p>
+<br>Week 10</p>
 </td>
 </tr>
 </tbody>
