@@ -15,7 +15,6 @@ sections:
   - infopic:
       title: Wellness Wednesday
       id: infopic
-      description: Infopic description
       button: Click Here
       url: https://sites.google.com/moe.edu.sg/neforjvnites/jvs/activities/wellness-wednesday
       image: /images/LOO_Banner.jpg
