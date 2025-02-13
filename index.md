@@ -12,14 +12,11 @@ sections:
         - title: announcements
           description: Term Letter
           url: /parents-information/Term-Letters/tl/
-        - title: Announcements
-          description: GCE O-Level Results Release
-          url: /parents-information/resultrelease/
   - infopic:
-      title: Open House 2024
+      title: Wellness Wednesday
       id: infopic
       button: Click Here
-      url: /our-experience/open-house/open-house/
-      image: /images/JVS_OpenHouseBanner.jpg
-      alt: Open House 2024
+      url: https://sites.google.com/moe.edu.sg/neforjvnites/jvs/activities/wellness-wednesday
+      image: /images/LOO_Banner.jpg
+      alt: Image alt text
 ---
