@@ -21,6 +21,10 @@ variant: tiptap
 <p><a href="/files/2025_Sem1_After_School_Programme_Parent_Letter_13Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sem1 After School Programme Parent Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Project_Wolbachia_Letter_to_Parents_Jurong_East.pdf" rel="noopener noreferrer nofollow" target="_blank">Project Wolbachia Letter to Parents</a>
+</p>
+</li>
 </ul>
 <h4>Term 2</h4>
 <h4>Term 3</h4>
