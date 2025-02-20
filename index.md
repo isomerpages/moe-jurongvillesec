@@ -14,13 +14,11 @@ sections:
           url: /parents-information/Term-Letters/tl/
   - infopic:
       title: EVENTS
-      subtitle: Add an image and text
       id: infopic
       description: JVS Total Defence Day
       button: click here
       url: https://sites.google.com/moe.edu.sg/neforjvnites/jvs/total-defence-day
       image: /images/TOTAL.png
-      alt: Image alt text
   - infopic:
       title: Wellness Wednesday
       id: infopic
