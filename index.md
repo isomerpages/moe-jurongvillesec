@@ -19,6 +19,7 @@ sections:
       button: click here
       url: https://sites.google.com/moe.edu.sg/neforjvnites/jvs/total-defence-day
       image: /images/TOTAL.png
+      alt: Image alt text
   - infopic:
       title: Wellness Wednesday
       id: infopic
