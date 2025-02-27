@@ -17,7 +17,7 @@ sections:
       id: infopic
       description: JVS Total Defence Day
       button: click here
-      url: https://sites.google.com/moe.edu.sg/neforjvnites/jvs/total-defence-day
+      url: https://sites.google.com/moe.edu.sg/neforjvnites/jvs/activities/total-defence-day
       image: /images/TOTAL.png
       alt: Image alt text
   - infopic:
