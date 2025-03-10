@@ -25,6 +25,10 @@ variant: tiptap
 <p><a href="/files/Project_Wolbachia_Letter_to_Parents_Jurong_East.pdf" rel="noopener noreferrer nofollow" target="_blank">Project Wolbachia Letter to Parents</a>
 </p>
 </li>
+<li>
+<p><a href="/files/PG_message_for_DLC.pdf" rel="noopener nofollow" target="_blank">PG Message for Differentiated Leadership Workshop 2025</a>
+</p>
+</li>
 </ul>
 <h4>Term 2</h4>
 <h4>Term 3</h4>
