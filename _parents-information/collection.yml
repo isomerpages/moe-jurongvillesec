@@ -2,7 +2,6 @@ collections:
   parents-information:
     output: true
     order:
-      - GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS.md
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 4 & 5 Parents Engagement.md
@@ -16,3 +15,4 @@ collections:
       - Parents Support Group.md
       - Family Matters @ School.md
       - GCE O levels Result Release.md
+      - GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS.md
