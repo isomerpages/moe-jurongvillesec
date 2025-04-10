@@ -27,9 +27,8 @@ variant: markdown
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Rooslimah Bte Oshman (Operation Support Officer)</p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Mohamed Shahrin Bin Sallim (Operation Support Officer)</p></td></tr>
 	<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Ms Siti Fatima Zohra Ash-shiddieqy Bte Abas (Student Health Advisor)</p></td></tr>
-<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Cheong Kum Seng Russell (ECG Counsellor)</p></td></tr>
+<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Ms Atikah Bte Sa'ad (ECG Counsellor)</p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Leong Kok Wah (Desktop Engineer)</p></td></tr>
-<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Muhammad Sufi Mustaqim Bin Sahri (Desktop Engineer)</p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Siah Ai Poh (NFS Assistant)</p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Jaheera D/O Sahul Hamid (Library Assistant)</p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Goh Bee Wah (Printing Operator)</p></td></tr>
