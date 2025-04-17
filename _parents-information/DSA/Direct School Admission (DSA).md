@@ -51,8 +51,8 @@ Promising primary 6 students in the current year of study with the aptitude and 
 			<td><a href="https://go.gov.sg/dsa-sec-application">https://go.gov.sg/dsa-sec-application</a></td>
 		</tr>
 		<tr>
-			<td>*Direct to DSA-Sec Portal:</td>
-			<td><a href="https://go.gov.sg/apply-dsa-sec">https://go.gov.sg/apply-dsa-sec</a></td>
+			<td>Direct to DSA-Sec Portal:</td>
+			<td>Not available</td>
 		</tr>
 		<tr>
 			<td>DSA-Sec iFAQs:</td>
