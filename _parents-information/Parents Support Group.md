@@ -34,13 +34,28 @@ variant: markdown
 5. Ms Karmila Binte Asari (SH / Mathematics)
 
 ##### Parent Representatives for Different Levels in 2023
-| Level | Representatives |
-| -------- | -------- |
-| Secondary 1 | Mdm Audrey leong |
-| Secondary 2 | Mrs Ong Min Hui |
-| Secondary 3 | Mdm Karen Toh |
-| Secondary 3 | Mdm Mellissa Chong |
-| Secondary 4 | Mrs Kee Hwee Sin |
+<table>
+	<tbody>
+		<tr>
+			<th>Level</th><th>Representatives</th>
+		</tr>
+		<tr>
+			<td>Secondary 1</td><td>Mdm Audrey leong</td>
+		</tr>
+		<tr>
+			<td>Secondary 2</td><td>Mrs Ong Min Hui</td>
+		</tr>
+		<tr>
+			<td>Secondary 3</td><td>Mdm Karen Toh</td>
+		</tr>
+		<tr>
+			<td>Secondary 3</td><td>Mdm Mellissa Chong</td>
+		</tr>
+		<tr>
+			<td>Secondary 4</td><td>Mrs Kee Hwee Sin</td>
+		</tr>
+	</tbody>
+	</table>
 
 ### Events
 ##### 1.Breakfast with School Leaders for PSG level coordinators
