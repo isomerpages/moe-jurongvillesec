@@ -79,12 +79,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://sg-portal.mobileguardian.com/#/login" rel="noopener noreferrer nofollow" target="_blank">DMA-Mobile Guardian Login</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HRP</a>
 </p>
 </td>
@@ -104,13 +98,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">MOE ICON Mail (Google)</a>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://schools.gov.sg/owa/auth/logon.aspx" rel="noopener noreferrer nofollow" target="_blank">CES Email Website</a>
 </p>
 </td>
 </tr>
@@ -123,19 +110,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">IEXAM2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://imtl.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">iMTL</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">My Skills Future</a>
-<br>
 </p>
 </td>
 </tr>
