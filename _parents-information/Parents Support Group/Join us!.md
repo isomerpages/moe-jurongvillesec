@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Parents Support Group
 ---
 ### Parents Support Group
-<a href="https://go.gov.sg/jvspsg"><img src="/images/JVS_PSG.png"></a><p></p>
+<a href="https://go.gov.sg/jvspsg"><img src="/images/JVS_PSG.png"></a>
 **The Parent Support Group (PSG) provides PSG members the opportunity to:**
 1. Share their perspectives and feedback on school programmes and processes
 2. Share their knowledge and experience with the students as part of the students’ holistic education
