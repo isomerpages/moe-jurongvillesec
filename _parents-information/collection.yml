@@ -2,6 +2,7 @@ collections:
   parents-information:
     output: true
     order:
+      - Parents Support Group/.keep
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 4 & 5 Parents Engagement.md
