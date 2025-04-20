@@ -2,11 +2,6 @@ collections:
   parents-information:
     output: true
     order:
-      - Parents Support Group/.keep
-      - Parents Support Group/Join us!.md
-      - Parents Support Group/Parent representatives.md
-      - Parents Support Group/Events.md
-      - Parents Support Group/Resources.md
       - Term Letters/.keep
       - Term Letters/Term Letters.md
       - Term Letters/Sec 4 & 5 Parents Engagement.md
@@ -15,6 +10,11 @@ collections:
       - School Services/Booklist.md
       - DSA/.keep
       - DSA/Direct School Admission (DSA).md
+      - Parents Support Group/.keep
+      - Parents Support Group/Join us!.md
+      - Parents Support Group/Parent representatives.md
+      - Parents Support Group/Events.md
+      - Parents Support Group/Resources.md
       - Sec 4 Post Sec Academic Options.md
       - Financial Assistance Scheme.md
       - Family Matters @ School.md
