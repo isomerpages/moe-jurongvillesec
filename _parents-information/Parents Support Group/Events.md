@@ -23,7 +23,6 @@ On 17 February 2025, our PSG members were invited to Jurongville Secondary Schoo
 
 ##### 3. Hari Raya Aidilfitri
 On 1, 2 and 3 April, we were grateful to have parent volunteers join us in celebrating Hari Raya Aidilfitri, embodying the values of community, togetherness and generosity. Their support at the games booths and warm interactions with our JVNites added joy and meaning to the festivities. We deeply appreciate their time and spirit in making this celebration a memorable one for all.<br>
-Video link: https://drive.google.com/file/d/1phdATvvdUEEnDGE1DMCtqsqKf4jEverO/view?usp=sharing
 ![](/images/Hari_Raya_Aidilfitri_1.jpg)<br>
 ![](/images/Hari_Raya_Aidilfitri_2.jpg)<br>
 ![](/images/Hari_Raya_Aidilfitri_3.jpg)
