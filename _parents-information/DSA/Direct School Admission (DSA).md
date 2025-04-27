@@ -8,11 +8,11 @@ variant: markdown
 ## Direct School Admission (DSA)
 
 
-#### Direct School Admission (DSA-Sec) Exercise 2024
+#### Direct School Admission (DSA-Sec) Exercise 2025
 
 The DSA-Sec and Secondary 1 (S1) Posting are the two modes of admission to Secondary Schools. The DSA-Sec allows students to seek admission to S1 based on their achievements and talents.
 
-Promising primary 6 students in the current year of study with the aptitude and passion in the talent areas listed below may apply for admission into Secondary 1 (2025) to Jurongville Secondary School through DSA-Sec Exercise 2024.  Do refer to the respective pages via the link for more information on each talent area. 
+Promising primary 6 students in the current year of study with the aptitude and passion in the talent areas listed below may apply for admission into Secondary 1 (2026) to Jurongville Secondary School through DSA-Sec Exercise 2025.  Do refer to the respective pages via the link for more information on each talent area. 
 
 
 <table width="80%" border="1">
@@ -75,7 +75,7 @@ Promising primary 6 students in the current year of study with the aptitude and 
 <li>Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</li>
 </ul>
 
-##### Application for DSA-Sec can be submitted through the online DSA Sec Portal.  The application is free-of-charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm.  For more details, please refer to MOE website - [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+##### Application for DSA-Sec can be submitted through the online DSA Sec Portal.  The application is free-of-charge and will be open from Wednesday 7 May 2025, 11am to Tuesday 3 June 2025, 3pm.  For more details, please refer to MOE website - [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 ##### Application Criteria:
 <table width="100%" border="1">
@@ -131,25 +131,25 @@ Please note that only shortlisted applicants will be invited to attend the in-pe
 		</tr>
 		<tr>
 			<td>Application Open</td>
-			<td>7 May 2024, 11am</td>
+			<td>7 May 2025, 11am</td>
 			<td rowspan="2"><a href="https://go.gov.sg/apply-dsa-sec">https://go.gov.sg/apply-dsa-sec</a></td>
 		</tr>
 		<tr>
 			<td>Application Close</td>
-			<td>3 June 2024, 3pm</td>
+			<td>3 June 2025, 3pm</td>
 		</tr>
 		<tr>
 			<td>Notification to Shortlisted Applicants</td>
-			<td>From 2 July 2024</td>
+			<td>From 2 July 2025</td>
 			<td>Shortlisted applicants will receive email from school.  Details of selection trials and interview will be advised.</td>
 		</tr>
 		<tr>
 			<td>Selection Trials and Interview for Shortlisted Applicants</td>
-			<td>From 15 July 2024</td>
+			<td>From 15 July 2025</td>
 			<td>Details of selection will be advised closer the date.
 			</td></tr><tr>
 				<td>Notification of DSA Selection outcome</td>
-				<td>By 9 Sep 2024</td>
+				<td>By 4 Sep 2025</td>
 				<td>Applicants will be notified of the selection outcome. </td>
 		</tr>
 	</tbody>
