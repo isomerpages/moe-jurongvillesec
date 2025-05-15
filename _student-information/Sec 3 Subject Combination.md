@@ -34,10 +34,31 @@ variant: tiptap
 <p>
 <br>4 . Principles of Accounts</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSYwdPE8hsw"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSYwdPE8hsw"></iframe>
 </div>
 <h4>2026 G3:</h4>
-<p>1 . <a href="https://drive.google.com/file/d/1Nh0EHKTMz4o4KgnViWSiM0NctMkxCu_-/view?t=2" rel="noopener noreferrer nofollow" target="_blank">Smart Electrical Technology (SET)</a> 
-<br>2 . <a href="https://drive.google.com/file/d/1vHvt6tOBcUc_ZNtUQ0AElzcKRd_BLn1T/view?t=2" rel="noopener noreferrer nofollow" target="_blank">Design &amp; Technology</a> 
-<br>3 . <a href="https://drive.google.com/file/d/1aqAWyFPhMzb86ftMo4Vel0ndZtf8qts9/view?t=2" rel="noopener noreferrer nofollow" target="_blank">Nutrition &amp; Food Science</a>
-</p>
+<p>1 . Additional Mathematics</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K8-Ju7alJ18"></iframe>
+</div>
+<p>
+<br>2 . Design &amp; Technology</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9oP-uhqDuoo"></iframe>
+</div>
+<p>
+<br>3 . Humanities</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d2JMf9Bw8a0"></iframe>
+</div>
+<p>
+<br>4 . Principles of Accounts</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSYwdPE8hsw"></iframe>
+</div>
+<p>
+<br>5 . Science-Express</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6EJxEmc1fJc"></iframe>
+</div>
+<p></p>
