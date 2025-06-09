@@ -31,6 +31,12 @@ variant: tiptap
 </li>
 </ul>
 <h4>Term 2</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_End_of_Sem_1.pdf" rel="noopener nofollow" target="_blank">End of Sem 1</a>
+</p>
+</li>
+</ul>
 <h4>Term 3</h4>
 <h4>Term 4</h4>
 <p></p>
