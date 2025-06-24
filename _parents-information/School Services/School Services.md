@@ -35,9 +35,10 @@ variant: tiptap
 <p>at designated classrooms on yearend sales (dates and times to be confirmed)</p>
 </li>
 </ul>
-<p><a href="/files/Uniform_Pricing___KH_Uniform_Pte_Ltd.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Uniform Pricing</a>{:target="_blank"}
-<br><a href="/files/JVSS_Uniform_Purchase_for_2025__All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for JVSS Uniform Purchase for 2025 (All Levels)</a>{:target="_blank"}
-<br><a href="/files/JVSS_Uniform_Purchase_for_2025__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for JVSS Uniform Purchase for 2025 (Sec 1)</a>{:target="_blank"}</p>
+<p><a href="/files/Uniform_Pricing___KH_Uniform_Pte_Ltd.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Uniform Pricing</a>
+<br><a href="/files/JVSS_Uniform_Purchase_for_2025__All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for JVSS Uniform Purchase for 2025 (All Levels)</a>
+<br><a href="/files/JVSS_Uniform_Purchase_for_2025__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for JVSS Uniform Purchase for 2025 (Sec 1)</a>
+</p>
 <h4>School Textbooks &amp; Stationery</h4>
 <p>Name of Supplier: <strong>Shing Lee Bookstores Pte Ltd</strong>
 <br>Venue: School Bookshop @ Canteen
