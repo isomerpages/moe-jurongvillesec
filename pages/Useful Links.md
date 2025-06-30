@@ -97,6 +97,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://outlook.office.com/" rel="noopener nofollow" target="_blank">CES Email (Website)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">MOE ICON Mail (Google)</a>
 </p>
 </td>
