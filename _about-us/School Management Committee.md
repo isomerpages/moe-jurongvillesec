@@ -24,28 +24,10 @@ variant: markdown
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:jurongville@moe.edu.sg" target="">Mdm Ibaidah Binte Ibrahim</a></p></td>
     </tr>
     <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Administration Manager</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:soo_shio_leng@schools.gov.sg" target="">Ms Soo Shio Leng</a></p></td>
-    </tr>
-     <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operations Manager</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:riduan_rahmat@schools.gov.sg" target="">Mr Riduan Bin Rahmat</a></p></td>
-    </tr>   <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operations Manager</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:Tang_siew_hoong@schools.gov.sg" target="">Mr Tang Siew Hoong</a></p></td>
-    </tr>
-    <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">School Staff Developer</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:simon_lydia_shamani@schools.gov.sg" target="">Ms Lydia Simon</a></p></td>
     </tr>
     <tr>
-			<td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Year Head</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wee_jin_yi@schools.gov.sg" target="">Mr Wee Jin Yi</a></p></td>
-    </tr>
-    <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Year Head</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:han_hui_chin@schools.gov.sg" target="">Ms Han Hui Chin</a></p></td>
-    </tr>    <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/Character and Citizenship Education<br>(Covering Humanities)</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:Mohammad_Nasser_Jaafar@schools.gov.sg" target="">Mr Mohammad Nasser Bin Jaafar</a></p></td>
     </tr>
@@ -58,6 +40,10 @@ variant: markdown
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:Nur_Rashidah_RAMLI@schools.gov.sg" target="">Ms Nur Rashidah Ramli</a></p></td>
     </tr>
     <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/English Literature</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sue_en_connie@schools.gov.sg" target="">Ms Sue En Connie</a></p></td>
+    </tr>
+		<tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/ICT </p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:irantaffy_said_b_rohani@schools.gov.sg" target="">Mr Irantaffy Said Rohani</a></p></td>
     </tr>
@@ -77,11 +63,23 @@ variant: markdown
 			<td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">HOD/Science</p></td>
 <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:kay_khine_win@schools.gov.sg" target="">Ms Kay Khine Win</a></p></td>
     </tr>
+        <tr>
+			<td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Year Head</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:wee_jin_yi@schools.gov.sg" target="">Mr Wee Jin Yi</a></p></td>
+    </tr>
     <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Year Head</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:han_hui_chin@schools.gov.sg" target="">Ms Han Hui Chin</a></p></td>
+    </tr>
+		<tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Assistant Year Head</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" target="">Mdm Sharifah Farrahdillah</a></p></td>
     </tr>
 		  <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/CCA</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lee_chinn_yi@schools.gov.sg" target="">Mdm Lee Chinn Yi</a></p></td>
+    </tr>
+		<tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Character and Citizenship Education </p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sri_masayu_moktar@schools.gov.sg" target="">Mdm Sri Masayu Moktar</a></p></td>
     </tr>
@@ -101,11 +99,7 @@ variant: markdown
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Discipline &amp; Aesthetics</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" target="">Ms Pauline Fong Liew Yueh</a></p></td>
     </tr>
-    <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/English Language &amp; Literature</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ada_yap@schools.gov.sg" target="">Ms Ada Yap</a></p></td>
-    </tr>
-    <tr>
+       <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Geography</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:john_teo_wei_ren@schools.gov.sg" target="">Mr John Teo Wei Ren</a></p></td>
     </tr>
@@ -126,5 +120,17 @@ variant: markdown
 	  <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Student Well-Being</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:shahul_hameed_sultan@schools.gov.sg" target="">Mr Shahul Hameed S/O Sultan</a></p></td>
-    </tr>  </tbody>
+    </tr>
+		    <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Administration Manager</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:soo_shio_leng@schools.gov.sg" target="">Ms Soo Shio Leng</a></p></td>
+    </tr>
+     <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operations Manager</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:riduan_rahmat@schools.gov.sg" target="">Mr Riduan Bin Rahmat</a></p></td>
+    </tr>   <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Operations Manager</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:Tang_siew_hoong@schools.gov.sg" target="">Mr Tang Siew Hoong</a></p></td>
+    </tr>
+	</tbody>
 </table>
