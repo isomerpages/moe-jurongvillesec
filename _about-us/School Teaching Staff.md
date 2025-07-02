@@ -161,7 +161,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:clarissa_ng_pey_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Clarissa Ng Pey Wen </a>
+<p><a href="mailto:clarissa_ng_pey_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Clarissa Ng Pey Wen</a>
 </p>
 </td>
 </tr>
@@ -174,6 +174,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Lloyd Lin Jianbang</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_azhar_husni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Azhar Bin Husni</a>
 </p>
 </td>
 </tr>
@@ -261,12 +268,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_ying_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs Poh-Chin Ying Ying Yvonne<br>(ST / Geography)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:aditi_das_deshmukh@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Aditi Das Deshmukh</a>
 </p>
 </td>
 </tr>
@@ -460,6 +461,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:veerappan_buvaneswari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Veerappan Buvaneswari</a>
+</p>
+<p><a href="mailto:veerappan_buvaneswari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">(ST / Tamil Language)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:chua_khuang_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Chua Khuang Lim</a>
 </p>
 </td>
@@ -496,7 +505,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:nur_syahfiqah_mohd_jamalludin_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Syahfiqah Binte Mohd Jamalludin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:rajendran_subramaniyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Rajendran Subramaniyan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_ainah_maduri@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Siti Ainah Binte Maduri</a>
 </p>
 </td>
 </tr>
@@ -514,14 +535,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thomas_lee_ming_zhi_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Thomas Lee Ming Zhi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:veerappan_buvaneswari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Veerappan Buvaneswari</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
