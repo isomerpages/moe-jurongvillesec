@@ -302,6 +302,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:soh_me_me@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soh Me Me</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:usha_rani_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Usha Rani Subramaniam</a>
 </p>
 </td>
@@ -765,12 +771,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_huay_huay@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Chew Huay Huay (FAJT)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soh_me_me@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soh Me Me (FAJT)</a>
 </p>
 </td>
 </tr>
