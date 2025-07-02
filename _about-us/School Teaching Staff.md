@@ -175,12 +175,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Lloyd Lin Jianbang</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_azhar_husni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Azhar Bin Husni</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shivali_popat_jadhav@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Shivali Popat Jadhav</a>
 </p>
 </td>
 </tr>
@@ -515,6 +520,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:sangeetha_ravi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sangeetha Ravi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:siti_ainah_maduri@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Siti Ainah Binte Maduri</a>
 </p>
 </td>
@@ -545,7 +556,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_zukhairiah_hamdan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Zukhairiah Binte Hamdan (FAJT)</a>
+<p><a href="mailto:chua_yen_joe@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chua Yen Joe (FAJT)</a>
 </p>
 </td>
 </tr>
@@ -585,6 +596,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_shang_chun_noah@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Chang Shang Chun Noah</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi</a>
 </p>
 </td>
 </tr>
