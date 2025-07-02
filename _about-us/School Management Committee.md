@@ -76,6 +76,10 @@ variant: markdown
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" target="">Mdm Sharifah Farrahdillah</a></p></td>
     </tr>
 		  <tr>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/CCA</p></td>
+      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lee_chinn_yi@schools.gov.sg" target="">Mdm Lee Chinn Yi</a></p></td>
+    </tr>
+		<tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Character and Citizenship Education </p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sri_masayu_moktar@schools.gov.sg" target="">Mdm Sri Masayu Moktar</a></p></td>
     </tr>
