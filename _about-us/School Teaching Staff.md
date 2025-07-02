@@ -583,6 +583,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi<br>(SH / CCA)</a>
+</p>
+</td>
+</tr><tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:irantaffy_said_b_rohani@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Irantaffy Said Bin Rohani<br>(HOD / ICT)</a>
 </p>
 </td>
@@ -596,12 +601,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_shang_chun_noah@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Chang Shang Chun Noah</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi</a>
 </p>
 </td>
 </tr>
