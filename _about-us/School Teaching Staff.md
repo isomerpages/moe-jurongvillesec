@@ -461,7 +461,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:veerappan_buvaneswari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Veerappan Buvaneswari&lt;br&gt;(ST / Tamil Language)</a>
+<p><a href="mailto:veerappan_buvaneswari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Veerappan Buvaneswari</a>
+</p>
+<p><a href="mailto:veerappan_buvaneswari@schools.gov.sg" rel="noopener nofollow" target="_blank">(ST / Tamil Language)</a>
 </p>
 </td>
 </tr>
