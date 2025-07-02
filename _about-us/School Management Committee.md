@@ -95,11 +95,7 @@ variant: markdown
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Discipline &amp; Aesthetics</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" target="">Ms Pauline Fong Liew Yueh</a></p></td>
     </tr>
-    <tr>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/English Language &amp; Literature</p></td>
-      <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ada_yap@schools.gov.sg" target="">Ms Ada Yap</a></p></td>
-    </tr>
-    <tr>
+       <tr>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">SH/Geography</p></td>
       <td align="left"><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:john_teo_wei_ren@schools.gov.sg" target="">Mr John Teo Wei Ren</a></p></td>
     </tr>
