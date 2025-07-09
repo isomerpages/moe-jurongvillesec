@@ -318,7 +318,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mathematics Department</p>
+<p>Mathematics &amp; Computing Department</p>
 </th>
 </tr>
 <tr>
@@ -329,7 +329,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:karmila_asari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Karmila Binte Asari&nbsp;(LH / Mathematics)</a>
+<p><a href="mailto:karmila_asari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Karmila Binte Asari&nbsp;(SH / Mathematics)</a>
 </p>
 </td>
 </tr>
