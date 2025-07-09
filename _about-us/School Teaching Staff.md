@@ -318,7 +318,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mathematics Department</p>
+<p>Mathematics &amp; Computing Department</p>
 </th>
 </tr>
 <tr>
