@@ -296,12 +296,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_me_me@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soh Me Me</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:usha_rani_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Usha Rani Subramaniam</a>
 </p>
 </td>
@@ -586,7 +580,8 @@ variant: tiptap
 <p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi<br>(SH / CCA)</a>
 </p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:irantaffy_said_b_rohani@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Irantaffy Said Bin Rohani<br>(HOD / ICT)</a>
 </p>
@@ -758,6 +753,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ahmad_idris_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Ahmad Idris Bin Ismail <br>(SENO)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_me_me@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soh Me Me</a>
 </p>
 </td>
 </tr>
