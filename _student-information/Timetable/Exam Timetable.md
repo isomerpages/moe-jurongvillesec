@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/TT/2025 SEM2/2025_NT_PRELIM.pdf" rel="noopener nofollow" target="_blank">N-Level (NT) Prelim Exam Timetable</a>
+<p><a href="/files/TT/2025 SEM2/2025_NT_PRELIM_v2.pdf" rel="noopener nofollow" target="_blank">N-Level (NT) Prelim Exam Timetable</a>
 </p>
 </td>
 </tr>
