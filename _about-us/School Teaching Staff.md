@@ -577,7 +577,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi<br>(SH / CCA) (Covering)</a>
+<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi<br>(SH / PE &amp; CCA) (Covering)</a>
 </p>
 </td>
 </tr>
