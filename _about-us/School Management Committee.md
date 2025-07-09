@@ -166,15 +166,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/PE &amp; CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Lee Chinn Yi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH/Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,6 +242,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:karmila_asari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Karmila Binte Asari</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/PE &amp; CCA (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Lee Chinn Yi</a>
 </p>
 </td>
 </tr>
