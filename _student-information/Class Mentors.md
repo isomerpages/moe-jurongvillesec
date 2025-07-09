@@ -138,14 +138,14 @@ variant: markdown
 			<td rowspan="1" colspan="1"><p>4DP</p></td>
 		</tr>
 		<tr>
-			<td rowspan="1" colspan="1"><p><a href="mailto:shivali_popat_jadhav@schools.gov.sg" target="_blank">Miss <b>Shivali</b> Popat Jadhav</a></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:vasanthakumar_vijayarethinam@schools.gov.sg" target="_blank">Mr <b>Vasan</b>thakumar S/O Vijayarethinam</a></p></td>
 			<td rowspan="1" colspan="1"><p>3EM</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
 			<td rowspan="1" colspan="1"><p><a href="mailto:lee_ying_hui_grace@schools.gov.sg" target="_blank">Ms <b>Grace Lee</b> Ying Hui</a></p></td>
 			<td rowspan="1" colspan="1"><p>4EM</p></td>
 		</tr>
 		<tr>
-			<td rowspan="1" colspan="1"><p><a href="mailto:vasanthakumar_vijayarethinam@schools.gov.sg" target="_blank">Mr <b>Vasan</b>thakumar S/O Vijayarethinam</a></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:shivali_popat_jadhav@schools.gov.sg" target="_blank">Miss <b>Shivali</b> Popat Jadhav</a></p></td>
 			<td rowspan="1" colspan="1"><p>3EM</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
 			<td rowspan="1" colspan="1"><p><a href="mailto:chew_siao_fun@schools.gov.sg" target="_blank">Mrs <b>Er-Chew</b> Siao Fun</a></p></td>
