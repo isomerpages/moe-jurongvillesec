@@ -53,7 +53,7 @@ variant: markdown
 			<td rowspan="1" colspan="1"><p><a href="mailto:you_fu_hui@schools.gov.sg" target="_blank">Mr <b>Edwin You</b> Fu Hui</a></p></td>
 			<td rowspan="1" colspan="1"><p>1IN</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
-			<td rowspan="1" colspan="1"><p><a href="mailto:wong_ruting@schools.gov.sg" target="_blank">Mdm <b>Wong</b> Ruting</a></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:lee_chinn_yi@schools.gov.sg" target="_blank">Ms <b>Lee</b> Chinn Yi</a></p></td>
 			<td rowspan="1" colspan="1"><p>2IN</p></td>
 		</tr>
 		<tr>
@@ -102,14 +102,14 @@ variant: markdown
 			<td rowspan="1" colspan="1"><p><a href="mailto:lim_lay_yean@schools.gov.sg" target="_blank">Mrs <b>Chan</b>-Lim Lay Yean</a></p></td>
 			<td rowspan="1" colspan="1"><p>1RS</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
-			<td rowspan="1" colspan="1"><p><a href="mailto:aditi_das_deshmukh@schools.gov.sg" target="_blank">Mdm <b>Aditi</b> Das Deshmukh</a></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:clarissa_ng_pey_wen@schools.gov.sg" target="_blank">Mdm <b>Clarissa Ng</b> Pey Wen</a></p></td>
 			<td rowspan="1" colspan="1"><p>2PE</p></td>
 		</tr>
 		<tr>
 			<td rowspan="1" colspan="1"><p><a href="mailto:john_teo_wei_ren@schools.gov.sg" target="_blank">Mr <b>John Teo</b> Wei Ren</a></p></td>
 			<td rowspan="1" colspan="1"><p>1RS<br></p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
-			<td rowspan="1" colspan="1"><p><a href="mailto:clarissa_ng_pey_wen@schools.gov.sg" target="_blank">Mdm <b>Clarissa Ng</b> Pey Wen</a></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:siti_ainah_maduri@schools.gov.sg" target="_blank">Ms <b>Siti Ainah</b> Binte Maduri</a></p></td>
 			<td rowspan="1" colspan="1"><p>2PE</p></td>
 		</tr>
 	</tbody>
