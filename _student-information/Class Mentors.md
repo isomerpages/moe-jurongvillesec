@@ -46,7 +46,7 @@ variant: markdown
 			<td rowspan="1" colspan="1"><p><a href="mailto:geetha_veeramani@schools.gov.sg" target="_blank">Mdm <b>Geetha </b>Veeramani</a></p></td>
 			<td rowspan="1" colspan="1"><p>1IN</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
-			<td rowspan="1" colspan="1"><p><a href="mailto:thomas_lee_ming_zhi_a@schools.gov.sg" target="_blank">Mr <b>Thomas Lee</b> Ming Zhi</a></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:muhammad_nasri_selamat@schools.gov.sg" target="_blank">Mr <b>Muhammad Nasri</b> Bin Selamat</a></p></td>
 			<td rowspan="1" colspan="1"><p>2IN</p></td>
 		</tr>
 		<tr>
@@ -78,7 +78,7 @@ variant: markdown
 			<td rowspan="1" colspan="1"><p>2PA</p></td>
 		</tr>
 		<tr>
-			<td rowspan="1" colspan="1"><p><a href="mailto:sha_bin@schools.gov.sg" target="_blank">Mr <b>Sha</b> Bin</a></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:tiew_choon_lien@schools.gov.sg" target="_blank">Mr <b>Kenny Tiew</b> Choon Lien</a></p></td>
 			<td rowspan="1" colspan="1"><p>1PA</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
 			<td rowspan="1" colspan="1"><p><a href="mailto:wong_eik_kiat@schools.gov.sg" target="_blank">Mr <b>Wong</b> Eik Kiat</a></p></td>
