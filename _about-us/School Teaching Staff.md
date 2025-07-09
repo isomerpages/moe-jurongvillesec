@@ -329,7 +329,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:karmila_asari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Karmila Binte Asari&nbsp;(LH / Mathematics)</a>
+<p><a href="mailto:karmila_asari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Karmila Binte Asari&nbsp;(SH / Mathematics)</a>
 </p>
 </td>
 </tr>
