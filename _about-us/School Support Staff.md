@@ -26,10 +26,9 @@ variant: markdown
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Ong Siap Moi (Operation Support Officer)</p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Rooslimah Bte Oshman (Operation Support Officer)</p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Mohamed Shahrin Bin Sallim (Operation Support Officer)</p></td></tr>
-	<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Ms Siti Fatima Zohra Ash-shiddieqy Bte Abas (Student Health Advisor)</p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:atikah_saad@schools.gov.sg" target="">Ms Atikah Bte Sa'ad (ECG Counsellor)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mr Leong Kok Wah (Desktop Engineer)</p></td></tr>
-<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Siah Ai Poh (NFS Assistant)</p></td></tr>
+<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Uvaparathi Arivananthan (Desktop Engineer)</p></td></tr><tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Siah Ai Poh (NFS Assistant)</p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:jaheera_sahul_hamid@schools.gov.sg" target="">Mdm Jaheera D/O Sahul Hamid (Library Assistant)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;">Mdm Goh Bee Wah (Printing Operator)</p></td></tr>
 </tbody>

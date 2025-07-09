@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sue_en_connie@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Connie<br>(HOD / English &amp; Literature</a>
+<p><a href="mailto:sue_en_connie@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Sue En Connie<br>(HOD / English &amp; Literature</a>
 </p>
 </td>
 </tr>
@@ -254,7 +254,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm May Ng Gui Zhen (SH / Innovation &amp; Curriculum)</a>
+<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms May Ng Gui Zhen (SH / Innovation &amp; Curriculum)</a>
 </p>
 </td>
 </tr>
@@ -577,7 +577,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi<br>(SH / CCA)</a>
+<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi<br>(SH / CCA) (Covering)</a>
 </p>
 </td>
 </tr>
@@ -635,7 +635,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_yan_pure@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs Wong Yan Pure<br>(SH / Chemistry)</a>
+<p><a href="mailto:ang_yan_pure@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs Wong Yan Pure<br>(SH / Science)</a>
 </p>
 </td>
 </tr>
