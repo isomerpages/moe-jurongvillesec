@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Pauline Fong Liew Yueh<br>(LH / Discipline)</a>
+<p><a href="mailto:pauline_fong_liew_yueh@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Pauline Fong Liew Yueh<br>(SH / Discipline &amp; Aesthetics)</a>
 </p>
 </td>
 </tr>
