@@ -14,11 +14,11 @@ variant: markdown
 	<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:tang_siew_hoong@schools.gov.sg" target="">Mr Tang Siew Hoong (Operations Manager)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:surendran_rachandran@schools.gov.sg" target="">Mr Surendran S/O Rachandran (Administration Executive)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:alen_seng_kian_kok@schools.gov.sg" target="">Mr Alen Seng Kian Kok (ICT Manager)</a></p></td></tr>
-<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ahmad_abu_bakar@schools.gov.sg" target="">Mr Ahmad Bin Abu Bakar (Technical Support Officer - D&amp;T)</a></p></td></tr>
-<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:hamid_koderi@schools.gov.sg" target="">Mr Hamid Bin Koderi (Technical Support Officer - D&amp;T)</a></p></td></tr>
-<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lim_yen_kwan@schools.gov.sg" target="">Mrs Hu-Lim Yen Kwang (Technical Support Officer - SC)</a></p></td></tr>
-<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:luey_kwong_yuen@schools.gov.sg" target="">Mr Luey Kwong Yuen (Technical Support Officer - D&amp;T)</a></p></td></tr>
-<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sri_rahayu_mad_jatim@schools.gov.sg" target="">Mdm Sri Rahayu Bte Mad Jatim (Technical Support Officer - SC)</a></p></td></tr>
+<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ahmad_abu_bakar@schools.gov.sg" target="">Mr Ahmad Bin Abu Bakar (STEM Workshop Instructor)</a></p></td></tr>
+<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:hamid_koderi@schools.gov.sg" target="">Mr Hamid Bin Koderi (STEM Workshop Instructor)</a></p></td></tr>
+<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lim_yen_kwan@schools.gov.sg" target="">Mrs Hu-Lim Yen Kwang (STEM Lab Instructor)</a></p></td></tr>
+<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:luey_kwong_yuen@schools.gov.sg" target="">Mr Luey Kwong Yuen (STEM Workshop Instructor)</a></p></td></tr>
+<tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:sri_rahayu_mad_jatim@schools.gov.sg" target="">Mdm Sri Rahayu Bte Mad Jatim (STEM Lab Instructor)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:lee_kwai_keng@schools.gov.sg" target="">Mdm Lee Kwai Keng Karen (Corporate Support Officer)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:heng_guey_siang@schools.gov.sg" target="">Ms Joey Heng (Corporate Support Officer)</a></p></td></tr>
 <tr><td><p style="font-family: Lato, sans-serif; font-size: 1.25rem;"><a href="mailto:ong_lay_whatt@schools.gov.sg" target="">Mdm Ong Lay Whatt (Operation Support Officer / Office Assistant)</a></p></td></tr>
