@@ -155,8 +155,8 @@ variant: tiptap
 <p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Ruting (IC)</p>
-<p>Mr Kenneth Tay (2IC)</p>
+<p>Mr Kenneth Tay (IC)</p>
+<p>Ms Lee Chinn Yi (2IC)</p>
 </td>
 </tr>
 </tbody>
@@ -267,8 +267,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hafiz Azhar (IC)</p>
-<p>Mr Donald Wan (2IC)</p>
+<p>Mr Shahul Hameed (IC)</p>
+<p>Mr Hafiz Azhar (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -345,6 +345,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lloyd Lin (IC)</p>
 <p>Mr Mohd Zailani (2IC)</p>
+<p>Ms Siti Ainah</p>
 </td>
 </tr>
 <tr>
@@ -454,7 +455,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Loh Siew See (IC)</p>
 <p>Mrs Er Siao Fun (2IC)</p>
-<p>Ms Toh Puay Boon</p>
+<p>Ms Toh Puay Boon (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -479,7 +480,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Tiew Choon Lien Kenny (IC)</p>
 <p>Ms Nur Khairin Aisyah (2IC)</p>
-<p>Mr Thomas Lee</p>
+<p>Mdm Chia Lai choo Violet</p>
 </td>
 </tr>
 <tr>
@@ -532,6 +533,8 @@ variant: tiptap
 <p>Ms Kathleen Tan (IC)</p>
 <p>Ms Gladys Siah (2IC)</p>
 <p>Mdm Shivali Popat Jadhav</p>
+<p>Ms Nur Syahfiqah</p>
+<p>Mr Abdulatiff</p>
 </td>
 </tr>
 <tr>
@@ -554,8 +557,9 @@ variant: tiptap
 <p>Dance Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aditi (IC)</p>
-<p>Ms Clarissa Ng (2IC)</p>
+<p>Ms Clarissa Ng (IC)</p>
+<p>Mdm Sangeetha Ravi</p>
+<p>Ms Justine Elizabeth Tham Luo Wan</p>
 </td>
 </tr>
 </tbody>
@@ -613,8 +617,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Arshad (IC)</p>
-<p>Mr Nar Han Keong&nbsp;(2IC)</p>
-<p>Mr Muhammad Nasri</p>
+<p>Mr Muhammad Nasri (2IC)</p>
+<p>Mr Nar Han Keong</p>
 </td>
 </tr>
 </tbody>
