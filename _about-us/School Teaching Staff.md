@@ -436,7 +436,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_yi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Ong Yi Min<br>(HOD Mother Tongue Language)</a>
+<p><a href="mailto:ong_yi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Ong Yi Min<br>(HOD Mother Tongue Language)</a>
 </p>
 </td>
 </tr>
@@ -484,7 +484,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lien_wei_chi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Lien Wei Chi</a>
+<p><a href="mailto:lien_wei_chi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Lien Wei Chi</a>
 </p>
 </td>
 </tr>
