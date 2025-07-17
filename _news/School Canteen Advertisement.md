@@ -43,7 +43,7 @@ description: ""
 <p>1. Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
-<p>•	<a href="/files/Canteen_Application_Form__version_Sept_2023_.pdf" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
+<p>• <a href="/files/Canteen_Application_Form__version_Sept_2023_.pdf" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
 </p>
 <p></p>
 <p>2. Attached the following documents together with the Application Form:</p>
