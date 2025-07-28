@@ -38,5 +38,11 @@ variant: tiptap
 </li>
 </ul>
 <h4>Term 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter_to_Parents_on_Vaping_and_Bullying.pdf" rel="noopener nofollow" target="_blank">Letter to Parents on Vaping and Bullying</a>
+</p>
+</li>
+</ul>
 <h4>Term 4</h4>
 <p></p>
