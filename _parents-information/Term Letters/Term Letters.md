@@ -43,6 +43,10 @@ variant: tiptap
 <p><a href="/files/Letter_to_Parents_on_Vaping_and_Bullying.pdf" rel="noopener nofollow" target="_blank">Letter to Parents on Vaping and Bullying</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Term Letter/Letter_to_Parents_on_Delayed_Dismissal_29_July_2025.pdf" rel="noopener nofollow" target="_blank">Letter to Parents on Delayed Dismissal 29 July 2025</a>
+</p>
+</li>
 </ul>
 <h4>Term 4</h4>
 <p></p>
