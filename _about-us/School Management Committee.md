@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Character and Citizenship Education
+<p>HOD/Character &amp; Citizenship Education
 <br>(Covering Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/English Literature</p>
+<p>HOD/English &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sue_en_connie@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Sue En Connie</a>
@@ -112,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/MotherTongue</p>
+<p>HOD/Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_yi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Ong Yi Min</a>
@@ -175,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Character and Citizenship Education</p>
+<p>SH/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sri_masayu_moktar@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Sri Masayu Moktar</a>
