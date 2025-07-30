@@ -172,7 +172,7 @@ variant: markdown
 			<td rowspan="1" colspan="1"><p>4IN</p></td>
 		</tr>
 		<tr>
-			<td rowspan="1" colspan="1"><p><a href="mailto:muhammad_azhar_husni@schools.gov.sg" target="_blank">Mr <b>Mohammad Azhar</b> Bin Husni</a></p></td>
+			<td rowspan="1" colspan="1"><p><a href="mailto:muhammad_azhar_husni@schools.gov.sg" target="_blank">Mr <b>Muhammad Azhar</b> Bin Husni</a></p></td>
 			<td rowspan="1" colspan="1"><p>3IN</p></td>
 			<td rowspan="1" colspan="1"><p></p></td>
 			<td rowspan="1" colspan="1"><p><a href="mailto:usha_rani_subramaniam@schools.gov.sg" target="_blank">Mdm <b>Usha</b> Rani Subramaniam</a></p></td>
