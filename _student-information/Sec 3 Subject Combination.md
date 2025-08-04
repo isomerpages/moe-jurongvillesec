@@ -37,6 +37,8 @@ variant: tiptap
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSYwdPE8hsw"></iframe>
 </div>
 <h4>2026 G3:</h4>
+<p><a href="/files/2025__2G3__Sec_2_Parents_Briefing_ALP_G3.pdf" rel="noopener nofollow" target="_blank">Sec2 Parents Briefing ALP+G3</a>
+</p>
 <p>1 . Additional Mathematics</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K8-Ju7alJ18"></iframe>
