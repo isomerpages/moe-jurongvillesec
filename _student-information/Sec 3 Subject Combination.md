@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2>Sec 3 Subject Combination</h2>
+<p><a href="/files/2025_SEC_2_SUBJ_COMBI_30May.pdf" rel="noopener nofollow" target="_blank">2025 SEC 2 Subject Combination - 30 May 2025</a>
+</p>
 <h4>2026 G1:</h4>
 <p>1 . Art</p>
 <p></p>
