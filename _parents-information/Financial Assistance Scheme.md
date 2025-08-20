@@ -25,8 +25,8 @@ received by eligible students may include one or more of the following:</p>
 </ul>
 <h4>How to Apply</h4>
 <p>Application for new MOE FAS is open throughout the year. Information on
-the MOE FAS can be found here: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>{:target="_blank"}.
-The application form can be downloaded from the school website: <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">financial-assistance-scheme</a>{:target="_blank"}.
+the MOE FAS can be found here: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.
+The application form can be downloaded from the school website: <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">financial-assistance-scheme</a>.
 Alternatively, the form may be obtained from the General Office. To renew
 the financial assistance for the next calendar year, students will have
 to submit new application form and supporting documents to the General
