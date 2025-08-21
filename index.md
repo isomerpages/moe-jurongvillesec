@@ -13,12 +13,9 @@ sections:
           description: Term Letter
           url: /parents-information/Term-Letters/tl/
   - infopic:
-      title: EVENTS
+      title: Open House 2025
       id: infopic
-      description: JVS Total Defence Day
-      button: click here
-      url: https://sites.google.com/moe.edu.sg/neforjvnites/jvs/activities/total-defence-day
-      image: /images/TOTAL.png
+      image: /images/Open_House_2025_v1.jpg
       alt: Image alt text
   - infopic:
       title: Wellness Wednesday
