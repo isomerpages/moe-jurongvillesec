@@ -10,7 +10,7 @@ variant: tiptap
 <p>Name of Supplier: <strong>KH Uniform Pte Ltd</strong>
 <br>Address: 8 Boon Lay Way, 8 @ Tradehub 21, #03-14, Singapore 609964
 <br>Tel Number: 6479 6811
-<br>Online Store: <a href="http://www.khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">www.khuniform.com</a>
+<br>Online Store: <a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">khuniform.com</a>
 <br>Sales Enquiry: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 <br>Sales Operations in School for 2025 Semester 2:</p>
 <ul data-tight="true" class="tight">

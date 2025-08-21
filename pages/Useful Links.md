@@ -133,12 +133,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE2 Portal</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://portal.edupage.org/" rel="noopener noreferrer nofollow" target="_blank">Edupage</a>
 </p>
 </td>
@@ -217,13 +211,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">My Skills Future</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://imtl.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iMTL</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future</a>
 </p>
 </td>
 </tr>
