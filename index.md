@@ -13,11 +13,6 @@ sections:
           description: Term Letter
           url: /parents-information/Term-Letters/tl/
   - infopic:
-      title: Open House 2025
-      id: infopic
-      image: /images/Open_House_2025_v1.jpg
-      alt: Image alt text
-  - infopic:
       title: Wellness Wednesday
       id: infopic
       button: Click Here
