@@ -38,10 +38,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/our-experience/open-house/knowledgenskills/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.png"></a>
 </td>
 </tr>
 <tr>
