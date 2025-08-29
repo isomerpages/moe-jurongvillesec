@@ -14,7 +14,6 @@ sections:
           url: /parents-information/Term-Letters/tl/
   - infopic:
       title: Open House 2025
-      subtitle: Add an image and text
       id: infopic
       image: /images/OpenHouse2025.jpg
       alt: OpenHouse2025
