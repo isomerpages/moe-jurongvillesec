@@ -47,6 +47,10 @@ variant: tiptap
 <p><a href="/files/Term Letter/Letter_to_Parents_on_Delayed_Dismissal_29_July_2025.pdf" rel="noopener nofollow" target="_blank">Letter to Parents on Delayed Dismissal 29 July 2025</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Term Letter/Celebrating_Teachers_Day_on_Thurs_4_Sept_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Celebrating Teacher Days on 4th September 2025</a>
+</p>
+</li>
 </ul>
 <h4>Term 4</h4>
 <p></p>

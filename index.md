@@ -15,8 +15,10 @@ sections:
   - infopic:
       title: Open House 2025
       id: infopic
-      image: /images/Open_House_2025_v1.jpg
-      alt: Image alt text
+      image: /images/OpenHouse2025.jpg
+      alt: OpenHouse2025
+      button: click here
+      url: /our-experience/open-house/open-house/
   - infopic:
       title: Wellness Wednesday
       id: infopic
