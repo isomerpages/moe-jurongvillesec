@@ -14,6 +14,10 @@ Reading becomes more significant in our T&amp;L as we strive to develop our stud
 #### Mother Tongue Fortnight activities
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqaR8AmpfyIUwFXexTKhWhMYz4A0-fFsn-B4LSgxaNiE_Lzr633PjksoP4vLoSpj69Z5PGDafFRW92/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
+#### Author-in-Residence Programme
+Professional writers are invited to JVSS to conduct workshops and share their expertise with students, aiming to enhance their creative writing skills and foster a deeper appreciation for the Chinese language and literature.
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQK3fTwNRNnwa2TEAUDbeM_ZpiGyAUgFHgnHrZUokuPVKgKDut518pvdFrllv5Me8p-kfj05au9LGrf/pubembed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+
 #### Our Achievements
 
 **2023 National Schools Xinyao Singing and Songwriting Competition**
@@ -24,11 +28,30 @@ Reading becomes more significant in our T&amp;L as we strive to develop our stud
 * LIU XIN YU (2RS) has clinched the second prize in the recent National Secondary Schools Chinese Creative Writing Competition.
 ![](/images/JVS_2024_Chinese_Creative_Writing_Competition.jpg)
 
+**2025  National Chinese Text Recital Competition**
+<br>Silver
+* MA KEXIN (1PA)
+
+Bronze
+* CHEN HONG YUAN (2DP)
+* WANG YU XIN (2RS)
+* FU CHENG YI (2RP)
+* CHEN YI TING (3RP)
+* LIU JINGXUAN (3DP)
+
+**2025 Asia-Pacific CL Young Literary Awards**
+<br>Bronze
+* WU ZHIQI (1PE)
+
 **2023 Saya Boleh Mengarang (Writing Competition)**
 * MUHD RIAN ASHRAF (3IN) achieved Gold with Distinction.
 * NUR HADHINAH BINTE HASHIM(3DP) achieved Silver.
 * SITI NURZAHIRAH AZ-ZAHRAH BINTE KAMARRUZAMAN (3EM), NURUL BARNIYAH HAMIZAN (3IN), MUHAMMAD RIZKY BIN AHMAD (3IN) AND JESS RIHANNA HANAFIE (3PA) achieved bronze.
 <iframe height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIWurWU3avDEqsoy-hIf65D9LOezsP0O9qHS9U7kA21PRdMTVqbWWaDdmzDLUbQIoVNuxwtVYVCPks/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+**2025 Peraduan Saya Boleh Berpidato (Oratory Contest)**
+* ABIGAIL GRACE SININTA PURBA (2PE) achieved Bronze Award.
+* NUR SYAHIRAH ALWIYAH RUZAIMI (2EM) achieved Bronze Award.
 
 **2024 W4 Cluster All Arts Competition- Short Story Writing**
 * MAGESH KUMAR RASHMITHA (2PA) won 3rd prize.
