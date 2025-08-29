@@ -43,10 +43,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/our-experience/open-house/passion/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our-Curriculum.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LeadingServingOthers.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/our-experience/open-house/leading/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/LeadingServingOthers.png"></a>
 </td>
 </tr>
 </tbody>
