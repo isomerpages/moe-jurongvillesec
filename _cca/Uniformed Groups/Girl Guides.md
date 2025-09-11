@@ -7,139 +7,129 @@ variant: tiptap
 ---
 <h2>Girl Guides</h2>
 <h4>About</h4>
-<p>In line with Girl Guides Singapore’s mission to enable girls and young
-women to develop their fullest potential as responsible citizens of the
-world, the Jurongville Girl Guides (1st Company) programme strives to provide
-a structured and holistic learning experience for every student.</p>
-<p>In 2021, the Jurongville Girl Guides also took part in a series of activities
-as part of this year’s World Thinking Day celebrations aligned to the theme
-of ‘SDGs x Peacebuilding’. A central focus of Girl Guides Singapore, the
-United Nations Sustainable Development Goals (UN SDGs) are the responsibility
-of every global citizen. A group of Girl Guides spearheaded an environmental
-sustainability project to encourage their schoolmates to adopt environmentally-friendly
-habits by recycling one-use plastic bottles. Another group of Guides also
-collaborated with the Secondary 1 Peer Support Leaders to conduct a series
-of lessons on cyberwellness during CCE periods.&nbsp;&nbsp;</p>
-<p>Throughout the past two years, the Guides have displayed their resilience
-and resourcefulness by modifying training sessions and adapting virtual
-tools such as videos to demonstrate footdrills and commands as the world
-continued to battle the Covid-19 pandemic. The girls also carried on with
-their learning for the 5-Point Programme through the online portal, GuidingLIGHT,
-and embarked on a special edition badge, the Olympia Badge, aligned with
-the Tokyo 2020 Olympics Games. When face-to-face CCA sessions resumed,
-the girls embarked on a myriad of activities such as outdoor cooking, tent-pitching,
-and Free Being Me sessions, a body positivity programme in conjunction
-with Dove.&nbsp;</p>
-<p>An international movement, Girl Guiding remains committed to honing every
-girl’s global awareness and sense of place in the/her world. It is hoped
-that every Girl Guide develops empathy and ingenuity, steps out of her
-comfort zone, and ultimately rises up to meet the challenges of the VUCA
-world.</p>
-<p><em>P.S. The Puan Noor Aishah Award was discontinued for one year in 2020 due to the disruptions created by the pandemic.</em>
-</p>
-<h4>CCA Photo</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTly6jQ8uV_WYdvufBmUS5ZK4bK7omlSZuMkf-Ynk3T6sCY3Qkg980AHaXTSZVuIe5_F5xrMZcWwNml/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<p>In line with the international sisterhood of Girl Guides, and their mission
+to enable girls and young women to develop to their fullest potential as
+responsible citizens of the world, Jurongville Girl Guides has been committed
+to the rich heritage of Singapore’s Guiding movement.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P1.jpg">
 </div>
-<h4>Student Leaders</h4>
-<table style="minWidth: 75px">
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Guiding experience at Jurongville is a structured and holistic one,
+where our girls are enriched and challenged beyond their comfort zones
+through an array of activities and initiatives. Through our 4 year programme,
+Guides are equipped with critical skills to navigate an increasingly complex
+world and make a difference in their own communities. Importantly, Guides
+get to forge lifelong friendships!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P4.jpg">
+</div>
+<p>The past couple of years have seen significant milestones for the Company.
+From 2021 to 2024, our unit was proud to achieve the Puan Noor Aishah Award
+(PNAA) in Gold, and in 2025, we attained the Silver award—an affirmation
+of our commitment to service, leadership, and development of every single
+Guide. Our Guides actively participated in Girl Guides Singapore (GGS)
+initiatives such as the Free Being Me programme, promoting positive self-image,
+and the Friends of Singa project, which fosters kindness and active citizenry.
+In addition, our annual cookie sale provides valuable opportunities for
+the girls to develop confidence and communication skills while engaging
+the school community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P5.jpg">
+</div>
+<p>Experiential learning and collaboration are key tenets of the Guiding
+experience. Our annual training camps provide a safe and supportive environment
+for our Guides to complete a range of teambuilding, leadership and outdoor
+adventure activities. Our Guides hone practical outdoor skills like tent-pitching
+and outdoor cooking through learning from their peers from River Valley
+Girl Guides, and take the lead in environmental efforts through school-wide
+recycling initiatives. Our members have also proudly represented the school
+at national events, including the National Day Parade. These experiences
+not only build resilience and teamwork but also empower our girls to be
+confident leaders who serve with purpose.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Appointment</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Violet Ng Shi En</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P6.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Company Leader</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3EM</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P7.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Lau Xin Yu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Company Leader</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3IN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Farah Nadia Binte Badrolizam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Company Leader</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3RP</p>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P8.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Key Achievements</h4>
-<table style="minWidth: 25px">
+<p>As proud members of a wider international movement, Jurongville Girl Guides
+remains committed to honing every girl’s global awareness and sense of
+place in the/her world. It is hoped that each Guide develops empathy and
+critical awareness, steps out of her comfort zone, and ultimately rises
+up to meet the challenges of today's world.</p>
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>JVS</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>2019 Puan Noor Aishah Award: Gold</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P10.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018 Puan Noor Aishah Award: Gold</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P11.jpg">
+</div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>2017 Puan Noor Aishah Award: Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016 Puan Noor Aishah Award: Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015 Puan Noor Aishah Award: Gold</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuide2025_P12.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Students' voices</h4>
-<p><strong>Ng Choi Yin (4E1), Company Leader (2019-2020):</strong> 
-<br><em>As a Girl Guide, I've experienced many things I probably wouldn't have if I had joined another CCA. From annual campfires, new adventures, to learning new skills and developing those that I presently have, I will always cherish these memories created and the impressions we've left behind. I developed many important life skills including the ability to communicate with others effectively, how to be a better person and how to compromise with others in difficult situations.<br>To my juniors, I hope you'll continue on your path of self-discovery, be prepared in all that you do, and be empowered by the Guiding Light.</em>
-</p>
-<p><strong>Jalina Chuang Tze Na (4E1), Assistant Company Leader (2019-2020):</strong>
-<br><em>I’ve learnt so much throughout my Guiding journey and made a lot of new friends along the way, whom I call sisters now. I got to hone my leadership skills, improving myself each time I went for CCA and even became more empathetic towards my peers. Although it was tiring leading the Company for 3 hours straight, I still enjoyed being with my friends and doing activities with them.<br>To my juniors, I hope all of you can strive to make JVGG a better place for all Guides. I believe all of you can do it. All the best, girls!</em>
-</p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
