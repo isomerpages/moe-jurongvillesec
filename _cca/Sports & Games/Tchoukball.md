@@ -11,13 +11,17 @@ variant: tiptap
 we are pleased to offer it in Jurongville. It is a sport that requires
 players to be persistent and resilient. In our yearly pursuit to be one
 of the top teams in the Nationals, our players also embody the school’s
-PRIDE values and displayed good sportsmanship.</p>
+PRIDE values and displayed good sportsmanship. Perseverance, discipline,
+resilience and teamwork are the values that make a Jurongville Tchoukball
+member.</p>
 <p>Our training programme is specially designed to help shape our players
 to grow holistically and be the PRIDE of Jurongville. Join us and let us
 walk the secondary school journey with you!</p>
-<p>We are also pleased to announce that Tchoukball Association of Singapore
-(TBAS) is now officially part of National Sports Association (NSA) under
-SportsSG, as of 28 March 2023.</p>
+<h3><strong>3rd ActiveSG -TBAS INTER-SCHOOL ‘B’ DIVISION TCHOUKBALL CHAMPIONSHIPS <u>2025 GIRL’S TEAM - 1st Runner-Up</u></strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball2025.jpg">
+</div>
 <h4>CCA Photo</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbX-pmjOyep8IwLJHTqO7Sx9Pyju5r1HpuddJDfteaPlGAWNej3KWjQ_gb6kU2lCK-rk5J-WsmhjhJ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
@@ -39,66 +43,34 @@ SportsSG, as of 28 March 2023.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HE ANDRE</p>
+<p>EVAN LEE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>President (2023 - 2024)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ARYSTHA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-President (2023 - 2024)</p>
+<p>President (2025 - 2026)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RAZIIN</p>
+<p>BINULA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Logistics EX-CO (2023 - 2024)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ANDRE M.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Logistics EX-CO (2023 - 2024)</p>
+<p>Vice-President (2025 - 2026)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>UNIS</p>
+<p>SHERIE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEC 1 EX-CO (2023 - 2024)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ISAAC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEC 1 EX-CO (2023 - 2024)</p>
+<p>Vice-President (2025 - 2026)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CLAIRE</p>
+<p>SYAFIQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEC 1 EX-CO (2023 - 2024)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A. DANIAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEC 1 EX-CO (2023 - 2024)</p>
+<p>Logistics EX-CO (2025 - 2026)</p>
 </td>
 </tr>
 </tbody>
@@ -113,6 +85,21 @@ SportsSG, as of 28 March 2023.</p>
 <th rowspan="1" colspan="1">
 <p>JVS</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Inter Schools Tchoukball Championships: B Girls 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Inter Schools Tchoukball Championships: B Boys 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Inter Schools Tchoukball Championships: B Girls 2nd</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -181,10 +168,7 @@ SportsSG, as of 28 March 2023.</p>
 </tr>
 </tbody>
 </table>
-<h4>1st ActiveSG-TBAS INTER-SCHOOL ‘B’ DIVISION TCHOUKBALL CHAMPIONSHIPS 2023</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKfAL8GyxdxG8apOxVW-Oz6n3RyT9dS9jEsSQyTX2B2LYaR-sgR3Fu9J_ScudsVKGewzvAUsDUV0EA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
+<h4></h4>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
