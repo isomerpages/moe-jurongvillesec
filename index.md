@@ -15,7 +15,7 @@ sections:
   - infopic:
       title: Open House 2025
       id: infopic
-      image: /images/OpenHouse2025.jpg
+      image: /images/Open_house_banner_2025_V2.jpg
       alt: OpenHouse2025
       button: click here
       url: /our-experience/open-house/open-house/
