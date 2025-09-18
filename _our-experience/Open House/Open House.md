@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Open House 2025</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OpenHouse2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_house_banner_2025_V2.jpg">
 </div>
 <h4>Details</h4>
 <p>Time: 0830hrs to 1230hrs</p>

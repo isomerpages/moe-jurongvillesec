@@ -83,7 +83,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tan Li Lim (IC)</p>
 <p>Ms Tan Jia Hui (2IC)</p>
-<p>Ms Wong xin En</p>
+<p>Ms Wong Xin En</p>
 </td>
 </tr>
 <tr>
