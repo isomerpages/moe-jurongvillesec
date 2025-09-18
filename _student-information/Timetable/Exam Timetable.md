@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/EXAM/2025_EOY_Timetable_SEC3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Exam Timetable</a>
+<p><a href="/files/EXAM/2025_EOY_Timetable_SEC3v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Exam Timetable</a>
 </p>
 </td>
 </tr>
