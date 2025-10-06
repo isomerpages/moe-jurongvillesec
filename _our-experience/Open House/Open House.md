@@ -35,12 +35,12 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/our-experience/open-house/prepfuture/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key-Programmes.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/our-experience/open-house/knowledgenskills/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/our-experience/open-house/passion/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/our-experience/open-house/passion/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our-Curriculum.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/our-experience/open-house/knowledgenskills/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our-Curriculum.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/our-experience/open-house/leading/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/LeadingServingOthers.png"></a>
