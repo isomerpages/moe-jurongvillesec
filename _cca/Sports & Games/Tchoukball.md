@@ -88,6 +88,11 @@ walk the secondary school journey with you!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025 Inter Schools Tchoukball Championships: C Boys 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2025 Inter Schools Tchoukball Championships: B Girls 2nd</p>
 </td>
 </tr>
@@ -124,46 +129,6 @@ walk the secondary school journey with you!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2022 Inter Schools Tchoukball Championships: C Boys 2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 Inter Schools Tchoukball Championships: B Boys 3rd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 Inter Schools Tchoukball Championships: B Girls 2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 Inter Schools Tchoukball Championships: C Boys 2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 Inter Schools Tchoukball Championships: C Girls 3rd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018 Inter Schools Tchoukball Championships: B Boys 1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018 Inter Schools Tchoukball Championships: B Girls 2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018 Inter Schools Tchoukball Championships: C Boys 3rd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018 Inter Schools Tchoukball Championships: C Girls 2nd</p>
 </td>
 </tr>
 </tbody>
