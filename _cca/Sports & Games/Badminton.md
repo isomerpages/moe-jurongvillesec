@@ -164,10 +164,7 @@ in my training and also to help my teammates to improve their skills. I
 would like to encourage my juniors to continue to work hard and to achieve
 success in whatever they do.</p>
 <p><strong>ELYANA NOOR SHAZWINA BINTI MUHAMMAD AIDIL 4IN, B Division Girls’ team Captain</strong> 
-<br>I have also learnt how to take the initiative and help my team during
-training and competitions. To my juniors, I am super proud of every single
-one of you and I hope you will never give up during difficult times.</p>
-<p>The past 4 years have been fulfilling for me in the Badminton team. I
+<br>The past 4 years have been fulfilling for me in the Badminton team. I
 have learnt to horn my skills with the coach’s guidance and also take on
 leadership role to develop myself in leading the team. It is rewarding
 for me to see my team improve and also bond with them. To my juniors, I
