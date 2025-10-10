@@ -21,7 +21,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><a href="https://drive.google.com/file/d/1COQt0PIDThrPNMg7hnOCBCCAUNELCnnP/preview" rel="noopener noreferrer nofollow" target="_blank"><u>Video 1: Watch this video for an introduction to Jurongville and a virtual tour of the school</u></a>
+<p><a href="https://drive.google.com/file/d/1lEokBiInyCzQy0OVjciy3KAYqtMy8U5N/view?t=6&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank"><u>Video 1: Watch this video for an introduction to Jurongville and a virtual tour of the school</u></a>
 </p>
 <h4>Open House 2025</h4>
 <table style="minWidth: 50px">
