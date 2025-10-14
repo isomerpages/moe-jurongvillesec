@@ -6,7 +6,7 @@ third_nav_title: School Services
 variant: tiptap
 ---
 <h2>Booklist</h2>
-<p>Booklist and Stationery 2025</p>
+<p>Booklist and Stationery 2026</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,8 +26,7 @@ variant: tiptap
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/JVSS_2025_Booklists___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist &amp; Stationery</a>
-</p>
+<p>Not available</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +34,7 @@ variant: tiptap
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/JVSS_2025_Booklists___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist &amp; Stationery</a>
+<p><a href="/files/Booklist/Jurongville_Secondary_2026_Sec_2_Booklist_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist &amp; Stationery</a>
 </p>
 </td>
 </tr>
@@ -44,7 +43,7 @@ variant: tiptap
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/JVSS_2025_Booklists___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist &amp; Stationery</a>
+<p><a href="/files/Booklist/Jurongville_Secondary_2026_Sec_3_Booklist_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist &amp; Stationery</a>
 </p>
 </td>
 </tr>
@@ -53,7 +52,7 @@ variant: tiptap
 <p>Secondary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/JVSS_2025_Booklists___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist &amp; Stationery</a>
+<p><a href="/files/Booklist/Jurongville_Secondary_2026_Sec_4_Booklist_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist &amp; Stationery</a>
 </p>
 </td>
 </tr>
@@ -62,7 +61,7 @@ variant: tiptap
 <p>Secondary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/JVSS_2025_Booklists___Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist &amp; Stationery</a>
+<p><a href="/files/Booklist/Jurongville_Secondary_2026_Sec_5_Booklist_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist &amp; Stationery</a>
 </p>
 </td>
 </tr>
