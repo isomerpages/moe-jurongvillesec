@@ -6,7 +6,7 @@ third_nav_title: School Services
 variant: tiptap
 ---
 <h2>Booklist</h2>
-<p>Booklist and Stationery 2026</p>
+<h4><u>Booklist and Stationery 2026</u></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
