@@ -132,7 +132,7 @@ Please note that only shortlisted applicants will be invited to attend the in-pe
 		<tr>
 			<td>Application Open</td>
 			<td>7 May 2025, 11am</td>
-			<td rowspan="2"><a href="https://go.gov.sg/apply-dsa-sec">https://go.gov.sg/apply-dsa-sec</a></td>
+			<td rowspan="2">Not available</td>
 		</tr>
 		<tr>
 			<td>Application Close</td>
