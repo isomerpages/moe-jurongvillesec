@@ -26,10 +26,11 @@ variant: tiptap
 <p>please see yearend sales dates below</p>
 </li>
 </ul>
-<p>Click here for Uniform Pricing
-<br>2026 JVSS Infosheet (Uniform - All Levels)
-<br>2026 JVSS Infosheet (Uniform - S1)
-<br>2026 JVSS Infosheet (Uniform - Approved FAS students)</p>
+<p><a href="/files/Uniform_Pricing___KH_Uniform_Pte_Ltd.pdf" rel="noopener nofollow" target="_blank">Uniform Pricing</a>
+<br><a href="/files/Booklist/2026_JVSS_Infosheet__Uniform___All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JVSS Infosheet (Uniform - All Levels)</a>
+<br><a href="/files/Booklist/2026_JVSS_Infosheet__Uniform___S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JVSS Infosheet (Uniform - S1) </a>
+<br><a href="/files/Booklist/2026_JVSS_Infosheet__Uniform___Approved_FAS_students_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JVSS Infosheet (Uniform - Approved FAS students)</a>
+</p>
 <h4>School Textbooks &amp; Stationery</h4>
 <p>Name of Supplier: <strong>Shing Lee Bookstores Pte Ltd</strong>
 <br>Venue: School Bookshop @ Canteen
