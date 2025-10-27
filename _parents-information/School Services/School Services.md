@@ -28,8 +28,8 @@ variant: markdown
 </ul>
 <p>Click here for Uniform Pricing
 <br>2026 JVSS Infosheet (Uniform - All Levels)
-<br>2026 JVSS Infosheet (Uniform - S1)</p>
-<p>2026 JVSS Infosheet (Uniform - Approved FAS students)</p>
+<br>2026 JVSS Infosheet (Uniform - S1)
+<br>2026 JVSS Infosheet (Uniform - Approved FAS students)</p>
 <h4>School Textbooks &amp; Stationery</h4>
 <p>Name of Supplier: <strong>Shing Lee Bookstores Pte Ltd</strong>
 <br>Venue: School Bookshop @ Canteen
