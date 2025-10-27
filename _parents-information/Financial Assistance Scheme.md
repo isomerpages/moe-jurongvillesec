@@ -27,7 +27,7 @@ received by eligible students may include one or more of the following:</p>
 <p>Application for new MOE FAS is open throughout the year. Information on
 the MOE FAS can be found here: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.
 Application can be submitted via the links below:</p>
-<p><a href="https://form.gov.sg/68f6ebe3b483709b618276c7" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68f6ebe3b483709b618276c7</a> 
+<p><a href="https://form.gov.sg/68f6ebe3b483709b618276c7" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68f6ebe3b483709b618276c7</a>
 </p>
 <p>or</p>
 <div class="isomer-image-wrapper">
