@@ -1,6 +1,6 @@
 ---
 title: School Services
-permalink: /parents-information/School-Services/ss/
+permalink: /parents-information/school-services/ss/
 description: ""
 third_nav_title: School Services
 variant: tiptap
@@ -18,26 +18,18 @@ variant: tiptap
 <p>behind School General Office on selected Wednesdays, from 9 am to 2.30pm:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>July: 2 &amp; 23</p>
-</li>
-<li>
-<p>August: 6 &amp; 20</p>
-</li>
-<li>
-<p>September: 17</p>
-</li>
-<li>
-<p>October:1 &amp; 15</p>
+<p>Pending actual sales dates for 2026</p>
 </li>
 </ul>
 </li>
 <li>
-<p>at designated classrooms on yearend sales (dates and times to be confirmed)</p>
+<p>please see yearend sales dates below</p>
 </li>
 </ul>
-<p><a href="/files/Uniform_Pricing___KH_Uniform_Pte_Ltd.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Uniform Pricing</a>
-<br><a href="/files/JVSS_Uniform_Purchase_for_2025__All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for JVSS Uniform Purchase for 2025 (All Levels)</a>
-<br><a href="/files/JVSS_Uniform_Purchase_for_2025__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for JVSS Uniform Purchase for 2025 (Sec 1)</a>
+<p><a href="/files/Uniform_Pricing___KH_Uniform_Pte_Ltd.pdf" rel="noopener nofollow" target="_blank">Uniform Pricing</a>
+<br><a href="/files/Booklist/2026_JVSS_Infosheet__Uniform___All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JVSS Infosheet (Uniform - All Levels)</a>
+<br><a href="/files/Booklist/2026_JVSS_Infosheet__Uniform___S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JVSS Infosheet (Uniform - S1) </a>
+<br><a href="/files/Booklist/2026_JVSS_Infosheet__Uniform___Approved_FAS_students_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JVSS Infosheet (Uniform - Approved FAS students)</a>
 </p>
 <h4>School Textbooks &amp; Stationery</h4>
 <p>Name of Supplier: <strong>Shing Lee Bookstores Pte Ltd</strong>
@@ -58,18 +50,14 @@ variant: tiptap
 </p>
 <h4>Yearend Sales</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Bookshop_Sales_Dates.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Bookshop_Yearend_Sales_Dates.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Uniform_Sales_Dates.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Uniform_Yearend_Sales_Dates.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Common_Sales_Dates_for_Bookshop_and_Uniform.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Common_Yearend_Sales_Dates.png">
 </div>
 <p></p>
