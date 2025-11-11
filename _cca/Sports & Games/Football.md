@@ -6,77 +6,138 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Football</h2>
-<p>Teacher ICs:</p>
-<p>C Division</p>
-<ol data-tight="true" class="tight">
+<h4>Jurongville Secondary School Football Programme</h4>
+<p>Jurongville Secondary School’s Football team is recognised as one of the
+premier football programmes in the West. Over the years, our teams have
+performed strongly in the National School Games (NSG), earning numerous
+accolades in youth football and building a proud tradition of excellence
+and sportsmanship.</p>
+<p>Rooted in Jurongville’s core values of Perseverance, Respect, Integrity,
+Discipline, and Empathy (PRIDE), the football programme focuses not only
+on developing our boys into skilled footballers but also on nurturing them
+into responsible, resilient, and respectful young men. Discipline on and
+off the field remains central to our approach, shaping players who demonstrate
+commitment, teamwork, and character both during play and in daily life.</p>
+<p>Under the guidance of qualified coaches and a team of dedicated teachers,
+our players undergo structured and progressive training designed to balance
+sporting excellence with academic growth. Besides weekly training, the
+programme also includes exposure through regular friendly matches, conditioning
+through fitness training sessions as well as competition experience in
+National School Games (NSG) and local tournament such as the Singa Cup.</p>
+<p>The Jurongville Secondary School’s Football Programme also provides opportunities
+for student leadership and community engagement. Our Secondary 1 players
+lead football engagement sessions for primary school students, where they
+design and facilitate activities that promote teamwork, confidence, and
+love for the game. This initiative builds leadership and communication
+skills while strengthening our connection with the wider community.</p>
+<p>The Jurongville Football Programme emphasises:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Mr Hafiz Azhar (I/C)</p>
+<p>Player Development: Building football proficiency, game awareness, and
+discipline through consistent and focused training.</p>
 </li>
 <li>
-<p>Mr Donald Wan (2 I/C)</p>
-</li>
-</ol>
-<p>B Division</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Mr Shahul Hameed (I/C)</p>
+<p>Character Building: Instilling perseverance, respect, and teamwork as
+part of every player’s growth journey.</p>
 </li>
 <li>
-<p>Mr Raymond Tan (2 I/C)</p>
+<p>Meaningful Engagement: Providing students with authentic platforms to
+compete, lead, and represent the school with pride in the NSG, friendlies,
+and tournaments.</p>
 </li>
-</ol>
-<p></p>
-<h4>About</h4>
-<p>Jurongville Secondary School’s Football team has the premier footballing
-programme in the West. We have performed well in past inter-school competitions
-and has won many accolades in youth football and have reputable youth development
-programmes. When the school merged with Hong Kah Secondary in 2019, we
-tapped on the strengths of both schools and emerged as National Champions
-in the "B" Division League 1 NSG.</p>
-<p>The school’s football teams are centred around Jurongville’s values of
-perseverance, respect and discipline as we focus on developing the boys
-as good footballers and students. Discipline on and off the field are equally
-important to us. This approach has paid off in terms of developing a team
-of boys with both the skills and discipline to do well in matches, as well
-as laying the foundation for semi-professional or professional football
-in future for selected players. Moreover, the players are guided by professional
-coaches and dedicated teachers to ensure that our student athletes develop
-holistically.</p>
-<p></p>
-<h4>Unleash the Roar! – School Football Academy (SFA)</h4>
-<p>In collaboration with SportSG and FAS, Jurongville Secondary school came
-on board a School Football Academy (SFA) programme from 2022. It provides
-talented young football players with an enhanced training environment to
-develop their football abilities, while balancing the rigour of studies.</p>
-<p>The SFA programme will benefit the school as it adds value in terms of
-coaching ideas and resources that will help elevate our students to the
-next level of football proficiency. A coherent football philosophy that
-can be implemented in a developmentally appropriate way to both the B and
-C division boys. The programme provides students with holistic development
-beyond the football field, equipping them with the attitude, skills, and
-knowledge for success in school and for overcoming the challenges they
-will face in life in future.</p>
-<p>JVSS football teams will play in the National School Games and other competitions
-and where possible, head overseas for training stints. We have a team of
-full-time coaches, both local and from La Liga, and they report to a head
-coach with a FIFA 'A' licence and relevant youth development experience.
-There are specialist coaches in the areas of goalkeeping, strength and
-conditioning, and performance analysts. This team of coaches are overseen
-by the FAS Technical Director and ActiveSG Football Academy Principal with
-support from FAS Head of Methodology and AFA Technical Director. Players
-will train four times a week.</p>
+<li>
+<p>Holistic Support: Ensuring players are guided by caring coaches and teachers
+who prioritise both well-being and performance.</p>
+</li>
+</ul>
+<p>Jurongville remains committed to nurturing student athletes who embody
+our PRIDE values and achieve excellence on the pitch, in the classroom,
+and in life.</p>
 <p></p>
 <h4>CCA Photo</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpnTF87cHxZyE9x-Ul04KMl3mwaLdW4HGiaJbXvyahwVgbJ1n0DtqtT-PJsG5thFukyge5s8JB5ows/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>APPOINTMENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KELVIN GOH TIN YEW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CAPTAIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ERMAN BIN AZMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CAPTAIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAYYAN DANI BIN MUHAMMAD SUDARMAJI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICE-CAPTAIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2DP</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Key Achievements</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Singa Cup 2025 U16: Quarterfinalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 SFA Super 7s: 2nd Runner-Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 SFA Super 7s: 2nd Runner-Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National C Division League 2: Champions</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2023 SFA Senior League: Champion</p>
@@ -161,44 +222,23 @@ will train four times a week.</p>
 </table>
 <p></p>
 <h4>Training Schedule</h4>
-<p>C Division
-<br>
-</p>
+<p>B Division</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday 3:00pm – 4:30pm
-<br>
-</p>
+<p>Tuesday 4:00pm – 6:00pm</p>
 </li>
 <li>
-<p>Tuesday 3:00pm – 4:30pm
-<br>
-</p>
-</li>
-<li>
-<p>Thursday 3:00pm – 4:30pm
-<br>
-</p>
+<p>Thursday 4:00pm – 6:00pm</p>
 </li>
 </ul>
-<p>B Division
-<br>
-</p>
+<p>
+<br>C Division</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday 4:30pm – 6:00pm
-<br>
-</p>
+<p>Tuesday 2:45pm – 4:45pm</p>
 </li>
 <li>
-<p>Tuesday 4:30pm – 6:00pm
-<br>
-</p>
-</li>
-<li>
-<p>Thursday 4:30pm – 6:00pm
-<br>
-</p>
+<p>Thursday 2:45pm – 4:45pm</p>
 </li>
 </ul>
 <p></p>
