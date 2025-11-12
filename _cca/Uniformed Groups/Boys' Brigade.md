@@ -18,6 +18,7 @@ to the competitions.</p>
 <p>This year, 2025, is the 95th anniversary of the Boys’ Brigade in Singapore,
 and as part of the celebrations, we look forward to more exciting and meaningful
 activities to bond our boys and build men of character.</p>
+<p></p>
 <h4>CCA Photo</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWrxWX9S0B9g26qOJjw_yiDQgQjxvszIPFRHtBpEMfciPUhUpII6XGK6MermOYgD8xHYyj222RHWil/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
