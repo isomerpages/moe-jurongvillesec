@@ -9,23 +9,18 @@ variant: markdown
 
 #### Department Goals
 
-To engage and motivate students in the learning of Humanities and develop students to be informed, empathetic, and concerned citizens.
+To cultivate passionate and resilient Humanities learners who think critically, care deeply, and act responsibly
 
-#### Value of the Humanities
+#### Nurturing Passionate Learners
 
-##### Intrinsic Value
-The Humanities process and record the human experience. This knowledge allows us to feel connected to those who have come before us, our contemporaries, and also to deal with the problems of the human condition.
-  
-##### Practical utility
-The Humanities inculcates skills such as reasoning, critical thinking, communication and an understanding of human behaviour, which directly impacts an individual’s performance in the workplace and social relationships. 
-  
-##### Nation-building
-Issues of identity, social organisation and decision-making are central to the Humanities. Through this exposure, students develop a sense of place within the nation, while gaining awareness and appreciation of the challenges it faces.
+Humanities lessons offer authentic, inquiry-driven experiences that build curiosity, competence, critical thinking, and ownership. Through real-world issues, progressive disciplinary skills, student choice, and opportunities such as fieldwork, exhibitions, and service learning, students see relevance and develop deeper engagement. A culture of visible thinking, reflection, and formative feedback further strengthens their confidence, analytical rigour, and motivation as active, self-directed Humanities learners.
 
-#### Approach
-To develop students’ appreciation for the various Humanities subjects, all JVnites take part in learning journeys and subject-specific investigative projects such as Geographical, Historical and Issue Investigations, where they delve deeper into the various Humanities disciplines.
+#### Growing Leaders
+Leaders are developed through structured opportunities that allow students to analyse complex issues, make informed decisions, and take responsible action across diverse, authentic contexts. Through roles in inquiry projects and student-led discussions, learning showcases, and community or national platforms, students practise communication, collaboration, and ethical reasoning. With progressive scaffolds and reflective routines, they develop the confidence, empathy, and civic-mindedness to lead with clarity and purpose, and to care deeply for the people and communities they influence.
 
-These learning journeys (LJ), like our Social Studies LJ to SBSTransit Depot and Ya Kun, our Geography fieldtrips, and Lower Sec Integrated Humanities Project (HIP), provide ‘real-world’ opportunities for JVnites to develop and extend their critical thinking skills, which enhances understanding and appreciation for the world. Our G1 and Normal (Technical) students also get a chance to be exposed to the different Humanities subjects through specially-tailored performance tasks.
+#### Empowering World-Ready Stewards
+By engaging students in inquiry, fieldwork, and community-centred learning, they are equipped to navigate real-world issues, understand global trends, and appreciate local–global interconnections, fostering the development of world-ready stewards. Through the cultivation of critical discernment, ethical awareness, and respect for diverse perspectives, students learn to evaluate the impact of decisions on societies and the environment. Authentic tasks—such as issue investigations, dialogues with communities, and applied digital-civic practices—further prepare them to act responsibly and sustainably. In this way, the department nurtures students who are ready to contribute thoughtfully and constructively to an increasingly complex and interconnected world.
 
-Selected students who are passionate about the different Humanities subjects are also given opportunities to take part in the Model United Nations Conference MUN), the Historical Scene Investigation Challenge and the NUS Geography Challenge. They can also represent the school in various competitions such as the GreenFest Challenge and the ‘Race to Sustainability’ competition.
+#### Inspiring Lifelong Humanities Learners
+Building on the work in nurturing passionate learners, growing leaders, and empowering world-ready stewards, the Humanities Department aims to cultivate curiosity, critical thinking, and a love for learning that extends beyond school. Students are encouraged to continue exploring, reflecting, and engaging with the world as informed, empathetic, and responsible individuals throughout their lives.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPzg8Fy8jqkIx5IuppeuX_Ek8st34d1JQQ-Kcdh03U58O7f-w4c6Uam3EKXQwyjmVCSzC8dFmU8psT/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
