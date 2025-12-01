@@ -53,4 +53,10 @@ variant: tiptap
 </li>
 </ul>
 <h4>Term 4</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Term Letter/2025_End_of_Term_4.pdf" rel="noopener nofollow" target="_blank">End of Term 4</a>
+</p>
+</li>
+</ul>
 <p></p>
