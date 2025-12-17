@@ -26,7 +26,8 @@ variant: tiptap
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available</p>
+<p><a href="/files/Booklist/Jurongville_Secondary_2026_Sec_1_Green.pdf" rel="noopener nofollow" target="_blank">Booklist &amp; Stationery</a>
+</p>
 </td>
 </tr>
 <tr>
