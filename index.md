@@ -18,4 +18,5 @@ sections:
       button: click here for more details
       url: https://sites.google.com/moe.edu.sg/jvs-sec-1-registration/home
       image: /images/2024_Sec1_Registration.jpg
+      alt: Sec1Registration
 ---
