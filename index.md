@@ -13,17 +13,9 @@ sections:
           description: Term Letter
           url: /parents-information/Term-Letters/tl/
   - infopic:
-      title: Open House 2025
+      title: 2026 Secondary 1 Registration
       id: infopic
-      image: /images/Open_house_banner_2025_V2.jpg
-      alt: OpenHouse2025
-      button: click here
-      url: /our-experience/open-house/open-house/
-  - infopic:
-      title: Wellness Wednesday
-      id: infopic
-      button: Click Here
-      url: https://sites.google.com/moe.edu.sg/neforjvnites/jvs/activities/wellness-wednesday
-      image: /images/LOO_Banner.jpg
-      alt: Image alt text
+      button: click here for more details
+      url: https://sites.google.com/moe.edu.sg/jvs-sec-1-registration/home
+      image: /images/2024_Sec1_Registration.jpg
 ---
