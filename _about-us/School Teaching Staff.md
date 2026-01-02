@@ -2,7 +2,7 @@
 title: School Teaching Staff
 permalink: /about-us/school-teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2>School Teaching Staff</h2>
 <table style="minWidth: 75px">
@@ -346,12 +346,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wong_chun_kiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Wong Chun Kiat</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_chun_kiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Wong Chun Kiat</a>
+<p><a href="mailto:liew_heng_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liew Heng Lan</a>
 </p>
 </td>
 </tr>
@@ -365,11 +366,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:marina_abu_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Marina Binte Abu Hassan (FAJT)</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -427,7 +423,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Nur Khairin Aisyah Bte Ngataman<br> (Assistant Year Head)</a>
+<p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Nur Khairin Aisyah Bte Ngataman<br>(Assistant Year Head)</a>
 </p>
 </td>
 </tr>
