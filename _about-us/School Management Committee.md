@@ -201,14 +201,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH/Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +249,7 @@ variant: tiptap
 <p>SH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:karmila_asari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Karmila Binte Asari</a>
+<p><a href="mailto:toh_puay_boon@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Toh Puay Boon</a>
 </p>
 </td>
 </tr>
