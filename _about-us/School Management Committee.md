@@ -57,11 +57,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Character &amp; Citizenship Education
-<br>(Covering Humanities)</p>
+<p>HOD/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Mohammad_Nasser_Jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Mohammad Nasser Bin Jaafar</a>
+<p><a href="mailto:kee_shu-yi_teresa@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kee Shu-Yi Teresa</a>
 </p>
 </td>
 </tr>
@@ -71,6 +70,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:you_kim_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms You Kim Choo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/Curriculum &amp; Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms May Ng Gui Zhen</a>
 </p>
 </td>
 </tr>
@@ -142,15 +150,6 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wee_jin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Wee Jin Yi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:han_hui_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Han Hui Chin</a>
 </p>
 </td>
@@ -166,7 +165,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCA (Covering)</p>
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Khairin Aisyah Binte Ngataman</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Lee Chinn Yi</a>
@@ -193,11 +201,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Curriculum &amp; Innovation</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms May Ng Gui Zhen</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
