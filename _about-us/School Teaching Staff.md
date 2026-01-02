@@ -125,7 +125,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:simon_lydia_shamani@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Simon Lydia Shamani<br>(SSD)</a>
+<p><a href="mailto:simon_lydia_shamani@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Simon Lydia Shamani<br>(School Staff Developer)</a>
 </p>
 </td>
 </tr>
@@ -137,13 +137,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:serene_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Serene Lai (MT / English Language)</a>
+<p><a href="mailto:serene_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Serene Lai<br>(MT / English Language)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suhaily_supahan@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Suhaily Bte Supahan (ST / EL)</a>
+<p><a href="mailto:suhaily_supahan@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Suhaily Bte Supahan<br>(ST / English Language)</a>
 </p>
 </td>
 </tr>
@@ -298,37 +298,37 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_ghim_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Ang Ghim Chee (HOD / Mathematics)</a>
+<p><a href="mailto:ang_ghim_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Ang Ghim Chee<br>(HOD / Mathematics)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_puay_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Toh Puay Boon (SH / Mathematics)</a>
+<p><a href="mailto:toh_puay_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Toh Puay Boon<br>(SH / Mathematics)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_hui_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Han Hui Chin (Year Head)</a>
+<p><a href="mailto:han_hui_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Han Hui Chin<br>(Year Head)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sri_masayu_moktar@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Sri Masayu Binte Moktar (SH / CCE)</a>
+<p><a href="mailto:sri_masayu_moktar@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Sri Masayu Binte Moktar<br>(SH / CCE)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_chong_boon_eddie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tay Chong Boon Eddie (SH / ICT)</a>
+<p><a href="mailto:tay_chong_boon_eddie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tay Chong Boon Eddie<br>(SH / ICT)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahul_hameed_sultan@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Shahul Hameed S/O Sultan (SH / Student Well-Being)</a>
+<p><a href="mailto:shahul_hameed_sultan@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Shahul Hameed S/O Sultan<br>(SH / Student Well-Being)</a>
 </p>
 </td>
 </tr>
@@ -427,8 +427,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Nur Khairin Aisyah Bte Ngataman (</a>
-<a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Assistant Year Head)</a>
+<p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Nur Khairin Aisyah Bte Ngataman<br> (Assistant Year Head)</a>
 </p>
 </td>
 </tr>
@@ -548,8 +547,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi<br>(SH / </a>
-<a href="mailto:goh_yong_hang@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Physical Education &amp; CCA</a><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">)</a>
+<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi<br>(SH / Physical Education &amp; CCA)</a>
 </p>
 </td>
 </tr>
@@ -600,8 +598,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kay_khine_win@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Kay Khine Win (</a>
-<a href="mailto:lee_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="">HOD / Science</a><a href="mailto:kay_khine_win@schools.gov.sg" rel="noopener noreferrer nofollow" target="">)</a>
+<p><a href="mailto:kay_khine_win@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Kay Khine Win<br>(HOD / Science)</a>
 </p>
 </td>
 </tr>
@@ -618,7 +615,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_shu_ping_ethel@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Chng Shu Ping Ethel (ST / Chemistry)</a>
+<p><a href="mailto:chng_shu_ping_ethel@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Chng Shu Ping Ethel<br>(ST / Chemistry)</a>
 </p>
 </td>
 </tr>
