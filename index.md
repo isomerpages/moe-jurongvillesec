@@ -13,6 +13,14 @@ sections:
           description: Term Letter
           url: /parents-information/Term-Letters/tl/
   - infopic:
+      title: Welcome to 2026!
+      id: infopic
+      description: Secondary 2 to 5 JVnites, we will see you back in school on 2
+        January 2026, Friday. Incoming Secondary 1 JVnites, see you on 5 January
+        2026, Monday.
+      image: /images/Welcome_Back_2026.jpg
+      alt: WelcomeBack2026
+  - infopic:
       title: 2026 Secondary 1 Registration
       id: infopic
       button: click here for more details
