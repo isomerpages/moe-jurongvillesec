@@ -2,7 +2,7 @@
 title: School Teaching Staff
 permalink: /about-us/school-teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2>School Teaching Staff</h2>
 <table style="minWidth: 75px">
@@ -242,11 +242,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:chin_ying_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs Poh-Chin Ying Ying Yvonne<br>(ST / Geography)</a>
 </p>
 </td>
@@ -465,11 +460,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nur_syahfiqah_mohd_jamalludin_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Syahfiqah Binte Mohd Jamalludin</a>
 </p>
 </td>
@@ -478,11 +468,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rajendran_subramaniyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Rajendran Subramaniyan</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -507,11 +492,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_eik_kiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Wong Eik Kiat</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -602,11 +582,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_yan_pure@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs Wong Yan Pure<br>(SH / Science)</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
