@@ -236,7 +236,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms May Ng Gui Zhen (HOD / Innovation &amp; Curriculum)</a>
+<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms May Ng Gui Zhen<br>(HOD / Innovation &amp; Curriculum)</a>
 </p>
 </td>
 </tr>
