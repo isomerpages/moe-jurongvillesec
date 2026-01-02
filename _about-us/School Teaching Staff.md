@@ -161,13 +161,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Lloyd Lin Jianbang</a>
+<p><a href="mailto:gina_hiu_feng_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Gina Hiu Feng Ping</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lloyd_lin_jianbang@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Lloyd Lin Jianbang</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -192,11 +193,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_xin_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Wong Xin En</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -240,7 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms May Ng Gui Zhen (SH / Innovation &amp; Curriculum)</a>
+<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms May Ng Gui Zhen (HOD / Innovation &amp; Curriculum)</a>
 </p>
 </td>
 </tr>
@@ -281,11 +277,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_swee_guek_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Tan Swee Guek (FAJT)</a>
 </p>
 </td>
@@ -313,7 +304,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:toh_puay_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Toh Puay Boon (SH / Mathematics)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -354,8 +346,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_puay_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Toh Puay Boon</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -436,6 +427,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Nur Khairin Aisyah Bte Ngataman (</a>
+<a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Assistant Year Head)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:veerappan_buvaneswari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Veerappan Buvaneswari<br>(ST / Tamil Language)</a>
 </p>
 </td>
@@ -472,8 +470,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Nur Khairin Aisyah Bte Ngataman</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
