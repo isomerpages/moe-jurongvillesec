@@ -236,6 +236,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:kee_shu-yi_teresa@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Kee Shu-Yi Teresa</a>
+<br><a href="mailto:kee_shu-yi_teresa@schools.gov.sg" rel="noopener nofollow" target="_blank">(HOD / CCE)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms May Ng Gui Zhen<br>(HOD / Innovation &amp; Curriculum)</a>
 </p>
 </td>
