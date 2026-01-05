@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Class Timetable
 
-#### 2025 SEM 2 (Update on 30/06/2025)
+#### 2026 SEM 1 (Update on 05/01/2026)
 <table width="90%">
 <tbody>
 <tr>
@@ -16,26 +16,35 @@ variant: markdown
   
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1DP.pdf" target="_blank">1 Discipline</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1DP.pdf" target="_blank">1 Shakespeare</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1EM.pdf" target="_blank">1 Empathy</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1EM.pdf" target="_blank">1 Einstein</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1IN.pdf" target="_blank">1 Integrity</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1IN.pdf" target="_blank">1 Lister</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1PA.pdf" target="_blank">1 Passion</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1PA.pdf" target="_blank">1 Faraday</a>
 </td>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1PE.pdf" target="_blank">1 Perseverance</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1PE.pdf" target="_blank">1 Bell</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1RS.pdf" target="_blank">1 Resilience</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1RS.pdf" target="_blank">1 Earhart</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1RP.pdf" target="_blank">1 Respect</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1RP.pdf" target="_blank">1 Yusof</a>
+</td>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1RP.pdf" target="_blank">1 Owens</a>
+</td>
+</tr>
+<tr>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1PE.pdf" target="_blank">1 Nightingale</a>
+</td>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1RS.pdf" target="_blank">1 Da Vinci</a>
 </td>
 <td>
 </td>
-</tr>
-</tbody>
+<td>
+</td>
+</tr></tbody>
 </table><br>
 <table width="90%">
 <tbody>
