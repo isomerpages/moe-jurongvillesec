@@ -20,11 +20,4 @@ sections:
         2026, Monday.
       image: /images/Welcome_Back_2026.jpg
       alt: WelcomeBack2026
-  - infopic:
-      title: 2026 Secondary 1 Registration
-      id: infopic
-      button: click here for more details
-      url: https://sites.google.com/moe.edu.sg/jvs-sec-1-registration/home
-      image: /images/2024_Sec1_Registration.jpg
-      alt: Sec1Registration
 ---
