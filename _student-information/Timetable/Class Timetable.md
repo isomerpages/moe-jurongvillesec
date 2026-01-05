@@ -16,29 +16,29 @@ variant: markdown
   
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1DP.pdf" target="_blank">1 Shakespeare</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1DP.pdf" target="_blank">1 Bell </a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1EM.pdf" target="_blank">1 Einstein</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1EM.pdf" target="_blank">1 Da Vinci</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1IN.pdf" target="_blank">1 Lister</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1IN.pdf" target="_blank">1 Earhart</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1PA.pdf" target="_blank">1 Faraday</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1PA.pdf" target="_blank">1 Einstein</a>
 </td>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1PE.pdf" target="_blank">1 Bell</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1PE.pdf" target="_blank">1 Faraday</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1RS.pdf" target="_blank">1 Earhart</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1RS.pdf" target="_blank">1 Lister</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1RP.pdf" target="_blank">1 Yusof</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1RP.pdf" target="_blank">1 Nightingale</a>
 </td>
 <td><a href="/files/TT/2025%20SEM2/SEM2_1RP.pdf" target="_blank">1 Owens</a>
 </td>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1PE.pdf" target="_blank">1 Nightingale</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1PE.pdf" target="_blank">1 Shakespeare</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1RS.pdf" target="_blank">1 Da Vinci</a>
+<td><a href="/files/TT/2025%20SEM2/SEM2_1RS.pdf" target="_blank">1 Yusof</a>
 </td>
 <td>
 </td>
