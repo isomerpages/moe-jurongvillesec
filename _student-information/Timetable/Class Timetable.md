@@ -26,19 +26,19 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1PE.pdf" target="_blank">1 Faraday</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1Faraday.pdf" target="_blank">1 Faraday</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1RS.pdf" target="_blank">1 Lister</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1Lister.pdf" target="_blank">1 Lister</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1RP.pdf" target="_blank">1 Nightingale</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1Nightingale.pdf" target="_blank">1 Nightingale</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1RP.pdf" target="_blank">1 Owens</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1Owens.pdf" target="_blank">1 Owens</a>
 </td>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1PE.pdf" target="_blank">1 Shakespeare</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1Shakespeare.pdf" target="_blank">1 Shakespeare</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1RS.pdf" target="_blank">1 Yusof</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1Yusof.pdf" target="_blank">1 Yusof</a>
 </td>
 <td>
 </td>
