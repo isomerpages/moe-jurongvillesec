@@ -74,7 +74,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_keng_ping_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Keng Ping Simon</a>
+<p><a href="mailto:lim_keng_ping_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Lim Keng Ping Simon</a>
 </p>
 </td>
 </tr>
@@ -161,7 +161,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gina_hiu_feng_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Gina Hiu Feng Ping</a>
+<p><a href="mailto:gina_hiu_feng_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Gina Hiu Feng Ping</a>
 </p>
 </td>
 </tr>
@@ -236,14 +236,14 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kee_shu-yi_teresa@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Kee Shu-Yi Teresa</a>
-<br><a href="mailto:kee_shu-yi_teresa@schools.gov.sg" rel="noopener nofollow" target="_blank">(HOD / CCE)</a>
+<p><a href="mailto:kee_shu-yi_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Kee Shu-Yi Teresa
+<br>(HOD / CCE)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms May Ng Gui Zhen<br>(HOD / Innovation &amp; Curriculum)</a>
+<p><a href="mailto:may_ng_gui_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms May Ng Gui Zhen<br>(HOD / Innovation &amp; Curriculum)</a>
 </p>
 </td>
 </tr>
@@ -354,7 +354,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_heng_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liew Heng Lan</a>
+<p><a href="mailto:liew_heng_lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Liew Heng Lan</a>
 </p>
 </td>
 </tr>
@@ -431,7 +431,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:veerappan_buvaneswari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Veerappan Buvaneswari<br>(ST / Tamil Language)</a>
+<p><a href="mailto:veerappan_buvaneswari@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Veerappan Buvaneswari<br>(ST / Tamil Language)</a>
 </p>
 </td>
 </tr>
@@ -467,7 +467,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_syahfiqah_mohd_jamalludin_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Syahfiqah Binte Mohd Jamalludin</a>
+<p><a href="mailto:nur_syahfiqah_mohd_jamalludin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Nur Syahfiqah Binte Mohd Jamalludin</a>
 </p>
 </td>
 </tr>
@@ -479,7 +479,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_ainah_maduri@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Siti Ainah Binte Maduri</a>
+<p><a href="mailto:siti_ainah_maduri@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Siti Ainah Binte Maduri</a>
 </p>
 </td>
 </tr>
@@ -503,7 +503,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_yen_joe@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chua Yen Joe (FAJT)</a>
+<p><a href="mailto:chua_yen_joe@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Chua Yen Joe (FAJT)</a>
 </p>
 </td>
 </tr>
@@ -530,7 +530,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Chinn Yi<br>(SH / Physical Education &amp; CCA)</a>
+<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Lee Chinn Yi<br>(SH / Physical Education &amp; CCA)</a>
 </p>
 </td>
 </tr>
@@ -635,7 +635,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shivali_popat_jadhav@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Shivali Popat Jadhav</a>
+<p><a href="mailto:shivali_popat_jadhav@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Miss Shivali Popat Jadhav</a>
 </p>
 </td>
 </tr>
@@ -692,7 +692,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:atikah_saad@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Atikah Bte Sa'ad (ECG Counsellor)</a>
+<p><a href="mailto:atikah_saad@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Atikah Bte Sa'ad (ECG Counsellor)</a>
 </p>
 </td>
 </tr>
@@ -704,13 +704,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="esther_zeng_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Esther Zeng Hui (SENO)</a>
+<p><a href="esther_zeng_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Esther Zeng Hui (SENO)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_me_me@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soh Me Me</a>
+<p><a href="mailto:soh_me_me@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Soh Me Me</a>
 </p>
 </td>
 </tr>
