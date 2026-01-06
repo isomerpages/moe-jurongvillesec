@@ -10,53 +10,31 @@ variant: tiptap
 <h4>Term 1</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/JVS_PLD_Parents_PG_letter_1_2025.pdf" rel="noopener nofollow" target="_blank">JVS PLD Parents PG Letter 2025</a>
-</p>
+<p>PG Letter</p>
 </li>
 <li>
-<p><a href="/files/2025_Term_1_Letter_to_Parents_v2.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Letter to Parents</a>
-</p>
+<p>GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</p>
 </li>
 <li>
-<p><a href="/files/2025_Sem1_After_School_Programme_Parent_Letter_13Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sem1 After School Programme Parent Letter</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Project_Wolbachia_Letter_to_Parents_Jurong_East.pdf" rel="noopener noreferrer nofollow" target="_blank">Project Wolbachia Letter to Parents</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PG_message_for_DLC.pdf" rel="noopener nofollow" target="_blank">PG Message for Differentiated Leadership Workshop 2025</a>
-</p>
+<p>Road Safety Advisory</p>
 </li>
 </ul>
 <h4>Term 2</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_End_of_Sem_1.pdf" rel="noopener nofollow" target="_blank">End of Sem 1</a>
-</p>
+<p></p>
 </li>
 </ul>
 <h4>Term 3</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter_to_Parents_on_Vaping_and_Bullying.pdf" rel="noopener nofollow" target="_blank">Letter to Parents on Vaping and Bullying</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Term Letter/Letter_to_Parents_on_Delayed_Dismissal_29_July_2025.pdf" rel="noopener nofollow" target="_blank">Letter to Parents on Delayed Dismissal 29 July 2025</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Term Letter/Celebrating_Teachers_Day_on_Thurs_4_Sept_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Celebrating Teacher Days on 4th September 2025</a>
-</p>
+<p></p>
 </li>
 </ul>
 <h4>Term 4</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Term Letter/2025_End_of_Term_4.pdf" rel="noopener nofollow" target="_blank">End of Term 4</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
