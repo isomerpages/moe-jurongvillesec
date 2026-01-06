@@ -16,13 +16,13 @@ variant: markdown
   
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1DP.pdf" target="_blank">1 Bell </a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1Bell.pdf" target="_blank">1 Bell </a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1EM.pdf" target="_blank">1 Da Vinci</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1DaVinci.pdf" target="_blank">1 Da Vinci</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1IN.pdf" target="_blank">1 Earhart</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1Earhart.pdf" target="_blank">1 Earhart</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_1PA.pdf" target="_blank">1 Einstein</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec1Einstein.pdf" target="_blank">1 Einstein</a>
 </td>
 </tr>
 <tr>
