@@ -324,7 +324,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_chong_boon_eddie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tay Chong Boon Eddie<br>(SH / ICT)</a>
+<p><a href="mailto:tay_chong_boon_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Tay Chong Boon Eddie<br>(SH / ICT)</a>
 </p>
 </td>
 </tr>
