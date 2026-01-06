@@ -55,21 +55,21 @@ variant: markdown
 </th>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_2DP.pdf" target="_blank">2 Discipline</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec2Discipline.pdf" target="_blank">2 Discipline</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_2EM.pdf" target="_blank">2 Empathy</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec2Empathy.pdf" target="_blank">2 Empathy</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_2IN.pdf" target="_blank">2 Integrity</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec2Integrity.pdf" target="_blank">2 Integrity</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_2PA.pdf" target="_blank">2 Passion</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec2Passion.pdf" target="_blank">2 Passion</a>
 </td>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_2PE.pdf" target="_blank">2 Perseverance</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec2Perseverance.pdf" target="_blank">2 Perseverance</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_2RS.pdf" target="_blank">2 Resilience</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec2Resilience.pdf" target="_blank">2 Resilience</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_2RP.pdf" target="_blank">2 Respect</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec2Respect.pdf" target="_blank">2 Respect</a>
 </td>
 <td>
 </td>
@@ -85,21 +85,21 @@ variant: markdown
 </th>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_3DP.pdf" target="_blank">3 Discipline</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec3Discipline.pdf" target="_blank">3 Discipline</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_3EM.pdf" target="_blank">3 Empathy</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec3Empathy.pdf" target="_blank">3 Empathy</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_3IN.pdf" target="_blank">3 Integrity</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec3Integrity.pdf" target="_blank">3 Integrity</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_3PA.pdf" target="_blank">3 Passion</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec3Passion.pdf" target="_blank">3 Passion</a>
 </td>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_3PE.pdf" target="_blank">3 Perseverance</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec3Perseverance.pdf" target="_blank">3 Perseverance</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_3RS.pdf" target="_blank">3 Resilience</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec3Resilience.pdf" target="_blank">3 Resilience</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_3RP.pdf" target="_blank">3 Respect</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec3Respect.pdf" target="_blank">3 Respect</a>
 </td>
 <td>
 </td>
@@ -116,21 +116,21 @@ variant: markdown
 </tr>
   
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_4DP.pdf" target="_blank">4 Discipline</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec4Discipline.pdf" target="_blank">4 Discipline</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_4EM.pdf" target="_blank">4 Empathy</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec4Empathy.pdf" target="_blank">4 Empathy</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_4IN.pdf" target="_blank">4 Integrity</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec4Integrity.pdf" target="_blank">4 Integrity</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_4PA.pdf" target="_blank">4 Passion</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec4Passion.pdf" target="_blank">4 Passion</a>
 </td>
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_4PE.pdf" target="_blank">4 Perseverance</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec4Perseverance.pdf" target="_blank">4 Perseverance</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_4RS.pdf" target="_blank">4 Resilience</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec4Resilience.pdf" target="_blank">4 Resilience</a>
 </td>
-<td><a href="/files/TT/2025%20SEM2/SEM2_4RP.pdf" target="_blank">4 Respect</a><br>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec4Respect.pdf" target="_blank">4 Respect</a><br>
 </td>
 <td><br>
 </td>
@@ -146,7 +146,7 @@ variant: markdown
   
 </tr>
 <tr>
-<td><a href="/files/TT/2025%20SEM2/SEM2_5PA.pdf" target="_blank">5 Passion</a>
+<td><a href="/files/TT/2026%20SEM1/JVS_2026_TT_Sec5Passion.pdf" target="_blank">5 Passion</a>
 </td>
 </tr>
 </tbody>
