@@ -10,13 +10,16 @@ variant: tiptap
 <h4>Term 1</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>PG Letter</p>
+<p><a href="/files/Term Letter/JVSS_PG_Letter_Student_Details_Form.pdf" rel="noopener nofollow" target="_blank">PG Letter</a>
+</p>
 </li>
 <li>
-<p>GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</p>
+<p><a href="/files/Term Letter/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students</a>
+</p>
 </li>
 <li>
-<p>Road Safety Advisory</p>
+<p><a href="/files/Term Letter/Road_Safety_Advisory_for_JVSS.pdf" rel="noopener nofollow" target="_blank">Road Safety Advisory</a>
+</p>
 </li>
 </ul>
 <h4>Term 2</h4>
