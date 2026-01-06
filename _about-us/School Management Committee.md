@@ -60,7 +60,7 @@ variant: markdown
 <p>HOD/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kee_shu-yi_teresa@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kee Shu-Yi Teresa</a>
+<p><a href="mailto:kee_shu-yi_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Kee Shu-Yi Teresa</a>
 </p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ variant: markdown
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Khairin Aisyah Binte Ngataman</a>
+<p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Nur Khairin Aisyah Binte Ngataman</a>
 </p>
 </td>
 </tr>
