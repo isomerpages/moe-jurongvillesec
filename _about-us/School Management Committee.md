@@ -249,7 +249,7 @@ variant: markdown
 <p>SH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_puay_boon@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Toh Puay Boon</a>
+<p><a href="mailto:toh_puay_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Toh Puay Boon</a>
 </p>
 </td>
 </tr>

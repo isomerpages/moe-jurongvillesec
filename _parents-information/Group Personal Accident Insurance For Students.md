@@ -20,12 +20,12 @@ pay more out-of-pocket expenses if treatment costs exceed the policy’s
 coverage limits.</p>
 <h5>Income GPA Website</h5>
 <p>You may visit the Income GPA website for claims, FAQs and other details
-at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a> 
+at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 <h5>Product Factsheet</h5>
 <p>The factsheet gives information on the contract period, coverage, benefit/sum
 assured and other details and can be found below.</p>
-<p> <a href="/files/Product_Fact_Sheet_Year_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet (Year 2025).pdf</a>
+<p><a href="/files/Term Letter/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2026)</a>
 </p>
 <h5>Online Claim Form</h5>
 <p>The online claims portal is at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
