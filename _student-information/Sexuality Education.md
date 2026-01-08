@@ -18,9 +18,9 @@ beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
 <p>2. The <strong>Goals </strong>of Sexuality Education are to:
 <br>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships;
+changes as they grow up and develop safe and healthy relationships.
 <br>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters;
+sexuality matters.
 <br>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
@@ -35,11 +35,11 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4>Overview of Jurongville Secondary School’s Sexuality Education Programme for 2025</h4>
+<h4>Overview of Jurongville Secondary School’s Sexuality Education Programme for 2026</h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:
 <br>a. Science
@@ -64,20 +64,24 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p>To find out more about the Sexuality Education lessons that will be taught
-in 2025 at Jurongville Secondary School, view this document <a href="/files/3__2025_JVS_SEd_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+in 2026 at Jurongville Secondary School, view this document <a href="/files/3__2026_JVS_SEd_Lesson.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><em>eTeens</em> Programme:</h4>
-<p>8. <em>eTeens </em>is a programme developed by Health Promotion Board,
-in collaboration with the Ministry of Education, to provide Secondary 3
-students with accurate information on STIs, HIV and protection from a health
-perspective. <em>eTeens </em>is conducted in two segments – a mass talk
-segment and a classroom-based programme. The desired outcome of the <em>eTeens </em>programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
+<p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
+Board, in collaboration with the Ministry of Education, to provide Secondary
+3 students with accurate information on STIs, HIV and protection from a
+health perspective. With the formation of the Communicable Diseases Agency
+(CDA) on 1 April 2025, the programme would now be managed by CDA’s Training
+and Education Division instead of HPB. <em>eTeens</em> is conducted in two
+segments – a mass talk segment and a classroom-based programme. The desired
+outcome of the <em>eTeens</em> programme is that students are empowered to
+make wise, informed and sensible decisions to protect themselves from sexually
+transmitted infectious diseases.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<h4>At Jurongville Secondary School, the eTeens programme will be implemented as follows in 2025:</h4>
+<h4>At Jurongville Secondary School, the eTeens programme will be implemented as follows in 2026:</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -130,7 +134,7 @@ of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2
-<br>Week 10</p>
+<br>Week 9</p>
 </td>
 </tr>
 </tbody>
