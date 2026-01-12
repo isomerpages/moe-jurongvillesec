@@ -21,6 +21,10 @@ variant: tiptap
 <p><a href="/files/Term Letter/Road_Safety_Advisory_for_JVSS.pdf" rel="noopener nofollow" target="_blank">Road Safety Advisory</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Term Letter/2026_Start_of_Year.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Year 2026</a>
+</p>
+</li>
 </ul>
 <h4>Term 2</h4>
 <ul data-tight="true" class="tight">
