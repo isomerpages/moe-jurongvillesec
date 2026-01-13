@@ -384,19 +384,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Thursday</strong>)</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Norita (IC)</p>
-<p>Ms Rachel Liew Shan Shan (2IC)</p>
+<p>Ms Rachel Liew
+<br>Mdm Tan Li Lim</p>
 </td>
 </tr>
 <tr>
@@ -408,20 +408,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Thursday</strong>)</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Orchestra Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Siew See (IC)</p>
-<p>Mrs Er Siao Fun (2IC)</p>
-<p>Ms Toh Puay Boon (2IC)</p>
+<p>Mdm Loh Siew See</p>
+<p>Mrs Er Siao Fun</p>
+<p>Ms Chua Yen Joe</p>
 </td>
 </tr>
 <tr>
@@ -433,20 +433,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Thursday</strong>)</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Room</p>
+<p>Band Room / Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tiew Choon Lien Kenny (IC)</p>
-<p>Ms Nur Khairin Aisyah (2IC)</p>
-<p>Mdm Chia Lai choo Violet</p>
+<p>Mr Tiew Choon Lien Kenny</p>
+<p>Ms Gladys Siah</p>
 </td>
 </tr>
 <tr>
@@ -458,8 +457,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Monday</strong>)</p>
+<p><strong>Monday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:00pm
@@ -571,20 +570,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Thursday</strong>)</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Lab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Arshad (IC)</p>
-<p>Mr Muhammad Nasri (2IC)</p>
-<p>Mr Nar Han Keong</p>
+<p>Ms Gina Hiu</p>
+<p>Mr Muhammad Nasri</p>
 </td>
 </tr>
 </tbody>
