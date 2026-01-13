@@ -461,18 +461,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Wednesday</strong>)</p>
+<p><strong>Wednesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Usha (IC)</p>
-<p>Ms Evangeline Nga Jia Ying</p>
-<p>(2IC)</p>
 <p>Mdm Thangamuthu Meenakshi Sundari</p>
+<p>Ms Evangeline Nga Jia Ying</p>
 </td>
 </tr>
 <tr>
@@ -484,22 +482,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Thursday</strong>)</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vista 1 &amp; 2 Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kathleen Tan (IC)</p>
-<p>Ms Gladys Siah (2IC)</p>
+<p>Ms Kathleen Tan</p>
 <p>Mdm Shivali Popat Jadhav</p>
 <p>Ms Nur Syahfiqah</p>
-<p>Mr Abdulatiff</p>
 </td>
 </tr>
 <tr>
@@ -511,19 +507,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Thursday</strong>)</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Clarissa Ng (IC)</p>
-<p>Mdm Sangeetha Ravi</p>
+<p>Ms Clarissa Ng</p>
 <p>Ms Justine Elizabeth Tham Luo Wan</p>
 </td>
 </tr>
