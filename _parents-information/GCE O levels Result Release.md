@@ -176,7 +176,6 @@ Visitors are encouraged to use nearby neighbourhood carparks.</p>
 helpful resources.</p>
 <p>• <strong>Education and Career Guidance (ECG)</strong>: Guidance materials
 and further details are included in the attached <a href="/files/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Infosheet for Parents</a>.</p>
-<p></p>
 <h4></h4>
 <p>Sincerely,</p>
 <p>Philibert Leow</p>
