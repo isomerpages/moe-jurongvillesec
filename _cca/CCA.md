@@ -50,15 +50,14 @@ variant: tiptap
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8:30am - 12:30pm</p>
-<p>(<strong>Saturday</strong>)</p>
+<p><strong>Saturday (</strong>8:30am - 12:30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parade Square / Classroom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Yong Kai (IC)</p>
-<p>Mr Rajendran (2IC)</p>
+<p>Mr Koh Yong Kai</p>
+<p>Mr Rajendran</p>
 </td>
 </tr>
 <tr>
@@ -70,8 +69,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:30pm</p>
-<p>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
@@ -81,8 +80,7 @@ variant: tiptap
 <p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Li Lim (IC)</p>
-<p>Ms Tan Jia Hui (2IC)</p>
+<p>Ms Tan Jia Hui</p>
 <p>Ms Wong Xin En</p>
 </td>
 </tr>
@@ -95,8 +93,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
@@ -106,8 +104,8 @@ variant: tiptap
 <p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Chun Kiat (IC)</p>
-<p>Mr Wee Ming Han (2IC)</p>
+<p>Mr Wee Ming Han
+<br>Mr Lim Keng Ping</p>
 </td>
 </tr>
 <tr>
@@ -119,8 +117,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
@@ -130,8 +128,8 @@ variant: tiptap
 <p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lam Seng Tat (IC)</p>
-<p>Ms Grace Lee Ying Hui (2IC)</p>
+<p>Ms Lee Chinn Yi
+<br>Mr Lam Seng Tat</p>
 <p>Ms Tan Kuay Yong</p>
 </td>
 </tr>
@@ -144,8 +142,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 6:00pm</p>
-<p>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
@@ -155,8 +153,8 @@ variant: tiptap
 <p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Tay (IC)</p>
-<p>Ms Lee Chinn Yi (2IC)</p>
+<p>Mr Kenneth Tay</p>
+<p>Ms Grace Lee Ying Hui</p>
 </td>
 </tr>
 </tbody>
