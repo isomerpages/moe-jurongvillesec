@@ -18,7 +18,8 @@ stay positive as they consider their next steps.</p>
 <p>We warmly invite you and your child/ward to attend the ECG Parent Engagement
 Session before the release of the results. This session will provide valuable
 guidance on the various education and career pathways available, enabling
-you to make well-informed decisions together.</p>
+you to make well-informed decisions together. The <strong>engagement session will begin at 1.30 p.m.</strong>,
+so please be seated by 1.25 p.m.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -79,6 +80,37 @@ you to make well-informed decisions together.</p>
 </tbody>
 </table>
 <p></p>
+<h4><u>Collection of GCE O-Level Results</u></h4>
+<p>All students are required to collect their results in person at their
+respective secondary schools. <strong>Please report to the hall at 1.45 p.m.</strong>
+</p>
+<p>Students who are unable to collect their results may appoint a proxy to
+do so. The proxy must present the necessary documents for verification
+when collecting the physical copy of the results from the school.</p>
+<p>To ensure a positive representation of the school, the following attire
+and grooming standards must be adhered to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Attire</strong>: Full school uniform only, consisting of a black
+top and a school skirt or long pants, paired with proper school shoes.</p>
+</li>
+<li>
+<p><strong>Hair</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Male Students: Short, neat, and non-coloured hair with no facial hair.</p>
+</li>
+<li>
+<p>Female Students: Short and neat non-coloured hair, tied up if it is too
+long.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Thank you for your continued partnership in ensuring the best outcomes
+for your child. We look forward to supporting them as they embark on the
+next phase of their educational journey.</p>
+<p></p>
 <h4><u>Parking Arrangements</u></h4>
 <p>Please note that parking is not available within the school premises.
 Visitors are encouraged to use nearby neighbourhood carparks.</p>
@@ -115,7 +147,7 @@ Visitors are encouraged to use nearby neighbourhood carparks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 - 19 Jan 2025</p>
+<p>14 - 19 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Weekdays</p>
@@ -126,7 +158,7 @@ Visitors are encouraged to use nearby neighbourhood carparks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 Jan 2026</p>
+<p>17 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Saturday</p>
@@ -144,36 +176,7 @@ Visitors are encouraged to use nearby neighbourhood carparks.</p>
 helpful resources.</p>
 <p>• <strong>Education and Career Guidance (ECG)</strong>: Guidance materials
 and further details are included in the attached <a href="/files/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Infosheet for Parents</a>.</p>
-<p></p>
-<h4>Collection of GCE O-Level Results</h4>
-<p>All students are required to collect their results in person at their
-respective secondary schools.</p>
-<p>Students who are unable to collect their results may appoint a proxy to
-do so. The proxy must present the necessary documents for verification
-when collecting the physical copy of the results from the school.</p>
-<p>To ensure a positive representation of the school, the following attire
-and grooming standards must be adhered to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Attire</strong>: Full school uniform only, consisting of a black
-top and a school skirt or long pants, paired with proper school shoes.</p>
-</li>
-<li>
-<p><strong>Hair</strong>:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Male Students: Short, neat, and non-coloured hair with no facial hair.</p>
-</li>
-<li>
-<p>Female Students: Short and neat non-coloured hair, tied up if it is too
-long.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>Thank you for your continued partnership in ensuring the best outcomes
-for your child. We look forward to supporting them as they embark on the
-next phase of their educational journey.</p>
+<h4></h4>
 <p>Sincerely,</p>
 <p>Philibert Leow</p>
 <p>Principal</p>
