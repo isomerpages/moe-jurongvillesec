@@ -200,19 +200,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Monday</strong>)</p>
+<p><strong>Monday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Wednesday</strong>)</p>
+<p><strong>Wednesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chan Lay Yean (IC)</p>
-<p>Mr Koh Kuan Chien (2IC)</p>
+<p>Mr Raymond Tan</p>
 <p>Ms Geetha Veeramani</p>
 </td>
 </tr>
@@ -225,20 +224,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Wednesday</strong>)</p>
+<p><strong>Wednesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH (<strong>Tuesday</strong>) / Outdoor Court (<strong>Wednesday</strong>)</p>
+<p>ISH / Outdoor Basketball Court</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Eik Kiat (IC)</p>
-<p>Mr Alex Chew Khee Lim (2IC)</p>
+<p>Mr Wong Eik Kiat</p>
+<p>Mr Alex Chew Khee Lim</p>
 </td>
 </tr>
 <tr>
@@ -246,50 +245,25 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/Sports-and-Games/football/" rel="noopener noreferrer nofollow" target="_blank">Football 'C'</a>
+<p><a href="/cca/Sports-and-Games/football/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:45pm - 4:45pm
-<br>(<strong>Tuesday</strong>)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:45pm - 4:45pm
-<br>(<strong>Thursday</strong>)</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Field / Eureka Room 1</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shahul Hameed (IC)</p>
-<p>Mr Hafiz Azhar (2IC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/cca/Sports-and-Games/football/" rel="noopener noreferrer nofollow" target="_blank">Football 'B'</a>
+<p><strong>Tuesday</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4:00pm - 6:00pm
-<br>(<strong>Tuesday</strong>)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4:00pm - 6:00pm
-<br>(<strong>Thursday</strong>)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Field / Eureka Room 1</p>
+<p><strong>Thursday</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shahul Hameed (IC)</p>
-<p>Mr Raymond Tan (2IC)</p>
+<p>School Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hafiz Azhar
+<br>Mr Donald Wan
+<br>Mr Shahul Hameed</p>
 </td>
 </tr>
 <tr>
@@ -301,20 +275,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-<p>(<strong>Thursday</strong>)</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parade Square (<strong>Tuesday</strong>) /</p>
-<p>School Hall (<strong>Thursday</strong>)</p>
+<p>Parade Square /</p>
+<p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bakhtiar Borhan Said (IC)</p>
-<p>Mdm Siti Rohani (2IC)</p>
+<p>Ms Bakhtiar Borhan Said</p>
+<p>Mdm Siti Rohani</p>
 </td>
 </tr>
 <tr>
@@ -326,19 +300,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Monday</strong>)</p>
+<p><strong>Monday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Wednesday</strong>)</p>
+<p><strong>Wednesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lloyd Lin (IC)</p>
-<p>Mr Mohd Zailani (2IC)</p>
+<p>Mr Mohd Zailani</p>
 <p>Ms Siti Ainah</p>
 </td>
 </tr>
@@ -351,21 +324,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Tuesday</strong>)</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm
-<br>(<strong>Thursday</strong>)</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Hall</p>
-<p>(<strong>Tuesday</strong>) / ISH (<strong>Thursday</strong>)</p>
+<p>School Hall / ISH</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin You (IC)</p>
-<p>Mr Vasan (2IC)</p>
+<p>Mr Edwin You</p>
+<p>Mr Vasan</p>
 <p>Mr Chua Khuang Lim</p>
 </td>
 </tr>
