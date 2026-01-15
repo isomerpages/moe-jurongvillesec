@@ -5,7 +5,7 @@ description: ""
 third_nav_title: JVS PLD Initiative
 variant: tiptap
 ---
-<h2>JVS PLD Initiative 2025</h2>
+<h2>JVS PLD Initiative 2026</h2>
 <h4>A Part of the National Digital Literacy Programme (NDLP)</h4>
 <h5>Our Vision for Learning</h5>
 <p>Jurongville aims to be a vibrant and nurturing community of passionate
@@ -33,7 +33,7 @@ to manage their usage of devices, so that they remain in control of the
 ‘machines’, rather than the other way round. Their personal well-being
 will be enhanced through greater emphasis on Cyberwellness next year.</p>
 <h5>Parent Engagement</h5>
-<p>We will be sending out details to Sec 1 Parents in Jan 2025 through the
+<p>We will be sending out details to Sec 1 Parents in Jan 2026 through the
 Parent Gateway.</p>
 <p>In the meantime, if there are any further updates, we will alert parents
 through Parents’ Gateway and publish them on the school’s website.</p>
@@ -43,19 +43,18 @@ through Parents’ Gateway and publish them on the school’s website.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/JVS_IP2_Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">JVS IP2 Parent Engagement Deck 2025</a>
+<p><a href="/files/JVS__Parent_Engagement_Deck_2026_Website.pdf" rel="noopener nofollow" target="_blank">JVS IP2 Parent Engagement Deck 2026</a>
 </p>
 </li>
 </ul>
-<p>2 . Specifications for Chrome Book for 2025 will be shared in the PG letter
-and the parent engagement slide above.</p>
+<p>2 . Specifications for iPad for 2026 will be shared in the PG letter and
+the parent engagement slide above.</p>
 <p>3 . Click the link below to proceed to register for the PLDs before Fri
 17<sup>th</sup> Jan so that your child/students will receive the PLD on
 time.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intent to purchase &amp; Collection - <a href="https://go.gov.sg/2025jvspld" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025jvspld</a>
-</p>
+<p>Intent to purchase &amp; Collection - please refer to PG message</p>
 </li>
 <li>
 <p>Edusave withdrawals - <a href="https://go.gov.sg/edusaveformsgso" rel="noopener nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
@@ -100,10 +99,6 @@ Option A or B</p>
 <li>
 <p>Changes to Parents/Guardian control after school hours (Email <a href="/student-information/class-mentors/" rel="noopener noreferrer nofollow" target="_blank">Class Mentor</a> with
 parent's name &amp; contact)</p>
-</li>
-<li>
-<p><a href="/files/Chromebook___Parent_Option_A_Group.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents/Guardian control guideline (Option A)</a>
-</p>
 </li>
 </ul>
 <h5>Support</h5>
