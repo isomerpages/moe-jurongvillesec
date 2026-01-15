@@ -5,7 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h2>CCA</h2>
-<p><strong>2025 CCA Weekly Schedule Semester 1</strong>
+<p><strong>2026 CCA Weekly Schedule Semester 1</strong>
+</p>
+<p>(Please note that unless otherwise stated, regular CCA sessions will start
+from 3:30pm and end at 5:30pm. Students may be scheduled to report earlier
+on some days to assists with CCA admin and set up. Dismissal after scheduled
+practice time may be slightly later to allow consolidation and debriefing
+by teacher(s) in charge)</p>
+<p>
 <br><strong>UNIFORMED GROUPS</strong>
 </p>
 <table style="minWidth: 150px">
