@@ -25,6 +25,14 @@ variant: tiptap
 <p><a href="/files/Term Letter/2026_Start_of_Year.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Year 2026</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Term Letter/Sec_1_OML_Letter.pdf" rel="noopener nofollow" target="_blank">Secondary 1 OML Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Term Letter/Sec_2_5_OML_Letter.pdf" rel="noopener nofollow" target="_blank">Secondary 2-5 OML Letter</a>
+</p>
+</li>
 </ul>
 <h4>Term 2</h4>
 <ul data-tight="true" class="tight">
