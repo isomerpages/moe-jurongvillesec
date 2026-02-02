@@ -54,8 +54,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_ruting@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm </a><strong><a href="mailto:wong_ruting@schools.gov.sg" rel="noopener nofollow" target="_blank">Wong</a></strong>
-<a href="mailto:wong_ruting@schools.gov.sg" rel="noopener nofollow" target="_blank">Ruting</a>
+<p> <a href="mailto:wong_ruting@schools.gov.sg" rel="noopener noreferrer nofollow">Mdm </a><strong> <a href="mailto:wong_ruting@schools.gov.sg" rel="noopener noreferrer nofollow">Wong</a></strong>
+ <a href="mailto:wong_ruting@schools.gov.sg" rel="noopener noreferrer nofollow">Ruting</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,8 +96,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_miang_heong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr </a><strong><a href="mailto:chia_miang_heong@schools.gov.sg" rel="noopener nofollow" target="_blank">Desmond </a></strong>
-<a href="mailto:chia_miang_heong@schools.gov.sg" rel="noopener nofollow" target="_blank">Chia Miang Heong</a>
+<p> <a href="mailto:chia_miang_heong@schools.gov.sg" rel="noopener noreferrer nofollow">Mr </a><strong> <a href="mailto:chia_miang_heong@schools.gov.sg" rel="noopener noreferrer nofollow">Desmond </a></strong>
+ <a href="mailto:chia_miang_heong@schools.gov.sg" rel="noopener noreferrer nofollow">Chia Miang Heong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,8 +180,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:justine_elizabeth_tham_luo@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms </a><strong><a href="mailto:justine_elizabeth_tham_luo@schools.gov.sg" rel="noopener nofollow" target="_blank">Justin </a></strong>
-<a href="mailto:justine_elizabeth_tham_luo@schools.gov.sg" rel="noopener nofollow" target="_blank">Elizabeth Tham Luo Wen</a>
+<p> <a href="mailto:justine_elizabeth_tham_luo@schools.gov.sg" rel="noopener noreferrer nofollow">Ms </a><strong> <a href="mailto:justine_elizabeth_tham_luo@schools.gov.sg" rel="noopener noreferrer nofollow">Justin </a></strong>
+ <a href="mailto:justine_elizabeth_tham_luo@schools.gov.sg" rel="noopener noreferrer nofollow">Elizabeth Tham Luo Wen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,8 +401,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener nofollow" target="_blank">Ms </a><strong><a rel="noopener nofollow" target="_blank">Gina</a></strong>
-<a rel="noopener nofollow" target="_blank">Hiu Feng Ping</a>
+<p> <a rel="noopener noreferrer nofollow">Ms </a><strong> <a rel="noopener noreferrer nofollow">Gina</a></strong>
+ <a rel="noopener noreferrer nofollow">Hiu Feng Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,8 +422,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto: siti_zarinah_muhammad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Siti </a><strong><a href="Mailto: siti_zarinah_muhammad@schools.gov.sg" rel="noopener nofollow" target="_blank">Zarinah </a></strong>
-<a href="Mailto: siti_zarinah_muhammad@schools.gov.sg" rel="noopener nofollow" target="_blank">Binte Muhammad</a>
+<p> <a href="Mailto: siti_zarinah_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow">Mdm Siti </a><strong> <a href="Mailto: siti_zarinah_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow">Zarinah </a></strong>
+ <a href="Mailto: siti_zarinah_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow">Binte Muhammad</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -433,8 +433,8 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto: vasanthakumar_vijayarethinam@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr </a><strong><a href="Mailto: vasanthakumar_vijayarethinam@schools.gov.sg" rel="noopener nofollow" target="_blank">Vasan</a></strong>
-<a href="Mailto: vasanthakumar_vijayarethinam@schools.gov.sg" rel="noopener nofollow" target="_blank">thakumar S/O Vijayarethinam</a>
+<p> <a href="Mailto: vasanthakumar_vijayarethinam@schools.gov.sg" rel="noopener noreferrer nofollow">Mr </a><strong> <a href="Mailto: vasanthakumar_vijayarethinam@schools.gov.sg" rel="noopener noreferrer nofollow">Vasan</a></strong>
+ <a href="Mailto: vasanthakumar_vijayarethinam@schools.gov.sg" rel="noopener noreferrer nofollow">thakumar S/O Vijayarethinam</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -454,8 +454,8 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: soh_me_me@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms </a><strong><a href="mailto: soh_me_me@schools.gov.sg" rel="noopener nofollow" target="_blank">Soh</a></strong>
-<a href="mailto: soh_me_me@schools.gov.sg" rel="noopener nofollow" target="_blank">Me Me</a>
+<p> <a href="mailto: soh_me_me@schools.gov.sg" rel="noopener noreferrer nofollow">Ms </a><strong> <a href="mailto: soh_me_me@schools.gov.sg" rel="noopener noreferrer nofollow">Soh</a></strong>
+ <a href="mailto: soh_me_me@schools.gov.sg" rel="noopener noreferrer nofollow">Me Me</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
