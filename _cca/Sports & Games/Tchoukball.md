@@ -24,7 +24,7 @@ walk the secondary school journey with you!</p>
 </div>
 <h4>CCA Photo</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbX-pmjOyep8IwLJHTqO7Sx9Pyju5r1HpuddJDfteaPlGAWNej3KWjQ_gb6kU2lCK-rk5J-WsmhjhJ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbX-pmjOyep8IwLJHTqO7Sx9Pyju5r1HpuddJDfteaPlGAWNej3KWjQ_gb6kU2lCK-rk5J-WsmhjhJ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4>Student Leaders</h4>
 <table style="minWidth: 50px">
@@ -137,12 +137,12 @@ walk the secondary school journey with you!</p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday 3:00pm - 5:00pm (School Hall)
+<p>Tuesday 3:30pm - 5:30pm (School Hall)
 <br>
 </p>
 </li>
 <li>
-<p>Thursday 3:00pm - 5:00pm (Indoor Sport Hall)</p>
+<p>Thursday 3:30pm - 5:30pm (Indoor Sport Hall)</p>
 </li>
 </ul>
 <p></p>
