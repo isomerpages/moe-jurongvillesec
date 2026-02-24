@@ -18,7 +18,20 @@ variant: tiptap
 <p>behind School General Office on selected Wednesdays, from 9 am to 2.30pm:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Pending actual sales dates for 2026</p>
+<p>January - 14 &amp; 29</p>
+</li>
+<li>
+<p>February - 11 &amp; 25</p>
+</li>
+<li>
+<p>March - 11 &amp; 25</p>
+</li>
+<li>
+<p>April - 8 &amp; 22</p>
+</li>
+<li>
+<p>May - 6 &amp; 21</p>
+<p></p>
 </li>
 </ul>
 </li>
