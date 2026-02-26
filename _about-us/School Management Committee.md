@@ -102,6 +102,15 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/Humanities (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:john_teo_wei_ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr John Teo Wei Ren</a>
+</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,7 +165,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Year Head (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sharifah_farrahdillah_s_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Sharifah Farrahdillah</a>
@@ -165,7 +174,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_khairin_aisyah_ngataman@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Nur Khairin Aisyah Binte Ngataman</a>
@@ -219,15 +228,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:john_teo_wei_ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr John Teo Wei Ren</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -246,7 +246,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Mathematics</p>
+<p>SH/Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_puay_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Toh Puay Boon</a>
