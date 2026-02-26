@@ -183,7 +183,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCA</p>
+<p>SH/CCA (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Lee Chinn Yi</a>
