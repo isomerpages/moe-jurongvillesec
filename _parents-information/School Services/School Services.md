@@ -12,7 +12,7 @@ variant: tiptap
 <br>Tel Number: 6479 6811
 <br>Online Store: <a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">khuniform.com</a>
 <br>Sales Enquiry: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
-<br>Sales Operations in School for 2025 Semester 2:</p>
+<br>Sales Operations in School for 2026 Semester 1:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>behind School General Office on selected Wednesdays, from 9 am to 2.30pm:</p>
