@@ -183,7 +183,7 @@ and further details are included in the attached <a href="/files/2025_O_Level_Pa
 <h4><br>Resources</h4>
 <p><a href="/files/2025_O_Level_Briefing_Slides_for_Students_on_Supporting_Students__Well_being_Website.pdf" rel="noopener nofollow" target="_blank">2025 O-Level Briefing Slides for Students</a>
 </p>
-<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/a-guide-to-post-secondary-admissions-exercises.pdf" rel="noopener nofollow" target="_blank">A Guide to Post-Secondary Admissions Exercises</a>
+<p><a href="https://www.moe.gov.sg/api/media/343f646d-986a-4496-b981-063d6d9346cc/A-Guide-to-Post-Secondary-Admissions-Exercises.pdf" rel="noopener nofollow" target="_blank">A Guide to Post-Secondary Admissions Exercises</a>
 </p>
 <p><a href="/files/2025_SEL___ECG_Resources_for_Students.pdf" rel="noopener nofollow" target="_blank">O-Level Student Resource</a>
 </p>
