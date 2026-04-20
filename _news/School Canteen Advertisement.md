@@ -25,15 +25,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Cooked Food</p>
+<p>Halal Cooked Food - Malay Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 August 2025</p>
+<p>4/5/2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chicken Rice/ Noodles/ Porridge</p>
-<p>(choice of steam/ roast/ curry/ soy/ sesame/ claypot chicken, minimally
-3 types)</p>
+<p>Rice and a variety of dishes for selection</p>
 </td>
 </tr>
 </tbody>
@@ -93,20 +91,16 @@ the School’s General Office by the closing date.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder.</p>
-<p>• Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP)
-or LTVP-Plus holder with Letter of Consent to work.</p>
+<p>• Singapore Citizen (SC) or Singapore Permanent Resident (SPR).</p>
+<p>• Able to provide cooked food that meets the health / nutritional standards
+set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
+Programme (HMSP)” guidelines (see link).</p>
 <p>• Able to provide good service and quality food/drinks at reasonable prices.
 Prices will be determined in consultation with the school.</p>
-<p>• Able to provide cooked food/drinks that meets the health / nutritional
-standards set by the Health Promotion Board (HPB) under the “Healthy Meals
-in Schools Programme (HMSP)” guidelines (see link).</p>
 <p>• Able to maintain high standard of food safety and personal hygiene.
 This includes complying with relevant authorities’ requirements and guidelines.</p>
 <p>• Healthy and fit to operate the stall.</p>
 <p>• Must be in personal attendance at the stall.</p>
-<p>• Preferably possess catering experience or experience operating in a
-school environment.</p>
 </td>
 </tr>
 </tbody>
@@ -114,12 +108,11 @@ school environment.</p>
 <p></p>
 <p>Note to successful applicants:</p>
 <p>• Successful applicant and stall assistant(s) operating the stall must
-attend and pass the Food Safety Course Level 1 conducted by SkillsFuture
-Singapore approved training providers.</p>
+attain the WSQ Food Safety Course Level 1 before they are allowed to handle
+food and drinks.</p>
 <p>• Successful applicant is required to apply for a food stall license from
 Singapore Food Agency (SFA) to operate the stall.</p>
 <p></p>
-<p>Shortlisted applicants will be notified for an interview and will be required
-to provide food sampling for the School Canteen Selection Committee at
-the applicant’s own expense.</p>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
+</p>
 <p></p>
