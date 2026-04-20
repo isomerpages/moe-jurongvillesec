@@ -45,7 +45,7 @@ Promising primary 6 students in the current year of study with the aptitude and 
 		<td><a href="/cca/Sports-and-Games/netball/">Netball</a></td>
 	</tr>
 		<tr>
-		<td><a href="/cca/Sports-and-Games/tchouball/">Tchoukball (Boys/Girls)</a></td>
+		<td><a href="/cca/Sports-and-Games/tchoukball/">Tchoukball (Boys/Girls)</a></td>
 	</tr>
 	<tr>
 		<td>Science, Technology, Engineering<br>and Mathematics (STEM)</td>
