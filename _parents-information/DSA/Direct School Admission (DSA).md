@@ -39,7 +39,7 @@ Promising primary 6 students in the current year of study with the aptitude and 
 		<td><a href="/cca/Sports-and-Games/badminton/">Badminton (Boys/Girls)</a></td>
 	</tr>
 	<tr>
-		<td><a href="/cca/Sports-and-Games/basketball/">Basketball (Boys)</a></td>
+		<td><a href="/cca/Sports-and-Games/bball/">Basketball (Boys)</a></td>
 	</tr>
 	<tr>
 		<td><a href="/cca/Sports-and-Games/netball/">Netball</a></td>
