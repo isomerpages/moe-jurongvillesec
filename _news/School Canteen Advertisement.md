@@ -28,7 +28,7 @@ description: ""
 <p>Halal Cooked Food - Malay Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4/5/2026</p>
+<p>20/5/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice and a variety of dishes for selection</p>
