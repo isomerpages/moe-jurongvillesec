@@ -5,64 +5,64 @@ description: ""
 variant: tiptap
 ---
 <h2>Sec 3 Subject Combination</h2>
-<p><a href="/files/2025_SEC_2_SUBJ_COMBI_30May.pdf" rel="noopener nofollow" target="_blank">2025 SEC 2 Subject Combination - 30 May 2025</a>
+<p><a href="/files/2026__Sec_2_Subj_Combi_for_2027.pdf" rel="noopener nofollow" target="_blank">2027 SEC 2 Subject Combination - 09 June 2026</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1ocwLpnIIwmHFYxk1nrPhGoOu661wUpUV/view" rel="noopener nofollow" target="_blank">2027 SEC 2 Subject Combination Briefing Slide - 09 June 2026</a>
 </p>
 <h4>2026 G1:</h4>
 <p>1 . Art</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-CbUsP8-sBk"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-CbUsP8-sBk"></iframe>
 </div>
 <p>
 <br>2 . Design &amp; Technology</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JCt_JPZe_7Q"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JCt_JPZe_7Q"></iframe>
 </div>
 <h4>2026 G2:</h4>
 <p>1 . Art</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kYxS8cBIGf8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kYxS8cBIGf8"></iframe>
 </div>
 <p>
 <br>2 . Design &amp; Technology</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XAQu1HNLjpA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XAQu1HNLjpA"></iframe>
 </div>
 <p>
 <br>3 . Humanities</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I-dFL7nnMJI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I-dFL7nnMJI"></iframe>
 </div>
 <p>
 <br>4 . Principles of Accounts</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSYwdPE8hsw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSYwdPE8hsw"></iframe>
 </div>
 <h4>2026 G3:</h4>
-<p><a href="/files/2025__2G3__Sec_2_Parents_Briefing_ALP_G3.pdf" rel="noopener nofollow" target="_blank">Sec2 Parents Briefing ALP+G3</a>
-</p>
 <p>1 . Additional Mathematics</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K8-Ju7alJ18"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K8-Ju7alJ18"></iframe>
 </div>
 <p>
 <br>2 . Design &amp; Technology</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9oP-uhqDuoo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9oP-uhqDuoo"></iframe>
 </div>
 <p>
 <br>3 . Humanities</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d2JMf9Bw8a0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d2JMf9Bw8a0"></iframe>
 </div>
 <p>
 <br>4 . Principles of Accounts</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSYwdPE8hsw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSYwdPE8hsw"></iframe>
 </div>
 <p>
 <br>5 . Science</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6EJxEmc1fJc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6EJxEmc1fJc"></iframe>
 </div>
 <p></p>

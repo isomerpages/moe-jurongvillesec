@@ -13,28 +13,11 @@ variant: tiptap
 <br>Online Store: <a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">khuniform.com</a>
 <br>Sales Enquiry: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 <br>Sales Operations in School for 2026 Semester 1:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>behind School General Office on selected Wednesdays, from 9 am to 2.30pm:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>January - 14 &amp; 29</p>
-</li>
-<li>
-<p>February - 11 &amp; 25</p>
-</li>
-<li>
-<p>March - 11 &amp; 25</p>
-</li>
-<li>
-<p>April - 8 &amp; 22</p>
-</li>
-<li>
-<p>May - 6 &amp; 21</p>
 <p></p>
-</li>
-</ul>
-</li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JVS_2026_SchoolUniformSales.png">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p>please see yearend sales dates below</p>
 </li>
