@@ -542,7 +542,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:bakhtiar_borhan_said@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Bakhtiar Borhan Said</a>
+<p><a href="mailto:bakhtiar_borhan_said@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Bakhtiar Borhan Said<br>(ST / Physical Education)</a>
 </p>
 </td>
 </tr>
