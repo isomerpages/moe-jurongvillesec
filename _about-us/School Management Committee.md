@@ -183,15 +183,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Lee Chinn Yi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,6 +245,15 @@ variant: markdown
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>SH/PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chinn_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Lee Chinn Yi</a>
+</p>
+</td>
+</tr>
+	<tr>
 <td rowspan="1" colspan="1">
 <p>SH/Science</p>
 </td>
