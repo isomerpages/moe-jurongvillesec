@@ -32,7 +32,7 @@ variant: markdown
 </td>
 <td><a href="/files/TT/2026%20SEM2/JVS_2026_S2TT_1Nightingale.pdf" target="_blank">1 Nightingale</a>
 </td>
-<td><a href="/files/TT/2026%20SEM2/JVS_2026_S2TT_1Owens.pdf" target="_blank">1 Owens</a>
+<td><a href="/files/TT/2026%20SEM2/JVS_2026_S2TT_1Owen.pdf" target="_blank">1 Owen</a>
 </td>
 </tr>
 <tr>
