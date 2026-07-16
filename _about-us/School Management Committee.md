@@ -183,6 +183,15 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Year Head (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_JIA_HUI_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Tan Jia Hui</a>
+</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
 <p>SH/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
